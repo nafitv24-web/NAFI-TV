@@ -1,22 +1,5 @@
-#PLAYLIST: NFIPTV24 
-#EXTENC: UTF-8
-# Playlist Name: NAFITV24
-# Last Update: 05:10 PM 08-08-2026
-# Facebook Page: https://www.facebook.com/share/19AfvU5QF1/
-# Telegram: https://t.me/nfappst
+#EXTINF:-1 group-title="HINDI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBJYTNss0Z-JbeYXHGArllpR92crPzEWYbJq57hyhg3A&s=10",Ek Din (Hindi) - Server 1
+https://hamyra-api.aininjaibrahim.workers.dev/mlbd/stream?s=aHR0cHM6Ly9jZG4uZHJhbWFsaW5rYmQudHYvcC9UcjBLWlMwNWQ4REtRVEtFLjRoMjZ6T09MbnRmcEJxSWEzbnZxaHcyTDhST2EtZWNBeXl4WWo4VDVqYXZmRENUVWhiUXV0MU95cE1QdDhqa3g3Nlh6QndLcHoyN2UtMV82SEowWDdSVHlZZV9RUlgzWVZKMmdSX1RwYjRZbnRScUtMYW9wMEhHTHh1aVQ1N1lEcDl0MDRESUNWRHFvZWpvLjVnaUtuY2phZVNwMk9SR240dUlSaHc&fn=Hamyra+-+Ek+Din+%5BORG+Hindi%5D+-+720.mkv
 
-#EXTINF:-1 group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢" tvg-logo="https://i.postimg.cc/y8cfPVhg/20240822-225146.png",BTV
-https://tvsen6.aynaott.com/opREbXLqJ2HFYPCXTJBa/index.m3u8
-
-
-#EXTINF:-1 group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢" tvg-logo="https://i.postimg.cc/fLTBDmGm/20240822-225315.png",ATN Bangla
-https://tvsen5.aynaott.com/P3y2URgG7LDe/index.m3u8
-
-#EXTINF:-1 group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢" tvg-logo="https://i.postimg.cc/W4SwWtd3/20240822-225840.png",ATN News
-https://tvsen6.aynaott.com/da6WMXAk/index.m3u8
-
-#EXTINF:-1 group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢" tvg-logo="https://i.postimg.cc/5NFp4xR7/20240822-225600.png",Boishakhi
-https://tvsen6.aynaott.com/1d3uG9VCgrR9DRtWZM57/index.m3u8
-
-#EXTINF:-1 group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢" tvg-logo="https://i.postimg.cc/rsDjtcFp/20240822_225424.png",Ekushe TV
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ekusheytv-8-org.stream/index.m3u8
+#EXTINF:-1 group-title="HINDI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBJYTNss0Z-JbeYXHGArllpR92crPzEWYbJq57hyhg3A&s=10",Ek Din (Hindi) - Server 2
+https://flixhub.net/stream/movie/keu-bole-biplobi-keu-bole-dakat
