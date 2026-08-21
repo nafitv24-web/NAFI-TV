@@ -52,14 +52,14 @@
           "description": "ঐতিহাসিক অ্যাকশন ও ড্রামা সিরিজ/মুভি।",
           "sources": [
             {
-              "server_name": "Main Server",
+              "server_name": "Episodes 1",
               "quality": "1080p",
-              "url": "https://example.com/movies/sultan-server1.mp4"
+              "url": "https://cdn.dramalinkbd.tv/p/527HoOAXWzDd_b2_.MyQde5Tlvw6mwO7LGjxvhO52yT5f5Q5VqJmzWtM5xfZxUFhh0d7t4UdgQK0aOkciK7Pehf2EIhRWycNNaHjxBfZB6IlX2LXxsSNI28IfOAqA-ZDnqzf6ry_ulNz9a3XGdqdS5sT9zcBgJcEatxuRPACkZJ2k5i3rrPnfOLJYkZTWwnj9PRXpHRVivqZiIM8dnR_GipAadY2cHw.PbOlDCo36fqCRIydcCsAng"
             },
             {
-              "server_name": "Fast Server",
+              "server_name": "Episodes 2",
               "quality": "720p",
-              "url": "https://example.com/movies/sultan-server2.mp4"
+              "url": "https://cdn.dramalinkbd.tv/p/hXdD_mMpcAnVstT3._AgRlE-kVEnGXXApDFQPI3VUsIGV_CwYqut9HBy-cgiGofFVJPhMR5LtYBtUQrfeoSnSm0FYVHiXLVfnEwabek9q0CBnKx-nCZEp-HVMV0Q796EmUO0bXSlNmS4BPxZoA7A6GgRN1nL1c-8.K39W1a3IIGOsXrvVcqwi8w"
             }
           ]
         }
