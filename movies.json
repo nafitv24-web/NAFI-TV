@@ -25,6 +25,26 @@
             }
           ]
         },
+
+        {
+          "title": "Man vs. Wildt",
+          "language": "Bangla",
+          "year": "2024",
+          "rating": "8.0",
+          "poster": "https://m.media-amazon.com/images/M/MV5BZDBiYTk5ZGQtYTNmYy00OWMwLWEwZWUtZDlhMGVmMGMzYjc1XkEyXkFqcGc@._V1_.jpg",
+          "description": "ঐতিহাসিক অ্যাকশন ও ড্রামা সিরিজ/মুভি।",
+          "sources": [
+            {
+              "server_name": "Episodes 1",
+              "url": "https://cdn.dramalinkbd.tv/p/AoGSYZh5HuuPGN6u.klkonskbOoy0stZ9Lea8TIDS4SuNxoHhcB8oAZTfcEFZix6tMG3T1aAQQFGWGFHD9pxFZo1qwvYTRZftkhPhBD3gueCVUn17Gnr3_tvtTKj_-OnRuBuXJFxaJDR4_aGRmzI2hbUckxeMJZE.GCyhaqpI7qZGgFB9HokQhw"
+            },
+            
+            {
+              "server_name": "Episodes ",
+              "url": "https://cdn.dramalinkbd.tv/p/I2xun8LDBcI0egzG.Q-2Z_c3hosGwB0GUZ4ygAo_rULHz04_MDn6NTq6TheXsANj6pOmUHulQ-cDHHLeELJK_Tq6SqGh8jvV1G5NZopXBKdp8LSeZNY9-EEFDhhXJotceoKZgwbzk0LPZ9J_xmP1AxHD_z9q3eOFkgpB7VSsopsfCoAXpcD_1T9W55HS2qybC44NHKRyXlynYKPu9VDuJFVpHGvmQ1w.nXZKqqGJ_j1Jp3PNQYzUzA"
+            }
+          ]
+        },
         {
           "title": "Keu Bole Biplobi, Keu Bole Dakat",
           "language": "Bangla",
@@ -37,10 +57,7 @@
               "server_name": "Episodes 1",
               "url": "https://cdn.dramalinkbd.tv/p/W3gBHB6UWl3zSDro.82PAPCzVqmJq70RZrumI_3uvNKAHQ3Ib5RdGBat3GQvPy6-imlkxppA6LjSrairdtDxLmtF8TvnqCgl6H2guUvgL88n0UaTvJMHoBjtJE0eqK8KdWH8HTg9y9VaJ6-LQRwS7C8EWZZbnKdMxwSlDez9EftZdr5KweqS6tsY7m6dUh6oysU70LAabR3qO3Du3-yYRShhbgUWMnBh83Bjy.sB8lz25d7y0J35KoccycDg"
             },
-            {
-              "server_name": "Episodes 2",
-              "url": "https://cdn.dramalinkbd.tv/p/hXdD_mMpcAnVstT3._AgRlE-kVEnGXXApDFQPI3VUsIGV_CwYqut9HBy-cgiGofFVJPhMR5LtYBtUQrfeoSnSm0FYVHiXLVfnEwabek9q0CBnKx-nCZEp-HVMV0Q796EmUO0bXSlNmS4BPxZoA7A6GgRN1nL1c-8.K39W1a3IIGOsXrvVcqwi8w"
-            },
+            
             {
               "server_name": "Episodes 3",
               "url": "https://cdn.dramalinkbd.tv/p/I2xun8LDBcI0egzG.Q-2Z_c3hosGwB0GUZ4ygAo_rULHz04_MDn6NTq6TheXsANj6pOmUHulQ-cDHHLeELJK_Tq6SqGh8jvV1G5NZopXBKdp8LSeZNY9-EEFDhhXJotceoKZgwbzk0LPZ9J_xmP1AxHD_z9q3eOFkgpB7VSsopsfCoAXpcD_1T9W55HS2qybC44NHKRyXlynYKPu9VDuJFVpHGvmQ1w.nXZKqqGJ_j1Jp3PNQYzUzA"
