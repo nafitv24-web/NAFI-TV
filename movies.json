@@ -27,6 +27,21 @@
               "url": "https://cdn.dramalinkbd.tv/p/I2xun8LDBcI0egzG.Q-2Z_c3hosGwB0GUZ4ygAo_rULHz04_MDn6NTq6TheXsANj6pOmUHulQ-cDHHLeELJK_Tq6SqGh8jvV1G5NZopXBKdp8LSeZNY9-EEFDhhXJotceoKZgwbzk0LPZ9J_xmP1AxHD_z9q3eOFkgpB7VSsopsfCoAXpcD_1T9W55HS2qybC44NHKRyXlynYKPu9VDuJFVpHGvmQ1w.nXZKqqGJ_j1Jp3PNQYzUzA"
             }
           ]
+        },
+        {
+          "id": "2",
+          "title": "Hawa",
+          "year": "2022",
+          "rating": "8.3",
+          "poster": "https://example.com/hawa-poster.jpg",
+          "description": "একটি রহস্যঘেরা বাংলা মিষ্টি জলের মুভি।",
+          "sources": [
+            {
+              "server_name": "Server 1",
+              "quality": "1080p",
+              "url": "https://example.com/hawa-1080p.mp4"
+            }
+          ]
         }
       ]
     },
@@ -34,7 +49,7 @@
       "category_name": "HINDI",
       "movies": [
         {
-          "id": "2",
+          "id": "3",
           "title": "Lenin 2026",
           "year": "2026",
           "rating": "6.0.4",
@@ -59,7 +74,7 @@
       "category_name": "BOLLYWOOD",
       "movies": [
         {
-          "id": "3",
+          "id": "4",
           "title": "Ek Din",
           "year": "2026",
           "rating": "8.0",
@@ -84,7 +99,7 @@
       "category_name": "HOLLYWOOD",
       "movies": [
         {
-          "id": "4",
+          "id": "5",
           "title": "Example Hollywood Movie",
           "year": "2026",
           "rating": "8.2",
@@ -104,7 +119,7 @@
       "category_name": "ANIMATION & COMEDY",
       "movies": [
         {
-          "id": "5",
+          "id": "6",
           "title": "Gopal Bhar",
           "year": "2025",
           "rating": "8.0",
@@ -129,7 +144,7 @@
       "category_name": "SOUTH INDIAN MOVIES",
       "movies": [
         {
-          "id": "6",
+          "id": "7",
           "title": "Example South Movie",
           "year": "2026",
           "rating": "8.5",
