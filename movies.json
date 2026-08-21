@@ -53,13 +53,18 @@
           "sources": [
             {
               "server_name": "Episodes 1",
-              "quality": "1080p",
+              "quality": "Episodes 1",
               "url": "https://cdn.dramalinkbd.tv/p/527HoOAXWzDd_b2_.MyQde5Tlvw6mwO7LGjxvhO52yT5f5Q5VqJmzWtM5xfZxUFhh0d7t4UdgQK0aOkciK7Pehf2EIhRWycNNaHjxBfZB6IlX2LXxsSNI28IfOAqA-ZDnqzf6ry_ulNz9a3XGdqdS5sT9zcBgJcEatxuRPACkZJ2k5i3rrPnfOLJYkZTWwnj9PRXpHRVivqZiIM8dnR_GipAadY2cHw.PbOlDCo36fqCRIydcCsAng"
             },
             {
               "server_name": "Episodes 2",
-              "quality": "720p",
+              "quality": "Episodes 2",
               "url": "https://cdn.dramalinkbd.tv/p/hXdD_mMpcAnVstT3._AgRlE-kVEnGXXApDFQPI3VUsIGV_CwYqut9HBy-cgiGofFVJPhMR5LtYBtUQrfeoSnSm0FYVHiXLVfnEwabek9q0CBnKx-nCZEp-HVMV0Q796EmUO0bXSlNmS4BPxZoA7A6GgRN1nL1c-8.K39W1a3IIGOsXrvVcqwi8w"
+            },
+            {
+              "server_name": "Episodes 3",
+              "quality": "Episodes 3",
+              "url": "https://cdn.dramalinkbd.tv/p/I2xun8LDBcI0egzG.Q-2Z_c3hosGwB0GUZ4ygAo_rULHz04_MDn6NTq6TheXsANj6pOmUHulQ-cDHHLeELJK_Tq6SqGh8jvV1G5NZopXBKdp8LSeZNY9-EEFDhhXJotceoKZgwbzk0LPZ9J_xmP1AxHD_z9q3eOFkgpB7VSsopsfCoAXpcD_1T9W55HS2qybC44NHKRyXlynYKPu9VDuJFVpHGvmQ1w.nXZKqqGJ_j1Jp3PNQYzUzA"
             }
           ]
         }
