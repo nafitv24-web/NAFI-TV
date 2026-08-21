@@ -1,5 +1,10 @@
-#EXTINF:-1 group-title="HINDI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBJYTNss0Z-JbeYXHGArllpR92crPzEWYbJq57hyhg3A&s=10",Ek Din (Hindi) - Server 1
-https://hamyra-api.aininjaibrahim.workers.dev/mlbd/stream?s=aHR0cHM6Ly9jZG4uZHJhbWFsaW5rYmQudHYvcC9UcjBLWlMwNWQ4REtRVEtFLjRoMjZ6T09MbnRmcEJxSWEzbnZxaHcyTDhST2EtZWNBeXl4WWo4VDVqYXZmRENUVWhiUXV0MU95cE1QdDhqa3g3Nlh6QndLcHoyN2UtMV82SEowWDdSVHlZZV9RUlgzWVZKMmdSX1RwYjRZbnRScUtMYW9wMEhHTHh1aVQ1N1lEcDl0MDRESUNWRHFvZWpvLjVnaUtuY2phZVNwMk9SR240dUlSaHc&fn=Hamyra+-+Ek+Din+%5BORG+Hindi%5D+-+720.mkv
+#EXTM3U
 
-#EXTINF:-1 group-title="HINDI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBJYTNss0Z-JbeYXHGArllpR92crPzEWYbJq57hyhg3A&s=10",Ek Din (Hindi) - Server 2
-https://flixhub.net/stream/movie/keu-bole-biplobi-keu-bole-dakat
+#EXTINF:-1 group-title="HINDI MOVIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg6CLZkNbr_jxq-JdM_bsnPBc4ly2Dgi1LBTDa--v1gA&s=10",28 Years Later The Bone Temple 2026 [Server 1 - 1080p]
+https://movie.ctgfun.com/disk1/English%20Movies/2026/28.Years.Later.The.Bone.Temple.2026.1080p.WEBRip.x264.mp4
+
+#EXTINF:-1 group-title="HINDI MOVIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg6CLZkNbr_jxq-JdM_bsnPBc4ly2Dgi1LBTDa--v1gA&s=10",28 Years Later The Bone Temple 2026 [Server 2 - Backup]
+https://example.com/backup-link-for-movie.mp4
+
+#EXTINF:-1 group-title="HINDI MOVIES" tvg-logo="https://example.com/ek-din-poster.jpg",Ek Din 2026 [Server 1]
+https://example.com/movies/ek-din-1080p.mp4
