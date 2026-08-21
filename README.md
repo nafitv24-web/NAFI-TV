@@ -13,4 +13,4 @@
 
 | আইকন | মুভির নাম | বিবরণ | লিংকসমূহ |
 | :--- | :--- | :--- | :--- |
-| 🎬 | **থ্রি ইডিয়টস** | কমেডি ও ড্রামা | [Trailer](link) / [Server 1](link) / [Server 2](link) |
+| 🎬 | **থ্রি ইডিয়টস** | কমেডি ও ড্রামা | [Trailer](https://movie.ctgfun.com/disk1/English%20Movies/2026/28.Years.Later.The.Bone.Temple.2026.1080p.WEBRip.x264%20%5bDDN%5d/28.Years.Later.The.Bone.Temple.2026.1080p.WEBRip.x264%20%5bDDN%5d.mp4.mp4) / [Server 1](link) / [Server 2](link) |
