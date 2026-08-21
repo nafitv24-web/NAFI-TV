@@ -94,6 +94,26 @@
           ]
         }
       ]
+    },
+    {
+      "category_name": "SOUTH INDIAN MOVIES",
+      "movies": [
+        {
+          "id": "5",
+          "title": "Example South Movie",
+          "year": "2026",
+          "rating": "8.5",
+          "poster": "https://example.com/south-movie.jpg",
+          "description": "একটি দারুণ সাউথ ইন্ডিয়ান অ্যাকশন মুভি।",
+          "sources": [
+            {
+              "server_name": "Server 1",
+              "quality": "1080p",
+              "url": "https://example.com/south-movie-1080p.mp4"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
