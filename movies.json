@@ -1,55 +1,10 @@
 {
   "categories": [
     {
-      "category_name": "HINDI MOVIES",
-      "movies": [
-        {
-          "id": "1",
-          "title": "Lenin 2026",
-          "year": "2026",
-          "rating": "6.0.4",
-          "poster": "https://pub-69b6234af505413bbeac2bbc8039195c.r2.dev/poster_xda31787141537.jpg",
-          "description": "In a village trapped by generations of bloodshed, a determined young man dares to challenge the traditions fueling an endless cycle of violence.",
-          "sources": [
-            {
-              "server_name": "Server 1 (1080p)",
-              "quality": "1080p",
-              "url": "https://cdn.dramalinkbd.tv/p/8EodCtwJhiEBON68.RHSp8GZo8hJbKmJGHOqO2Vwr9A0njjwLjYH3VZB5a_t9-XrfaV-NvjU5h6rMjoGH1U_uGTQYrctFJuGcW050Vdsd5LQtr7h4CMgzdxAJ7UxtL91YjB86FTuJnAeERlx2xgk8qe2kzsuKyI7I-UvwnVTVAZUlmtPtM2oJBzSFPamp9QPs42KtduNgqpNS5tQkvr8BXJtoEsA.ofQAAg1veoyfVQva0nazjw"
-            },
-            {
-              "server_name": "Server 2 (720p)",
-              "quality": "720p",
-              "url": "https://example.com/movie/28-years-later-720p.mp4"
-            }
-          ]
-        },
-        {
-          "id": "2",
-          "title": "Ek Din",
-          "year": "2026",
-          "rating": "8.0",
-          "poster": "https://image.tmdb.org/t/p/original/1AZVVsTAH4DoeaJMVsxiRyAEB76.jpg",
-          "description": "একটি আবেগঘন ড্রামা ও রোমান্টিক মুভি।",
-          "sources": [
-            {
-              "server_name": "Server 1 (HD)",
-              "quality": "1080p",
-              "url": "https://cdn.dramalinkbd.tv/p/K9dl5yiOFYh6Hlxu.FWYfuyhhqNAJJn8EU_Z4mBpkshJsYzkbxVY2QltMtsgTXvptAqwNByyxM0ADsAsv4RoYssbeDJDiNg2E8rLJCjJ5WkPNWIkWyY4UA3Cd7HkGbXB0AS5P3iwOLptN-W5e9wah2upDo3OXy8MEhjATm6AT_o9CbFpNU1WfOQtkuB5FIfkvArUl-1llfqNqjrHTcOEehnc6zANIRJ0AklAKWg.8sJXvPmJlC3Sr5OFVAm3pw"
-            },
-            {
-              "server_name": "Server 2 (SD)",
-              "quality": "480p",
-              "url": "https://example.com/movies/ek-din-480p.mp4"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "category_name": "BANGLA",
       "movies": [
         {
-          "id": "3",
+          "id": "1",
           "title": "Sultan Salahuddin Ayyubi",
           "year": "2024",
           "rating": "8.0",
@@ -76,10 +31,80 @@
       ]
     },
     {
-      "category_name": "ANIMATION & COMEDY",
+      "category_name": "HINDI",
+      "movies": [
+        {
+          "id": "2",
+          "title": "Lenin 2026",
+          "year": "2026",
+          "rating": "6.0.4",
+          "poster": "https://pub-69b6234af505413bbeac2bbc8039195c.r2.dev/poster_xda31787141537.jpg",
+          "description": "In a village trapped by generations of bloodshed, a determined young man dares to challenge the traditions fueling an endless cycle of violence.",
+          "sources": [
+            {
+              "server_name": "Server 1 (1080p)",
+              "quality": "1080p",
+              "url": "https://cdn.dramalinkbd.tv/p/8EodCtwJhiEBON68.RHSp8GZo8hJbKmJGHOqO2Vwr9A0njjwLjYH3VZB5a_t9-XrfaV-NvjU5h6rMjoGH1U_uGTQYrctFJuGcW050Vdsd5LQtr7h4CMgzdxAJ7UxtL91YjB86FTuJnAeERlx2xgk8qe2kzsuKyI7I-UvwnVTVAZUlmtPtM2oJBzSFPamp9QPs42KtduNgqpNS5tQkvr8BXJtoEsA.ofQAAg1veoyfVQva0nazjw"
+            },
+            {
+              "server_name": "Server 2 (720p)",
+              "quality": "720p",
+              "url": "https://example.com/movie/28-years-later-720p.mp4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category_name": "BOLLYWOOD",
+      "movies": [
+        {
+          "id": "3",
+          "title": "Ek Din",
+          "year": "2026",
+          "rating": "8.0",
+          "poster": "https://image.tmdb.org/t/p/original/1AZVVsTAH4DoeaJMVsxiRyAEB76.jpg",
+          "description": "একটি আবেগঘন ড্রামা ও রোমান্টিক মুভি।",
+          "sources": [
+            {
+              "server_name": "Server 1 (HD)",
+              "quality": "1080p",
+              "url": "https://cdn.dramalinkbd.tv/p/K9dl5yiOFYh6Hlxu.FWYfuyhhqNAJJn8EU_Z4mBpkshJsYzkbxVY2QltMtsgTXvptAqwNByyxM0ADsAsv4RoYssbeDJDiNg2E8rLJCjJ5WkPNWIkWyY4UA3Cd7HkGbXB0AS5P3iwOLptN-W5e9wah2upDo3OXy8MEhjATm6AT_o9CbFpNU1WfOQtkuB5FIfkvArUl-1llfqNqjrHTcOEehnc6zANIRJ0AklAKWg.8sJXvPmJlC3Sr5OFVAm3pw"
+            },
+            {
+              "server_name": "Server 2 (SD)",
+              "quality": "480p",
+              "url": "https://example.com/movies/ek-din-480p.mp4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category_name": "HOLLYWOOD",
       "movies": [
         {
           "id": "4",
+          "title": "Example Hollywood Movie",
+          "year": "2026",
+          "rating": "8.2",
+          "poster": "https://example.com/hollywood-poster.jpg",
+          "description": "একটি হলিউড অ্যাকশন মুভি।",
+          "sources": [
+            {
+              "server_name": "Server 1",
+              "quality": "1080p",
+              "url": "https://example.com/hollywood-movie-1080p.mp4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category_name": "ANIMATION & COMEDY",
+      "movies": [
+        {
+          "id": "5",
           "title": "Gopal Bhar",
           "year": "2025",
           "rating": "8.0",
@@ -94,7 +119,7 @@
             {
               "server_name": "Server 2",
               "quality": "720p",
-              "url": "https://example.com/gopal-fnar-ep1-720.mp4"
+              "url": "https://example.com/gopal-bhar-ep1-720.mp4"
             }
           ]
         }
@@ -104,7 +129,7 @@
       "category_name": "SOUTH INDIAN MOVIES",
       "movies": [
         {
-          "id": "5",
+          "id": "6",
           "title": "Example South Movie",
           "year": "2026",
           "rating": "8.5",
