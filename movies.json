@@ -42,8 +42,10 @@
               "url": "https://example.com/movies/ek-din-480p.mp4"
             }
           ]
-        },
-        {
+        }
+      ]
+    },
+    {
       "category_name": "BANGLA",
       "movies": [
         {
@@ -92,7 +94,7 @@
             {
               "server_name": "Server 2",
               "quality": "720p",
-              "url": "https://example.com/gopal-bhar-ep1-720.mp4"
+              "url": "https://example.com/gopal-fnar-ep1-720.mp4"
             }
           ]
         }
