@@ -5,11 +5,23 @@
       "movies": [
         {
           "id": "1",
-          "title": "28 Years Later The Bone Temple",
+          "title": "Lenin 2026",
           "year": "2026",
-          "rating": "8.0",
-          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg6CLZkNbr_jxq-JdM_bsnPBc4ly2Dgi1LBTDa--v1gA&s=10",
-          "description": "হরর এবং থ্রিলার ঘরানার অন্যতম একটি মুভি।",
+          "rating": "6.0.4",
+          "poster": "https://pub-69b6234af505413bbeac2bbc8039195c.r2.dev/poster_xda31787141537.jpg",
+          "description": "⭐ IMDb: 6.4/10
+
+🎬 Genre: Action, Drama, Romance
+
+🗣️ Language: Dual [Hindi–Telugu]
+
+📺 Quality: WEB-DL
+
+🖥️ Resolution: 1080p | 720p | 480p
+
+📅 Released: 2026-07-10 (India)
+
+🎭 Cast: Akhil Akkineni, Bhagyashri Borse, Sivaji Sontineni, Easwari Rao, Brahmaji, Sunil Varma, N.T. Rama Rao Jr., Pavani Karanam",
           "sources": [
             {
               "server_name": "Server 1 (1080p)",
