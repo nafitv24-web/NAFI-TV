@@ -4,7 +4,6 @@
       "category_name": "BANGLA",
       "movies": [
         {
-          "id": "1",
           "title": "Sultan Salahuddin Ayyubi",
           "year": "2024",
           "rating": "8.0",
@@ -28,10 +27,8 @@
             }
           ]
         },
-
         {
-          "id": "2",
-          "title": "Keu Bole Biplobi, Keu Bole Dakat ",
+          "title": "Keu Bole Biplobi, Keu Bole Dakat",
           "year": "2024",
           "rating": "8.0",
           "poster": "https://m.media-amazon.com/images/M/MV5BZDBiYTk5ZGQtYTNmYy00OWMwLWEwZWUtZDlhMGVmMGMzYjc1XkEyXkFqcGc@._V1_.jpg",
@@ -54,9 +51,7 @@
             }
           ]
         },
-        
         {
-          "id": "3",
           "title": "Hawa",
           "year": "2022",
           "rating": "8.3",
@@ -76,7 +71,6 @@
       "category_name": "HINDI",
       "movies": [
         {
-          "id": "3",
           "title": "Lenin 2026",
           "year": "2026",
           "rating": "6.0.4",
@@ -101,7 +95,6 @@
       "category_name": "BOLLYWOOD",
       "movies": [
         {
-          "id": "4",
           "title": "Ek Din",
           "year": "2026",
           "rating": "8.0",
@@ -126,7 +119,6 @@
       "category_name": "HOLLYWOOD",
       "movies": [
         {
-          "id": "5",
           "title": "Example Hollywood Movie",
           "year": "2026",
           "rating": "8.2",
@@ -146,7 +138,6 @@
       "category_name": "ANIMATION & COMEDY",
       "movies": [
         {
-          "id": "6",
           "title": "Gopal Bhar",
           "year": "2025",
           "rating": "8.0",
@@ -171,7 +162,6 @@
       "category_name": "SOUTH INDIAN MOVIES",
       "movies": [
         {
-          "id": "7",
           "title": "Example South Movie",
           "year": "2026",
           "rating": "8.5",
