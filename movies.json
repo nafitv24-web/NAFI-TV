@@ -28,13 +28,13 @@
           "title": "Ek Din",
           "year": "2026",
           "rating": "8.0",
-          "poster": "https://example.com/ek-din-poster.jpg",
+          "poster": "https://image.tmdb.org/t/p/original/1AZVVsTAH4DoeaJMVsxiRyAEB76.jpg",
           "description": "একটি আবেগঘন ড্রামা ও রোমান্টিক মুভি।",
           "sources": [
             {
               "server_name": "Server 1 (HD)",
               "quality": "1080p",
-              "url": "https://example.com/movies/ek-din-1080p.mp4"
+              "url": "https://cdn.dramalinkbd.tv/p/ZQXVH1o5S0zdy_Gf.dtKAfbOkCEd5uHDUk2sKs4D7OC5mdWa9Hy-f8-sYCNq9uilvWG8Y12PWPUB54SStVVew9IR5yBWqFp9VPDUy5EK5117FmNk.aBsL6ChZj-znMR55OCsagA"
             },
             {
               "server_name": "Server 2 (SD)",
