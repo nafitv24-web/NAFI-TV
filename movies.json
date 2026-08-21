@@ -5,6 +5,7 @@
       "movies": [
         {
           "title": "Sultan Salahuddin Ayyubi",
+          "language": "Bangla",
           "year": "2024",
           "rating": "8.0",
           "poster": "https://pub-69b6234af505413bbeac2bbc8039195c.r2.dev/poster_54zw1785693996.jpg",
@@ -12,23 +13,21 @@
           "sources": [
             {
               "server_name": "Episodes 1",
-              "quality": "Episodes 1",
               "url": "https://cdn.dramalinkbd.tv/p/527HoOAXWzDd_b2_.MyQde5Tlvw6mwO7LGjxvhO52yT5f5Q5VqJmzWtM5xfZxUFhh0d7t4UdgQK0aOkciK7Pehf2EIhRWycNNaHjxBfZB6IlX2LXxsSNI28IfOAqA-ZDnqzf6ry_ulNz9a3XGdqdS5sT9zcBgJcEatxuRPACkZJ2k5i3rrPnfOLJYkZTWwnj9PRXpHRVivqZiIM8dnR_GipAadY2cHw.PbOlDCo36fqCRIydcCsAng"
             },
             {
               "server_name": "Episodes 2",
-              "quality": "Episodes 2",
               "url": "https://cdn.dramalinkbd.tv/p/hXdD_mMpcAnVstT3._AgRlE-kVEnGXXApDFQPI3VUsIGV_CwYqut9HBy-cgiGofFVJPhMR5LtYBtUQrfeoSnSm0FYVHiXLVfnEwabek9q0CBnKx-nCZEp-HVMV0Q796EmUO0bXSlNmS4BPxZoA7A6GgRN1nL1c-8.K39W1a3IIGOsXrvVcqwi8w"
             },
             {
               "server_name": "Episodes 3",
-              "quality": "Episodes 3",
               "url": "https://cdn.dramalinkbd.tv/p/I2xun8LDBcI0egzG.Q-2Z_c3hosGwB0GUZ4ygAo_rULHz04_MDn6NTq6TheXsANj6pOmUHulQ-cDHHLeELJK_Tq6SqGh8jvV1G5NZopXBKdp8LSeZNY9-EEFDhhXJotceoKZgwbzk0LPZ9J_xmP1AxHD_z9q3eOFkgpB7VSsopsfCoAXpcD_1T9W55HS2qybC44NHKRyXlynYKPu9VDuJFVpHGvmQ1w.nXZKqqGJ_j1Jp3PNQYzUzA"
             }
           ]
         },
         {
           "title": "Keu Bole Biplobi, Keu Bole Dakat",
+          "language": "Bangla",
           "year": "2024",
           "rating": "8.0",
           "poster": "https://m.media-amazon.com/images/M/MV5BZDBiYTk5ZGQtYTNmYy00OWMwLWEwZWUtZDlhMGVmMGMzYjc1XkEyXkFqcGc@._V1_.jpg",
@@ -36,23 +35,21 @@
           "sources": [
             {
               "server_name": "Episodes 1",
-              "quality": "Episodes 1",
               "url": "https://cdn.dramalinkbd.tv/p/W3gBHB6UWl3zSDro.82PAPCzVqmJq70RZrumI_3uvNKAHQ3Ib5RdGBat3GQvPy6-imlkxppA6LjSrairdtDxLmtF8TvnqCgl6H2guUvgL88n0UaTvJMHoBjtJE0eqK8KdWH8HTg9y9VaJ6-LQRwS7C8EWZZbnKdMxwSlDez9EftZdr5KweqS6tsY7m6dUh6oysU70LAabR3qO3Du3-yYRShhbgUWMnBh83Bjy.sB8lz25d7y0J35KoccycDg"
             },
             {
               "server_name": "Episodes 2",
-              "quality": "Episodes 2",
               "url": "https://cdn.dramalinkbd.tv/p/hXdD_mMpcAnVstT3._AgRlE-kVEnGXXApDFQPI3VUsIGV_CwYqut9HBy-cgiGofFVJPhMR5LtYBtUQrfeoSnSm0FYVHiXLVfnEwabek9q0CBnKx-nCZEp-HVMV0Q796EmUO0bXSlNmS4BPxZoA7A6GgRN1nL1c-8.K39W1a3IIGOsXrvVcqwi8w"
             },
             {
               "server_name": "Episodes 3",
-              "quality": "Episodes 3",
               "url": "https://cdn.dramalinkbd.tv/p/I2xun8LDBcI0egzG.Q-2Z_c3hosGwB0GUZ4ygAo_rULHz04_MDn6NTq6TheXsANj6pOmUHulQ-cDHHLeELJK_Tq6SqGh8jvV1G5NZopXBKdp8LSeZNY9-EEFDhhXJotceoKZgwbzk0LPZ9J_xmP1AxHD_z9q3eOFkgpB7VSsopsfCoAXpcD_1T9W55HS2qybC44NHKRyXlynYKPu9VDuJFVpHGvmQ1w.nXZKqqGJ_j1Jp3PNQYzUzA"
             }
           ]
         },
         {
           "title": "Hawa",
+          "language": "Bangla",
           "year": "2022",
           "rating": "8.3",
           "poster": "https://image.tmdb.org/t/p/original/lcMvEkWp4UCS8SKZhotgL7vZMhU.jpg",
@@ -60,7 +57,6 @@
           "sources": [
             {
               "server_name": "Server 1",
-              "quality": "1080p",
               "url": "https://cdn.dramalinkbd.tv/p/0J0o1jrs8u-O13E2.uWt5n8v8l-DIp0Fa6RuOPoE0_ShLTnziw5hK7z52jJqsmF5Xl9nsau3SUgkS49HeWv2gVjDTIx4VCmNOkcm_iIiDmikZTP23MtgMl_A-h3LhALrsHHGgSw8-wDNgSOoBxo1hIn77qlNqfHU.vslIB5QbK6kGeNmXAooFvg"
             }
           ]
@@ -72,19 +68,18 @@
       "movies": [
         {
           "title": "Lenin 2026",
+          "language": "Hindi",
           "year": "2026",
           "rating": "6.0.4",
           "poster": "https://pub-69b6234af505413bbeac2bbc8039195c.r2.dev/poster_xda31787141537.jpg",
           "description": "In a village trapped by generations of bloodshed, a determined young man dares to challenge the traditions fueling an endless cycle of violence.",
           "sources": [
             {
-              "server_name": "Server 1 (1080p)",
-              "quality": "1080p",
+              "server_name": "Server 1",
               "url": "https://cdn.dramalinkbd.tv/p/8EodCtwJhiEBON68.RHSp8GZo8hJbKmJGHOqO2Vwr9A0njjwLjYH3VZB5a_t9-XrfaV-NvjU5h6rMjoGH1U_uGTQYrctFJuGcW050Vdsd5LQtr7h4CMgzdxAJ7UxtL91YjB86FTuJnAeERlx2xgk8qe2kzsuKyI7I-UvwnVTVAZUlmtPtM2oJBzSFPamp9QPs42KtduNgqpNS5tQkvr8BXJtoEsA.ofQAAg1veoyfVQva0nazjw"
             },
             {
-              "server_name": "Server 2 (720p)",
-              "quality": "720p",
+              "server_name": "Server 2",
               "url": "https://example.com/movie/28-years-later-720p.mp4"
             }
           ]
@@ -96,19 +91,18 @@
       "movies": [
         {
           "title": "Ek Din",
+          "language": "Hindi",
           "year": "2026",
           "rating": "8.0",
           "poster": "https://image.tmdb.org/t/p/original/1AZVVsTAH4DoeaJMVsxiRyAEB76.jpg",
           "description": "একটি আবেগঘন ড্রামা ও রোমান্টিক মুভি।",
           "sources": [
             {
-              "server_name": "Server 1 (HD)",
-              "quality": "1080p",
+              "server_name": "Server 1",
               "url": "https://cdn.dramalinkbd.tv/p/K9dl5yiOFYh6Hlxu.FWYfuyhhqNAJJn8EU_Z4mBpkshJsYzkbxVY2QltMtsgTXvptAqwNByyxM0ADsAsv4RoYssbeDJDiNg2E8rLJCjJ5WkPNWIkWyY4UA3Cd7HkGbXB0AS5P3iwOLptN-W5e9wah2upDo3OXy8MEhjATm6AT_o9CbFpNU1WfOQtkuB5FIfkvArUl-1llfqNqjrHTcOEehnc6zANIRJ0AklAKWg.8sJXvPmJlC3Sr5OFVAm3pw"
             },
             {
-              "server_name": "Server 2 (SD)",
-              "quality": "480p",
+              "server_name": "Server 2",
               "url": "https://example.com/movies/ek-din-480p.mp4"
             }
           ]
@@ -120,6 +114,7 @@
       "movies": [
         {
           "title": "Example Hollywood Movie",
+          "language": "English",
           "year": "2026",
           "rating": "8.2",
           "poster": "https://example.com/hollywood-poster.jpg",
@@ -127,7 +122,6 @@
           "sources": [
             {
               "server_name": "Server 1",
-              "quality": "1080p",
               "url": "https://example.com/hollywood-movie-1080p.mp4"
             }
           ]
@@ -139,6 +133,7 @@
       "movies": [
         {
           "title": "Gopal Bhar",
+          "language": "Bangla",
           "year": "2025",
           "rating": "8.0",
           "poster": "https://example.com/gopal-bhar.jpg",
@@ -146,12 +141,10 @@
           "sources": [
             {
               "server_name": "Server 1",
-              "quality": "1080p",
               "url": "https://example.com/gopal-bhar-ep1.mp4"
             },
             {
               "server_name": "Server 2",
-              "quality": "720p",
               "url": "https://example.com/gopal-bhar-ep1-720.mp4"
             }
           ]
@@ -163,6 +156,7 @@
       "movies": [
         {
           "title": "Example South Movie",
+          "language": "South Indian",
           "year": "2026",
           "rating": "8.5",
           "poster": "https://example.com/south-movie.jpg",
@@ -170,7 +164,6 @@
           "sources": [
             {
               "server_name": "Server 1",
-              "quality": "1080p",
               "url": "https://example.com/south-movie-1080p.mp4"
             }
           ]
