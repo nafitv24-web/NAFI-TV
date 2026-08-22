@@ -116,6 +116,26 @@
     {
       "category_name": "HINDI",
       "movies": [
+        
+{
+          "title": "Bhooth Bangla",
+          "language": "Hindi",
+          "year": "2026",
+          "rating": "8.0",
+          "poster": "https://image.tmdb.org/t/p/w500/ArIS4vwUxdhm3j7tsTHmffdfU8W.jpg",
+          "description": "অ্যাকশন হরর ও ড্রামা মুভি।",
+          "sources": [
+            {
+              "server_name": "Server 1",
+              "url": "https://flixhub.net/stream/movie/bhooth-bangla"
+            },
+            {
+              "server_name": "Server 2",
+              "url": "https://cdn.dramalinkbd.tv/p/I2xun8LDBcI0egzG.Q-2Z_c3hosGwB0GUZ4ygAo_rULHz04_MDn6NTq6TheXsANj6pOmUHulQ-cDHHLeELJK_Tq6SqGh8jvV1G5NZopXBKdp8LSeZNY9-EEFDhhXJotceoKZgwbzk0LPZ9J_xmP1AxHD_z9q3eOFkgpB7VSsopsfCoAXpcD_1T9W55HS2qybC44NHKRyXlynYKPu9VDuJFVpHGvmQ1w.nXZKqqGJ_j1Jp3PNQYzUzA"
+            }
+          ]
+        },
+        
         {
           "title": "Lenin 2026",
           "language": "Hindi",
@@ -134,6 +154,8 @@
             }
           ]
         }
+        
+        
       ]
     },
     {
