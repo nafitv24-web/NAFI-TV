@@ -25,7 +25,7 @@
             }
           ]
         },
-{
+        {
           "title": "Malik Bangla Movie",
           "language": "Bangla",
           "year": "2026",
@@ -37,7 +37,6 @@
               "server_name": "Server 1",
               "url": "https://cdn.dramalinkbd.tv/p/hCL4MhRARAeR6-uy.PvL1UK7t_C7RGbMisIFqMKIcyfNwOk8a4JFQjS4gZhu7OMTNUNF3MWpGQNbFfQ3JSoxMHTyz3d7aOo_2zyog9Th0r82Vb7VWlrdar71zbmne40DYOjxvEPdikvDC4ae3SDXViR21PyY0nU_G3PsxLvgxF8L9LpeXRNT9SVPLyfCj9mX6BHqLCg.6ztUG9r6oXYIU1N5bzrNfg"
             },
-            
             {
               "server_name": "Server 2",
               "url": "https://cdn.dramalinkbd.tv/p/I2xun8LDBcI0egzG.Q-2Z_c3hosGwB0GUZ4ygAo_rULHz04_MDn6NTq6TheXsANj6pOmUHulQ-cDHHLeELJK_Tq6SqGh8jvV1G5NZopXBKdp8LSeZNY9-EEFDhhXJotceoKZgwbzk0LPZ9J_xmP1AxHD_z9q3eOFkgpB7VSsopsfCoAXpcD_1T9W55HS2qybC44NHKRyXlynYKPu9VDuJFVpHGvmQ1w.nXZKqqGJ_j1Jp3PNQYzUzA"
@@ -54,8 +53,8 @@
           "sources": [
             {
               "server_name": "Server 1",
-              "url": "http://amaderftp.net/bangla/Moyurakkhi%20(2024)%20720p/Moyurakkhi%20(2024)%20720p.mp4"},
-
+              "url": "http://amaderftp.net/bangla/Moyurakkhi%20(2024)%20720p/Moyurakkhi%20(2024)%20720p.mp4"
+            },
             {
               "server_name": "Server 2",
               "url": "https://cdn.dramalinkbd.tv/p/I2xun8LDBcI0egzG.Q-2Z_c3hosGwB0GUZ4ygAo_rULHz04_MDn6NTq6TheXsANj6pOmUHulQ-cDHHLeELJK_Tq6SqGh8jvV1G5NZopXBKdp8LSeZNY9-EEFDhhXJotceoKZgwbzk0LPZ9J_xmP1AxHD_z9q3eOFkgpB7VSsopsfCoAXpcD_1T9W55HS2qybC44NHKRyXlynYKPu9VDuJFVpHGvmQ1w.nXZKqqGJ_j1Jp3PNQYzUzA"
@@ -74,9 +73,8 @@
               "server_name": "Episodes 1",
               "url": "https://cdn.dramalinkbd.tv/p/AoGSYZh5HuuPGN6u.klkonskbOoy0stZ9Lea8TIDS4SuNxoHhcB8oAZTfcEFZix6tMG3T1aAQQFGWGFHD9pxFZo1qwvYTRZftkhPhBD3gueCVUn17Gnr3_tvtTKj_-OnRuBuXJFxaJDR4_aGRmzI2hbUckxeMJZE.GCyhaqpI7qZGgFB9HokQhw"
             },
-            
             {
-              "server_name": "Episodes ",
+              "server_name": "Episodes 2",
               "url": "https://cdn.dramalinkbd.tv/p/I2xun8LDBcI0egzG.Q-2Z_c3hosGwB0GUZ4ygAo_rULHz04_MDn6NTq6TheXsANj6pOmUHulQ-cDHHLeELJK_Tq6SqGh8jvV1G5NZopXBKdp8LSeZNY9-EEFDhhXJotceoKZgwbzk0LPZ9J_xmP1AxHD_z9q3eOFkgpB7VSsopsfCoAXpcD_1T9W55HS2qybC44NHKRyXlynYKPu9VDuJFVpHGvmQ1w.nXZKqqGJ_j1Jp3PNQYzUzA"
             }
           ]
@@ -93,7 +91,6 @@
               "server_name": "Episodes 1",
               "url": "https://cdn.dramalinkbd.tv/p/W3gBHB6UWl3zSDro.82PAPCzVqmJq70RZrumI_3uvNKAHQ3Ib5RdGBat3GQvPy6-imlkxppA6LjSrairdtDxLmtF8TvnqCgl6H2guUvgL88n0UaTvJMHoBjtJE0eqK8KdWH8HTg9y9VaJ6-LQRwS7C8EWZZbnKdMxwSlDez9EftZdr5KweqS6tsY7m6dUh6oysU70LAabR3qO3Du3-yYRShhbgUWMnBh83Bjy.sB8lz25d7y0J35KoccycDg"
             },
-            
             {
               "server_name": "Episodes 3",
               "url": "https://cdn.dramalinkbd.tv/p/I2xun8LDBcI0egzG.Q-2Z_c3hosGwB0GUZ4ygAo_rULHz04_MDn6NTq6TheXsANj6pOmUHulQ-cDHHLeELJK_Tq6SqGh8jvV1G5NZopXBKdp8LSeZNY9-EEFDhhXJotceoKZgwbzk0LPZ9J_xmP1AxHD_z9q3eOFkgpB7VSsopsfCoAXpcD_1T9W55HS2qybC44NHKRyXlynYKPu9VDuJFVpHGvmQ1w.nXZKqqGJ_j1Jp3PNQYzUzA"
@@ -123,13 +120,14 @@
           "title": "Lenin 2026",
           "language": "Hindi",
           "year": "2026",
-          "rating": "6.0.4",
+          "rating": "6.4",
           "poster": "https://pub-69b6234af505413bbeac2bbc8039195c.r2.dev/poster_xda31787141537.jpg",
           "description": "In a village trapped by generations of bloodshed, a determined young man dares to challenge the traditions fueling an endless cycle of violence.",
           "sources": [
             {
               "server_name": "Server 1",
-              "url": "https://flixhub.net/stream/movie/lenin"},
+              "url": "https://flixhub.net/stream/movie/lenin"
+            },
             {
               "server_name": "Server 2",
               "url": "http://cdn.naturalbd.com:8083/download/tamil/2026/Lenin%20%282026%29/Lenin%20%282026%29%20WEBDL-1080p.mp4/playlist.m3u8"
@@ -153,7 +151,7 @@
               "server_name": "Server 1",
               "url": "http://cdn.naturalbd.com:8083/download/bollywood/2026/Ek%20Din%20%282026%29/Ek%20Din%20%282026%29%20WEBDL-1080p.mp4/playlist.m3u8"
             },
-        {
+            {
               "server_name": "Server 2",
               "url": "https://ftp.ctgfun.com/Indian/Hindi%20Movies/Ek%20Din%20(2026)%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Ek%20Din%20%282026%29%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4"
             }
@@ -188,7 +186,7 @@
           "language": "Bangla",
           "year": "2025",
           "rating": "8.0",
-          "poster": "https://example.com/gopal-bhar.jpg",
+          "poster": "https://image.tmdb.org/t/p/w500/sample-poster.jpg",
           "description": "হাস্যরসাত্মক ও পারিবারিক অ্যানিমেশন পর্ব।",
           "sources": [
             {
@@ -211,7 +209,7 @@
           "language": "South Indian",
           "year": "2026",
           "rating": "8.5",
-          "poster": "https://example.com/south-movie.jpg",
+          "poster": "https://image.tmdb.org/t/p/w500/sample-south.jpg",
           "description": "একটি দারুণ সাউথ ইন্ডিয়ান অ্যাকশন মুভি।",
           "sources": [
             {
