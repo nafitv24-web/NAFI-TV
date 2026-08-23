@@ -35,7 +35,7 @@
           "sources": [
             {
               "server_name": "Server 1",
-              "url": "https://cdn.dramalinkbd.tv/p/hCL4MhRARAeR6-uy.PvL1UK7t_C7RGbMisIFqMKIcyfNwOk8a4JFQjS4gZhu7OMTNUNF3MWpGQNbFfQ3JSoxMHTyz3d7aOo_2zyog9Th0r82Vb7VWlrdar71zbmne40DYOjxvEPdikvDC4ae3SDXViR21PyY0nU_G3PsxLvgxF8L9LpeXRNT9SVPLyfCj9mX6BHqLCg.6ztUG9r6oXYIU1N5bzrNfg"
+              "url": "https://cdn.dramalinkbd.tv/d/YahF8jTze6yKoBrD.Om-3_W3fn7YaBxWtyGN7B-hjkF2xfgf-PhaRqRM6l9yUKhT4X1Y1TQz3rjYhemglmaxtTEBIJ8Y4h6MNj3crHUaMVKA9m3j_nVfU2b2QCQRN5oTl8uFcB5qlv2SMQ2vodI5wPPnXY-X3N5r07iRqsbgMadNFWm9bEAi34YW_-QJZuVCPzQHvo24.GXvlYXfx8j_OLY5u70C5iA"
             },
             {
               "server_name": "Server 2",
@@ -118,6 +118,24 @@
       "movies": [
         
 {
+          "title": "Dada Hindi Movie",
+          "language": "Hindi",
+          "year": "2026",
+          "rating": "8.0",
+          "poster": "http://www.naturalbd.com/uploads/video_thumb/5649.jpg?v=1765779724",
+          "description": "অ্যাকশন হরর ও ড্রামা মুভি।",
+          "sources": [
+            {
+              "server_name": "Server 1",
+              "url": "http://cdn.naturalbd.com:8083/download/tamil/2023/Dada%20(2023)/Dada%20(2023)%20WEBRip-1080p.mp4/playlist.m3u8"
+            },
+            {
+              "server_name": "Server 2",
+              "url": "https://cdn.dramalinkbd.tv/p/I2xun8LDBcI0egzG.Q-2Z_c3hosGwB0GUZ4ygAo_rULHz04_MDn6NTq6TheXsANj6pOmUHulQ-cDHHLeELJK_Tq6SqGh8jvV1G5NZopXBKdp8LSeZNY9-EEFDhhXJotceoKZgwbzk0LPZ9J_xmP1AxHD_z9q3eOFkgpB7VSsopsfCoAXpcD_1T9W55HS2qybC44NHKRyXlynYKPu9VDuJFVpHGvmQ1w.nXZKqqGJ_j1Jp3PNQYzUzA"
+            }
+          ]
+        },
+        {
           "title": "Bhooth Bangla",
           "language": "Hindi",
           "year": "2026",
@@ -131,7 +149,7 @@
             },
             {
               "server_name": "Server 2",
-              "url": "https://cdn.dramalinkbd.tv/p/I2xun8LDBcI0egzG.Q-2Z_c3hosGwB0GUZ4ygAo_rULHz04_MDn6NTq6TheXsANj6pOmUHulQ-cDHHLeELJK_Tq6SqGh8jvV1G5NZopXBKdp8LSeZNY9-EEFDhhXJotceoKZgwbzk0LPZ9J_xmP1AxHD_z9q3eOFkgpB7VSsopsfCoAXpcD_1T9W55HS2qybC44NHKRyXlynYKPu9VDuJFVpHGvmQ1w.nXZKqqGJ_j1Jp3PNQYzUzA"
+              "url": "https://cdn.dramalinkbd.tv/d/L0nSP2eu8WyNKPlM.LdIqrlAmCgL2kKoWN8ANnTOm3Z7UDNxobjvXXCHL2oRD9OjMCzGVA7NLoX6yx__2DGReM1bl-zhZcm1hv9yTwA9u8ioMCNAG6Zhbv0SXivAUXz30mav7jW2-VC4b0MRs-seiUZ7AuMbZozA.1_w-3TyfdaHG6T-ECcVwIA"
             }
           ]
         },
