@@ -73,7 +73,7 @@
             
             {
               "server_name": "S01 Ep 1-5",
-              "url": "https://cdn.dramalinkbd.tv/d/kq1m4ROMIi9nqZi6.lgrZKtbQvpUtxsXHYymWuljxN4HHQ1c-D-un5ERkGJ5ugsYQvSl7vzBW7U7s9C1nbdhfIE2b2QYp2bMfKYssjg_KTYXU-jO3Bki8NzPwT3AvD1loMpWJdkbFUiASNL4M9pkQ63iVxyxQG0k.qQK_BPQoz9R7lGS_nmViJA"
+              "url": "https://pub-538edaef4a1246c989cd0c69ae08ce40.r2.dev/353681f4132c9c862a5a1a2175602376?token=1787572800-ca6a142e2e427781a1258438f3a74fb705015c47"
             },
             {
               "server_name": "Season 2 Ep 5-8",
@@ -102,19 +102,23 @@
             
             {
               "server_name": "S03 Episode Complete",
-              "url": "https://cdn.dramalinkbd.tv/d/XOGCmrh0R-Cyb3_g.NWI7oFdrdbhpjhj0a7Fmw3ULTpRGBod29bhWGUqKovg34mX5Vt9bWbCRq1Uin-ccCq5eoNOvCkwuNT0YURbG-BsA6wf19L4wOPrK3H9YnncxhHvCAU9nZOm5VME3eWGIDXsj_0oKanShQzI.HvjRVs_N_mirqfuymID8-g"
+              "url": "https://pub-538edaef4a1246c989cd0c69ae08ce40.r2.dev/a7d0f25156f48be5d0fdb56b1248283f?token=1787572800-34f7c6c8a344f69a72ef7cff5d5adfe6a559f2ca"
             },
             {
-              "server_name": "S04 Episode 1-4",
-              "url": "https://cdn.dramalinkbd.tv/d/7ZSL6NhJAd222dU0.NoWRS1ciJyMjNXz59b7Dzm5p3zmBLUc4pbNmxl-K2CHSl3Gw9LmG0kTupj4s2W_zsmqF1xGRUaX_LZanh1QXLfYiCHFTprNFQxb6X44jVzR9nZgL1QbpzIi1lK7sVNdTVZY-JWKyISs5YJM.Si8bKi3FZVmIDSmgtFnwGQ"
+              "server_name": "Season 4 Ep 1-4",
+              "url": "https://pub-538edaef4a1246c989cd0c69ae08ce40.r2.dev/798ba5fc45dc9132f19f553019579307?token=1787572800-eaf7077421412c32c0f72567692f9f1d5392132b"
             },
             {
-              "server_name": "S04 Episode 5-8",
-              "url": "https://cdn.dramalinkbd.tv/d/JJFtkHelNO9koMKs.TL8Z6D-fhw5Cj4bO-zqB8dBjSaEi6x50uOq77xGrECpp3Dudek_z8kHpwn3c2NOikKX2dp02dOllSeaJDlNiA0QMtSdR2a0KaFbbBNXJLzA4v8r_EUWGvVQR_EsC_ltDKNtLMcRBXVA5ADE.tjW9--8BOiNHhX5vszcRGw"
+              "server_name": "Season 4 Ep 4-6",
+              "url": "https://2952d5e4489b9c83caf6be16ab27f1c6.r2.cloudflarestorage.com/july2026/798ba5fc45dc9132f19f553019579307?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=7761db32e80c0c13b61cbf02ddda3d78%2F20260824%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260824T175421Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=6195e23fe1e47f96059858bc462ed3a8c5c88154e83425be58425da07ecd3fea"
             },
             {
-              "server_name": "S06 Episodes ",
-              "url": "https://cdn.dramalinkbd.tv/d/S_729L55eBR1Zbag.xk61kaIJDt36m5B0FTFxhzmoXAqxXJJD5DA7MKXm9bqlVKHyo5YD_6rVn1JmHRQ5Lwa_cNKXC23ZkI0S-PUq36vhoZvRHHZGNXHwa033ULlL6SrdHzn5AVHWObzvm_d4sXrMD4d9ciDp8LU.jO_JOvPk_So2QehfPvqToQ"
+              "server_name": "Season 6 Ep Complete",
+              "url": "https://july26.dramalinkbd.tv/4858f77150d86bb124ef36b370b1604f?token=1787572800-5ef995051df708ef155a681d3f6df94e610b276e"
+            },
+            {
+              "server_name": "Season 1 Ep 9-15",
+              "url": "https://cdn.dramalinkbd.tv/d/UocHOcsx75urT2F_.VXvJyfbhyQZB20zjH_TxQZmAsL58q_z5MZKfJ3QtTeZLcXm5RDnxbDltaxKKHW4y7063qDtUbyjhKJi8CxI0ByrCxfR1blz9616v9KaEQ44sxpGhiRlrNdb4nfCdjakz2gS5giwxXGGPPFA.KqWl-rMmMtJqBEQ856wcng"
             }
             
           ]
@@ -262,16 +266,16 @@
       "category_name": "ANIMATION & COMEDY",
       "movies": [
         {
-          "title": "Gopal Bhar",
-          "language": "Bangla",
+          "title": "Motu Patlu Vs The Ghost House",
+          "language": "Bangla Dubbed",
           "year": "2025",
           "rating": "8.0",
-          "poster": "https://image.tmdb.org/t/p/w500/sample-poster.jpg",
+          "poster": "https://pub-69b6234af505413bbeac2bbc8039195c.r2.dev/poster_dlui1759889480.png",
           "description": "হাস্যরসাত্মক ও পারিবারিক অ্যানিমেশন পর্ব।",
           "sources": [
             {
               "server_name": "Server 1",
-              "url": "https://example.com/gopal-bhar-ep1.mp4"
+              "url": "https://pub-538edaef4a1246c989cd0c69ae08ce40.r2.dev/e79c313e75f89975f49b900d3d6cbcea?token=1787572800-06886bc97931c6859c0a7ff4c504a343b875adf9"
             },
             {
               "server_name": "Server 2",
