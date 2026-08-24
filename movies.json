@@ -263,28 +263,57 @@
       ]
     },
     {
-      "category_name": "ANIMATION & COMEDY",
-      "movies": [
+  "category_name": "ANIMATION & COMEDY",
+  "movies": [
+    {
+      "title": "Motu Patlu Vs The Ghost House",
+      "language": "Bangla Dubbed",
+      "year": "2025",
+      "rating": "8.0",
+      "poster": "https://pub-69b6234af505413bbeac2bbc8039195c.r2.dev/poster_dlui1759889480.png",
+      "description": "হাস্যরসাত্মক ও পারিবারিক অ্যানিমেশন পর্ব।",
+      "sources": [
         {
-          "title": "Motu Patlu Vs The Ghost House",
-          "language": "Bangla Dubbed",
-          "year": "2025",
-          "rating": "8.0",
-          "poster": "https://pub-69b6234af505413bbeac2bbc8039195c.r2.dev/poster_dlui1759889480.png",
-          "description": "হাস্যরসাত্মক ও পারিবারিক অ্যানিমেশন পর্ব।",
-          "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "https://pub-538edaef4a1246c989cd0c69ae08ce40.r2.dev/e79c313e75f89975f49b900d3d6cbcea?token=1787572800-06886bc97931c6859c0a7ff4c504a343b875adf9"
-            },
-            {
-              "server_name": "Server 2",
-              "url": "https://example.com/gopal-bhar-ep1-720.mp4"
-            }
-          ]
+          "server_name": "Server 1",
+          "url": "https://pub-538edaef4a1246c989cd0c69ae08ce40.r2.dev/e79c313e75f89975f49b900d3d6cbcea?token=1787572800-06886bc97931c6859c0a7ff4c504a343b875adf9"
+        },
+        {
+          "server_name": "Server 2",
+          "url": "https://example.com/gopal-bhar-ep1-720.mp4"
         }
       ]
     },
+    {
+      "title": "Ne Zha 2",
+      "language": "Bangla Dubbed",
+      "year": "2025",
+      "rating": "7.5",
+      "poster": "https://pub-69b6234af505413bbeac2bbc8039195c.r2.dev/poster_pxav1759743206.png",
+      "description": "মুভির বিস্তারিত বর্ণনা এখানে দিন।",
+      "sources": [
+        {
+          "server_name": "Server 1",
+          "url": "https://pub-538edaef4a1246c989cd0c69ae08ce40.r2.dev/23544cb133bd9ae951d06eb307537b05?token=1787594400-d6e8b473900fadf6d4b0cde42044ce64056198a9"
+        }
+      ]
+    },
+    {
+      "title": "Movie 3 Title Here",
+      "language": "Bangla",
+      "year": "2024",
+      "rating": "8.5",
+      "poster": "https://example.com/poster3.png",
+      "description": "মুভির বিস্তারিত বর্ণনা এখানে দিন।",
+      "sources": [
+        {
+          "server_name": "Server 1",
+          "url": "https://example.com/movie3-server1.mp4"
+        }
+      ]
+    }
+  ]
+},
+
     {
       "category_name": "SOUTH INDIAN MOVIES",
       "movies": [
