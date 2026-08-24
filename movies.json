@@ -289,7 +289,7 @@
       "year": "2025",
       "rating": "7.5",
       "poster": "https://pub-69b6234af505413bbeac2bbc8039195c.r2.dev/poster_pxav1759743206.png",
-      "description": "মুভির বিস্তারিত বর্ণনা এখানে দিন।",
+      "description": "মুভির বিস্তারিত বর্ণনা এখানে ",
       "sources": [
         {
           "server_name": "Server 1",
@@ -303,7 +303,7 @@
       "year": "2024",
       "rating": "8.5",
       "poster": "https://example.com/poster3.png",
-      "description": "মুভির বিস্তারিত বর্ণনা এখানে দিন।",
+      "description": " বিস্তারিত বর্ণনা এখানে দিন।",
       "sources": [
         {
           "server_name": "Server 1",
