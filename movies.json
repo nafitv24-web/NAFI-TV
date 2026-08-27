@@ -245,26 +245,9 @@
       ]
     },
     {
-      "category_name": "HINDI",
+      "category_name": "Bollywood",
       "movies": [
-      {
-          "title": "Toxic Hindi Movie",
-          "language": "Hindi",
-          "year": "2026",
-          "rating": "8.0",
-          "poster": "https://image.tmdb.org/t/p/original/o56WdejJstnWDEZsSVrVPw7SyS8.jpg",
-          "description": "অ্যাকশন ও ড্রামা মুভি।",
-          "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "https://ctghall.com/Data/Movies/South-Indian/Toxic%20A%20Fairy%20Tale%20for%20Grown-ups%20(2026)/SouthFreak.COM%20-%20Toxic%202026%20Hindi%20(Cleaned)%20720p%20HQ%20HDTC%20x264.mkv"
-            },
-            {
-              "server_name": "Server 2",
-              "url": "https://pub-538edaef4a1246c989cd0c69ae08ce40.r2.dev/media/AKj7UCBi/main?token=1787810400-57a1f43dd7197a9872ad2c729e8d1a7b198cad8b"
-            }
-          ]
-        },
+      
         {
           "title": "Welcome to the Jungle",
           "language": "Hindi",
@@ -280,24 +263,7 @@
             
           ]
         },
-{
-          "title": "Dada Hindi Movie",
-          "language": "Hindi",
-          "year": "2026",
-          "rating": "8.0",
-          "poster": "http://www.naturalbd.com/uploads/video_thumb/5649.jpg?v=1765779724",
-          "description": "রোমান্টিক ড্রামা মুভি।",
-          "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "http://cdn.naturalbd.com:8083/download/tamil/2023/Dada%20(2023)/Dada%20(2023)%20WEBRip-1080p.mp4/playlist.m3u8"
-            },
-            {
-              "server_name": "Server 2",
-              "url": "https://cdn.dramalinkbd.tv/d/L0nSP2eu8WyNKPlM.LdIqrlAmCgL2kKoWN8ANnTOm3Z7UDNxobjvXXCHL2oRD9OjMCzGVA7NLoX6yx__2DGReM1bl-zhZcm1hv9yTwA9u8ioMCNAG6Zhbv0SXivAUXz30mav7jW2-VC4b0MRs-seiUZ7AuMbZozA.1_w-3TyfdaHG6T-ECcVwIA"
-            }
-          ]
-        },
+
         {
           "title": "Bhooth Bangla",
           "language": "Hindi",
@@ -340,8 +306,44 @@
       ]
     },
     {
-      "category_name": "BOLLYWOOD",
+      "category_name": "South India Movie",
       "movies": [
+     {
+          "title": "Toxic Hindi Movie",
+          "language": "Hindi",
+          "year": "2026",
+          "rating": "8.0",
+          "poster": "https://image.tmdb.org/t/p/original/o56WdejJstnWDEZsSVrVPw7SyS8.jpg",
+          "description": "অ্যাকশন ও ড্রামা মুভি।",
+          "sources": [
+            {
+              "server_name": "Server 1",
+              "url": "https://ctghall.com/Data/Movies/South-Indian/Toxic%20A%20Fairy%20Tale%20for%20Grown-ups%20(2026)/SouthFreak.COM%20-%20Toxic%202026%20Hindi%20(Cleaned)%20720p%20HQ%20HDTC%20x264.mkv"
+            },
+            {
+              "server_name": "Server 2",
+              "url": "https://pub-538edaef4a1246c989cd0c69ae08ce40.r2.dev/media/AKj7UCBi/main?token=1787810400-57a1f43dd7197a9872ad2c729e8d1a7b198cad8b"
+            }
+          ]
+        },
+        {
+          "title": "Dada Hindi Movie",
+          "language": "Hindi",
+          "year": "2026",
+          "rating": "8.0",
+          "poster": "http://www.naturalbd.com/uploads/video_thumb/5649.jpg?v=1765779724",
+          "description": "রোমান্টিক ড্রামা মুভি।",
+          "sources": [
+            {
+              "server_name": "Server 1",
+              "url": "http://cdn.naturalbd.com:8083/download/tamil/2023/Dada%20(2023)/Dada%20(2023)%20WEBRip-1080p.mp4/playlist.m3u8"
+            },
+            {
+              "server_name": "Server 2",
+              "url": "https://cdn.dramalinkbd.tv/d/L0nSP2eu8WyNKPlM.LdIqrlAmCgL2kKoWN8ANnTOm3Z7UDNxobjvXXCHL2oRD9OjMCzGVA7NLoX6yx__2DGReM1bl-zhZcm1hv9yTwA9u8ioMCNAG6Zhbv0SXivAUXz30mav7jW2-VC4b0MRs-seiUZ7AuMbZozA.1_w-3TyfdaHG6T-ECcVwIA"
+            }
+          ]
+        },
         {
           "title": "Ek Din",
           "language": "Hindi",
@@ -363,7 +365,7 @@
       ]
     },
     {
-      "category_name": "HOLLYWOOD",
+      "category_name": "Hollywood",
       "movies": [
         {
           "title": "Spider-Man Hollywood Movie",
