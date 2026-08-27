@@ -401,6 +401,21 @@
     {
   "category_name": "ANIMATION & COMEDY",
   "movies": [
+ {
+      "title": "Moana Bangla Dubbed",
+      "language": "Bangla Dubbed",
+      "year": "2025",
+      "rating": "8.0",
+      "poster": "https://i.ibb.co/Xx6bzGV/CL-1693588733476.png",
+      "description": "হাস্যরসাত্মক ও পারিবারিক অ্যানিমেশন পর্ব।",
+      "sources": [
+        {
+          "server_name": "Server 1",
+          "url": "https://pub-538edaef4a1246c989cd0c69ae08ce40.r2.dev/9574e6a05f8746db73bbc6936627218e?token=1787810400-d49d44add8f8b656574a0446e678bcf601c77e10"
+        }
+      
+      ]
+    },
     {
       "title": "Motu Patlu Vs The Ghost House",
       "language": "Bangla Dubbed",
