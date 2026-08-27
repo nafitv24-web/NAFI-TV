@@ -96,7 +96,21 @@
             }
           ]
         },
-        
+        {
+          "title": "Jungle Book Bangla Dubbed",
+          "language": "Bangla Dubbed",
+          "year": "2026",
+          "rating": "8.0",
+          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHwblke6oiODZ7oxjCC1UchMiTjyNw7FLi-F4_rzMyMid70dAWz9pBTey9&s=10",
+          "description": "ঐতিহাসিক অ্যাকশন ও ড্রামা সিরিজ/মুভি।",
+          "sources": [
+            {
+              "server_name": "Server 1",
+              "url": "https://moviesverserrr.moviesverserrr.workers.dev/0:/www.UNCUTHD.Com%20-%20The%20Jungle%20Book%20(2016)%20Bengali%20Dubbed%20720p%20DL.mp4"
+            }
+          
+          ]
+        },
         {
           "title": "Malik Bangla Movie",
           "language": "Bangla",
@@ -115,6 +129,7 @@
             }
           ]
         },
+        
         {
           "title": "Moyurakkhi Bangla Movie",
           "language": "Bangla",
