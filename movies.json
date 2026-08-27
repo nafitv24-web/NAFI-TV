@@ -127,6 +127,51 @@
           ]
         },
         {
+          "title": "Domm Bangla Movie",
+          "language": "Bangla",
+          "year": "2026",
+          "rating": "8.0",
+          "poster": "https://pub-69b6234af505413bbeac2bbc8039195c.r2.dev/poster_wsys1763349506.png",
+          "description": " বিদেশ গিয়ে আটকা পড়া কাহিনী ও ড্রামা/মুভি।",
+          "sources": [
+            {
+              "server_name": "Server 1",
+              "url": "https://pub-538edaef4a1246c989cd0c69ae08ce40.r2.dev/0b9e8b9927ca412b11d02e786aa96c1b?token=1787810400-7cbda7bded887563a9b2dd86fc2f4b8e8e7fd7ba"
+            }
+          
+          ]
+        },
+        {
+          "title": "Prince Once Upon a Time in Dhaka Bangla Movie",
+          "language": "Bangla",
+          "year": "2026",
+          "rating": "8.0",
+          "poster": "https://image.tmdb.org/t/p/original/1CTw5gGz4GrWyCYjPBuf2VdjTsv.jpg",
+          "description": " একশন ও ড্রামা/মুভি।",
+          "sources": [
+            {
+              "server_name": "Server 1",
+              "url": "https://pub-538edaef4a1246c989cd0c69ae08ce40.r2.dev/9e46cd6cfdc92ddd479302742d933f81?token=1787810400-bccf7954f813d9c1060a77f10f01a94b75c126d7"
+            }
+          
+          ]
+        },
+        {
+          "title": "Rakkhosh Bangla Movie",
+          "language": "Bangla",
+          "year": "2026",
+          "rating": "8.0",
+          "poster": "https://pub-69b6234af505413bbeac2bbc8039195c.r2.dev/poster_im9v1779295428.jpg",
+          "description": " একশন ও ড্রামা/মুভি।",
+          "sources": [
+            {
+              "server_name": "Server 1",
+              "url": "https://pub-538edaef4a1246c989cd0c69ae08ce40.r2.dev/c42c02a3dc63ab91ba3f8f2f155fe80e?token=1787810400-d67ba9a704a368d88c1e56fc026bc0ebcdc95297"
+            }
+          
+          ]
+        },
+        {
           "title": "Malik Bangla Movie",
           "language": "Bangla",
           "year": "2026",
@@ -417,6 +462,21 @@
       ]
     },
     {
+      "title": "Moana 2 Hindi Dubbed",
+      "language": "Hindi Dubbed",
+      "year": "2025",
+      "rating": "8.0",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZDUxNThhYTUtYjgxNy00MGQ4LTgzOTEtZjg1YTU5NTcwNThlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "description": "হাস্যরসাত্মক ও পারিবারিক অ্যানিমেশন পর্ব।",
+      "sources": [
+        {
+          "server_name": "Server 1",
+          "url": "https://pub-538edaef4a1246c989cd0c69ae08ce40.r2.dev/45cadd3c131f30df5237ef09e1f39ae6?token=1787810400-bb0a7898a4c203a40ebb9e3a0fda38795efc1192"
+        }
+      
+      ]
+    },
+    {
       "title": "Motu Patlu Vs The Ghost House",
       "language": "Bangla Dubbed",
       "year": "2025",
@@ -430,7 +490,7 @@
         },
         {
           "server_name": "Server 2",
-          "url": "https://example.com/gopal-bhar-ep1-720.mp4"
+          "url": "https://pub-538edaef4a1246c989cd0c69ae08ce40.r2.dev/3bbd12067068a7a402ccff1c86a3d8cb?token=1787810400-41f486dd157b19bcf978df5421d802293a5fa841"
         }
       ]
     },
