@@ -172,6 +172,36 @@
           ]
         },
         {
+          "title": "Bonolota Express Bangla Movie",
+          "language": "Bangla",
+          "year": "2026",
+          "rating": "8.0",
+          "poster": "https://pub-69b6234af505413bbeac2bbc8039195c.r2.dev/poster_4i601779559231.jpg",
+          "description": "ফ্যামিলি রোমান্টিক ড্রামা/মুভি।",
+          "sources": [
+            {
+              "server_name": "Server 1",
+              "url": "https://pub-538edaef4a1246c989cd0c69ae08ce40.r2.dev/a8af614b8358396b07b802d3a3febdee?token=1787810400-096791e3204022652d612ad7ec21aad6bf66f13e"
+            }
+          
+          ]
+        },
+        {
+          "title": "Dhumketu Bangla Movie",
+          "language": "Bangla",
+          "year": "2026",
+          "rating": "7.0",
+          "poster": "https://m.media-amazon.com/images/M/MV5BMTY3NzM4Y2ItOTE5NC00ZGZmLThkZTQtYTkyMGU0NmExZThmXkEyXkFqcGc@._V1_.jpg",
+          "description": "ফ্যামিলি রোমান্টিক ড্রামা/মুভি।",
+          "sources": [
+            {
+              "server_name": "Server 1",
+              "url": "https://pub-538edaef4a1246c989cd0c69ae08ce40.r2.dev/018e2558e56daa98c617778a06efbe34?token=1787810400-e8cb2593a4126673199f0e68ff22e848a20eb257"
+            }
+          
+          ]
+        },
+        {
           "title": "Malik Bangla Movie",
           "language": "Bangla",
           "year": "2026",
