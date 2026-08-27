@@ -247,13 +247,31 @@
     {
       "category_name": "HINDI",
       "movies": [
+      {
+          "title": "Toxic Hindi Movie",
+          "language": "Hindi",
+          "year": "2026",
+          "rating": "8.0",
+          "poster": "https://image.tmdb.org/t/p/original/o56WdejJstnWDEZsSVrVPw7SyS8.jpg",
+          "description": "অ্যাকশন ও ড্রামা মুভি।",
+          "sources": [
+            {
+              "server_name": "Server 1",
+              "url": "https://ctghall.com/Data/Movies/South-Indian/Toxic%20A%20Fairy%20Tale%20for%20Grown-ups%20(2026)/SouthFreak.COM%20-%20Toxic%202026%20Hindi%20(Cleaned)%20720p%20HQ%20HDTC%20x264.mkv"
+            },
+            {
+              "server_name": "Server 2",
+              "url": "https://pub-538edaef4a1246c989cd0c69ae08ce40.r2.dev/media/AKj7UCBi/main?token=1787810400-57a1f43dd7197a9872ad2c729e8d1a7b198cad8b"
+            }
+          ]
+        },
         {
           "title": "Welcome to the Jungle",
           "language": "Hindi",
           "year": "2026",
           "rating": "7.0",
           "poster": "https://m.media-amazon.com/images/M/MV5BMGIwNTQwZDItYjhkNy00MzczLTgwYTktMzUxZGU3NjA4YWViXkEyXkFqcGc@._V1_.jpg",
-          "description": "অ্যাকশন হরর ও ড্রামা মুভি।",
+          "description": "অ্যাকশন ও ড্রামা মুভি।",
           "sources": [
             {
               "server_name": "Server 1",
@@ -268,7 +286,7 @@
           "year": "2026",
           "rating": "8.0",
           "poster": "http://www.naturalbd.com/uploads/video_thumb/5649.jpg?v=1765779724",
-          "description": "অ্যাকশন হরর ও ড্রামা মুভি।",
+          "description": "রোমান্টিক ড্রামা মুভি।",
           "sources": [
             {
               "server_name": "Server 1",
