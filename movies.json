@@ -247,7 +247,21 @@
     {
       "category_name": "HINDI",
       "movies": [
-        
+        {
+          "title": "Welcome to the Jungle",
+          "language": "Hindi",
+          "year": "2026",
+          "rating": "7.0",
+          "poster": "https://m.media-amazon.com/images/M/MV5BMGIwNTQwZDItYjhkNy00MzczLTgwYTktMzUxZGU3NjA4YWViXkEyXkFqcGc@._V1_.jpg",
+          "description": "অ্যাকশন হরর ও ড্রামা মুভি।",
+          "sources": [
+            {
+              "server_name": "Server 1",
+              "url": "https://fs.plus.net.bd/Movies/Hindi/2026/Welcome%20To%20The%20Jungle%20%282026%29/Welcome.to.the.Jungle.2026.1080p.JIOHS.WEB-DL.DDP.5.1.H264-ADDYRIPS.mkv"
+            }
+            
+          ]
+        },
 {
           "title": "Dada Hindi Movie",
           "language": "Hindi",
