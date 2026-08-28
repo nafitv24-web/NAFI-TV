@@ -15,6 +15,10 @@
             {
               "server_name": "Server 2",
               "url": "https://akash-backup.sm-monirul-islam-rs.workers.dev/btv.m3u8"
+            },
+            {
+              "server_name": "Server 3",
+              "url": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/908663.m3u8"
             }
           ]
         },
@@ -45,6 +49,10 @@
             {
               "server_name": "Server 2",
               "url": "https://tvsen5.aynaott.com/atnbangla/index.m3u8"
+            },
+            {
+              "server_name": "Server 3",
+              "url": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/908652.m3u8"
             }
           ]
         },
@@ -60,6 +68,10 @@
             {
               "server_name": "Server 2",
               "url": "https://tvsen6.aynaott.com/da6WMXAk/index.m3u8"
+            },
+            {
+              "server_name": "Server 3",
+              "url": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/908661.m3u8"
             }
           ]
         },
@@ -75,6 +87,10 @@
             {
               "server_name": "Server 2",
               "url": "https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8"
+            },
+            {
+              "server_name": "Server 3",
+              "url": "http://fastshare1.com:80/live/25711345/late8airline/390.ts"
             }
           ]
         },
@@ -90,6 +106,10 @@
             {
               "server_name": "Server 2",
               "url": "http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8"
+            },
+            {
+              "server_name": "Server 3",
+              "url": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/s3/225791.m3u8"
             }
           ]
         },
@@ -105,6 +125,10 @@
             {
               "server_name": "Server 2",
               "url": "https://tvsen6.aynaott.com/FNHpYvGZ7FkCE10PwTHm/index.m3u8"
+            },
+            {
+              "server_name": "Server 3",
+              "url": "http://fastshare1.com:80/live/25711345/late8airline/34665.ts"
             }
           ]
         },
@@ -120,6 +144,10 @@
             {
               "server_name": "Server 2",
               "url": "https://tvsen5.aynaott.com/JHPxHAWonztVucyc4GzF/index.m3u8"
+            },
+            {
+              "server_name": "Server 3",
+              "url": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/908651.m3u8"
             }
           ]
         },
@@ -135,6 +163,10 @@
             {
               "server_name": "Server 2",
               "url": "http://tvsen5.aynascope.net/RtvHD/index.m3u8"
+            },
+            {
+              "server_name": "Server 3",
+              "url": "http://fastshare1.com:80/live/25711345/late8airline/401.ts"
             }
           ]
         },
@@ -150,6 +182,10 @@
             {
               "server_name": "Server 2",
               "url": "https://tvsen5.aynaott.com/banglavision/index.m3u8"
+            },
+            {
+              "server_name": "Server 3",
+              "url": "http://fastshare1.com:80/live/25711345/late8airline/426.ts"
             }
           ]
         },
@@ -165,6 +201,10 @@
             {
               "server_name": "Server 2",
               "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/live-orgin/anandatv.stream/playlist.m3u8"
+            },
+            {
+              "server_name": "Server 3",
+              "url": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/908683.m3u8"
             }
           ]
         },
@@ -180,6 +220,10 @@
             {
               "server_name": "Server 2",
               "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/somoy_tv/playlist.m3u8"
+            },
+            {
+              "server_name": "Server 3",
+              "url": "http://fastshare1.com:80/live/25711345/late8airline/422.ts"
             }
           ]
         },
@@ -195,6 +239,10 @@
             {
               "server_name": "Server 2",
               "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/independent_tv/playlist.m3u8"
+            },
+            {
+              "server_name": "Server 3",
+              "url": "http://fastshare1.com:80/live/25711345/late8airline/423.ts"
             }
           ]
         },
@@ -210,6 +258,10 @@
             {
               "server_name": "Server 2",
               "url": "https://tvsen6.aynaott.com/KGdZEdA7qQ43dmPkgk1j/index.m3u8"
+            },
+            {
+              "server_name": "Server 3",
+              "url": "http://fastshare1.com:80/live/25711345/late8airline/421.ts"
             }
           ]
         },
@@ -225,6 +277,10 @@
             {
               "server_name": "Server 2",
               "url": "https://akash-backup.sm-monirul-islam-rs.workers.dev/channel_1.m3u8"
+            },
+            {
+              "server_name": "Server 3",
+              "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8"
             }
           ]
         },
@@ -240,6 +296,10 @@
             {
               "server_name": "Server 2",
               "url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/starnewsbd.stream/playlist.m3u8?wmsAuthSign=|Referer=https://www.jagobd.com/"
+            },
+            {
+              "server_name": "Server 3",
+              "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8"
             }
           ]
         },
@@ -315,6 +375,10 @@
             {
               "server_name": "Server 2",
               "url": "https://tvsen6.aynaott.com/EWDrV5QskgarZEUBb3pU/index.m3u8"
+            },
+            {
+              "server_name": "Server 3",
+              "url": "http://fastshare1.com:80/live/25711345/late8airline/428.ts"
             }
           ]
         },
@@ -330,6 +394,10 @@
             {
               "server_name": "Server 2",
               "url": "https://tvsen6.aynaott.com/pF66Tkz0qFwP2aMMqHyt/index.m3u8"
+            },
+            {
+              "server_name": "Server 3",
+              "url": "http://fastshare1.com:80/live/25711345/late8airline/420.ts"
             }
           ]
         },
@@ -345,6 +413,10 @@
             {
               "server_name": "Server 2",
               "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/deshtv.stream/index.m3u8"
+            },
+            {
+              "server_name": "Server 3",
+              "url": "http://fastshare1.com:80/live/25711345/late8airline/394.ts"
             }
           ]
         },
@@ -360,6 +432,10 @@
             {
               "server_name": "Server 2",
               "url": "https://tvsen6.aynaott.com/rELXiuUXqbgzPb06Npom/index.m3u8"
+            },
+            {
+              "server_name": "Server 3",
+              "url": "http://fastshare1.com:80/live/25711345/late8airline/3814.ts"
             }
           ]
         },
@@ -375,6 +451,10 @@
             {
               "server_name": "Server 2",
               "url": "https://tvsen6.aynaott.com/cdgr3tw6WoG7JyRnLbi0/index.m3u8"
+            },
+            {
+              "server_name": "Server 3",
+              "url": "http://fastshare1.com:80/live/25711345/late8airline/3810.ts"
             }
           ]
         },
@@ -390,6 +470,10 @@
             {
               "server_name": "Server 2",
               "url": "https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8"
+            },
+            {
+              "server_name": "Server 3",
+              "url": "http://fastshare1.com:80/live/25711345/late8airline/1331.ts"
             }
           ]
         },
@@ -405,6 +489,10 @@
             {
               "server_name": "Server 2",
               "url": "http://tvsen5.aynascope.net/maasrangatv/index.m3u8"
+            },
+            {
+              "server_name": "Server 3",
+              "url": "http://fastshare1.com:80/live/25711345/late8airline/1036.ts"
             }
           ]
         },
@@ -420,6 +508,10 @@
             {
               "server_name": "Server 2",
               "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/globaltv.stream/index.m3u8"
+            },
+            {
+              "server_name": "Server 3",
+              "url": "https://sm-monirul.top/toffee/play/ekhon_tv.m3u8"
             }
           ]
         },
@@ -435,6 +527,10 @@
             {
               "server_name": "Server 2",
               "url": "https://tvsen6.aynaott.com/y0q9eFAuquAtvTxRzUHq/index.m3u8"
+            },
+            {
+              "server_name": "Server 3",
+              "url": "http://fastshare1.com:80/live/25711345/late8airline/4231.ts"
             }
           ]
         },
@@ -450,6 +546,10 @@
             {
               "server_name": "Server 2",
               "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/playlist.m3u8"
+            },
+            {
+              "server_name": "Server 3",
+              "url": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/908650.m3u8"
             }
           ]
         },
@@ -465,6 +565,10 @@
             {
               "server_name": "Server 2",
               "url": "https://tvsen6.aynaott.com/39ee93nUbCCmm5LsyD4t/index.m3u8"
+            },
+            {
+              "server_name": "Server 3",
+              "url": "http://fastshare1.com:80/live/25711345/late8airline/3803.ts"
             }
           ]
         },
@@ -480,6 +584,10 @@
             {
               "server_name": "Server 2",
               "url": "https://tvsen6.aynaott.com/N8Xbo5vdwVU6sF43RsW0/index.m3u8"
+            },
+            {
+              "server_name": "Server 3",
+              "url": "http://fastshare1.com:80/live/25711345/late8airline/408.ts"
             }
           ]
         },
@@ -495,6 +603,10 @@
             {
               "server_name": "Server 2",
               "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/mytv-up-off.stream/live-orgin/mytv-up-off.stream/playlist.m3u8"
+            },
+            {
+              "server_name": "Server 3",
+              "url": "http://fastshare1.com:80/live/25711345/late8airline/398.ts"
             }
           ]
         },
@@ -510,6 +622,10 @@
             {
               "server_name": "Server 2",
               "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/playlist.m3u8"
+            },
+            {
+              "server_name": "Server 3",
+              "url": "http://fastshare1.com:80/live/25711345/late8airline/257227.ts"
             }
           ]
         },
@@ -525,6 +641,10 @@
             {
               "server_name": "Server 2",
               "url": "https://iptvbd.live/metv1080/1080.m3u8"
+            },
+            {
+              "server_name": "Server 3",
+              "url": "http://103.175.242.10:8080/metv/index.m3u8"
             }
           ]
         },
@@ -540,6 +660,798 @@
             {
               "server_name": "Server 2",
               "url": "https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8"
+            }
+          ]
+        },
+        {
+          "title": "MY CINEMA TV",
+          "poster": "http://picon.tivi-ott.net:25461/picon/ASIA/BANGLA/MY%20CINEMA%20TV.png",
+          "description": "",
+          "sources": [
+            {
+              "server_name": "Server 3",
+              "url": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/883575.m3u8"
+            }
+          ]
+        },
+        {
+          "title": "AAKAASH BANGLA",
+          "poster": "http://picon.tivi-ott.net:25461/picon/ASIA/BANGLA/AAKAASH%20BANGLA.png",
+          "description": "",
+          "sources": [
+            {
+              "server_name": "Server 3",
+              "url": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/908658.m3u8"
+            }
+          ]
+        },
+        {
+          "title": "ABP ANANDA",
+          "poster": "http://picon.tivi-ott.net:25461/picon/ASIA/BANGLA/ABP%20ANANDA.png",
+          "description": "",
+          "sources": [
+            {
+              "server_name": "Server 3",
+              "url": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/908659.m3u8"
+            }
+          ]
+        },
+        {
+          "title": "ATN BANGLA USA",
+          "poster": "http://picon.tivi-ott.net:25461/picon/ASIA/BANGLA/ATN%20BANGLA.png",
+          "description": "",
+          "sources": [
+            {
+              "server_name": "Server 3",
+              "url": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/908677.m3u8"
+            }
+          ]
+        },
+        {
+          "title": "BTV WORLD",
+          "poster": "http://picon.tivi-ott.net:25461/picon/ASIA/BANGLA/BTV%20WORLD.png",
+          "description": "",
+          "sources": [
+            {
+              "server_name": "Server 3",
+              "url": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/908662.m3u8"
+            }
+          ]
+        },
+        {
+          "title": "COLORS BANGLA",
+          "poster": "http://picon.tivi-ott.net:25461/picon/ASIA/BANGLA/COLORS%20BANGLA.png",
+          "description": "",
+          "sources": [
+            {
+              "server_name": "Server 3",
+              "url": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/908665.m3u8"
+            }
+          ]
+        },
+        {
+          "title": "COLORS BANGLA FHD",
+          "poster": "http://picon.tivi-ott.net:25461/picon/ASIA/BANGLA/COLORS%20BANGLA%20FHD.png",
+          "description": "",
+          "sources": [
+            {
+              "server_name": "Server 3",
+              "url": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/908654.m3u8"
+            }
+          ]
+        },
+        {
+          "title": "DD BANGLA",
+          "poster": "http://picon.tivi-ott.net:25461/picon/ASIA/BANGLA/DD%20BANGLA.png",
+          "description": "",
+          "sources": [
+            {
+              "server_name": "Server 3",
+              "url": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/908666.m3u8"
+            }
+          ]
+        },
+        {
+          "title": "DEEPTO TV HD",
+          "poster": "http://picon.tivi-ott.net:25461/picon/ASIA/BANGLA/DEEPTO%20TV%20HD.png",
+          "description": "",
+          "sources": [
+            {
+              "server_name": "Server 3",
+              "url": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/908678.m3u8"
+            }
+          ]
+        },
+        {
+          "title": "DHOOM MUSIC",
+          "poster": "http://picon.tivi-ott.net:25461/picon/ASIA/BANGLA/DHOOM%20MUSIC.png",
+          "description": "",
+          "sources": [
+            {
+              "server_name": "Server 3",
+              "url": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/908667.m3u8"
+            }
+          ]
+        },
+        {
+          "title": "DISCOVERY HD BENGALI",
+          "poster": "http://picon.tivi-ott.net:25461/picon/ASIA/BANGLA/DISCOVERY%20HD%20BENGALI.png",
+          "description": "",
+          "sources": [
+            {
+              "server_name": "Server 3",
+              "url": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/908684.m3u8"
+            }
+          ]
+        },
+        {
+          "title": "ENTER 10 BANGLA",
+          "poster": "http://picon.tivi-ott.net:25461/picon/ASIA/BANGLA/ENTER%2010%20BANGLA.png",
+          "description": "",
+          "sources": [
+            {
+              "server_name": "Server 3",
+              "url": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/908687.m3u8"
+            }
+          ]
+        },
+        {
+          "title": "ETV BANGLA",
+          "poster": "http://picon.tivi-ott.net:25461/picon/ASIA/BANGLA/ETV%20BANGLA.png",
+          "description": "",
+          "sources": [
+            {
+              "server_name": "Server 3",
+              "url": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/908668.m3u8"
+            }
+          ]
+        },
+        {
+          "title": "iTV UK",
+          "poster": "http://picon.tivi-ott.net:25461/picon/ASIA/BANGLA/iTV%20UK.png",
+          "description": "",
+          "sources": [
+            {
+              "server_name": "Server 3",
+              "url": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/908686.m3u8"
+            }
+          ]
+        },
+        {
+          "title": "JALSHA MOVIES FHD",
+          "poster": "http://picon.tivi-ott.net:25461/picon/ASIA/BANGLA/JALSHA%20MOVIES%20FHD.png",
+          "description": "",
+          "sources": [
+            {
+              "server_name": "Server 3",
+              "url": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/908656.m3u8"
+            }
+          ]
+        },
+        {
+          "title": "KTV BANGLA",
+          "poster": "http://picon.tivi-ott.net:25461/picon/ASIA/BANGLA/KTV%20BANGLA.png",
+          "description": "",
+          "sources": [
+            {
+              "server_name": "Server 3",
+              "url": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/908673.m3u8"
+            }
+          ]
+        },
+        {
+          "title": "NEWS 24 HD",
+          "poster": "http://picon.tivi-ott.net:25461/picon/ASIA/BANGLA/NEWS%2024%20HD.png",
+          "description": "",
+          "sources": [
+            {
+              "server_name": "Server 3",
+              "url": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/908679.m3u8"
+            }
+          ]
+        },
+        {
+          "title": "NEWS TIME",
+          "poster": "http://picon.tivi-ott.net:25461/picon/ASIA/BANGLA/NEWS%20TIME.png",
+          "description": "",
+          "sources": [
+            {
+              "server_name": "Server 3",
+              "url": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/908669.m3u8"
+            }
+          ]
+        },
+        {
+          "title": "RUPOSHI BANGLA",
+          "poster": "http://picon.tivi-ott.net:25461/picon/ASIA/BANGLA/RUPOSHI%20BANGLA.png",
+          "description": "",
+          "sources": [
+            {
+              "server_name": "Server 3",
+              "url": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/908671.m3u8"
+            }
+          ]
+        },
+        {
+          "title": "SANGEET BANGLA",
+          "poster": "http://picon.tivi-ott.net:25461/picon/ASIA/BANGLA/SANGEET%20BANG.png",
+          "description": "",
+          "sources": [
+            {
+              "server_name": "Server 3",
+              "url": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/908672.m3u8"
+            }
+          ]
+        },
+        {
+          "title": "SONY AATH",
+          "poster": "http://picon.tivi-ott.net:25461/picon/ASIA/BANGLA/SONY%20AATH.png",
+          "description": "",
+          "sources": [
+            {
+              "server_name": "Server 3",
+              "url": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/908674.m3u8"
+            }
+          ]
+        },
+        {
+          "title": "STAR JALSHA+",
+          "poster": "http://picon.tivi-ott.net:25461/picon/ASIA/BANGLA/STAR%20JALSHA+.png",
+          "description": "",
+          "sources": [
+            {
+              "server_name": "Server 3",
+              "url": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/908657.m3u8"
+            }
+          ]
+        },
+        {
+          "title": "STAR JALSHA HD",
+          "poster": "http://picon.tivi-ott.net:25461/picon/ASIA/BANGLA/STAR%20JALSHA%20HD.png",
+          "description": "",
+          "sources": [
+            {
+              "server_name": "Server 3",
+              "url": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/908682.m3u8"
+            }
+          ]
+        },
+        {
+          "title": "STAR JALSHA MOVIES",
+          "poster": "http://picon.tivi-ott.net:25461/picon/ASIA/BANGLA/STAR%20JALSHA%20MOVIES.png",
+          "description": "",
+          "sources": [
+            {
+              "server_name": "Server 3",
+              "url": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/908675.m3u8"
+            }
+          ]
+        },
+        {
+          "title": "SUN BANGLA",
+          "poster": "http://picon.tivi-ott.net:25461/picon/ASIA/BANGLA/SUN%20BANGLA.png",
+          "description": "",
+          "sources": [
+            {
+              "server_name": "Server 3",
+              "url": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/908685.m3u8"
+            }
+          ]
+        },
+        {
+          "title": "TIME TELEVISION",
+          "poster": "http://picon.tivi-ott.net:25461/picon/ASIA/BANGLA/TIME%20TELEVISION.png",
+          "description": "",
+          "sources": [
+            {
+              "server_name": "Server 3",
+              "url": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/908676.m3u8"
+            }
+          ]
+        },
+        {
+          "title": "T SPORTS",
+          "poster": "http://picon.tivi-ott.net:25461/picon/ASIA/BANGLA/T%20SPORTS.png",
+          "description": "",
+          "sources": [
+            {
+              "server_name": "Server 3",
+              "url": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/908649.m3u8"
+            }
+          ]
+        },
+        {
+          "title": "UTV ONE",
+          "poster": "http://picon.tivi-ott.net:25461/picon/ASIA/BANGLA/UTV%20ONE.png",
+          "description": "",
+          "sources": [
+            {
+              "server_name": "Server 3",
+              "url": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/908653.m3u8"
+            }
+          ]
+        },
+        {
+          "title": "ZEE 24 GHANTA",
+          "poster": "http://picon.tivi-ott.net:25461/picon/ASIA/BANGLA/ZEE%2024%20GHANTA.png",
+          "description": "",
+          "sources": [
+            {
+              "server_name": "Server 3",
+              "url": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/908655.m3u8"
+            }
+          ]
+        },
+        {
+          "title": "ZEE BANGLA",
+          "poster": "http://picon.tivi-ott.net:25461/picon/ASIA/BANGLA/ZEE%20BANGLA.png",
+          "description": "",
+          "sources": [
+            {
+              "server_name": "Server 3",
+              "url": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/908680.m3u8"
+            }
+          ]
+        },
+        {
+          "title": "ZEE BANGLA HD (Back-Up)",
+          "poster": "http://picon.tivi-ott.net:25461/picon/ASIA/BANGLA/ZEE%20BANGLA%20HD.png",
+          "description": "",
+          "sources": [
+            {
+              "server_name": "Server 3",
+              "url": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/908681.m3u8"
+            }
+          ]
+        },
+        {
+          "title": "BD: ZEE BANGLA (4K)",
+          "poster": "",
+          "description": "",
+          "sources": [
+            {
+              "server_name": "Server 3",
+              "url": "http://fastshare1.com:80/live/25711345/late8airline/98881.ts"
+            }
+          ]
+        },
+        {
+          "title": "BD: COLORS BANGLA (4K)",
+          "poster": "",
+          "description": "",
+          "sources": [
+            {
+              "server_name": "Server 3",
+              "url": "http://fastshare1.com:80/live/25711345/late8airline/98882.ts"
+            }
+          ]
+        },
+        {
+          "title": "BD: JALSHA MOVIES (4K)",
+          "poster": "",
+          "description": "",
+          "sources": [
+            {
+              "server_name": "Server 3",
+              "url": "http://fastshare1.com:80/live/25711345/late8airline/98884.ts"
+            }
+          ]
+        },
+        {
+          "title": "BD: STAR JALSHA (4K)",
+          "poster": "",
+          "description": "",
+          "sources": [
+            {
+              "server_name": "Server 3",
+              "url": "http://fastshare1.com:80/live/25711345/late8airline/98883.ts"
+            }
+          ]
+        },
+        {
+          "title": "BD: ZEE BANGLA HD",
+          "poster": "",
+          "description": "",
+          "sources": [
+            {
+              "server_name": "Server 3",
+              "url": "http://fastshare1.com:80/live/25711345/late8airline/435.ts"
+            }
+          ]
+        },
+        {
+          "title": "BD: STAR JALSHA MOVIES FHD",
+          "poster": "",
+          "description": "",
+          "sources": [
+            {
+              "server_name": "Server 3",
+              "url": "http://fastshare1.com:80/live/25711345/late8airline/425.ts"
+            }
+          ]
+        },
+        {
+          "title": "BD: ATN NEWS HD",
+          "poster": "",
+          "description": "",
+          "sources": [
+            {
+              "server_name": "Server 3",
+              "url": "http://fastshare1.com:80/live/25711345/late8airline/427.ts"
+            }
+          ]
+        },
+        {
+          "title": "BD: BOISAKHI HD",
+          "poster": "",
+          "description": "",
+          "sources": [
+            {
+              "server_name": "Server 3",
+              "url": "http://fastshare1.com:80/live/25711345/late8airline/429.ts"
+            }
+          ]
+        },
+        {
+          "title": "BD: ASIAN TV",
+          "poster": "",
+          "description": "",
+          "sources": [
+            {
+              "server_name": "Server 3",
+              "url": "http://fastshare1.com:80/live/25711345/late8airline/430.ts"
+            }
+          ]
+        },
+        {
+          "title": "BD: ATN BANGLA",
+          "poster": "",
+          "description": "",
+          "sources": [
+            {
+              "server_name": "Server 3",
+              "url": "http://fastshare1.com:80/live/25711345/late8airline/431.ts"
+            }
+          ]
+        },
+        {
+          "title": "BD: Duronto TV HD",
+          "poster": "",
+          "description": "",
+          "sources": [
+            {
+              "server_name": "Server 3",
+              "url": "http://fastshare1.com:80/live/25711345/late8airline/433.ts"
+            }
+          ]
+        },
+        {
+          "title": "BD: Channel 9 HD",
+          "poster": "",
+          "description": "",
+          "sources": [
+            {
+              "server_name": "Server 3",
+              "url": "http://fastshare1.com:80/live/25711345/late8airline/434.ts"
+            }
+          ]
+        },
+        {
+          "title": "BD: Gazi TV HD",
+          "poster": "",
+          "description": "",
+          "sources": [
+            {
+              "server_name": "Server 3",
+              "url": "http://fastshare1.com:80/live/25711345/late8airline/767.ts"
+            }
+          ]
+        },
+        {
+          "title": "BD: BTV NEWS",
+          "poster": "",
+          "description": "",
+          "sources": [
+            {
+              "server_name": "Server 3",
+              "url": "http://fastshare1.com:80/live/25711345/late8airline/998.ts"
+            }
+          ]
+        },
+        {
+          "title": "BD: iTV",
+          "poster": "",
+          "description": "",
+          "sources": [
+            {
+              "server_name": "Server 3",
+              "url": "http://fastshare1.com:80/live/25711345/late8airline/999.ts"
+            }
+          ]
+        },
+        {
+          "title": "BD: NRB TV",
+          "poster": "",
+          "description": "",
+          "sources": [
+            {
+              "server_name": "Server 3",
+              "url": "http://fastshare1.com:80/live/25711345/late8airline/1000.ts"
+            }
+          ]
+        },
+        {
+          "title": "BD: TIMES24 TV FHD",
+          "poster": "",
+          "description": "",
+          "sources": [
+            {
+              "server_name": "Server 3",
+              "url": "http://fastshare1.com:80/live/25711345/late8airline/1035.ts"
+            }
+          ]
+        },
+        {
+          "title": "BD: DESHE BIDESHE",
+          "poster": "",
+          "description": "",
+          "sources": [
+            {
+              "server_name": "Server 3",
+              "url": "http://fastshare1.com:80/live/25711345/late8airline/2883.ts"
+            }
+          ]
+        },
+        {
+          "title": "BD: TV9Bangla",
+          "poster": "",
+          "description": "",
+          "sources": [
+            {
+              "server_name": "Server 3",
+              "url": "http://fastshare1.com:80/live/25711345/late8airline/2885.ts"
+            }
+          ]
+        },
+        {
+          "title": "BD: RTV Music",
+          "poster": "",
+          "description": "",
+          "sources": [
+            {
+              "server_name": "Server 3",
+              "url": "http://fastshare1.com:80/live/25711345/late8airline/3799.ts"
+            }
+          ]
+        },
+        {
+          "title": "BD: ATN Bangla UK",
+          "poster": "",
+          "description": "",
+          "sources": [
+            {
+              "server_name": "Server 3",
+              "url": "http://fastshare1.com:80/live/25711345/late8airline/3800.ts"
+            }
+          ]
+        },
+        {
+          "title": "BD: Enter 10 Bangla HD",
+          "poster": "",
+          "description": "",
+          "sources": [
+            {
+              "server_name": "Server 3",
+              "url": "http://fastshare1.com:80/live/25711345/late8airline/3801.ts"
+            }
+          ]
+        },
+        {
+          "title": "BD: Gaan Bangla",
+          "poster": "",
+          "description": "",
+          "sources": [
+            {
+              "server_name": "Server 3",
+              "url": "http://fastshare1.com:80/live/25711345/late8airline/3807.ts"
+            }
+          ]
+        },
+        {
+          "title": "BD: KHUSHBOO TV HD",
+          "poster": "",
+          "description": "",
+          "sources": [
+            {
+              "server_name": "Server 3",
+              "url": "http://fastshare1.com:80/live/25711345/late8airline/3808.ts"
+            }
+          ]
+        },
+        {
+          "title": "BD: News 18 Bangla",
+          "poster": "",
+          "description": "",
+          "sources": [
+            {
+              "server_name": "Server 3",
+              "url": "http://fastshare1.com:80/live/25711345/late8airline/3811.ts"
+            }
+          ]
+        },
+        {
+          "title": "BD: ETV TV",
+          "poster": "",
+          "description": "",
+          "sources": [
+            {
+              "server_name": "Server 3",
+              "url": "http://fastshare1.com:80/live/25711345/late8airline/3813.ts"
+            }
+          ]
+        },
+        {
+          "title": "BD: Sristy TV",
+          "poster": "",
+          "description": "",
+          "sources": [
+            {
+              "server_name": "Server 3",
+              "url": "http://fastshare1.com:80/live/25711345/late8airline/3817.ts"
+            }
+          ]
+        },
+        {
+          "title": "BD: BTV Chattogram",
+          "poster": "",
+          "description": "",
+          "sources": [
+            {
+              "server_name": "Server 3",
+              "url": "http://fastshare1.com:80/live/25711345/late8airline/3818.ts"
+            }
+          ]
+        },
+        {
+          "title": "BD: Calcutta News",
+          "poster": "",
+          "description": "",
+          "sources": [
+            {
+              "server_name": "Server 3",
+              "url": "http://fastshare1.com:80/live/25711345/late8airline/3819.ts"
+            }
+          ]
+        },
+        {
+          "title": "IN: DD Bangla",
+          "poster": "",
+          "description": "",
+          "sources": [
+            {
+              "server_name": "Server 3",
+              "url": "http://fastshare1.com:80/live/25711345/late8airline/4049.ts"
+            }
+          ]
+        },
+        {
+          "title": "IN: Travelxp HD (BANGLA)",
+          "poster": "",
+          "description": "",
+          "sources": [
+            {
+              "server_name": "Server 3",
+              "url": "http://fastshare1.com:80/live/25711345/late8airline/20622.ts"
+            }
+          ]
+        },
+        {
+          "title": "BD: Star Jalsha (FHD)",
+          "poster": "",
+          "description": "",
+          "sources": [
+            {
+              "server_name": "Server 3",
+              "url": "http://fastshare1.com:80/live/25711345/late8airline/23218.ts"
+            }
+          ]
+        },
+        {
+          "title": "BD: JALSHA MOVIES (FHD)",
+          "poster": "",
+          "description": "",
+          "sources": [
+            {
+              "server_name": "Server 3",
+              "url": "http://fastshare1.com:80/live/25711345/late8airline/23304.ts"
+            }
+          ]
+        },
+        {
+          "title": "BD: ZEE BANGLA (FHD)",
+          "poster": "",
+          "description": "",
+          "sources": [
+            {
+              "server_name": "Server 3",
+              "url": "http://fastshare1.com:80/live/25711345/late8airline/23305.ts"
+            }
+          ]
+        },
+        {
+          "title": "BD: COLORS BANGLA (FHD)",
+          "poster": "",
+          "description": "",
+          "sources": [
+            {
+              "server_name": "Server 3",
+              "url": "http://fastshare1.com:80/live/25711345/late8airline/23306.ts"
+            }
+          ]
+        },
+        {
+          "title": "BD: ZEE BANGLA CINEMA",
+          "poster": "",
+          "description": "",
+          "sources": [
+            {
+              "server_name": "Server 3",
+              "url": "http://fastshare1.com:80/live/25711345/late8airline/49615.ts"
+            }
+          ]
+        },
+        {
+          "title": "BD: Zee24Ghanta",
+          "poster": "",
+          "description": "",
+          "sources": [
+            {
+              "server_name": "Server 3",
+              "url": "http://fastshare1.com:80/live/25711345/late8airline/144510.ts"
+            }
+          ]
+        },
+        {
+          "title": "BD: Color Bangla Cinema",
+          "poster": "",
+          "description": "",
+          "sources": [
+            {
+              "server_name": "Server 3",
+              "url": "http://fastshare1.com:80/live/25711345/late8airline/271038.ts"
+            }
+          ]
+        },
+        {
+          "title": "BD: 24 Ghanta SD",
+          "poster": "",
+          "description": "",
+          "sources": [
+            {
+              "server_name": "Server 3",
+              "url": "http://fastshare1.com:80/live/25711345/late8airline/355540.ts"
+            }
+          ]
+        },
+        {
+          "title": "BD: Republic Bangla",
+          "poster": "",
+          "description": "",
+          "sources": [
+            {
+              "server_name": "Server 3",
+              "url": "http://fastshare1.com:80/live/25711345/late8airline/376278.ts"
+            }
+          ]
+        },
+        {
+          "title": "BD: MOVIE BANGLA",
+          "poster": "",
+          "description": "",
+          "sources": [
+            {
+              "server_name": "Server 3",
+              "url": "http://fastshare1.com:80/live/25711345/late8airline/510520.ts"
             }
           ]
         }
@@ -560,6 +1472,10 @@
             {
               "server_name": "Server 2",
               "url": "https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8"
+            },
+            {
+              "server_name": "Server 3",
+              "url": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/908682.m3u8"
             }
           ]
         },
@@ -575,6 +1491,10 @@
             {
               "server_name": "Server 2",
               "url": "http://103.159.180.34:5001/live/625.m3u8"
+            },
+            {
+              "server_name": "Server 3",
+              "url": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/908680.m3u8"
             }
           ]
         },
@@ -590,6 +1510,10 @@
             {
               "server_name": "Server 2",
               "url": "https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_240p/chunks.m3u8"
+            },
+            {
+              "server_name": "Server 3",
+              "url": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/908687.m3u8"
             }
           ]
         },
@@ -605,6 +1529,10 @@
             {
               "server_name": "Server 2",
               "url": "https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8"
+            },
+            {
+              "server_name": "Server 3",
+              "url": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/908674.m3u8"
             }
           ]
         },
@@ -620,6 +1548,10 @@
             {
               "server_name": "Server 2",
               "url": "https://livestream7.sunnxt.com/bf76ee92dd01473bb2eb57d137294484/SunBanglaB_IN_index.mpd"
+            },
+            {
+              "server_name": "Server 3",
+              "url": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/908685.m3u8"
             }
           ]
         },
@@ -635,6 +1567,10 @@
             {
               "server_name": "Server 2",
               "url": "https://cdn-4.pishow.tv/live/1231/1231_1.m3u8"
+            },
+            {
+              "server_name": "Server 3",
+              "url": "http://fastshare1.com:80/live/25711345/late8airline/403.ts"
             }
           ]
         },
@@ -650,6 +1586,10 @@
             {
               "server_name": "Server 2",
               "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/master2.m3u8"
+            },
+            {
+              "server_name": "Server 3",
+              "url": "http://fastshare1.com:80/live/25711345/late8airline/49615.ts"
             }
           ]
         },
@@ -665,6 +1605,10 @@
             {
               "server_name": "Server 2",
               "url": "https://live.thebosstv.com:30443/dwlive/AAKAASH-AATH/playlist.m3u8"
+            },
+            {
+              "server_name": "Server 3",
+              "url": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/908658.m3u8"
             }
           ]
         },
@@ -680,6 +1624,10 @@
             {
               "server_name": "Server 2",
               "url": "https://cdn-4.pishow.tv/live/1473/master.m3u8"
+            },
+            {
+              "server_name": "Server 3",
+              "url": "http://fastshare1.com:80/live/25711345/late8airline/3808.ts"
             }
           ]
         },
@@ -710,6 +1658,10 @@
             {
               "server_name": "Server 2",
               "url": "https://cdn-4.pishow.tv/live/1039/master.m3u8"
+            },
+            {
+              "server_name": "Server 3",
+              "url": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/908671.m3u8"
             }
           ]
         },
@@ -725,6 +1677,10 @@
             {
               "server_name": "Server 2",
               "url": "https://iptvcable.netlify.app/Altogether-007/Kolkata/ColorsBanglaHD.m3u8"
+            },
+            {
+              "server_name": "Server 3",
+              "url": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/908665.m3u8"
             }
           ]
         }
@@ -1230,6 +2186,10 @@
             {
               "server_name": "Server 2",
               "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8"
+            },
+            {
+              "server_name": "Server 3",
+              "url": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/908649.m3u8"
             }
           ]
         },
@@ -1380,6 +2340,28 @@
             {
               "server_name": "Server 2",
               "url": "https://s2.bufaloweb.com/bufalo9/tracks-v4a1/mono.ts.m3u8"
+            }
+          ]
+        },
+        {
+          "title": "STAR SPORTS 1 JADOO",
+          "poster": "",
+          "description": "",
+          "sources": [
+            {
+              "server_name": "Server 3",
+              "url": "http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/9397.ts"
+            }
+          ]
+        },
+        {
+          "title": "STAR SPORTS 2",
+          "poster": "",
+          "description": "",
+          "sources": [
+            {
+              "server_name": "Server 3",
+              "url": "http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/9398.ts"
             }
           ]
         }
