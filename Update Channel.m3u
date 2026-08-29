@@ -209,7 +209,7 @@
             },
             {
               "server_name": "Server 2",
-              "url": ""
+              "https://ag.hridoytvx.workers.dev/live/C7GHN1grBfYsGCIH4viUrBgbvZeBomndFvk-_g3OEHZ0fy9o3c5Vx8V4G0hLCGz684rliO7BJQVX7s4ttuCHNtgMgm49_SJKF7WlW4Tmz03ODr13NNRAXS7AFxJqGk-rdZ0Fl-CWTYKweSZNhjGHTVCK0nrFKvhbHSGvxXYEJ91mnhU5v_oUvMjGrcYKdyEkSd6KlQG9HNcptIMbfSDdIk9aP6XowtsHJ40E-cqEdh1nj0tvxTtiJANFCesMwmZtb8dLSE-0pmAc2HiBelO-0FBK_pjQIxARUB3fAf6trHnqDGXYkJtKh4xreVgJfTo1jAy2DEud5AaW1-J43LCkPBrQSDjsKoqOBr1yOrLCmJET0Evbxmdyt7Ml3ooxbQ_rH9NUK-NYpsgU2oCamFgRkNoxuzALAbLyS_ZhG-YMvqUmFiIsYiehdkznm_oPnpWV4rE1BsJdYhp20-fSLIEgIYfBpWJIA2LYfzGP45Yol7VtKD4I5FmTFn5abMkGhf1ai7RNa6UR7X8UixY.m3u8": ""
             }
           ]
         },
@@ -224,7 +224,7 @@
             },
             {
               "server_name": "Server 2",
-              "url": ""
+              "https://ag.hridoytvx.workers.dev/live/RDoVR0fKOZnkvhs8o3b7y-jJRlqBPLP_eRzR_yd7EWf3zPM_9es2LthJ7MIGH5dArFbcuhx8uvJtwzi0Sq6mxIVZ4e_bJi0nKbBJlPoR12YEQIEu5eHYG_2Rq5HDXY230NL1CxWo8MCSuDaKi-qlzy20v6fraGnRYbAd9nKmNpAQKRjdgtOL8TMGgKDJNS3_F7sDD88u4zEGIj48hL6thNe6wQTsyYCx-dED0rI9WeLSUvMj7hij5VyWeoj_yx5IASyrUhJL9eD0jn6fHXlJBOEnfjiVhKubum9RV_yj7jWWwS8VKQH1ia_3EX8iU0Yc_4Qqys-yCSAHAeHAVTT3XkSNVb4kVWaBkoNFQ7_GuXOyMMUT6ZruuCvYM98Z2LCyhfYo6qN8O7VqLxlDBhbxEXRrruN8G5_jyI6mkv62yVqFN-4LFx9WrPSC2LefolxtdxiV_Ces8LDFLTSTy3jQyykmxmaSTGB6zIj-JQA14bZvV0Zb-dY6QS6gVUxQWaFP9Ld5L50ZQhxeMxk.m3u8": ""
             }
           ]
         },
@@ -250,11 +250,12 @@
           "sources": [
             {
               "server_name": "Server 1",
-              "url": "https://akash-backup.sm-monirul-islam-rs.workers.dev/channel_1.m3u8"
+              "url": "https://ag.hridoytvx.workers.dev/live/cpglCJm1jmCXJur48gYftL-nughCSrp3n1EJqtuE04KWCFdq7AqYylOE9JQMlfdqe-RivEeRrh92pv413Ik5U_Wj8e11qojzPkjVmPPh5QlJA8zrIfS82XhACFkk6H8uA6hLuJR3792xeNbaiGxQkvqtGU8tJJIadOyt-JuwOATJk5XbMRCDbLPStDdpyr6mPlaE3aEdXGbIMRsi2TobGdJmbFCEmfemxecq2ENXh1oMz4sQMLegFW-9e2AIgZdg21O8Ya035TsGb2rv6z6_eWQBI7gOB6uTQ43JpElDYR7sHR6lqPskw1j6Oq6oh6YvcG2gGC0TbsqJMkEDynEnIk4bvC5IwF2N3hXWe6Z2D4c0Jmv67pHtFPH8WDFSJTXwmairL8cCusJyULWInStiX4j_tfkFllfLFczoWqJpTeptEDAQMTolGW6atczYb2jrpgt2MuLKiZgEzbBS2XtpQFsGN8Ttyw.m3u8"
             },
+
             {
               "server_name": "Server 2",
-              "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/btvbd-office-sg.stream/index.m3u8"
+              "url": "https://akash-backup.sm-monirul-islam-rs.workers.dev/channel_1.m3u8"
             }
           ]
         },
