@@ -1,1 +1,30 @@
-
+{
+    "HeaderInfo": {
+        "PlaylistName": "Tapmad Matches Metadata",
+        "LastUpdate": "09:15 PM 29-08-2026",
+        "Telegram": "https://t.me/livesportsplay",
+        "Owner": "Md Sohanur Rahman Hady",
+        "SpecialThanks": "Shuvo vai for contributing his premium Tapmad account."
+    },
+    "Stats": {
+        "LiveCount": 6,
+        "UpcomingCount": 17
+    },
+    "Matches": [
+        {
+            "EntityId": 15934,
+            "VideoName": "Everton vs Bournemouth",
+            "CategoryName": "Bournemouth vs Everton 2026",
+            "StageName": "Premier League",
+            "EventStartDate": "2026-08-27 16:00:00",
+            "Description": "Everton F.C.
+5th in Premier League ",
+            "ThumbnailStandard": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTemyXSeZKbJZ0E0wN-cjvQczY2Gi_5-bcFYLWYOSgopZk6B0kVuV-JHrrO&s=10",
+            "ThumbnailTV": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTemyXSeZKbJZ0E0wN-cjvQczY2Gi_5-bcFYLWYOSgopZk6B0kVuV-JHrrO&s=10",
+            "IsFreeToWatch": false,
+            "Status": "Live",
+            "CategoryId": 764,
+            "UrlSlug": "england-vs-pakistan-2nd-test-live",
+            "stream_url": "https://live05.meung.app/live/33982309.m3u8"
+        },
+        
