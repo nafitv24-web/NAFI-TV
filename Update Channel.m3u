@@ -1,10 +1,10 @@
 {
   "categories": [
     {
-      "category_name": "BANGLA",
+      "category_name": "BANGLADESH",
       "movies": [
         {
-          "title": "Nagorik_TV",
+          "title": "Nagorik TV",
           "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-kb5MBvGaZ-CVtpYi2vM2Zy0LERvZSRlKNgyT1Zl3zw&s",
           "description": "",
           "sources": [
@@ -15,21 +15,6 @@
             {
               "server_name": "Server 2",
               "url": "https://torongoplus.vercel.app/tv.mp4"
-            }
-          ]
-        },
-        {
-          "title": "Akash Aath",
-          "poster": "https://static.wikia.nocookie.net/etv-gspn-bangla/images/3/34/Aakash_Aath_logo_%282013%29.png",
-          "description": "",
-          "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "https://cdn-4.pishow.tv/live/969/master.m3u8"
-            },
-            {
-              "server_name": "Server 2",
-              "url": ""
             }
           ]
         },
@@ -156,8 +141,23 @@
       ]
     },
     {
-      "category_name": "INDIA",
+      "category_name": "INDIA BANGLA",
       "movies": [
+        {
+          "title": "Akash Aath",
+          "poster": "https://static.wikia.nocookie.net/etv-gspn-bangla/images/3/34/Aakash_Aath_logo_%282013%29.png",
+          "description": "",
+          "sources": [
+            {
+              "server_name": "Server 1",
+              "url": "https://cdn-4.pishow.tv/live/969/master.m3u8"
+            },
+            {
+              "server_name": "Server 2",
+              "url": ""
+            }
+          ]
+        },
         {
           "title": "Star Bangla",
           "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT44Z56zKoiEJjAokoaE6XaUIBTdrjejdvmb-RfOxONrA&s=10",
@@ -219,7 +219,7 @@
           ]
         },
         {
-          "title": "IN | ABP Ananda",
+          "title": "ABP Ananda",
           "poster": "https://static.wikia.nocookie.net/logopedia/images/a/a2/Abp-ananda.png",
           "description": "",
           "sources": [
@@ -234,7 +234,7 @@
           ]
         },
         {
-          "title": "IN | Republic Bangla",
+          "title": "Republic Bangla",
           "poster": "https://static.wikia.nocookie.net/logopedia/images/9/93/R.Bangla_logo_with_tagline.jpg",
           "description": "",
           "sources": [
@@ -249,7 +249,7 @@
           ]
         },
         {
-          "title": "IN | TV9 Bangla",
+          "title": "TV9 Bangla",
           "poster": "https://images.tv9bangla.com/wp-content/themes/tv9bangla/images/tv9-bangla-logo.svg",
           "description": "",
           "sources": [
@@ -266,16 +266,46 @@
       ]
     },
     {
-      "category_name": "BANGLA HINDI",
+      "category_name": "INDIA HINDI",
       "movies": [
         {
-          "title": "Enterr10 Bangla HD",
-          "poster": "https://static.wikia.nocookie.net/logopedia/images/0/01/Enterr10_Bangla.jpg",
+          "title": "Goldmines",
+          "poster": "https://static.wikia.nocookie.net/jhmovie/images/7/7b/Goldmines_logo.png",
           "description": "",
           "sources": [
             {
               "server_name": "Server 1",
-              "url": "https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_240p/chunks.m3u8"
+              "url": "https://cdn-2.pishow.tv/live/1459/master.m3u8"
+            },
+            {
+              "server_name": "Server 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "title": "Colors Cineplex HD",
+          "poster": "https://static.wikia.nocookie.net/logopedia/images/b/b3/Colors_Cineplex.svg",
+          "description": "",
+          "sources": [
+            {
+              "server_name": "Server 1",
+              "url": "http://66.102.126.10:8000/play/a076/index.m3u8"
+            },
+            {
+              "server_name": "Server 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "title": "Dangal TV",
+          "poster": "https://static.wikia.nocookie.net/logopedia/images/3/36/Dangalv2.png",
+          "description": "",
+          "sources": [
+            {
+              "server_name": "Server 1",
+              "url": "https://live-dangal.akamaized.net/liveabr/pub-iodang10p4al/live_720p/chunks.m3u8"
             },
             {
               "server_name": "Server 2",
@@ -297,15 +327,20 @@
               "url": ""
             }
           ]
-        },
+        }
+      ]
+    },
+    {
+      "category_name": "Sports",
+      "movies": [
         {
-          "title": "MOV | Goldmines",
-          "poster": "https://static.wikia.nocookie.net/jhmovie/images/7/7b/Goldmines_logo.png",
+          "title": "---Live(DD Sports)---",
+          "poster": "https://upload.wikimedia.org/wikipedia/commons/6/64/DD_Sports_new_logo.jpg",
           "description": "",
           "sources": [
             {
               "server_name": "Server 1",
-              "url": "https://cdn-2.pishow.tv/live/1459/master.m3u8"
+              "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index_3.m3u8"
             },
             {
               "server_name": "Server 2",
@@ -314,13 +349,13 @@
           ]
         },
         {
-          "title": "MOV | Colors Cineplex HD",
-          "poster": "https://static.wikia.nocookie.net/logopedia/images/b/b3/Colors_Cineplex.svg",
+          "title": "---Live(T Sports HD)---",
+          "poster": "https://static.wikia.nocookie.net/etv-gspn-bangla/images/6/6e/T_Sports_HD_logo_2021.png",
           "description": "",
           "sources": [
             {
               "server_name": "Server 1",
-              "url": "http://66.102.126.10:8000/play/a076/index.m3u8"
+              "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8"
             },
             {
               "server_name": "Server 2",
@@ -329,13 +364,118 @@
           ]
         },
         {
-          "title": "ENT | Dangal TV",
-          "poster": "https://static.wikia.nocookie.net/logopedia/images/3/36/Dangalv2.png",
+          "title": "---Live(Star Sports 1 HD)---",
+          "poster": "https://static.epg.best/cn/StarSports1.cn.png",
           "description": "",
           "sources": [
             {
               "server_name": "Server 1",
-              "url": "https://live-dangal.akamaized.net/liveabr/pub-iodang10p4al/live_720p/chunks.m3u8"
+              "url": "https://tvsen3.aynaott.com/Sports1/mono.m3u8"
+            },
+            {
+              "server_name": "Server 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "title": "CR | Star Sports 1 Hindi",
+          "poster": "https://static.epg.best/cn/StarSports1.cn.png",
+          "description": "",
+          "sources": [
+            {
+              "server_name": "Server 1",
+              "url": "https://starsportshindiii.pages.dev/index.m3u8"
+            },
+            {
+              "server_name": "Server 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "title": "--Live(A Sports)--",
+          "poster": "https://a-sports.tv/assets/img/logo/A-Sports-Logo-final.webp",
+          "description": "",
+          "sources": [
+            {
+              "server_name": "Server 1",
+              "url": "https://playztv-apps.pages.dev/asports/index.m3u8"
+            },
+            {
+              "server_name": "Server 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "title": "--Live(beIN SPORTS XTRA)--",
+          "poster": "https://static.wikia.nocookie.net/logopedia/images/b/b5/XTRA_2.png",
+          "description": "",
+          "sources": [
+            {
+              "server_name": "Server 1",
+              "url": "https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlistR1080p.m3u8"
+            },
+            {
+              "server_name": "Server 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "title": "--Live(Euro Sport 2 HD)--",
+          "poster": "https://static.wikia.nocookie.net/logopedia/images/d/da/Eurosport_2_%28II%29.svg",
+          "description": "",
+          "sources": [
+            {
+              "server_name": "Server 1",
+              "url": "http://151.80.18.177:86/Eurosport_2_HD/index.m3u8"
+            },
+            {
+              "server_name": "Server 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "title": "--Live(WiLLoW HD)--",
+          "poster": "https://aimages.willow.tv/wlo_logo_200_200.jpg",
+          "description": "",
+          "sources": [
+            {
+              "server_name": "Server 1",
+              "url": "https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8"
+            },
+            {
+              "server_name": "Server 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "title": "FB | BeIN Sports",
+          "poster": "https://static.wikia.nocookie.net/logopedia/images/4/4d/BeIN_Sports_2014_flat.svg",
+          "description": "",
+          "sources": [
+            {
+              "server_name": "Server 1",
+              "url": "https://tvsen6.aynaott.com/beinsports/index.m3u8"
+            },
+            {
+              "server_name": "Server 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "title": "FB | FIFA+",
+          "poster": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN270000230_20250514T004921SQUARE.png",
+          "description": "",
+          "sources": [
+            {
+              "server_name": "Server 1",
+              "url": "https://c822c659.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1pbl9GSUZBUGx1c0VuZ2xpc2hfSExT/playlist.m3u8"
             },
             {
               "server_name": "Server 2",
@@ -346,7 +486,7 @@
       ]
     },
     {
-      "category_name": "OTHER",
+      "category_name": "Other",
       "movies": [
         {
           "title": "Al Jazeera English HD",
