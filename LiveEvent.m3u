@@ -20,7 +20,7 @@
             "Description": "Everton F.C. 5th in Premier League",
             "ThumbnailStandard": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTemyXSeZKbJZ0E0wN-cjvQczY2Gi_5-bcFYLWYOSgopZk6B0kVuV-JHrrO&s=10",
             "ThumbnailTV": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTemyXSeZKbJZ0E0wN-cjvQczY2Gi_5-bcFYLWYOSgopZk6B0kVuV-JHrrO&s=10",
-            "IsFreeToWatch": ,
+            "IsFreeToWatch": false,
             "Status": "Live",
             "CategoryId": 764,
             "UrlSlug": "everton-vs-bournemouth-premier-league-live",
