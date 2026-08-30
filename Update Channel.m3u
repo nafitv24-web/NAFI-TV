@@ -438,7 +438,7 @@
         },
         {
           "title": "Amar Bangla",
-          "poster": "https://amarbanglatv.in/wp-content/uploads/2026/07/Amar-Bangla-TV-logo-300x162.jpeg",
+          "poster": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUeFLEldQakv_lXMHuwGSISSQbLWebNFciMBsxHQlSG7gkETGmf-tvJP3cGLsxfOIHBMFF8j1N3u8fKpgQx_t0yXBieelUvNHdE4VPoyPkDtnV2-TRJQBPDNnuAELlGNKZFo60jUONWBUx-W3Uq0HkXVqOsal3yVjkOkZ67y25QHVYLxSXIn84L9Sos70q/s2048/Picsart_24-10-22_19-33-49-063.png",
           "description": "",
           "sources": [
             { "server_name": "Server 1", "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8" },
@@ -474,7 +474,7 @@
         },
         {
           "title": "BTV Chittagong",
-          "poster": "https://static.wikia.nocookie.net/logopedia/images/5/52/BTV_Chattogram_Logo.svg",
+          "poster": "https://i.ibb.co.com/k2R3QmKF/Picsart-24-10-21-19-38-26-976.webp",
           "description": "",
           "sources": [
             { "server_name": "Server 1", "url": "https://tvsen6.aynaott.com/TjGR1GcxKetHNVcMVxbq/index.m3u8" },
@@ -523,18 +523,10 @@
           "description": "",
           "sources": [
             { "server_name": "Server 1", "url": "https://vods2.aynaott.com/gseriesDrama/index.m3u8" },
-            { "server_name": "Server 2", "url": "" }
+            { "server_name": "Server 2", "url": "https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8" }
           ]
         },
-        {
-          "title": "G-Series",
-          "poster": "https://upload.wikimedia.org/wikipedia/en/c/ce/G-Series_Logo.png",
-          "description": "",
-          "sources": [
-            { "server_name": "Server 1", "url": "https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8" },
-            { "server_name": "Server 2", "url": "" }
-          ]
-        },
+        
         {
           "title": "iON TV",
           "poster": "https://static.wikitide.net/avidwiki/2/22/Ion5.png",
@@ -600,7 +592,7 @@
         },
         {
           "title": "PROBASHI TV",
-          "poster": "https://i.imgur.com/79g2kMA.png",
+          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNt8NRaowEx1PfpxdbYC6GEnS2BGjPClHRTeziRS321g&s=10",
           "description": "",
           "sources": [
             { "server_name": "Server 1", "url": "http://158.69.24.53:8080/probashi_tv/tracks-v1a1/mono.m3u8" },
@@ -822,7 +814,7 @@
         },
         {
           "title": "TV9 Bangla",
-          "poster": "https://images.tv9bangla.com/wp-content/themes/tv9bangla/images/tv9-bangla-logo.svg",
+          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr1W3V-TfxJ3s9BFOqt08Cp-qRVWH8UmqJHlkr3OzEPA&s",
           "description": "",
           "sources": [
             { "server_name": "Server 1", "url": "https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8" },
