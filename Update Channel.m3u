@@ -12,7 +12,22 @@
             { "server_name": "Server 2", "url": "link" }
           ]
         },
-
+{ "title": "Star Bangla",
+          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT44Z56zKoiEJjAokoaE6XaUIBTdrjejdvmb-RfOxONrA&s=10",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "http://103.151.60.162:2122/play/a0f5/index.m3u8?hls%20https://share.google/WAGCd6V788JMEkdyC" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+{ "title": "probashi tv news",
+          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk7jVewyNqm1CHR85rDTydCQIxcYrxZlDexMjBZFpX4Q&s=10",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "http://158.69.24.53:8080/probashi_tv/tracks-v1a1/mono.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
 
        { "title": "BTV",
           "poster": "https://i.ibb.co.com/k2R3QmKF/Picsart-24-10-21-19-38-26-976.webp",
