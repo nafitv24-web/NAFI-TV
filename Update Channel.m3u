@@ -29,32 +29,8 @@
           ]
         },
 
-       { "title": "BTV",
-          "poster": "https://i.ibb.co.com/k2R3QmKF/Picsart-24-10-21-19-38-26-976.webp",
-          "description": "",
-          "sources": [
-            { "server_name": "Server 1", "url": "https://akash-backup.sm-monirul-islam-rs.workers.dev/btv.m3u8" },
-            { "server_name": "Server 2", "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1725/output/index.m3u8" }
-          ]
-        },
-        {
-          "title": "BTV News",
-          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGFVQX3hXUtTTgwmRcWrehYFkfjeSiyHSSn1OCbWR6Yg&s",
-          "description": "",
-          "sources": [
-            { "server_name": "Server 1", "url": "" },
-            { "server_name": "Server 2", "url": "" }
-          ]
-        },
-        {
-          "title": "Toffee TV",
-          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcOmF5-fIzc2IrwXLYSsmUegufJp7YPE-Cv2LAcjgFoQ&s=10",
-          "description": "",
-          "sources": [
-            { "server_name": "Server 1", "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_drama/playlist.m3u8" },
-            { "server_name": "Server 2", "url": "" }
-          ]
-        },
+       
+        
         {
           "title": "Bangla 1",
           "poster": "https://i.postimg.cc/R0J6rLBn/r2Pe-JQRk-KVBJNHu-A1u-ABt-MFat3ZFl-Xm4oj-Tt5SWI.png",
@@ -484,6 +460,33 @@
           "description": "",
           "sources": [
             { "server_name": "Server 1", "url": "https://server.livelegitpro.in/bhichannel/bhichannel/index.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+{
+          "title": "BTV News",
+          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGFVQX3hXUtTTgwmRcWrehYFkfjeSiyHSSn1OCbWR6Yg&s",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+
+{ "title": "BTV",
+          "poster": "https://i.ibb.co.com/k2R3QmKF/Picsart-24-10-21-19-38-26-976.webp",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://akash-backup.sm-monirul-islam-rs.workers.dev/btv.m3u8" },
+            { "server_name": "Server 2", "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1725/output/index.m3u8" }
+          ]
+        },
+        {
+          "title": "Toffee TV",
+          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcOmF5-fIzc2IrwXLYSsmUegufJp7YPE-Cv2LAcjgFoQ&s=10",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_drama/playlist.m3u8" },
             { "server_name": "Server 2", "url": "" }
           ]
         },
