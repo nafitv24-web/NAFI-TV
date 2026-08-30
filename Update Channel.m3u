@@ -2169,6 +2169,560 @@
         }
       ]
     },
+
+{
+  "categories": [
+    {
+      "category_name": "Kids",
+      "movies": [
+        {
+          "title": "All Babies Channel",
+          "poster": "https://static.wikia.nocookie.net/logopedia/images/3/3c/Baby_TV_2026.svg",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://d390zi2w1jc4t4.cloudfront.net/master.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+        {
+          "title": "Baby Shark TV",
+          "poster": "https://static.wikia.nocookie.net/logopedia/images/c/c7/Pinkfong_Baby_Shark.svg",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+        {
+          "title": "Bantul The Great",
+          "poster": "https://static.wikia.nocookie.net/etv-gspn-bangla/images/6/68/Bantul_the_Great_logo.png",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://live20.bozztv.com/giatvplayout7/giatv-209869/tracks-v1a1/mono.ts.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+        {
+          "title": "Cartoon Network",
+          "poster": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/cartoon-network-ca.png",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://tvsen5.aynaott.com/cartoonnetwork/index.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+        {
+          "title": "Cartoon Network HD +",
+          "poster": "https://assets-prod.services.toffeelive.com/f_webp,w_240,q_100/1y6e-JQBv9knK3AHNDWb/posters/ee9ba01b-1bcf-436b-b273-7b857f0810fb.webp",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://s3.ideationtec.live/Cartoon_Network/Cartoon_Network.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+        {
+          "title": "Discovery Family",
+          "poster": "https://static.wikia.nocookie.net/logopedia/images/5/51/Discovery_Family.svg",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://tvsen5.aynaott.com/discoveryfamily/index.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+        {
+          "title": "Disney Channel Latin America",
+          "poster": "https://static.wikia.nocookie.net/logopedia/images/f/f0/DISNEYCHANNEL-2025.svg",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "http://15.204.246.24:8080/DisneyHD/index.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+        {
+          "title": "Disney Jr.",
+          "poster": "https://static.wikia.nocookie.net/logopedia/images/4/48/DisneyJr3Dver.png",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "http://190.93.224.42/DISNEY-JR/index.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+        {
+          "title": "Doraemon",
+          "poster": "https://static.wikia.nocookie.net/logopedia/images/e/e4/Doraemon2005.svg",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+        {
+          "title": "Gopal Bhar TV",
+          "poster": "https://static.wikia.nocookie.net/logopedia/images/0/00/SONY_AATH.png",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+        {
+          "title": "Hooray Rhymes",
+          "poster": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4600007TC_20250122T004830SQUARE.png",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://cc-hqignh3tex8xc.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hqignh3tex8xc/OTM/OTM_KidsToonsHindi-SCTE_SAMSUNG/playlist.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+        {
+          "title": "Just For Laughs Gags",
+          "poster": "https://i.imgur.com/HjVEVMJ.png",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://distributionsjustepourrire-justforlaughsgags-1-be.samsung.wurl.tv/playlist.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+        {
+          "title": "Knowledge Network",
+          "poster": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/knowledge-network-ca.png",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://d1wal6k3d7ssin.cloudfront.net/out/v1/ea91db0906c847a4931b46a9ec36e77b/index.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+        {
+          "title": "Lego Channel",
+          "poster": "https://i.imgur.com/xePwW13.png",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://dltiqboxjw21d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-evri8jwgwmxus/index.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+        {
+          "title": "LooLoo Kids TV",
+          "poster": "",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://amg02757-amg02757c3-rakuten-de-6135.playouts.now.amagi.tv/playlist/amg02757-loolookids-llkdefast-rakutende/playlist.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+        {
+          "title": "Mattel Jr.",
+          "poster": "",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://dc6v647pwrp79.cloudfront.net/matjr.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+        {
+          "title": "Moonbug",
+          "poster": "https://yt3.googleusercontent.com/3fWnBPeggOeAwIiDTKowTUF-Va2gqE8j0yn0dTObXYliN7rlVloY4CAoqiqbo7FIIHLzFrjjbg=s72-c-k-c0x00ffffff-no-rj",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://dq2a9ghraf7sw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zxq18dopv0o6q/Moonbug.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+        {
+          "title": "Mr Bean Animated",
+          "poster": "https://static.wikia.nocookie.net/logopedia/images/7/78/Mr._Bean_%28animated_series%2C_stacked%29.svg",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+        {
+          "title": "Mr Bean Live Action",
+          "poster": "https://d2yv6y0n3qsl5c.cloudfront.net/MBEANP/MrBeanLiveAction-LG_LOGO_800x200.png",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+        {
+          "title": "Nicktoons",
+          "poster": "https://static.wikia.nocookie.net/logopedia/images/4/49/Nicktoons_2004.svg",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://tvsen5.aynaott.com/nicktoons/index.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+        {
+          "title": "Oggy and the cockroaches",
+          "poster": "https://static.wikia.nocookie.net/logopedia/images/d/d3/OggyAndTheCockroachesNextGeneration.png",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://live20.bozztv.com/giatvplayout7/giatv-210728/tracks-v1a1/mono.ts.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+        {
+          "title": "PBS Kids",
+          "poster": "https://static.wikia.nocookie.net/logopedia/images/b/bb/PBS_Kids_%282022%29.svg",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+        {
+          "title": "Sonic The Hedgehog",
+          "poster": "https://static.wikia.nocookie.net/logopedia/images/a/a6/Classic_Sonic_01_copy.png",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://dtwdcugadwtnw.cloudfront.net/master.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+        {
+          "title": "Strawberry Shortcake",
+          "poster": "https://static.wikia.nocookie.net/logopedia/images/1/1f/Ssc_logo_2021.svg",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://d10c3fwb9yju0h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r5zgefp9c8p0b/master.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+        {
+          "title": "Super Simple Songs",
+          "poster": "https://i.imgur.com/3k4F7O9.png",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://janson-supersimplesongs-1-us.roku.wurl.tv/playlist.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+        {
+          "title": "SuperToons TV",
+          "poster": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD5100001HL_20250729T045852SQUARE.png",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://d3bxvshzgfq6in.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8a0c583l9gryw/feed/samsung/streams/SUPERTOONS_EN/master.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+        {
+          "title": "Tiny POP",
+          "poster": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD3200003T6_20250107T030811SQUARE.png",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://amg01753-narrativeentert-tinypop-samsunguk-hvvb7.amagi.tv/ts-eu-w1-n2/playlist/amg01753-narrativeentert-tinypop-samsunguk/playlist.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+        {
+          "title": "Tom and Jerry",
+          "poster": "https://gia.tv/streams/pptv/208314.jpg?1750373428",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://live20.bozztv.com/giatvplayout7/giatv-208314/tracks-v1a1/mono.ts.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+        {
+          "title": "Toon Goggles",
+          "poster": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB1900004J9_20240520T214715SQUARE.png",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://d1eg24xrsfr6kv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-b4b1bzxkt1uzo-prod/tg/tg/tg.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+        {
+          "title": "WowKidz (Motu Patlu)",
+          "poster": "https://static.wikia.nocookie.net/logopedia/images/6/64/WowKidz_Logo.png",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://live20.bozztv.com/giatvplayout7/giatv-209622/index.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        }
+      ]
+    },
+    {
+      "category_name": "Islamic",
+      "movies": [
+        {
+          "title": "Makkah Live",
+          "poster": "https://www.jagobd.com/wp-content/uploads/2020/05/MakkahLive.jpg",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/makkah.stream/index.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+        {
+          "title": "Medina Live",
+          "poster": "https://www.jagobd.com/wp-content/uploads/2020/05/Medina-Live.jpg",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/madina.stream/playlist.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+        {
+          "title": "Islamic TV",
+          "poster": "https://i.postimg.cc/J4nkLqHS/20260321_075216.png",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/islamictvbd.stream/index.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+        {
+          "title": "Peace TV Bangla",
+          "poster": "https://i.postimg.cc/vTYq396x/20250529-071345.png",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+        {
+          "title": "Iqra Bangla",
+          "poster": "https://i.postimg.cc/qqLNkFLg/20250531-104940.png",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/iqrabanglatvoffice.stream/live-orgin/iqrabanglatvoffice.stream/chunks.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+        {
+          "title": "Quran TV",
+          "poster": "https://i.postimg.cc/T3f1NQyV/20260524-024937.png",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/sharjahtvquranpublish/shqurantv_source/chunks.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+        {
+          "title": "Iqraa TV",
+          "poster": "https://i.postimg.cc/gcHKBtjy/20260524-023828.png",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv1/playlist.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        }
+      ]
+    },
+    {
+      "category_name": "Pakistan",
+      "movies": [
+        {
+          "title": "A plus",
+          "poster": "https://yt3.googleusercontent.com/ytc/AIdro_li_0aqecfhRahIkMGW05soLUDZz4kUbvvV5GXZci7NhWk=s900-c-k-c0x00ffffff-no-rj",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://s3.ideationtec.live/A_Plus/A_Plus.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+        {
+          "title": "Aaj Entertainment",
+          "poster": "https://i.imgur.com/WK5Cqap.png",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://s2.ideationtec.live/AAJ_Entertainment/AAJ_Entertainment.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+        {
+          "title": "Aan TV",
+          "poster": "https://yt3.googleusercontent.com/5vAJDRk-6K5HvSJMsPEZcppBqmk0lRpvvi-9CdGTY36BIJD4EFGcO2oe4YDyt9hzT2eKZlYX3Q=s160-c-k-c0x00ffffff-no-rj",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://s5.ideationtec.live/AAN_HD/AAN_HD.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+        {
+          "title": "aur LIFE HD",
+          "poster": "https://aurlife.tv/wp-content/uploads/2021/11/Aur-life-Logo-png.png",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://s3.ideationtec.live/Aur_Life/Aur_Life.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+        {
+          "title": "Bol Entertainment",
+          "poster": "https://yt3.googleusercontent.com/E0ON7kC9AImxXYGXFUHZEwhPKYwDIZTPiBpyBBSH2MbT5CO3fSMw4qWlqHaHdF7QTrR0SOfilQ=s72-c-k-c0x00ffffff-no-rj",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://s2.ideationtec.live/BOL_Entertainment_HD/BOL_Entertainment_HD.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+        {
+          "title": "DISCOVERY PAKISTAN",
+          "poster": "https://i.imgur.com/79g2kMA.png",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://s3.ideationtec.live/Discover_Pakistan/Discover_Pakistan.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+        {
+          "title": "Express Entertainment",
+          "poster": "https://i.imgur.com/rgHbb8W.png",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://s3.ideationtec.live/Express_Entertainment/Express_Entertainment.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+        {
+          "title": "Geo Kahani HD",
+          "poster": "https://static.wikia.nocookie.net/logopedia/images/d/d8/Geo_Kahani.png",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://s3.ideationtec.live/GEO_Entertainment/GEO_Entertainment.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+        {
+          "title": "LTN FAMILY HD",
+          "poster": "https://i.imgur.com/n4CenYn.png",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://s3.ideationtec.live/LTN_Family_HD/LTN_Family_HD.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+        {
+          "title": "SAB ENTERTAINMENT",
+          "poster": "https://i.imgur.com/79g2kMA.png",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://s1.ideationtec.live/SAB_Entertainment/SAB_Entertainment.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+        {
+          "title": "Tag TV",
+          "poster": "https://yt3.googleusercontent.com/ytc/AIdro_mnt-zSHy_ezc-HbwHC6fsV-WkT0VobmddALhF1rO1zYF8=s160-c-k-c0x00ffffff-no-rj",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "http://cdn11.live247stream.com/tag/tv/playlist.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+        {
+          "title": "Waseb TV",
+          "poster": "https://yt3.googleusercontent.com/Jq1I-TUADvMU8g-1IPAlVpnE9CZ95oNyW1B94IlhKlJ0vqG5-oxbBqIc4E1G7Kxjo_8hneVxVg=s160-c-k-c0x00ffffff-no-rj",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://vodzong.mjunoon.tv:8087/streamtest/WASEB-130/playlist.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+        {
+          "title": "GTV NEWS",
+          "poster": "https://i.imgur.com/79g2kMA.png",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://s4.ideationtec.live/GTV_News_HD/GTV_News_HD.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+        {
+          "title": "Aaj News",
+          "poster": "https://i.imgur.com/VNGnHYz.png",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://s4.ideationtec.live/Aaj_News/Aaj_News.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+        {
+          "title": "ARY NEWS",
+          "poster": "https://arynews.tv/assets/images/logo.webp",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://arynewsm.aryzap.com/v1/0183ea205add0b8ed5941a38bc6f/018ad63928611ea50695040da296/main.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+        {
+          "title": "BOL NEWS",
+          "poster": "https://yt3.googleusercontent.com/E0ON7kC9AImxXYGXFUHZEwhPKYwDIZTPiBpyBBSH2MbT5CO3fSMw4qWlqHaHdF7QTrR0SOfilQ=s72-c-k-c0x00ffffff-no-rj",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://s5.ideationtec.live/BOL_News_HD/BOL_News_HD.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+        {
+          "title": "DAWN NEWS",
+          "poster": "https://www.dawn.com/_img/logo.png",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://s5.ideationtec.live/Dawn/Dawn.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+        {
+          "title": "Dunya News",
+          "poster": "https://static.wikia.nocookie.net/logopedia/images/2/29/Dunya_News.png",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "http://imob.dunyanews.tv/live/_definst_/dunyalive_1/FluxusTV.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+        {
+          "title": "GNN HD",
+          "poster": "https://gnnhd.tv/_next/image?url=%2Fimages%2Fgnn-logo.png&w=640&q=75",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://s5.ideationtec.live/GNN_HD/GNN_HD.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+        {
+          "title": "Lahore Rang",
+          "poster": "https://lahorerang.tv/uploads/theme/logo-1751881025.png",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/lhrrang-179/playlist.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+        {
+          "title": "Neo News",
+          "poster": "https://www.neonews.pk/uploads/theme/logo-1666868077.png",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://s5.ideationtec.live/Neo_News/Neo_News.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+        {
+          "title": "Time News",
+          "poster": "https://thetimenews.tv/wp-content/uploads/2021/03/pahenji-akhbar-Logo-vector-design-File.png",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/time-news-172/playlist.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        }
+      ]
+    }
+  ]
+},
+
+
+
     {
       "category_name": "Other",
       "movies": [
