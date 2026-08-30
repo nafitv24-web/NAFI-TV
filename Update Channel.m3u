@@ -8,14 +8,8 @@
           "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgHX45Q83m_tNWAti7uune9tBSrf9SFdYf2WC6NN9YbQ&s",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "https://akash-backup.sm-monirul-islam-rs.workers.dev/btv.m3u8"
-            },
-            {
-              "server_name": "Server 2",
-              "url": ""
-            }
+            { "server_name": "Server 1", "url": "https://akash-backup.sm-monirul-islam-rs.workers.dev/btv.m3u8" },
+            { "server_name": "Server 2", "url": "" }
           ]
         },
         {
@@ -23,14 +17,8 @@
           "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGFVQX3hXUtTTgwmRcWrehYFkfjeSiyHSSn1OCbWR6Yg&s",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": ""
-            },
-            {
-              "server_name": "Server 2",
-              "url": ""
-            }
+            { "server_name": "Server 1", "url": "" },
+            { "server_name": "Server 2", "url": "" }
           ]
         },
         {
@@ -38,14 +26,8 @@
           "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcOmF5-fIzc2IrwXLYSsmUegufJp7YPE-Cv2LAcjgFoQ&s=10",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_drama/playlist.m3u8"
-            },
-            {
-              "server_name": "Server 2",
-              "url": ""
-            }
+            { "server_name": "Server 1", "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_drama/playlist.m3u8" },
+            { "server_name": "Server 2", "url": "" }
           ]
         },
         {
@@ -53,14 +35,8 @@
           "poster": "https://i.postimg.cc/R0J6rLBn/r2Pe-JQRk-KVBJNHu-A1u-ABt-MFat3ZFl-Xm4oj-Tt5SWI.png",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": ""
-            },
-            {
-              "server_name": "Server 2",
-              "url": ""
-            }
+            { "server_name": "Server 1", "url": "" },
+            { "server_name": "Server 2", "url": "" }
           ]
         },
         {
@@ -68,14 +44,8 @@
           "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxY-5H1SG1dVf00TYqJjRDeR8S8bIIw2g_V0bJ7LVvLQ&s=10",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "https://tvsen5.aynaott.com/P3y2URgG7LDe/index.m3u8"
-            },
-            {
-              "server_name": "Server 2",
-              "url": "https://tvsen5.aynaott.com/atnbangla/index.m3u8"
-            }
+            { "server_name": "Server 1", "url": "https://tvsen5.aynaott.com/P3y2URgG7LDe/index.m3u8" },
+            { "server_name": "Server 2", "url": "https://tvsen5.aynaott.com/atnbangla/index.m3u8" }
           ]
         },
         {
@@ -83,14 +53,8 @@
           "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl_P0ZWFsplEbZmV5X0Il_deNFJyvwd6FT-ZifYNCOYQ&s=10",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "https://tvsen6.aynaott.com/da6WMXAk/index.m3u8"
-            },
-            {
-              "server_name": "Server 2",
-              "url": ""
-            }
+            { "server_name": "Server 1", "url": "https://tvsen6.aynaott.com/da6WMXAk/index.m3u8" },
+            { "server_name": "Server 2", "url": "" }
           ]
         },
         {
@@ -98,14 +62,8 @@
           "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5gWAVR1rGn3K2O6T0_4hfjjKpa3_K4QJZSkWJ8yUDVA&s=10",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "https://tvsen6.aynaott.com/1d3uG9VCgrR9DRtWZM57/index.m3u8"
-            },
-            {
-              "server_name": "Server 2",
-              "url": "https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8"
-            }
+            { "server_name": "Server 1", "url": "https://tvsen6.aynaott.com/1d3uG9VCgrR9DRtWZM57/index.m3u8" },
+            { "server_name": "Server 2", "url": "https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8" }
           ]
         },
         {
@@ -113,14 +71,8 @@
           "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlDDWeMfJaCuTKtEHBoE51OwoR7VD4NdvDsl20WFI7FioMZfEO6L3Ucq4&s",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ekusheytv-8-org.stream/index.m3u8"
-            },
-            {
-              "server_name": "Server 2",
-              "url": "http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8"
-            }
+            { "server_name": "Server 1", "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ekusheytv-8-org.stream/index.m3u8" },
+            { "server_name": "Server 2", "url": "http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8" }
           ]
         },
         {
@@ -128,14 +80,8 @@
           "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9eE--9v2S2mg5s7O0AjOjl5-8B1bfaJ_2TRdgNK7c2g&s=10",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "https://tvsen6.aynaott.com/FNHpYvGZ7FkCE10PwTHm/index.m3u8"
-            },
-            {
-              "server_name": "Server 2",
-              "url": ""
-            }
+            { "server_name": "Server 1", "url": "https://tvsen6.aynaott.com/FNHpYvGZ7FkCE10PwTHm/index.m3u8" },
+            { "server_name": "Server 2", "url": "" }
           ]
         },
         {
@@ -143,14 +89,8 @@
           "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJOY0wphFSukYHKKBBwcmwzK-J6HpzbpFd5PJP1jKCkg&s",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8"
-            },
-            {
-              "server_name": "Server 2",
-              "url": "https://tvsen5.aynaott.com/JHPxHAWonztVucyc4GzF/index.m3u8"
-            }
+            { "server_name": "Server 1", "url": "https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8" },
+            { "server_name": "Server 2", "url": "https://tvsen5.aynaott.com/JHPxHAWonztVucyc4GzF/index.m3u8" }
           ]
         },
         {
@@ -158,14 +98,8 @@
           "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf3g6nYvWAY0UtGny2PgE-c-hkLfrtCTX7MXmaEuejNw&s=10",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "https://tvsen5.aynaott.com/RtvHD/index.m3u8"
-            },
-            {
-              "server_name": "Server 2",
-              "url": "http://tvsen5.aynascope.net/RtvHD/index.m3u8"
-            }
+            { "server_name": "Server 1", "url": "https://tvsen5.aynaott.com/RtvHD/index.m3u8" },
+            { "server_name": "Server 2", "url": "http://tvsen5.aynascope.net/RtvHD/index.m3u8" }
           ]
         },
         {
@@ -173,14 +107,8 @@
           "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR95co-7n55t4sxRVFwqk1RMboYrnHKFFthJS_RPra0RA&s",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "https://tvsen5.aynaott.com/tgUzpPc9r6xw/index.m3u8"
-            },
-            {
-              "server_name": "Server 2",
-              "url": "https://tvsen5.aynaott.com/banglavision/index.m3u8"
-            }
+            { "server_name": "Server 1", "url": "https://tvsen5.aynaott.com/tgUzpPc9r6xw/index.m3u8" },
+            { "server_name": "Server 2", "url": "https://tvsen5.aynaott.com/banglavision/index.m3u8" }
           ]
         },
         {
@@ -188,47 +116,26 @@
           "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1WNPQFzF3iCjMvUnCUPLXcxaHIGggt5_A8trcfX-COQ&s=10",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/index.m3u8"
-            },
-            {
-              "server_name": "Server 2",
-              "url": "https://tvsen6.aynaott.com/LeUAm4F1iixYns3s3Non/index.m3u8"
-            }
+            { "server_name": "Server 1", "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/index.m3u8" },
+            { "server_name": "Server 2", "url": "https://tvsen6.aynaott.com/LeUAm4F1iixYns3s3Non/index.m3u8" }
           ]
         },
         {
-  "title": "Somoy Tv",
-  "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEuFlICfP0g1IPIgTY893Dat_nYYqpDTD4lW3_62cCmg&s=10",
-  "description": "",
-  "sources": [
-    {
-      "server_name": "Server 1",
-      "url": "https://tvsen6.aynaott.com/4XcqdovJzbbC9WdJA9gk/tracks-v1a1/mono.ts.m3u8"
-    },
-    {
-      "server_name": "Server 2",
-      "url": "https://ag.hridoytvx.workers.dev/live/C7GHN1grBfYsGCIH4viUrBgbvZeBomndFvk-_g3OEHZ0fy9o3c5Vx8V4G0hLCGz684rliO7BJQVX7s4ttuCHNtgMgm49_SJKF7WlW4Tmz03ODr13NNRAXS7AFxJqGk-rdZ0Fl-CWTYKweSZNhjGHTVCK0nrFKvhbHSGvxXYEJ91mnhU5v_oUvMjGrcYKdyEkSd6KlQG9HNcptIMbfSDdIk9aP6XowtsHJ40E-cqEdh1nj0tvxTtiJANFCesMwmZtb8dLSE-0pmAc2HiBelO-0FBK_pjQIxARUB3fAf6trHnqDGXYkJtKh4xreVgJfTo1jAy2DEud5AaW1-J43LCkPBrQSDjsKoqOBr1yOrLCmJET0Evbxmdyt7Ml3ooxbQ_rH9NUK-NYpsgU2oCamFgRkNoxuzALAbLyS_ZhG-YMvqUmFiIsYiehdkznm_oPnpWV4rE1BsJdYhp20-fSLIEgIYfBpWJIA2LYfzGP45Yol7VtKD4I5FmTFn5abMkGhf1ai7RNa6UR7X8UixY.m3u8"
-    }
-  ]
-},
-
-          
-    
+          "title": "Somoy Tv",
+          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEuFlICfP0g1IPIgTY893Dat_nYYqpDTD4lW3_62cCmg&s=10",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://tvsen6.aynaott.com/4XcqdovJzbbC9WdJA9gk/tracks-v1a1/mono.ts.m3u8" },
+            { "server_name": "Server 2", "url": "https://ag.hridoytvx.workers.dev/live/C7GHN1grBfYsGCIH4viUrBgbvZeBomndFvk-_g3OEHZ0fy9o3c5Vx8V4G0hLCGz684rliO7BJQVX7s4ttuCHNtgMgm49_SJKF7WlW4Tmz03ODr13NNRAXS7AFxJqGk-rdZ0Fl-CWTYKweSZNhjGHTVCK0nrFKvhbHSGvxXYEJ91mnhU5v_oUvMjGrcYKdyEkSd6KlQG9HNcptIMbfSDdIk9aP6XowtsHJ40E-cqEdh1nj0tvxTtiJANFCesMwmZtb8dLSE-0pmAc2HiBelO-0FBK_pjQIxARUB3fAf6trHnqDGXYkJtKh4xreVgJfTo1jAy2DEud5AaW1-J43LCkPBrQSDjsKoqOBr1yOrLCmJET0Evbxmdyt7Ml3ooxbQ_rH9NUK-NYpsgU2oCamFgRkNoxuzALAbLyS_ZhG-YMvqUmFiIsYiehdkznm_oPnpWV4rE1BsJdYhp20-fSLIEgIYfBpWJIA2LYfzGP45Yol7VtKD4I5FmTFn5abMkGhf1ai7RNa6UR7X8UixY.m3u8" }
+          ]
+        },
         {
           "title": "Independent",
           "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjrkJKAyHpD97FHO01JRPLa5qiL0mzI3HDv4rGqc3GCQ&s=10",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/independent_tv/playlist.m3u8"
-            },
-            {
-              "server_name": "Server 2",
-              "https://ag.hridoytvx.workers.dev/live/RDoVR0fKOZnkvhs8o3b7y-jJRlqBPLP_eRzR_yd7EWf3zPM_9es2LthJ7MIGH5dArFbcuhx8uvJtwzi0Sq6mxIVZ4e_bJi0nKbBJlPoR12YEQIEu5eHYG_2Rq5HDXY230NL1CxWo8MCSuDaKi-qlzy20v6fraGnRYbAd9nKmNpAQKRjdgtOL8TMGgKDJNS3_F7sDD88u4zEGIj48hL6thNe6wQTsyYCx-dED0rI9WeLSUvMj7hij5VyWeoj_yx5IASyrUhJL9eD0jn6fHXlJBOEnfjiVhKubum9RV_yj7jWWwS8VKQH1ia_3EX8iU0Yc_4Qqys-yCSAHAeHAVTT3XkSNVb4kVWaBkoNFQ7_GuXOyMMUT6ZruuCvYM98Z2LCyhfYo6qN8O7VqLxlDBhbxEXRrruN8G5_jyI6mkv62yVqFN-4LFx9WrPSC2LefolxtdxiV_Ces8LDFLTSTy3jQyykmxmaSTGB6zIj-JQA14bZvV0Zb-dY6QS6gVUxQWaFP9Ld5L50ZQhxeMxk.m3u8": ""
-            }
+            { "server_name": "Server 1", "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/independent_tv/playlist.m3u8" },
+            { "server_name": "Server 2", "url": "https://ag.hridoytvx.workers.dev/live/RDoVR0fKOZnkvhs8o3b7y-jJRlqBPLP_eRzR_yd7EWf3zPM_9es2LthJ7MIGH5dArFbcuhx8uvJtwzi0Sq6mxIVZ4e_bJi0nKbBJlPoR12YEQIEu5eHYG_2Rq5HDXY230NL1CxWo8MCSuDaKi-qlzy20v6fraGnRYbAd9nKmNpAQKRjdgtOL8TMGgKDJNS3_F7sDD88u4zEGIj48hL6thNe6wQTsyYCx-dED0rI9WeLSUvMj7hij5VyWeoj_yx5IASyrUhJL9eD0jn6fHXlJBOEnfjiVhKubum9RV_yj7jWWwS8VKQH1ia_3EX8iU0Yc_4Qqys-yCSAHAeHAVTT3XkSNVb4kVWaBkoNFQ7_GuXOyMMUT6ZruuCvYM98Z2LCyhfYo6qN8O7VqLxlDBhbxEXRrruN8G5_jyI6mkv62yVqFN-4LFx9WrPSC2LefolxtdxiV_Ces8LDFLTSTy3jQyykmxmaSTGB6zIj-JQA14bZvV0Zb-dY6QS6gVUxQWaFP9Ld5L50ZQhxeMxk.m3u8" }
           ]
         },
         {
@@ -236,14 +143,8 @@
           "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfIkIpSB_8kNFFzFCjYAg8w9Rwy-Prnz1ZTCQ-6UgPfQ&s=10",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "https://tvsen6.aynaott.com/KGdZEdA7qQ43dmPkgk1j/index.m3u8"
-            },
-            {
-              "server_name": "Server 2",
-              "url": ""
-            }
+            { "server_name": "Server 1", "url": "https://tvsen6.aynaott.com/KGdZEdA7qQ43dmPkgk1j/index.m3u8" },
+            { "server_name": "Server 2", "url": "" }
           ]
         },
         {
@@ -251,15 +152,8 @@
           "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNVTKGKg2eLU3aTDyX107F1n4HeALvv75Xwjsm7vLYQA&s=10",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "https://ag.hridoytvx.workers.dev/live/cpglCJm1jmCXJur48gYftL-nughCSrp3n1EJqtuE04KWCFdq7AqYylOE9JQMlfdqe-RivEeRrh92pv413Ik5U_Wj8e11qojzPkjVmPPh5QlJA8zrIfS82XhACFkk6H8uA6hLuJR3792xeNbaiGxQkvqtGU8tJJIadOyt-JuwOATJk5XbMRCDbLPStDdpyr6mPlaE3aEdXGbIMRsi2TobGdJmbFCEmfemxecq2ENXh1oMz4sQMLegFW-9e2AIgZdg21O8Ya035TsGb2rv6z6_eWQBI7gOB6uTQ43JpElDYR7sHR6lqPskw1j6Oq6oh6YvcG2gGC0TbsqJMkEDynEnIk4bvC5IwF2N3hXWe6Z2D4c0Jmv67pHtFPH8WDFSJTXwmairL8cCusJyULWInStiX4j_tfkFllfLFczoWqJpTeptEDAQMTolGW6atczYb2jrpgt2MuLKiZgEzbBS2XtpQFsGN8Ttyw.m3u8"
-            },
-
-            {
-              "server_name": "Server 2",
-              "url": "https://stream.ottplus.live/live/channel_1_hd_abr/index.m3u8"
-            }
+            { "server_name": "Server 1", "url": "https://ag.hridoytvx.workers.dev/live/cpglCJm1jmCXJur48gYftL-nughCSrp3n1EJqtuE04KWCFdq7AqYylOE9JQMlfdqe-RivEeRrh92pv413Ik5U_Wj8e11qojzPkjVmPPh5QlJA8zrIfS82XhACFkk6H8uA6hLuJR3792xeNbaiGxQkvqtGU8tJJIadOyt-JuwOATJk5XbMRCDbLPStDdpyr6mPlaE3aEdXGbIMRsi2TobGdJmbFCEmfemxecq2ENXh1oMz4sQMLegFW-9e2AIgZdg21O8Ya035TsGb2rv6z6_eWQBI7gOB6uTQ43JpElDYR7sHR6lqPskw1j6Oq6oh6YvcG2gGC0TbsqJMkEDynEnIk4bvC5IwF2N3hXWe6Z2D4c0Jmv67pHtFPH8WDFSJTXwmairL8cCusJyULWInStiX4j_tfkFllfLFczoWqJpTeptEDAQMTolGW6atczYb2jrpgt2MuLKiZgEzbBS2XtpQFsGN8Ttyw.m3u8" },
+            { "server_name": "Server 2", "url": "https://stream.ottplus.live/live/channel_1_hd_abr/index.m3u8" }
           ]
         },
         {
@@ -267,14 +161,8 @@
           "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-dYO8pRf0Bb05AcYpe6e2oOFxQ61gIZzG7aCFaClMkQ&s=10",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/starnewsbd.stream/playlist.m3u8?wmsAuthSign=|Referer=https://www.jagobd.com/"
-            },
-            {
-              "server_name": "Server 2",
-              "url": ""
-            }
+            { "server_name": "Server 1", "url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/starnewsbd.stream/playlist.m3u8?wmsAuthSign=|Referer=https://www.jagobd.com/" },
+            { "server_name": "Server 2", "url": "" }
           ]
         },
         {
@@ -282,14 +170,8 @@
           "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5i6y-sd_ATYLQO3FUGLQAWZl-BAefE2SyHP3j1RmtsQ&s=10",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8"
-            },
-            {
-              "server_name": "Server 2",
-              "url": ""
-            }
+            { "server_name": "Server 1", "url": "https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8" },
+            { "server_name": "Server 2", "url": "" }
           ]
         },
         {
@@ -297,14 +179,8 @@
           "poster": "https://i.postimg.cc/dQyBRGZR/eptv-large-1784915389231-9f42f1b48d424c8c.webp",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/eptv.stream/playlist.m3u8"
-            },
-            {
-              "server_name": "Server 2",
-              "url": ""
-            }
+            { "server_name": "Server 1", "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/eptv.stream/playlist.m3u8" },
+            { "server_name": "Server 2", "url": "" }
           ]
         },
         {
@@ -312,14 +188,8 @@
           "poster": "https://i.postimg.cc/8knh34Z5/iju-Jfmd.png",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "http://103.190.133.68:1935/news21live/live/playlist.m3u8"
-            },
-            {
-              "server_name": "Server 2",
-              "url": ""
-            }
+            { "server_name": "Server 1", "url": "http://103.190.133.68:1935/news21live/live/playlist.m3u8" },
+            { "server_name": "Server 2", "url": "" }
           ]
         },
         {
@@ -327,14 +197,8 @@
           "poster": "https://play-lh.googleusercontent.com/ZzqDOHkm_HsqLbHtFs0pysILAHWX-N-Ng-FQc8UNVovaoYw4vVaeo2p-B8YMfpP49DR9BRLIujDQow04Nd795w",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "https://live1.entertv.com.bd/entertv/index.fmp4.m3u8"
-            },
-            {
-              "server_name": "Server 2",
-              "url": "https://live1.entertv.com.bd/entertv/tracks-v1a1/mono.m3u8"
-            }
+            { "server_name": "Server 1", "url": "https://live1.entertv.com.bd/entertv/index.fmp4.m3u8" },
+            { "server_name": "Server 2", "url": "https://live1.entertv.com.bd/entertv/tracks-v1a1/mono.m3u8" }
           ]
         },
         {
@@ -342,14 +206,8 @@
           "poster": "https://i.postimg.cc/0ys4hMyd/20240822-230446.png",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": ""
-            },
-            {
-              "server_name": "Server 2",
-              "url": ""
-            }
+            { "server_name": "Server 1", "url": "" },
+            { "server_name": "Server 2", "url": "" }
           ]
         },
         {
@@ -357,14 +215,8 @@
           "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIjE7f0aJxSS-mAtRUplbznzz2N6ECwgMpxvsyCe-9ig&s=10",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "https://tvsen6.aynaott.com/EWDrV5QskgarZEUBb3pU/index.m3u8"
-            },
-            {
-              "server_name": "Server 2",
-              "url": ""
-            }
+            { "server_name": "Server 1", "url": "https://tvsen6.aynaott.com/EWDrV5QskgarZEUBb3pU/index.m3u8" },
+            { "server_name": "Server 2", "url": "" }
           ]
         },
         {
@@ -372,14 +224,8 @@
           "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRLjaGV6oKQUQpyno6Z4M4q4DOYbOSnFtA3FO-VtxMgQ&s",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "https://tvsen6.aynaott.com/pF66Tkz0qFwP2aMMqHyt/index.m3u8"
-            },
-            {
-              "server_name": "Server 2",
-              "url": ""
-            }
+            { "server_name": "Server 1", "url": "https://tvsen6.aynaott.com/pF66Tkz0qFwP2aMMqHyt/index.m3u8" },
+            { "server_name": "Server 2", "url": "" }
           ]
         },
         {
@@ -387,14 +233,8 @@
           "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdtWbQSUZ65Ajb8YPY77g-JJQOGk18MK1qj6Z39PVUmQ&s=10",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/deshtv.stream/index.m3u8"
-            },
-            {
-              "server_name": "Server 2",
-              "url": "https://tvsen6.aynaott.com/ryFkXfd1a4CQ7mMdc820/index.m3u8"
-            }
+            { "server_name": "Server 1", "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/deshtv.stream/index.m3u8" },
+            { "server_name": "Server 2", "url": "https://tvsen6.aynaott.com/ryFkXfd1a4CQ7mMdc820/index.m3u8" }
           ]
         },
         {
@@ -402,14 +242,8 @@
           "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGbDLPUDi7fxIB8ownjWjBybtcxZHcQjHgfeZFy2WDnA&s=10",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "https://tvsen6.aynaott.com/rELXiuUXqbgzPb06Npom/index.m3u8"
-            },
-            {
-              "server_name": "Server 2",
-              "url": ""
-            }
+            { "server_name": "Server 1", "url": "https://tvsen6.aynaott.com/rELXiuUXqbgzPb06Npom/index.m3u8" },
+            { "server_name": "Server 2", "url": "" }
           ]
         },
         {
@@ -417,14 +251,8 @@
           "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpK4mqm72tmdh9tzERY-AqJMXChBzn5r--DhbrrSFTAA&s",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "https://tvsen6.aynaott.com/cdgr3tw6WoG7JyRnLbi0/index.m3u8"
-            },
-            {
-              "server_name": "Server 2",
-              "url": ""
-            }
+            { "server_name": "Server 1", "url": "https://tvsen6.aynaott.com/cdgr3tw6WoG7JyRnLbi0/index.m3u8" },
+            { "server_name": "Server 2", "url": "" }
           ]
         },
         {
@@ -432,14 +260,8 @@
           "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJsPttAQrRl0mE2Z9bTyIy4684cJTfjITJyrPR_0JCgA&s=10",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8"
-            },
-            {
-              "server_name": "Server 2",
-              "url": "https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8"
-            }
+            { "server_name": "Server 1", "url": "https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8" },
+            { "server_name": "Server 2", "url": "https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8" }
           ]
         },
         {
@@ -447,14 +269,8 @@
           "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8kTOl8Km81-CLBeJPhT6IV7qzcevpagYV0J23MEE8qA&s=10",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "https://mtv.sunplex.live/MAASRANGA/index.m3u8"
-            },
-            {
-              "server_name": "Server 2",
-              "url": "http://tvsen5.aynascope.net/maasrangatv/index.m3u8"
-            }
+            { "server_name": "Server 1", "url": "https://mtv.sunplex.live/MAASRANGA/index.m3u8" },
+            { "server_name": "Server 2", "url": "http://tvsen5.aynascope.net/maasrangatv/index.m3u8" }
           ]
         },
         {
@@ -462,14 +278,8 @@
           "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhkJZDMej0M1uEKqjgiJku-Iu4EZI4DVTZErRSP4w8dw&s=10",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/globaltv.stream/index.m3u8"
-            },
-            {
-              "server_name": "Server 2",
-              "url": ""
-            }
+            { "server_name": "Server 1", "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/globaltv.stream/index.m3u8" },
+            { "server_name": "Server 2", "url": "" }
           ]
         },
         {
@@ -477,14 +287,8 @@
           "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyweNyHQvLTNxJB-L0JLBGSWR-xOl2Nujco0-weaKgJQ&s=10",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "https://tvsen6.aynaott.com/Epm7WrFa/index.m3u8"
-            },
-            {
-              "server_name": "Server 2",
-              "url": ""
-            }
+            { "server_name": "Server 1", "url": "https://tvsen6.aynaott.com/Epm7WrFa/index.m3u8" },
+            { "server_name": "Server 2", "url": "" }
           ]
         },
         {
@@ -492,14 +296,8 @@
           "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwNdhxN3ard9doKAcEr02Mav5pUaAoL-t1k7zZbMWqdQ&s",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/Global-tv.stream/index.m3u8"
-            },
-            {
-              "server_name": "Server 2",
-              "url": "https://tvsen6.aynaott.com/y0q9eFAuquAtvTxRzUHq/index.m3u8"
-            }
+            { "server_name": "Server 1", "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/Global-tv.stream/index.m3u8" },
+            { "server_name": "Server 2", "url": "https://tvsen6.aynaott.com/y0q9eFAuquAtvTxRzUHq/index.m3u8" }
           ]
         },
         {
@@ -507,14 +305,8 @@
           "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5AAXxMK6tx5sCMCctCCxf9Ta5Lt0oEr4OTtmtBzzfdg&s=10",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/index.m3u8"
-            },
-            {
-              "server_name": "Server 2",
-              "url": "https://app.ncare.live/live-orgin/channels.stream/playlist.m3u8"
-            }
+            { "server_name": "Server 1", "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/index.m3u8" },
+            { "server_name": "Server 2", "url": "https://app.ncare.live/live-orgin/channels.stream/playlist.m3u8" }
           ]
         },
         {
@@ -522,14 +314,8 @@
           "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2XGlQmFXJ-ma8X0n-77FJTzWQxeF92bLjsnk4MHyR9A&s=10",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/live-orgin/gazibdz.stream/playlist.m3u8"
-            },
-            {
-              "server_name": "Server 2",
-              "url": ""
-            }
+            { "server_name": "Server 1", "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/live-orgin/gazibdz.stream/playlist.m3u8" },
+            { "server_name": "Server 2", "url": "" }
           ]
         },
         {
@@ -537,14 +323,8 @@
           "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKaejVEpsvAROAHegcTGDV_Urk2sMSsnnX2ZQn_2M2Bg&s=10",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "https://tvsen6.aynaott.com/AkyX5dunzju4cpo26dr7/index.m3u8"
-            },
-            {
-              "server_name": "Server 2",
-              "url": ""
-            }
+            { "server_name": "Server 1", "url": "https://tvsen6.aynaott.com/AkyX5dunzju4cpo26dr7/index.m3u8" },
+            { "server_name": "Server 2", "url": "" }
           ]
         },
         {
@@ -552,14 +332,8 @@
           "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw1UNz8qtPXHkzy_MkX8s4NwzCBqO4lHpZWig3oCT3sA&s=10",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "https://tvsen6.aynaott.com/39ee93nUbCCmm5LsyD4t/index.m3u8"
-            },
-            {
-              "server_name": "Server 2",
-              "url": ""
-            }
+            { "server_name": "Server 1", "url": "https://tvsen6.aynaott.com/39ee93nUbCCmm5LsyD4t/index.m3u8" },
+            { "server_name": "Server 2", "url": "" }
           ]
         },
         {
@@ -567,14 +341,8 @@
           "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROukoifQBbw7BSsb89wQPQJYtppc4Ppsm_oP94Wkzczw&s=10",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "https://stream.ottplus.live/live/bijoy_tv_abr/index.m3u8"
-            },
-            {
-              "server_name": "Server 2",
-              "url": "https://tvsen6.aynaott.com/N8Xbo5vdwVU6sF43RsW0/index.m3u8"
-            }
+            { "server_name": "Server 1", "url": "https://stream.ottplus.live/live/bijoy_tv_abr/index.m3u8" },
+            { "server_name": "Server 2", "url": "https://tvsen6.aynaott.com/N8Xbo5vdwVU6sF43RsW0/index.m3u8" }
           ]
         },
         {
@@ -582,14 +350,8 @@
           "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC56WaiJPnxyGZUYP87mJldQZMhAapKLbs0J2Q0pSLpw&s=10",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/mytv-up-off.stream/index.m3u8"
-            },
-            {
-              "server_name": "Server 2",
-              "url": ""
-            }
+            { "server_name": "Server 1", "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/mytv-up-off.stream/index.m3u8" },
+            { "server_name": "Server 2", "url": "" }
           ]
         },
         {
@@ -597,14 +359,8 @@
           "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Logo_of_Nagorik_TV.svg/1280px-Logo_of_Nagorik_TV.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "https://box.bbaria.net:8083/Nagorik_TV/video.m3u8"
-            },
-            {
-              "server_name": "Server 2",
-              "url": "https://torongoplus.vercel.app/tv.mp4"
-            }
+            { "server_name": "Server 1", "url": "https://box.bbaria.net:8083/Nagorik_TV/video.m3u8" },
+            { "server_name": "Server 2", "url": "https://torongoplus.vercel.app/tv.mp4" }
           ]
         },
         {
@@ -612,14 +368,8 @@
           "poster": "https://i.postimg.cc/ry4QcVbh/20240822-231240.png",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/index.m3u8"
-            },
-            {
-              "server_name": "Server 2",
-              "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/playlist.m3u8"
-            }
+            { "server_name": "Server 1", "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/index.m3u8" },
+            { "server_name": "Server 2", "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/playlist.m3u8" }
           ]
         },
         {
@@ -627,14 +377,8 @@
           "poster": "https://i.postimg.cc/xdj4TwHX/20240822-230629.png",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "https://tvsen6.aynaott.com/pKb5k6NnzxsKpWUs6E8M/index.m3u8"
-            },
-            {
-              "server_name": "Server 2",
-              "url": ""
-            }
+            { "server_name": "Server 1", "url": "https://tvsen6.aynaott.com/pKb5k6NnzxsKpWUs6E8M/index.m3u8" },
+            { "server_name": "Server 2", "url": "" }
           ]
         },
         {
@@ -642,14 +386,8 @@
           "poster": "https://i.postimg.cc/59DTqkcr/20240822-230408.png",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "https://tvsen6.aynaott.com/kajlsd57jnkdf/index.m3u8"
-            },
-            {
-              "server_name": "Server 2",
-              "url": ""
-            }
+            { "server_name": "Server 1", "url": "https://tvsen6.aynaott.com/kajlsd57jnkdf/index.m3u8" },
+            { "server_name": "Server 2", "url": "" }
           ]
         },
         {
@@ -657,14 +395,8 @@
           "poster": "https://i.postimg.cc/mr68ZtBn/20240822-231053.png",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "http://alvetv.com/moviebanglatv/8080/index.m3u8"
-            },
-            {
-              "server_name": "Server 2",
-              "url": ""
-            }
+            { "server_name": "Server 1", "url": "http://alvetv.com/moviebanglatv/8080/index.m3u8" },
+            { "server_name": "Server 2", "url": "" }
           ]
         },
         {
@@ -672,14 +404,8 @@
           "poster": "https://i.postimg.cc/9fq1Q4Hz/20240825_070144.png",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "https://iptvbd.live/metv1080/1080.m3u8"
-            },
-            {
-              "server_name": "Server 2",
-              "url": ""
-            }
+            { "server_name": "Server 1", "url": "https://iptvbd.live/metv1080/1080.m3u8" },
+            { "server_name": "Server 2", "url": "" }
           ]
         },
         {
@@ -687,14 +413,8 @@
           "poster": "https://asset.bioscopelive.com/uploads/images/2025/08/11/thumbnails_58ebcef1efcc65837557de15952d2643_goplay_srk_tv_landscape.jpg",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8"
-            },
-            {
-              "server_name": "Server 2",
-              "url": ""
-            }
+            { "server_name": "Server 1", "url": "https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8" },
+            { "server_name": "Server 2", "url": "" }
           ]
         },
         {
@@ -702,14 +422,8 @@
           "poster": "https://i.imgur.com/sqeIrMo.jpeg",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8"
-            },
-            {
-              "server_name": "Server 2",
-              "url": ""
-            }
+            { "server_name": "Server 1", "url": "https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8" },
+            { "server_name": "Server 2", "url": "" }
           ]
         },
         {
@@ -717,14 +431,8 @@
           "poster": "https://amarbanglatv.in/wp-content/uploads/2026/07/Amar-Bangla-TV-logo-300x162.jpeg",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8"
-            },
-            {
-              "server_name": "Server 2",
-              "url": ""
-            }
+            { "server_name": "Server 1", "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8" },
+            { "server_name": "Server 2", "url": "" }
           ]
         },
         {
@@ -732,14 +440,8 @@
           "poster": "https://th.bing.com/th/id/OIP.ZSBINjQw_TEmElNoECErVQHaDL?rs=1&pid=ImgDetMain",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "http://115.187.41.216:8080/hls/amardigital/index.m3u8"
-            },
-            {
-              "server_name": "Server 2",
-              "url": ""
-            }
+            { "server_name": "Server 1", "url": "http://115.187.41.216:8080/hls/amardigital/index.m3u8" },
+            { "server_name": "Server 2", "url": "" }
           ]
         },
         {
@@ -747,14 +449,8 @@
           "poster": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEir8DIISD_3Ay4E2H__HTS4VFP7VXskYcIgkufU45epPzAFDKObL2D_p6mOal9B0RJpyaiA3feJuyaL8yvd0x-2nykRjc1pZPwT_aAGwmwFb4bEJf8oVDgty5NF30gzWlwHvh2P2c49pP2P8383ili_yboK1uSyqELcZygHTpSwru1VeK0mMwceugT5QLw/s1600/NadimRazaTVLogoDesign%282%29_copy_900x900_1.png",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8"
-            },
-            {
-              "server_name": "Server 2",
-              "url": ""
-            }
+            { "server_name": "Server 1", "url": "https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8" },
+            { "server_name": "Server 2", "url": "" }
           ]
         },
         {
@@ -762,14 +458,8 @@
           "poster": "https://play-lh.googleusercontent.com/PcAXvs0OZyme6dsppfqDZ9yHDsU-hkMBzWBxvpXekx8-bT_XWoW0qCB4QfktUZXwBQqQ5NqddeYHD_jJBQb0Yg=w240-h480",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "https://server.livelegitpro.in/bhichannel/bhichannel/index.m3u8"
-            },
-            {
-              "server_name": "Server 2",
-              "url": ""
-            }
+            { "server_name": "Server 1", "url": "https://server.livelegitpro.in/bhichannel/bhichannel/index.m3u8" },
+            { "server_name": "Server 2", "url": "" }
           ]
         },
         {
@@ -777,14 +467,8 @@
           "poster": "https://static.wikia.nocookie.net/logopedia/images/5/52/BTV_Chattogram_Logo.svg",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "https://tvsen6.aynaott.com/TjGR1GcxKetHNVcMVxbq/index.m3u8"
-            },
-            {
-              "server_name": "Server 2",
-              "url": ""
-            }
+            { "server_name": "Server 1", "url": "https://tvsen6.aynaott.com/TjGR1GcxKetHNVcMVxbq/index.m3u8" },
+            { "server_name": "Server 2", "url": "" }
           ]
         },
         {
@@ -792,14 +476,8 @@
           "poster": "https://yt3.googleusercontent.com/ytc/AIdro_nkJKVbw8obzDxMqr3icQerQ6PvZlkDFjbBaYRBfn83Lw=s160-c-k-c0x00ffffff-no-rj",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "http://str24.l9574.com/503.stream/tracks-v1a1/mono.m3u8"
-            },
-            {
-              "server_name": "Server 2",
-              "url": ""
-            }
+            { "server_name": "Server 1", "url": "http://str24.l9574.com/503.stream/tracks-v1a1/mono.m3u8" },
+            { "server_name": "Server 2", "url": "" }
           ]
         },
         {
@@ -807,14 +485,8 @@
           "poster": "https://pbs.twimg.com/profile_images/739539785304281088/zMwNO936_400x400.jpg",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8"
-            },
-            {
-              "server_name": "Server 2",
-              "url": ""
-            }
+            { "server_name": "Server 1", "url": "https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8" },
+            { "server_name": "Server 2", "url": "" }
           ]
         },
         {
@@ -822,14 +494,8 @@
           "poster": "https://www.jagobd.com/wp-content/uploads/2024/09/desitv.png",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "https://deshitv.deshitv24.net/live/myStream/playlist.m3u8"
-            },
-            {
-              "server_name": "Server 2",
-              "url": ""
-            }
+            { "server_name": "Server 1", "url": "https://deshitv.deshitv24.net/live/myStream/playlist.m3u8" },
+            { "server_name": "Server 2", "url": "" }
           ]
         },
         {
@@ -837,14 +503,8 @@
           "poster": "https://static.wikia.nocookie.net/logopedia/images/6/6a/Discovery_HD_2009.png",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "http://202.70.146.135:8000/play/a05z/index.m3u8"
-            },
-            {
-              "server_name": "Server 2",
-              "url": ""
-            }
+            { "server_name": "Server 1", "url": "http://202.70.146.135:8000/play/a05z/index.m3u8" },
+            { "server_name": "Server 2", "url": "" }
           ]
         },
         {
@@ -852,14 +512,8 @@
           "poster": "https://s3.aynaott.com/storage/08773290bf83a917aebc07810f12ed49",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "https://vods2.aynaott.com/gseriesDrama/index.m3u8"
-            },
-            {
-              "server_name": "Server 2",
-              "url": ""
-            }
+            { "server_name": "Server 1", "url": "https://vods2.aynaott.com/gseriesDrama/index.m3u8" },
+            { "server_name": "Server 2", "url": "" }
           ]
         },
         {
@@ -867,14 +521,8 @@
           "poster": "https://upload.wikimedia.org/wikipedia/en/c/ce/G-Series_Logo.png",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8"
-            },
-            {
-              "server_name": "Server 2",
-              "url": ""
-            }
+            { "server_name": "Server 1", "url": "https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8" },
+            { "server_name": "Server 2", "url": "" }
           ]
         },
         {
@@ -882,14 +530,8 @@
           "poster": "https://static.wikitide.net/avidwiki/2/22/Ion5.png",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "https://app.ncare.live/live-orgin/iontvuk.stream/playlist.m3u8"
-            },
-            {
-              "server_name": "Server 2",
-              "url": ""
-            }
+            { "server_name": "Server 1", "url": "https://app.ncare.live/live-orgin/iontvuk.stream/playlist.m3u8" },
+            { "server_name": "Server 2", "url": "" }
           ]
         },
         {
@@ -897,14 +539,8 @@
           "poster": "https://www.jagobd.com/wp-content/uploads/2019/05/Jhankartv.jpg",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "https://dbcanada.sonarbanglatv.com/jhankartv/jtv/index.m3u8"
-            },
-            {
-              "server_name": "Server 2",
-              "url": ""
-            }
+            { "server_name": "Server 1", "url": "https://dbcanada.sonarbanglatv.com/jhankartv/jtv/index.m3u8" },
+            { "server_name": "Server 2", "url": "" }
           ]
         },
         {
@@ -912,14 +548,8 @@
           "poster": "https://static.wikia.nocookie.net/logopedia/images/e/e1/Khushboo_Bangla_logo_2017.png",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "https://cdn-4.pishow.tv/live/1473/master.m3u8"
-            },
-            {
-              "server_name": "Server 2",
-              "url": ""
-            }
+            { "server_name": "Server 1", "url": "https://cdn-4.pishow.tv/live/1473/master.m3u8" },
+            { "server_name": "Server 2", "url": "" }
           ]
         },
         {
@@ -927,14 +557,8 @@
           "poster": "https://www.nktvbangla.com/wp-content/uploads/2023/09/WhatsApp-Image-2023-09-12-at-2.59.18-PM.jpg",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "https://nktv.smartstream.video/smartstream-us/nkbangla/nkbangla/playlist.m3u8"
-            },
-            {
-              "server_name": "Server 2",
-              "url": ""
-            }
+            { "server_name": "Server 1", "url": "https://nktv.smartstream.video/smartstream-us/nkbangla/nkbangla/playlist.m3u8" },
+            { "server_name": "Server 2", "url": "" }
           ]
         },
         {
@@ -942,14 +566,8 @@
           "poster": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeX0fMKpc_lRfrT6qTXG0iK7ltwilygRaZ61fPX_7T7RHkjdwTIaYDHWSMRVFez2eBnGGnAM3logWZ9f7r7uJGEZQQZfjb3hydOkm9Q2FEULaQHhxJkJqUrOA8xCxdnHEYTNhNoUSXONX48zDINAFHI80edoaKzFHO2TQg4N9ojnbp-Ae3eCX_XuQ-ZOE/s1600/NRBLogoDesignwithColorAccents_copy_900x900.png",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "https://app.ncare.live/live-orgin/nrb-eu.stream/playlist.m3u8"
-            },
-            {
-              "server_name": "Server 2",
-              "url": ""
-            }
+            { "server_name": "Server 1", "url": "https://app.ncare.live/live-orgin/nrb-eu.stream/playlist.m3u8" },
+            { "server_name": "Server 2", "url": "" }
           ]
         },
         {
@@ -957,14 +575,8 @@
           "poster": "https://static.wikia.nocookie.net/logopedia/images/c/c7/NTV_logo_with_slogan_%28Bangladesh%29.png",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/playlist.m3u8"
-            },
-            {
-              "server_name": "Server 2",
-              "url": ""
-            }
+            { "server_name": "Server 1", "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/playlist.m3u8" },
+            { "server_name": "Server 2", "url": "" }
           ]
         },
         {
@@ -972,14 +584,8 @@
           "poster": "https://static.wikia.nocookie.net/etv-gspn-bangla/images/e/e5/Orange_Bangla_logo_%282018%29.png",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "https://cdn-4.pishow.tv/live/1499/master.m3u8"
-            },
-            {
-              "server_name": "Server 2",
-              "url": ""
-            }
+            { "server_name": "Server 1", "url": "https://cdn-4.pishow.tv/live/1499/master.m3u8" },
+            { "server_name": "Server 2", "url": "" }
           ]
         },
         {
@@ -987,14 +593,8 @@
           "poster": "https://i.imgur.com/79g2kMA.png",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "http://158.69.24.53:8080/probashi_tv/tracks-v1a1/mono.m3u8"
-            },
-            {
-              "server_name": "Server 2",
-              "url": ""
-            }
+            { "server_name": "Server 1", "url": "http://158.69.24.53:8080/probashi_tv/tracks-v1a1/mono.m3u8" },
+            { "server_name": "Server 2", "url": "" }
           ]
         },
         {
@@ -1002,14 +602,8 @@
           "poster": "https://imglink.cc/cdn/rw8iAU9ZcB.jpg",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "https://5dd3981940faa.streamlock.net:443/thikanatv/thikanatv/playlist.m3u8"
-            },
-            {
-              "server_name": "Server 2",
-              "url": ""
-            }
+            { "server_name": "Server 1", "url": "https://5dd3981940faa.streamlock.net:443/thikanatv/thikanatv/playlist.m3u8" },
+            { "server_name": "Server 2", "url": "" }
           ]
         },
         {
@@ -1017,14 +611,8 @@
           "poster": "https://static.wikia.nocookie.net/logopedia/images/d/de/News_Time_2.jpg",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "https://app.ncare.live/live-orgin/timetvusa.stream/playlist.m3u8"
-            },
-            {
-              "server_name": "Server 2",
-              "url": ""
-            }
+            { "server_name": "Server 1", "url": "https://app.ncare.live/live-orgin/timetvusa.stream/playlist.m3u8" },
+            { "server_name": "Server 2", "url": "" }
           ]
         },
         {
@@ -1032,14 +620,8 @@
           "poster": "https://usbdjournal24.com/wp-content/uploads/2026/07/150-Photoroom-e1783372793281.png",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "http://str24.l9574.com/510.stream/index.m3u8"
-            },
-            {
-              "server_name": "Server 2",
-              "url": "https://live20.bozztv.com/akamaissh101/ssh101/usbdjournal/chunks.m3u8"
-            }
+            { "server_name": "Server 1", "url": "http://str24.l9574.com/510.stream/index.m3u8" },
+            { "server_name": "Server 2", "url": "https://live20.bozztv.com/akamaissh101/ssh101/usbdjournal/chunks.m3u8" }
           ]
         }
       ]
@@ -1052,14 +634,8 @@
           "poster": "https://i.postimg.cc/0ykfppN3/20240822-231405.png",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8"
-            },
-            {
-              "server_name": "Server 2",
-              "url": "https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8"
-            }
+            { "server_name": "Server 1", "url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8" },
+            { "server_name": "Server 2", "url": "https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8" }
           ]
         },
         {
@@ -1067,14 +643,8 @@
           "poster": "https://i.postimg.cc/5tjSrbLS/20240822-231445.png",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_bangla/playlist.m3u8"
-            },
-            {
-              "server_name": "Server 2",
-              "url": "http://103.159.180.34:5001/live/625.m3u8"
-            }
+            { "server_name": "Server 1", "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_bangla/playlist.m3u8" },
+            { "server_name": "Server 2", "url": "http://103.159.180.34:5001/live/625.m3u8" }
           ]
         },
         {
@@ -1082,14 +652,8 @@
           "poster": "https://i.postimg.cc/3w6F5VZ5/20240822-231514.png",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8"
-            },
-            {
-              "server_name": "Server 2",
-              "url": "https://iptvcable.netlify.app/Altogether-007/Kolkata/ColorsBanglaHD.m3u8"
-            }
+            { "server_name": "Server 1", "url": "https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8" },
+            { "server_name": "Server 2", "url": "https://iptvcable.netlify.app/Altogether-007/Kolkata/ColorsBanglaHD.m3u8" }
           ]
         },
         {
@@ -1097,14 +661,8 @@
           "poster": "https://i.postimg.cc/J0QXn2jh/20240823_020641.png",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8"
-            },
-            {
-              "server_name": "Server 2",
-              "url": "https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_240p/chunks.m3u8"
-            }
+            { "server_name": "Server 1", "url": "https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8" },
+            { "server_name": "Server 2", "url": "https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_240p/chunks.m3u8" }
           ]
         },
         {
@@ -1112,14 +670,8 @@
           "poster": "https://i.postimg.cc/2yNd3WJ0/20240822-231606.png",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sonyaath/playlist.m3u8"
-            },
-            {
-              "server_name": "Server 2",
-              "url": "https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8"
-            }
+            { "server_name": "Server 1", "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sonyaath/playlist.m3u8" },
+            { "server_name": "Server 2", "url": "https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8" }
           ]
         },
         {
@@ -1127,14 +679,8 @@
           "poster": "https://i.postimg.cc/y88mJsQC/20240823_020415.png",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "https://livestream7.sunnxt.com/bf76ee92dd01473bb2eb57d137294484/SunBanglaB_IN_index.mpd"
-            },
-            {
-              "server_name": "Server 2",
-              "url": "http://27.124.71.27/Sun_Bangla/index.m3u8"
-            }
+            { "server_name": "Server 1", "url": "https://livestream7.sunnxt.com/bf76ee92dd01473bb2eb57d137294484/SunBanglaB_IN_index.mpd" },
+            { "server_name": "Server 2", "url": "http://27.124.71.27/Sun_Bangla/index.m3u8" }
           ]
         },
         {
@@ -1142,14 +688,8 @@
           "poster": "https://i.postimg.cc/P5GdL9Q7/RPlus-Gold-logo-(2013).webp",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/cf883da3-f9f5-4c70-b0ef-b3ac2e2ad1e3/index.m3u8"
-            },
-            {
-              "server_name": "Server 2",
-              "url": "https://cdn-4.pishow.tv/live/1231/1231_1.m3u8"
-            }
+            { "server_name": "Server 1", "url": "https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/cf883da3-f9f5-4c70-b0ef-b3ac2e2ad1e3/index.m3u8" },
+            { "server_name": "Server 2", "url": "https://cdn-4.pishow.tv/live/1231/1231_1.m3u8" }
           ]
         },
         {
@@ -1157,14 +697,8 @@
           "poster": "https://i.postimg.cc/rFcCkS5m/20240822_231714.png",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": ""
-            },
-            {
-              "server_name": "Server 2",
-              "url": ""
-            }
+            { "server_name": "Server 1", "url": "" },
+            { "server_name": "Server 2", "url": "" }
           ]
         },
         {
@@ -1172,29 +706,17 @@
           "poster": "https://i.postimg.cc/dtBRtL99/20240822_231732.png",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_bangla_cinema/playlist.m3u8"
-            },
-            {
-              "server_name": "Server 2",
-              "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/master2.m3u8"
-            }
+            { "server_name": "Server 1", "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_bangla_cinema/playlist.m3u8" },
+            { "server_name": "Server 2", "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/master2.m3u8" }
           ]
         },
         {
           "title": "Colors Bangla Cinema",
-          "poster": "https://i.postimg.cc/PJbWDxnT/20240822-231631.png",
+          "poster": "https://i.postimg.cc/PJbWDxnT/20240822_231631.png",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": ""
-            },
-            {
-              "server_name": "Server 2",
-              "url": ""
-            }
+            { "server_name": "Server 1", "url": "" },
+            { "server_name": "Server 2", "url": "" }
           ]
         },
         {
@@ -1202,14 +724,8 @@
           "poster": "https://i.postimg.cc/NfgTVQw2/20240823_020726.png",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "https://live.thebosstv.com:30443/dwlive/AAKAASH-AATH/playlist.m3u8"
-            },
-            {
-              "server_name": "Server 2",
-              "url": "https://cdn-4.pishow.tv/live/969/master.m3u8"
-            }
+            { "server_name": "Server 1", "url": "https://live.thebosstv.com:30443/dwlive/AAKAASH-AATH/playlist.m3u8" },
+            { "server_name": "Server 2", "url": "https://cdn-4.pishow.tv/live/969/master.m3u8" }
           ]
         },
         {
@@ -1217,14 +733,8 @@
           "poster": "https://i.postimg.cc/cCWYdSgj/20240823_020619.png",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "http://103.175.73.12:8080/live/375/375_0.m3u8"
-            },
-            {
-              "server_name": "Server 2",
-              "url": "https://cdn-4.pishow.tv/live/1473/master.m3u8"
-            }
+            { "server_name": "Server 1", "url": "http://103.175.73.12:8080/live/375/375_0.m3u8" },
+            { "server_name": "Server 2", "url": "https://cdn-4.pishow.tv/live/1473/master.m3u8" }
           ]
         },
         {
@@ -1232,14 +742,8 @@
           "poster": "https://i.postimg.cc/d3DFk7yT/20240823_022439.png",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": ""
-            },
-            {
-              "server_name": "Server 2",
-              "url": ""
-            }
+            { "server_name": "Server 1", "url": "" },
+            { "server_name": "Server 2", "url": "" }
           ]
         },
         {
@@ -1247,14 +751,8 @@
           "poster": "https://i.postimg.cc/Kc7BJRCy/20240823_020704.png",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "http://live-stream.amarbanglatv.in:8080/hls/sanandatv/index.m3u8"
-            },
-            {
-              "server_name": "Server 2",
-              "url": ""
-            }
+            { "server_name": "Server 1", "url": "http://live-stream.amarbanglatv.in:8080/hls/sanandatv/index.m3u8" },
+            { "server_name": "Server 2", "url": "" }
           ]
         },
         {
@@ -1262,14 +760,8 @@
           "poster": "https://i.postimg.cc/TYCmvBR7/20240823_020800.png",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "http://103.175.73.12:8080/live/664/664_0.m3u8"
-            },
-            {
-              "server_name": "Server 2",
-              "url": "https://cdn-4.pishow.tv/live/1039/master.m3u8"
-            }
+            { "server_name": "Server 1", "url": "http://103.175.73.12:8080/live/664/664_0.m3u8" },
+            { "server_name": "Server 2", "url": "https://cdn-4.pishow.tv/live/1039/master.m3u8" }
           ]
         },
         {
@@ -1277,14 +769,8 @@
           "poster": "https://static.wikia.nocookie.net/logopedia/images/c/ca/Dd_2019.webp",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index_3.m3u8"
-            },
-            {
-              "server_name": "Server 2",
-              "url": ""
-            }
+            { "server_name": "Server 1", "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index_3.m3u8" },
+            { "server_name": "Server 2", "url": "" }
           ]
         },
         {
@@ -1292,14 +778,8 @@
           "poster": "https://static.wikia.nocookie.net/logopedia/images/a/a2/Abp-ananda.png",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "https://amg01448-samsungin-abpananda-samsungin-ad-pw.amagi.tv/playlist/amg01448-samsungin-abpananda-samsungin/playlist.m3u8"
-            },
-            {
-              "server_name": "Server 2",
-              "url": "https://amg01412-xiaomiasia-abpananda-xiaomi-lzyzw.amagi.tv/playlist/amg01412-xiaomiasia-abpananda-xiaomi/playlist.m3u8"
-            }
+            { "server_name": "Server 1", "url": "https://amg01448-samsungin-abpananda-samsungin-ad-pw.amagi.tv/playlist/amg01448-samsungin-abpananda-samsungin/playlist.m3u8" },
+            { "server_name": "Server 2", "url": "https://amg01412-xiaomiasia-abpananda-xiaomi-lzyzw.amagi.tv/playlist/amg01412-xiaomiasia-abpananda-xiaomi/playlist.m3u8" }
           ]
         },
         {
@@ -1307,14 +787,8 @@
           "poster": "https://static.wikia.nocookie.net/logopedia/images/9/93/R.Bangla_logo_with_tagline.jpg",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "https://vg-republictvyupp.akamaized.net/ptnr-yuppt/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-613605/93d674ab-f7a0-404e-88b2-b4f163373dbe/0.m3u8"
-            },
-            {
-              "server_name": "Server 2",
-              "url": ""
-            }
+            { "server_name": "Server 1", "url": "https://vg-republictvyupp.akamaized.net/ptnr-yuppt/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-613605/93d674ab-f7a0-404e-88b2-b4f163373dbe/0.m3u8" },
+            { "server_name": "Server 2", "url": "" }
           ]
         },
         {
@@ -1322,14 +796,8 @@
           "poster": "https://images.tv9bangla.com/wp-content/themes/tv9bangla/images/tv9-bangla-logo.svg",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8"
-            },
-            {
-              "server_name": "Server 2",
-              "url": ""
-            }
+            { "server_name": "Server 1", "url": "https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8" },
+            { "server_name": "Server 2", "url": "" }
           ]
         }
       ]
@@ -1342,14 +810,8 @@
           "poster": "https://i.postimg.cc/F1t6r1gv/20240823_023247.png",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "http://202.70.146.135:8000/play/a00b/index.m3u8"
-            },
-            {
-              "server_name": "Server 2",
-              "url": ""
-            }
+            { "server_name": "Server 1", "url": "http://202.70.146.135:8000/play/a00b/index.m3u8" },
+            { "server_name": "Server 2", "url": "" }
           ]
         },
         {
@@ -1357,14 +819,8 @@
           "poster": "https://i.postimg.cc/Tw3MFyQH/20240823_022713.png",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "http://66.102.126.10:8000/play/a076/index.m3u8"
-            },
-            {
-              "server_name": "Server 2",
-              "url": ""
-            }
+            { "server_name": "Server 1", "url": "http://66.102.126.10:8000/play/a076/index.m3u8" },
+            { "server_name": "Server 2", "url": "" }
           ]
         },
         {
@@ -1372,14 +828,8 @@
           "poster": "https://i.postimg.cc/8k3QXzvt/20240823_022853.png",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "http://202.70.146.135:8000/play/a009/index.m3u8"
-            },
-            {
-              "server_name": "Server 2",
-              "url": ""
-            }
+            { "server_name": "Server 1", "url": "http://202.70.146.135:8000/play/a009/index.m3u8" },
+            { "server_name": "Server 2", "url": "" }
           ]
         },
         {
@@ -1387,14 +837,8 @@
           "poster": "https://i.postimg.cc/Gmn0rgqD/20240823-022945.png",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": ""
-            },
-            {
-              "server_name": "Server 2",
-              "url": ""
-            }
+            { "server_name": "Server 1", "url": "" },
+            { "server_name": "Server 2", "url": "" }
           ]
         },
         {
@@ -1402,14 +846,8 @@
           "poster": "https://i.postimg.cc/6pCXvxyz/20240823-022553.png",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "http://66.102.126.10:8000/play/a00f/index.m3u8"
-            },
-            {
-              "server_name": "Server 2",
-              "url": ""
-            }
+            { "server_name": "Server 1", "url": "http://66.102.126.10:8000/play/a00f/index.m3u8" },
+            { "server_name": "Server 2", "url": "" }
           ]
         },
         {
@@ -1417,14 +855,8 @@
           "poster": "https://i.postimg.cc/bYKYDTmy/20240823_023330.png",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "http://66.102.126.10:8000/play/a01s/index.m3u8"
-            },
-            {
-              "server_name": "Server 2",
-              "url": ""
-            }
+            { "server_name": "Server 1", "url": "http://66.102.126.10:8000/play/a01s/index.m3u8" },
+            { "server_name": "Server 2", "url": "" }
           ]
         },
         {
@@ -1432,14 +864,8 @@
           "poster": "https://i.postimg.cc/JhR9HDw4/20240823_023056.png",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/and_tv_hd/playlist.m3u8"
-            },
-            {
-              "server_name": "Server 2",
-              "url": ""
-            }
+            { "server_name": "Server 1", "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/and_tv_hd/playlist.m3u8" },
+            { "server_name": "Server 2", "url": "" }
           ]
         },
         {
@@ -1447,14 +873,8 @@
           "poster": "https://i.postimg.cc/XJ1SbVzN/20240823_022738.png",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/andpicture_hd/playlist.m3u8"
-            },
-            {
-              "server_name": "Server 2",
-              "url": ""
-            }
+            { "server_name": "Server 1", "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/andpicture_hd/playlist.m3u8" },
+            { "server_name": "Server 2", "url": "" }
           ]
         },
         {
@@ -1462,14 +882,8 @@
           "poster": "https://i.postimg.cc/x8BwX6QW/20240823_022929.png",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_tv_hd/playlist.m3u8"
-            },
-            {
-              "server_name": "Server 2",
-              "url": ""
-            }
+            { "server_name": "Server 1", "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_tv_hd/playlist.m3u8" },
+            { "server_name": "Server 2", "url": "" }
           ]
         },
         {
@@ -1477,14 +891,8 @@
           "poster": "https://i.postimg.cc/VN1c9Ztw/20240823_022636.png",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_cinema_hd/playlist.m3u8"
-            },
-            {
-              "server_name": "Server 2",
-              "url": ""
-            }
+            { "server_name": "Server 1", "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_cinema_hd/playlist.m3u8" },
+            { "server_name": "Server 2", "url": "" }
           ]
         },
         {
@@ -1492,14 +900,8 @@
           "poster": "https://i.postimg.cc/52SzwQF1/20251222_220548.png",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_bollywood/playlist.m3u8"
-            },
-            {
-              "server_name": "Server 2",
-              "url": ""
-            }
+            { "server_name": "Server 1", "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_bollywood/playlist.m3u8" },
+            { "server_name": "Server 2", "url": "" }
           ]
         },
         {
@@ -1507,14 +909,8 @@
           "poster": "https://i.postimg.cc/vT4DKmf3/20240925_075103.png",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/hum_tv/playlist.m3u8"
-            },
-            {
-              "server_name": "Server 2",
-              "url": ""
-            }
+            { "server_name": "Server 1", "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/hum_tv/playlist.m3u8" },
+            { "server_name": "Server 2", "url": "" }
           ]
         },
         {
@@ -1522,14 +918,8 @@
           "poster": "https://i.postimg.cc/XYfRvKzz/20240823_023036.png",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_entertainment/playlist.m3u8"
-            },
-            {
-              "server_name": "Server 2",
-              "url": ""
-            }
+            { "server_name": "Server 1", "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_entertainment/playlist.m3u8" },
+            { "server_name": "Server 2", "url": "" }
           ]
         },
         {
@@ -1537,14 +927,8 @@
           "poster": "https://i.postimg.cc/XYfRvKzz/20240823_023036.png",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sonyentertainmnt_hd/playlist.m3u8"
-            },
-            {
-              "server_name": "Server 2",
-              "url": ""
-            }
+            { "server_name": "Server 1", "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sonyentertainmnt_hd/playlist.m3u8" },
+            { "server_name": "Server 2", "url": "" }
           ]
         },
         {
@@ -1552,14 +936,8 @@
           "poster": "https://i.postimg.cc/YS3BdNNW/20240823_022655.png",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": ""
-            },
-            {
-              "server_name": "Server 2",
-              "url": ""
-            }
+            { "server_name": "Server 1", "url": "" },
+            { "server_name": "Server 2", "url": "" }
           ]
         },
         {
@@ -1567,14 +945,8 @@
           "poster": "https://i.postimg.cc/YS3BdNNW/20240823_022655.png",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_max_hd/playlist.m3u8"
-            },
-            {
-              "server_name": "Server 2",
-              "url": ""
-            }
+            { "server_name": "Server 1", "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_max_hd/playlist.m3u8" },
+            { "server_name": "Server 2", "url": "" }
           ]
         },
         {
@@ -1582,14 +954,8 @@
           "poster": "https://i.postimg.cc/hP59QSrm/20240825_075205.png",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sonymax_2/playlist.m3u8"
-            },
-            {
-              "server_name": "Server 2",
-              "url": ""
-            }
+            { "server_name": "Server 1", "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sonymax_2/playlist.m3u8" },
+            { "server_name": "Server 2", "url": "" }
           ]
         },
         {
@@ -1597,14 +963,8 @@
           "poster": "https://i.postimg.cc/Gpz6FLrP/20240823_023114.png",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sonysab_hd/playlist.m3u8"
-            },
-            {
-              "server_name": "Server 2",
-              "url": ""
-            }
+            { "server_name": "Server 1", "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sonysab_hd/playlist.m3u8" },
+            { "server_name": "Server 2", "url": "" }
           ]
         },
         {
@@ -1612,14 +972,8 @@
           "poster": "https://i.postimg.cc/3rbX1G92/images.jpg",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "https://jioplaylistdown.yecic62314.workers.dev/live.m3u8?id=474"
-            },
-            {
-              "server_name": "Server 2",
-              "url": ""
-            }
+            { "server_name": "Server 1", "url": "https://jioplaylistdown.yecic62314.workers.dev/live.m3u8?id=474" },
+            { "server_name": "Server 2", "url": "" }
           ]
         },
         {
@@ -1627,14 +981,8 @@
           "poster": "https://i.postimg.cc/8cF8kq2R/20240823_022835.png",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "https://jioplaylistdown.yecic62314.workers.dev/live.m3u8?id=1393"
-            },
-            {
-              "server_name": "Server 2",
-              "url": ""
-            }
+            { "server_name": "Server 1", "url": "https://jioplaylistdown.yecic62314.workers.dev/live.m3u8?id=1393" },
+            { "server_name": "Server 2", "url": "" }
           ]
         },
         {
@@ -1642,14 +990,8 @@
           "poster": "http://tv.spacexraj.com/uploads/6968988804cf2.png",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": ""
-            },
-            {
-              "server_name": "Server 2",
-              "url": ""
-            }
+            { "server_name": "Server 1", "url": "" },
+            { "server_name": "Server 2", "url": "" }
           ]
         },
         {
@@ -1657,14 +999,8 @@
           "poster": "https://i.postimg.cc/13nLvxQx/20250630_050504.png",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "https://jioplaylistdown.yecic62314.workers.dev/live.m3u8?id=182"
-            },
-            {
-              "server_name": "Server 2",
-              "url": ""
-            }
+            { "server_name": "Server 1", "url": "https://jioplaylistdown.yecic62314.workers.dev/live.m3u8?id=182" },
+            { "server_name": "Server 2", "url": "" }
           ]
         },
         {
@@ -1672,14 +1008,8 @@
           "poster": "https://i.postimg.cc/tC7JLFj0/20240825_055845.png",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "https://jioplaylistdown.yecic62314.workers.dev/live.m3u8?id=3075"
-            },
-            {
-              "server_name": "Server 2",
-              "url": ""
-            }
+            { "server_name": "Server 1", "url": "https://jioplaylistdown.yecic62314.workers.dev/live.m3u8?id=3075" },
+            { "server_name": "Server 2", "url": "" }
           ]
         },
         {
@@ -1687,14 +1017,8 @@
           "poster": "https://i.postimg.cc/Z5dRqZnV/20240825_055816.png",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": ""
-            },
-            {
-              "server_name": "Server 2",
-              "url": ""
-            }
+            { "server_name": "Server 1", "url": "" },
+            { "server_name": "Server 2", "url": "" }
           ]
         },
         {
@@ -1702,14 +1026,8 @@
           "poster": "https://i.postimg.cc/7ZNqRywh/20240823-023440.png",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "https://cdn-2.pishow.tv/live/1459/master.m3u8"
-            },
-            {
-              "server_name": "Server 2",
-              "url": ""
-            }
+            { "server_name": "Server 1", "url": "https://cdn-2.pishow.tv/live/1459/master.m3u8" },
+            { "server_name": "Server 2", "url": "" }
           ]
         },
         {
@@ -1717,14 +1035,8 @@
           "poster": "https://i.postimg.cc/7ZNqRywh/20240823-023440.png",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "https://cdn-2.pishow.tv/live/1461/master.m3u8"
-            },
-            {
-              "server_name": "Server 2",
-              "url": ""
-            }
+            { "server_name": "Server 1", "url": "https://cdn-2.pishow.tv/live/1461/master.m3u8" },
+            { "server_name": "Server 2", "url": "" }
           ]
         },
         {
@@ -1732,14 +1044,8 @@
           "poster": "https://i.postimg.cc/7ZNqRywh/20240823-023440.png",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/index.m3u8"
-            },
-            {
-              "server_name": "Server 2",
-              "url": ""
-            }
+            { "server_name": "Server 1", "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/index.m3u8" },
+            { "server_name": "Server 2", "url": "" }
           ]
         },
         {
@@ -1747,14 +1053,8 @@
           "poster": "https://i.postimg.cc/L8xzTtQY/k-Ug6WSk.jpg",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "https://server.zillarbarta.com/ZBCINEMA/index.m3u8"
-            },
-            {
-              "server_name": "Server 2",
-              "url": ""
-            }
+            { "server_name": "Server 1", "url": "https://server.zillarbarta.com/ZBCINEMA/index.m3u8" },
+            { "server_name": "Server 2", "url": "" }
           ]
         }
       ]
@@ -1767,14 +1067,8 @@
           "poster": "https://i.postimg.cc/Qx3GZn6T/20240823_024117.png",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": ""
-            },
-            {
-              "server_name": "Server 2",
-              "url": ""
-            }
+            { "server_name": "Server 1", "url": "" },
+            { "server_name": "Server 2", "url": "" }
           ]
         },
         {
@@ -1782,14 +1076,8 @@
           "poster": "https://i.postimg.cc/Qx3GZn6T/20240823_024117.png",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8"
-            },
-            {
-              "server_name": "Server 2",
-              "url": ""
-            }
+            { "server_name": "Server 1", "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8" },
+            { "server_name": "Server 2", "url": "" }
           ]
         },
         {
@@ -1797,14 +1085,8 @@
           "poster": "https://i.postimg.cc/rFKBNjwP/Ptvsportslogo2023.webp",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "https://tvsen7.aynascope.net/zY3hJ7pQ2vM5gD8s/index.m3u8"
-            },
-            {
-              "server_name": "Server 2",
-              "url": ""
-            }
+            { "server_name": "Server 1", "url": "https://tvsen7.aynascope.net/zY3hJ7pQ2vM5gD8s/index.m3u8" },
+            { "server_name": "Server 2", "url": "" }
           ]
         },
         {
@@ -1812,14 +1094,8 @@
           "poster": "https://i.postimg.cc/0yzwt46Q/20241126-220214.png",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": ""
-            },
-            {
-              "server_name": "Server 2",
-              "url": ""
-            }
+            { "server_name": "Server 1", "url": "" },
+            { "server_name": "Server 2", "url": "" }
           ]
         },
         {
@@ -1827,14 +1103,8 @@
           "poster": "https://i.postimg.cc/W1z5BGPZ/20240823_024712.png",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8"
-            },
-            {
-              "server_name": "Server 2",
-              "url": "https://playztv-apps.pages.dev/asports/index.m3u8"
-            }
+            { "server_name": "Server 1", "url": "https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8" },
+            { "server_name": "Server 2", "url": "https://playztv-apps.pages.dev/asports/index.m3u8" }
           ]
         },
         {
@@ -1842,14 +1112,8 @@
           "poster": "https://i.postimg.cc/HntSg3xw/20240823_024624.png",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "https://tvsen5.aynaott.com/willowhd/index.m3u8"
-            },
-            {
-              "server_name": "Server 2",
-              "url": "https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8"
-            }
+            { "server_name": "Server 1", "url": "https://tvsen5.aynaott.com/willowhd/index.m3u8" },
+            { "server_name": "Server 2", "url": "https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8" }
           ]
         },
         {
@@ -1857,14 +1121,8 @@
           "poster": "https://i.postimg.cc/HntSg3xw/20240823_024624.png",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": ""
-            },
-            {
-              "server_name": "Server 2",
-              "url": ""
-            }
+            { "server_name": "Server 1", "url": "" },
+            { "server_name": "Server 2", "url": "" }
           ]
         },
         {
@@ -1872,14 +1130,8 @@
           "poster": "https://i.postimg.cc/XNF8KVSb/o-T5CAvd.png",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": ""
-            },
-            {
-              "server_name": "Server 2",
-              "url": ""
-            }
+            { "server_name": "Server 1", "url": "" },
+            { "server_name": "Server 2", "url": "" }
           ]
         },
         {
@@ -1887,14 +1139,8 @@
           "poster": "https://i.postimg.cc/pXx765TQ/20240823_024350.png",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/euro_sports_hd/playlist.m3u8"
-            },
-            {
-              "server_name": "Server 2",
-              "url": ""
-            }
+            { "server_name": "Server 1", "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/euro_sports_hd/playlist.m3u8" },
+            { "server_name": "Server 2", "url": "" }
           ]
         },
         {
@@ -1902,14 +1148,8 @@
           "poster": "https://i.postimg.cc/DzDHjCJm/20240823_024249.png",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "https://tvsen3.aynaott.com/Sports1/mono.m3u8"
-            },
-            {
-              "server_name": "Server 2",
-              "url": ""
-            }
+            { "server_name": "Server 1", "url": "https://tvsen3.aynaott.com/Sports1/mono.m3u8" },
+            { "server_name": "Server 2", "url": "" }
           ]
         },
         {
@@ -1917,14 +1157,8 @@
           "poster": "https://i.postimg.cc/zBgM9nK7/20240823_024306.png",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "https://tvsen7.aynaott.com/ssport2hd/index.m3u8"
-            },
-            {
-              "server_name": "Server 2",
-              "url": ""
-            }
+            { "server_name": "Server 1", "url": "https://tvsen7.aynaott.com/ssport2hd/index.m3u8" },
+            { "server_name": "Server 2", "url": "" }
           ]
         },
         {
@@ -1932,14 +1166,8 @@
           "poster": "https://i.postimg.cc/ZnzgZCLS/20240823_024321.png",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": ""
-            },
-            {
-              "server_name": "Server 2",
-              "url": ""
-            }
+            { "server_name": "Server 1", "url": "" },
+            { "server_name": "Server 2", "url": "" }
           ]
         },
         {
@@ -1947,14 +1175,8 @@
           "poster": "https://i.postimg.cc/rmczbb8g/20240825_060019.png",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": ""
-            },
-            {
-              "server_name": "Server 2",
-              "url": ""
-            }
+            { "server_name": "Server 1", "url": "" },
+            { "server_name": "Server 2", "url": "" }
           ]
         },
         {
@@ -1962,14 +1184,8 @@
           "poster": "https://i.postimg.cc/65fsWLS1/20240823_024136.png",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_1_hd/playlist.m3u8"
-            },
-            {
-              "server_name": "Server 2",
-              "url": ""
-            }
+            { "server_name": "Server 1", "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_1_hd/playlist.m3u8" },
+            { "server_name": "Server 2", "url": "" }
           ]
         },
         {
@@ -1977,14 +1193,8 @@
           "poster": "https://i.postimg.cc/wjqC7RYx/20240823_024150.png",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_2_hd/playlist.m3u8"
-            },
-            {
-              "server_name": "Server 2",
-              "url": ""
-            }
+            { "server_name": "Server 1", "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_2_hd/playlist.m3u8" },
+            { "server_name": "Server 2", "url": "" }
           ]
         },
         {
@@ -1992,14 +1202,8 @@
           "poster": "https://i.postimg.cc/VkK3Mszq/20240823_024219.png",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": ""
-            },
-            {
-              "server_name": "Server 2",
-              "url": ""
-            }
+            { "server_name": "Server 1", "url": "" },
+            { "server_name": "Server 2", "url": "" }
           ]
         },
         {
@@ -2007,14 +1211,8 @@
           "poster": "https://i.postimg.cc/W4tx7R4Q/20240823_024232.png",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_5_hd/playlist.m3u8"
-            },
-            {
-              "server_name": "Server 2",
-              "url": ""
-            }
+            { "server_name": "Server 1", "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_5_hd/playlist.m3u8" },
+            { "server_name": "Server 2", "url": "" }
           ]
         },
         {
@@ -2022,14 +1220,8 @@
           "poster": "https://i.postimg.cc/yNQfGnnb/RLr-MBlm.png",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": ""
-            },
-            {
-              "server_name": "Server 2",
-              "url": ""
-            }
+            { "server_name": "Server 1", "url": "" },
+            { "server_name": "Server 2", "url": "" }
           ]
         },
         {
@@ -2037,14 +1229,8 @@
           "poster": "https://i.postimg.cc/441hHtgZ/20250120_193746.png",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "http://host.phorious.art/validation/377?deviceMac=10:27:BE:25:67:80&split=33da9c80155413830543e27c8520ba99&smart=1"
-            },
-            {
-              "server_name": "Server 2",
-              "url": ""
-            }
+            { "server_name": "Server 1", "url": "http://host.phorious.art/validation/377?deviceMac=10:27:BE:25:67:80&split=33da9c80155413830543e27c8520ba99&smart=1" },
+            { "server_name": "Server 2", "url": "" }
           ]
         },
         {
@@ -2052,14 +1238,8 @@
           "poster": "https://i.postimg.cc/FzGdttZ1/20250120_193818.png",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "https://andro.226503.xyz/checklist/androstreamlivebs2.m3u8"
-            },
-            {
-              "server_name": "Server 2",
-              "url": ""
-            }
+            { "server_name": "Server 1", "url": "https://andro.226503.xyz/checklist/androstreamlivebs2.m3u8" },
+            { "server_name": "Server 2", "url": "" }
           ]
         },
         {
@@ -2067,14 +1247,8 @@
           "poster": "https://i.postimg.cc/B6TPgPPT/20250120_193903.png",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "https://andro.226503.xyz/checklist/androstreamlivebs3.m3u8"
-            },
-            {
-              "server_name": "Server 2",
-              "url": ""
-            }
+            { "server_name": "Server 1", "url": "https://andro.226503.xyz/checklist/androstreamlivebs3.m3u8" },
+            { "server_name": "Server 2", "url": "" }
           ]
         },
         {
@@ -2082,14 +1256,8 @@
           "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRErjl2iXg51jJlVMXhmCMV_KLuUzqa9YJgA336rM6elaur_NxxYa9r6Ok&s=10",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": ""
-            },
-            {
-              "server_name": "Server 2",
-              "url": ""
-            }
+            { "server_name": "Server 1", "url": "" },
+            { "server_name": "Server 2", "url": "" }
           ]
         },
         {
@@ -2097,14 +1265,8 @@
           "poster": "https://i.postimg.cc/YqqL69rF/20250120_193708.png",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd"
-            },
-            {
-              "server_name": "Server 2",
-              "url": ""
-            }
+            { "server_name": "Server 1", "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd" },
+            { "server_name": "Server 2", "url": "" }
           ]
         },
         {
@@ -2112,14 +1274,8 @@
           "poster": "https://i.postimg.cc/X7HGQbqz/20250120_193645.png",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd"
-            },
-            {
-              "server_name": "Server 2",
-              "url": ""
-            }
+            { "server_name": "Server 1", "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd" },
+            { "server_name": "Server 2", "url": "" }
           ]
         },
         {
@@ -2127,14 +1283,8 @@
           "poster": "https://i.postimg.cc/nhXsWPQc/20250120_193614.png",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd"
-            },
-            {
-              "server_name": "Server 2",
-              "url": ""
-            }
+            { "server_name": "Server 1", "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd" },
+            { "server_name": "Server 2", "url": "" }
           ]
         },
         {
@@ -2142,14 +1292,8 @@
           "poster": "https://i.postimg.cc/59p62VB2/20250120_193532.png",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd"
-            },
-            {
-              "server_name": "Server 2",
-              "url": ""
-            }
+            { "server_name": "Server 1", "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd" },
+            { "server_name": "Server 2", "url": "" }
           ]
         },
         {
@@ -2157,21 +1301,12 @@
           "poster": "https://i.imgur.com/jVBfQNj.png",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "https://s2.bufaloweb.com/bufalo9/tracks-v4a1/mono.ts.m3u8"
-            },
-            {
-              "server_name": "Server 2",
-              "url": ""
-            }
+            { "server_name": "Server 1", "url": "https://s2.bufaloweb.com/bufalo9/tracks-v4a1/mono.ts.m3u8" },
+            { "server_name": "Server 2", "url": "" }
           ]
         }
       ]
     },
-
-{
-  "categories": [
     {
       "category_name": "Kids",
       "movies": [
@@ -2714,13 +1849,10 @@
           "sources": [
             { "server_name": "Server 1", "url": "https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/time-news-172/playlist.m3u8" },
             { "server_name": "Server 2", "url": "" }
-          
           ]
         }
       ]
     },
-
-
     {
       "category_name": "Other",
       "movies": [
@@ -2729,14 +1861,8 @@
           "poster": "https://emergencyuk.org/wp-content/uploads/2017/03/Aljazeera-logo-English-1024x768.png",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "https://live-hls-web-aje-fa.getaj.net/AJE/index.m3u8"
-            },
-            {
-              "server_name": "Server 2",
-              "url": ""
-            }
+            { "server_name": "Server 1", "url": "https://live-hls-web-aje-fa.getaj.net/AJE/index.m3u8" },
+            { "server_name": "Server 2", "url": "" }
           ]
         },
         {
@@ -2744,14 +1870,8 @@
           "poster": "https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist540p.m3u8"
-            },
-            {
-              "server_name": "Server 2",
-              "url": ""
-            }
+            { "server_name": "Server 1", "url": "https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist540p.m3u8" },
+            { "server_name": "Server 2", "url": "" }
           ]
         },
         {
@@ -2759,14 +1879,8 @@
           "poster": "https://yt3.googleusercontent.com/luLQWmGFG4iDC1U_2JlzZ1mquci_sUdfZfFl4eWgBkDpW6tvZT0MEA4c4JebJdi9hCo518q1=s160-c-k-c0x00ffffff-no-rj",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "https://tv-trtworld.medya.trt.com.tr/master.m3u8"
-            },
-            {
-              "server_name": "Server 2",
-              "url": ""
-            }
+            { "server_name": "Server 1", "url": "https://tv-trtworld.medya.trt.com.tr/master.m3u8" },
+            { "server_name": "Server 2", "url": "" }
           ]
         },
         {
@@ -2774,14 +1888,8 @@
           "poster": "https://pbs.twimg.com/profile_images/875597226747207681/0jkhMbbB_400x400.jpg",
           "description": "",
           "sources": [
-            {
-              "server_name": "Server 1",
-              "url": "https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8"
-            },
-            {
-              "server_name": "Server 2",
-              "url": ""
-            }
+            { "server_name": "Server 1", "url": "https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8" },
+            { "server_name": "Server 2", "url": "" }
           ]
         }
       ]
