@@ -4,7 +4,17 @@
       "category_name": "BANGLADESH",
       "movies": [
         {
-          "title": "BTV",
+          "title": "Nagorik TV",
+          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-kb5MBvGaZ-CVtpYi2vM2Zy0LERvZSRlKNgyT1Zl3zw&s",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://box.bbaria.net:8083/Nagorik_TV/video.m3u8" },
+            { "server_name": "Server 2", "url": "link" }
+          ]
+        },
+
+
+       { "title": "BTV",
           "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgHX45Q83m_tNWAti7uune9tBSrf9SFdYf2WC6NN9YbQ&s",
           "description": "",
           "sources": [
@@ -629,7 +639,17 @@
     {
       "category_name": "INDIA BANGLA",
       "movies": [
-        {
+       {
+          "title": "Jalsha Movie",
+          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0ppIIkUQcN6Cpuz_XZO7U3Z8Ixk88Uv-XSzkXM9H4Xg&s=10",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/908656.m3u8" },
+            { "server_name": "Server 2", "url": "http://fastshare1.com:80/live/25711345/late8airline/23304.ts" }
+          ]
+        },
+
+{
           "title": "Star Jalsha HD",
           "poster": "https://i.postimg.cc/0ykfppN3/20240822-231405.png",
           "description": "",
@@ -645,6 +665,15 @@
           "sources": [
             { "server_name": "Server 1", "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_bangla/playlist.m3u8" },
             { "server_name": "Server 2", "url": "http://103.159.180.34:5001/live/625.m3u8" }
+          ]
+        },
+{
+          "title": "Zee Bangla Cinema",
+          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0ppIIkUQcN6Cpuz_XZO7U3Z8Ixk88Uv-XSzkXM9H4Xg&s=10",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/master2.m3u8" },
+            { "server_name": "Server 2", "url": "" }
           ]
         },
         {
@@ -1105,6 +1134,15 @@
           "sources": [
             { "server_name": "Server 1", "url": "https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8" },
             { "server_name": "Server 2", "url": "https://playztv-apps.pages.dev/asports/index.m3u8" }
+          ]
+        },
+{
+          "title": "A Sports",
+          "poster": "https://i.postimg.cc/W1z5BGPZ/20240823_024712.png",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_1080p.m3u8" },
+            { "server_name": "Server 2", "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_1080p-1788053390000.ts" }
           ]
         },
         {
