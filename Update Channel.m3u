@@ -1117,11 +1117,11 @@
   "sources": [
     {
       "server_name": "Server 1",
-      "url": "https://tv.nurmd2006-official.workers.dev/live/ten_cricket_hd_abr/index.m3u8"
+      "url": "http://line.umetop.pro/play/live.php?mac=00:1A:79:8F:BA:8A&stream=1106878&extension=m3u8"
     },
     {
       "server_name": "Server 2",
-      "url": "" }
+      "https://tv.nurmd2006-official.workers.dev/live/ten_cricket_hd_abr/index.m3u8": "" }
   ]
 }, 
 
@@ -1263,25 +1263,25 @@
         },
         {
           "title": "Bein Sports",
-          "poster": "https://i.postimg.cc/yNQfGnnb/RLr-MBlm.png",
+          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhXse2cgIuVSVKEqzxp4g4aEV2GZUO7RIO-oHA1TKMIQ&s=10",
           "description": "",
           "sources": [
-            { "server_name": "Server 1", "url": "" },
+            { "server_name": "Server 1", "url": "http://2756d46c.akciatv.ru/iptv/7FRNF6CY9A9TG3/6123/index.m3u8" },
             { "server_name": "Server 2", "url": "" }
           ]
         },
         {
           "title": "Bein Sports 1",
-          "poster": "https://i.postimg.cc/441hHtgZ/20250120_193746.png",
+          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVuw0QTaSQQhs1sG4ecnUfeUGFqlJNj1yPDnrpL7FcMQ&s=10",
           "description": "",
           "sources": [
             { "server_name": "Server 1", "url": "http://host.phorious.art/validation/377?deviceMac=10:27:BE:25:67:80&split=33da9c80155413830543e27c8520ba99&smart=1" },
-            { "server_name": "Server 2", "url": "http://2756d46c.akciatv.ru/iptv/7FRNF6CY9A9TG3/6128/index.m3u8" }
+            { "server_name": "Server 2", "url": "http://2756d46c.akciatv.ru/iptv/7FRNF6CY9A9TG3/6131/index.m3u8" }
           ]
         },
         {
           "title": "Bein Sports 2",
-          "poster": "https://i.postimg.cc/FzGdttZ1/20250120_193818.png",
+          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyA4qUrgA1n7bfQglhrvW-6wCOLNJpXhwGPz0nb4MXag&s=10",
           "description": "",
           "sources": [
             { "server_name": "Server 1", "url": "https://andro.226503.xyz/checklist/androstreamlivebs2.m3u8" },
@@ -1290,7 +1290,7 @@
         },
         {
           "title": "Bein Sports 3",
-          "poster": "https://i.postimg.cc/B6TPgPPT/20250120_193903.png",
+          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHpThwvusFhti91q6Y-1IAjExSoiUxgXfyK0HpEhQNsg&s=10",
           "description": "",
           "sources": [
             { "server_name": "Server 1", "url": "https://andro.226503.xyz/checklist/androstreamlivebs3.m3u8" },
@@ -1299,7 +1299,7 @@
         },
 {
           "title": "Bein Sports 4",
-          "poster": "https://i.postimg.cc/B6TPgPPT/20250120_193903.png",
+          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-xTLWcDpmDt1XnmwAhal0opaeQF-JHlDkLVTW4EdeDw&s=10",
           "description": "",
           "sources": [
             { "server_name": "Server 1", "url": "http://2756d46c.akciatv.ru/iptv/7FRNF6CY9A9TG3/6125/index.m3u8" },
@@ -1309,7 +1309,7 @@
 
       {
           "title": "Bein Sports 5",
-          "poster": "https://i.postimg.cc/B6TPgPPT/20250120_193903.png",
+          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx-oajt-nG2PJbUAjhwgBz2r-8EefPPe7U5n6i7Qehkw&s=10",
           "description": "",
           "sources": [
             { "server_name": "Server 1", "url": "http://2756d46c.akciatv.ru/iptv/7FRNF6CY9A9TG3/6127/index.m3u8" },
@@ -1318,7 +1318,7 @@
         },
 {
           "title": "Bein Sports 7",
-          "poster": "https://i.postimg.cc/B6TPgPPT/20250120_193903.png",
+          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9ywW4JVhyYQ7JubH7Su1i6hen1j-iNKG5vgouBSQ6Vw&s=10",
           "description": "",
           "sources": [
             { "server_name": "Server 1", "url": "http://2756d46c.akciatv.ru/iptv/7FRNF6CY9A9TG3/6128/index.m3u8" },
