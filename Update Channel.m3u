@@ -1201,8 +1201,8 @@
           "poster": "https://i.ibb.co.com/B2Pd8CPs/Picsart-24-10-27-12-59-28-015.webp",
           "description": "",
           "sources": [
-            { "server_name": "Server 1", "url": "https://tvsen3.aynaott.com/Sports1/mono.m3u8" },
-            { "server_name": "Server 2", "url": "https://s3.itcnbd.live/channel/2929059f34d114ca.m3u8" }
+            { "server_name": "Server 1", "url": "https://s3.itcnbd.live/channel/2929059f34d114ca.m3u8" },
+            { "server_name": "Server 2", "url": "https://tvsen3.aynaott.com/Sports1/mono.m3u8" }
           ]
         },
         {
