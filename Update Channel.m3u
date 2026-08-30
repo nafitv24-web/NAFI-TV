@@ -1143,13 +1143,14 @@
             { "server_name": "Server 2", "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_1080p-1788053390000.ts" }
           ]
         },
+
         {
           "title": "Willow Sports",
           "poster": "https://i.ibb.co.com/fdVvXGM4/Picsart-24-10-27-13-05-15-065.webp",
           "description": "",
           "sources": [
             { "server_name": "Server 1", "url": "https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8" },
-            { "server_name": "Server 2", "url": "" }
+            { "server_name": "Server 2", "url": "https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8" }
           ]
         },
 {
@@ -1351,33 +1352,7 @@
             { "server_name": "Server 2", "url": "" }
           ]
         },
-        {
-          "title": "---Live(GO 3 sport 1)---",
-          "poster": "https://static.wikia.nocookie.net/logopedia/images/0/03/Go3_Sport.svg",
-          "description": "",
-          "sources": [
-            { "server_name": "Server 1", "url": "http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/18000/index.m3u8" },
-            { "server_name": "Server 2", "url": "" }
-          ]
-        },
-        {
-          "title": "---Live(GO 3 sport 2)---",
-          "poster": "https://static.wikia.nocookie.net/logopedia/images/4/48/Go3_Sport_2_II.svg",
-          "description": "",
-          "sources": [
-            { "server_name": "Server 1", "url": "http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/18012/index.m3u8" },
-            { "server_name": "Server 2", "url": "" }
-          ]
-        },
-        {
-          "title": "---Live(GO 3 sport 3)---",
-          "poster": "https://static.wikia.nocookie.net/logopedia/images/c/c3/Go3_Sport_3_II.svg",
-          "description": "",
-          "sources": [
-            { "server_name": "Server 1", "url": "http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/18025/index.m3u8" },
-            { "server_name": "Server 2", "url": "" }
-          ]
-        },
+        
         
         {
           "title": "STAR SPORTS SELECT 2 HD",
@@ -1408,26 +1383,9 @@
             { "server_name": "Server 2", "url": "" }
           ]
         },
+        
         {
-          "title": "--Live(Euro Sport 2 HD)--",
-          "poster": "https://static.wikia.nocookie.net/logopedia/images/d/da/Eurosport_2_%28II%29.svg",
-          "description": "",
-          "sources": [
-            { "server_name": "Server 1", "url": "http://151.80.18.177:86/Eurosport_2_HD/index.m3u8" },
-            { "server_name": "Server 2", "url": "" }
-          ]
-        },
-        {
-          "title": "--Live(FOOTBALL)--",
-          "poster": "",
-          "description": "",
-          "sources": [
-            { "server_name": "Server 1", "url": "https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8" },
-            { "server_name": "Server 2", "url": "" }
-          ]
-        },
-        {
-          "title": "--Live(PK Sports HD)--",
+          "title": "PK Sports HD",
           "poster": "https://yt3.googleusercontent.com/XX0FFJh-IXSzbl9Q6AOJXDvRRrb-himkBB4YWsbuDYoS7ICvjrdQ5-JkJV8bsNcP1w7GoM-lJw=s900-c-k-c0x00ffffff-no-rj",
           "description": "",
           "sources": [
@@ -1435,17 +1393,9 @@
             { "server_name": "Server 2", "url": "" }
           ]
         },
+        
         {
-          "title": "--Live(WiLLoW HD)--",
-          "poster": "https://aimages.willow.tv/wlo_logo_200_200.jpg",
-          "description": "",
-          "sources": [
-            { "server_name": "Server 1", "url": "https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8" },
-            { "server_name": "Server 2", "url": "" }
-          ]
-        },
-        {
-          "title": "CR | Cricket Gold",
+          "title": "Cricket Gold",
           "poster": "https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/Cricket-Gold-Channel_black.png",
           "description": "",
           "sources": [
@@ -1454,7 +1404,7 @@
           ]
         },
         {
-          "title": "CR | Fox Cricket 501",
+          "title": "Fox Cricket 501",
           "poster": "https://upload.wikimedia.org/wikipedia/en/f/f4/Fox_Cricket_Logo.png",
           "description": "",
           "sources": [
@@ -1463,7 +1413,7 @@
           ]
         },
         {
-          "title": "CR | Fox Cricket 501 HD",
+          "title": "Fox Cricket 501 HD",
           "poster": "https://static.wikia.nocookie.net/logopedia/images/2/24/FoxCricket.svg",
           "description": "",
           "sources": [
@@ -1472,7 +1422,7 @@
           ]
         },
         {
-          "title": "CR | Star Sports 1 Hindi",
+          "title": "Star Sports 1 Hindi",
           "poster": "https://static.epg.best/cn/StarSports1.cn.png",
           "description": "",
           "sources": [
@@ -1480,17 +1430,9 @@
             { "server_name": "Server 2", "url": "" }
           ]
         },
+        
         {
-          "title": "FB | A SPOR",
-          "poster": "https://i.ibb.co/xSjB51j/aspor.png",
-          "description": "",
-          "sources": [
-            { "server_name": "Server 1", "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_480p.m3u8" },
-            { "server_name": "Server 2", "url": "" }
-          ]
-        },
-        {
-          "title": "FB | Bahrain Sports 1",
+          "title": "Bahrain Sports 1",
           "poster": "https://s3.aynaott.com/storage/f55bea3263be1af187fe1122e4f44142",
           "description": "",
           "sources": [
@@ -1499,8 +1441,8 @@
           ]
         },
         {
-          "title": "FB | BeIN Sports",
-          "poster": "https://static.wikia.nocookie.net/logopedia/images/4/4d/BeIN_Sports_2014_flat.svg",
+          "title": "BeIN Sports",
+          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhXse2cgIuVSVKEqzxp4g4aEV2GZUO7RIO-oHA1TKMIQ&s=10",
           "description": "",
           "sources": [
             { "server_name": "Server 1", "url": "https://tvsen6.aynaott.com/beinsports/index.m3u8" },
@@ -1526,16 +1468,34 @@
           ]
         },
         {
-          "title": "FB | BeIN Sports 4",
-          "poster": "https://static.wikia.nocookie.net/logopedia/images/b/bc/BS4.svg",
+          "title": "BeIN Sports 4",
+          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-xTLWcDpmDt1XnmwAhal0opaeQF-JHlDkLVTW4EdeDw&s=10",
           "description": "",
           "sources": [
             { "server_name": "Server 1", "url": "https://andro.226503.xyz/checklist/androstreamlivebs4.m3u8" },
             { "server_name": "Server 2", "url": "" }
           ]
         },
+{
+          "title": "Euro Sport 2 HD",
+          "poster": "https://static.wikia.nocookie.net/logopedia/images/d/da/Eurosport_2_%28II%29.svg",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "http://151.80.18.177:86/Eurosport_2_HD/index.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
         {
-          "title": "FB | Bleav Football",
+          "title": "FOOTBALL",
+          "poster": "",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+        {
+          "title": "Bleav Football",
           "poster": "https://a.jsrdn.com/hls/23091/bleav-football/logo_20231219_184637_64.png",
           "description": "",
           "sources": [
@@ -1544,7 +1504,7 @@
           ]
         },
         {
-          "title": "FB | FIFA+",
+          "title": "FIFA+",
           "poster": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN270000230_20250514T004921SQUARE.png",
           "description": "",
           "sources": [
@@ -1553,7 +1513,7 @@
           ]
         },
         {
-          "title": "FB | Goal TV",
+          "title": "Goal TV",
           "poster": "https://media.unreel.me/prod/freelivesports/logo/3b9ff291-5825-4cd3-b8f0-5d03a3f1e3c1",
           "description": "",
           "sources": [
@@ -1562,7 +1522,7 @@
           ]
         },
         {
-          "title": "FB | MORE THEN SPORTS TV",
+          "title": "MORE THEN SPORTS TV",
           "poster": "https://s3.aynaott.com/storage/39174e32d4f8d29a95c881637fe1ecdb",
           "description": "",
           "sources": [
@@ -1571,7 +1531,7 @@
           ]
         },
         {
-          "title": "FB | Oman Sports TV",
+          "title": "Oman Sports TV",
           "poster": "https://s3.aynaott.com/storage/33f87783637fc95fdb8837ba9344c9e9",
           "description": "",
           "sources": [
@@ -1580,7 +1540,7 @@
           ]
         },
         {
-          "title": "FB | ORF Sport+ HD",
+          "title": "ORF Sport+ HD",
           "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/ORF_Sport_%2B_Logo_2024.svg/2560px-ORF_Sport_%2B_Logo_2024.svg.png",
           "description": "",
           "sources": [
@@ -1589,7 +1549,7 @@
           ]
         },
         {
-          "title": "FIGHT | FIGHT NETWORK",
+          "title": "FIGHT NETWORK",
           "poster": "https://media.unreel.me/prod/sportsplus/logo/7607dd92-7305-4bab-886e-c38fe745fff7",
           "description": "",
           "sources": [
@@ -1598,7 +1558,7 @@
           ]
         },
         {
-          "title": "FIGHT | Lucha Plus",
+          "title": "Lucha Plus",
           "poster": "https://media.unreel.me/prod/freelivesports/logo/2cf051b6-a8b1-46ed-ac4c-2d0ef812dc90",
           "description": "",
           "sources": [
@@ -1607,7 +1567,7 @@
           ]
         },
         {
-          "title": "FIGHT | MMA TV",
+          "title": "MMA TV",
           "poster": "https://media.unreel.me/prod/freelivesports/logo/9cb9b4ff-2958-4179-bd0b-bc9a44888cc7",
           "description": "",
           "sources": [
@@ -1616,7 +1576,7 @@
           ]
         },
         {
-          "title": "FIGHT | MVMT Culture",
+          "title": "MVMT Culture",
           "poster": "https://media.unreel.me/prod/freelivesports/logo/98403785-3bba-4f7d-bee8-0eada4d790c8",
           "description": "",
           "sources": [
@@ -1625,7 +1585,7 @@
           ]
         },
         {
-          "title": "FIGHT | PFL",
+          "title": "PFL",
           "poster": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US350000231_20241119T020436SQUARE.png",
           "description": "",
           "sources": [
@@ -1634,7 +1594,7 @@
           ]
         },
         {
-          "title": "FIGHT | TNA Wrestling Channel",
+          "title": "TNA Wrestling Channel",
           "poster": "https://media.unreel.me/prod/sportsplus/logo/67c2dd14-d8c7-47fa-99e5-452f2715e404",
           "description": "",
           "sources": [
@@ -1643,7 +1603,7 @@
           ]
         },
         {
-          "title": "FISHING | Sports Fishing TV",
+          "title": "Sports Fishing TV",
           "poster": "https://s3.aynaott.com/storage/fede32688e783945fed0473f3b0daf23",
           "description": "",
           "sources": [
@@ -1652,7 +1612,7 @@
           ]
         },
         {
-          "title": "GOLF | Golf Channel",
+          "title": "Golf Channel",
           "poster": "https://s3.aynaott.com/storage/edb73991516696dfd53efbd32d80ca58",
           "description": "",
           "sources": [
@@ -1661,7 +1621,7 @@
           ]
         },
         {
-          "title": "GOLF | Golf Network",
+          "title": "GOLF Network",
           "poster": "https://media.unreel.me/prod/freelivesports/logo/aef93e60-809c-4253-8a6f-012ad4a18842",
           "description": "",
           "sources": [
@@ -1670,7 +1630,7 @@
           ]
         },
         {
-          "title": "GOLF | GOLFPASS",
+          "title": "GOLFPASS",
           "poster": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB400000145_20240924T225013SQUARE.png",
           "description": "",
           "sources": [
@@ -1679,7 +1639,7 @@
           ]
         },
         {
-          "title": "GOLF | Unbeaten (Worldwide)",
+          "title": "Unbeaten (Worldwide)",
           "poster": "https://media.unreel.me/prod/freelivesports/logo/09fa93ff-a539-4d81-bbbf-da599e11e77c",
           "description": "",
           "sources": [
@@ -1688,7 +1648,7 @@
           ]
         },
         {
-          "title": "MIXER | ACE TV",
+          "title": "ACE TV",
           "poster": "https://media.unreel.me/prod/freelivesports/logo/a0198825-7700-4a3a-8399-338e8e1d9c64",
           "description": "",
           "sources": [
@@ -1697,7 +1657,7 @@
           ]
         },
         {
-          "title": "MIXER | All Women's Sports Network",
+          "title": "All Women's Sports Network",
           "poster": "",
           "description": "",
           "sources": [
@@ -1706,7 +1666,7 @@
           ]
         },
         {
-          "title": "MIXER | Bein Sport HD 1",
+          "title": "Bein Sport HD 1",
           "poster": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
           "description": "",
           "sources": [
@@ -1715,7 +1675,7 @@
           ]
         },
         {
-          "title": "MIXER | Cornhole TV",
+          "title": "Cornhole TV",
           "poster": "https://media.unreel.me/prod/sportsplus/logo/47355675-c7fe-49b7-943a-507b3fa938e4",
           "description": "",
           "sources": [
@@ -1724,7 +1684,7 @@
           ]
         },
         {
-          "title": "MIXER | ESPN",
+          "title": "ESPN",
           "poster": "https://static.wikia.nocookie.net/logopedia/images/3/34/ESPN.svg",
           "description": "",
           "sources": [
@@ -1733,7 +1693,7 @@
           ]
         },
         {
-          "title": "MIXER | FUEL TV",
+          "title": "FUEL TV",
           "poster": "https://a.jsrdn.com/hls/23055/fuel-tv-ww/logo_20231219_202054_68.png",
           "description": "",
           "sources": [
@@ -1742,7 +1702,7 @@
           ]
         },
         {
-          "title": "MIXER | H20 TV",
+          "title": "H20 TV",
           "poster": "https://media.unreel.me/prod/freelivesports/logo/59987eb6-cbd7-4a38-b59f-597fc0f8ca45",
           "description": "",
           "sources": [
@@ -1751,7 +1711,7 @@
           ]
         },
         {
-          "title": "MIXER | HOOP TV",
+          "title": "HOOP TV",
           "poster": "https://media.unreel.me/prod/freelivesports/logo/4454e89b-ea81-4752-a9bb-6db85b40a194",
           "description": "",
           "sources": [
@@ -1760,7 +1720,7 @@
           ]
         },
         {
-          "title": "MIXER | Horse & Country",
+          "title": "Horse & Country",
           "poster": "https://media.unreel.me/prod/sportsplus/logo/403787aa-0d0a-440c-9056-84226a5c4a82",
           "description": "",
           "sources": [
@@ -1769,7 +1729,7 @@
           ]
         },
         {
-          "title": "MIXER | Hunt Fish TV",
+          "title": "Hunt Fish TV",
           "poster": "https://media.unreel.me/prod/sportsplus/logo/3b03051b-d5ae-4e42-b41d-b2d338db5a91",
           "description": "",
           "sources": [
@@ -1778,7 +1738,7 @@
           ]
         },
         {
-          "title": "MIXER | IDMAN TV",
+          "title": "IDMAN TV",
           "poster": "https://imglink.cc/cdn/RY7jBwPKAr.jpg",
           "description": "",
           "sources": [
@@ -1787,7 +1747,7 @@
           ]
         },
         {
-          "title": "MIXER | InTrouble",
+          "title": "InTrouble",
           "poster": "https://media.unreel.me/prod/sportsplus/logo/be5d5d67-3049-4ab3-829e-eadac9a1c986",
           "description": "",
           "sources": [
@@ -1796,7 +1756,7 @@
           ]
         },
         {
-          "title": "MIXER | KTV Sport Plus",
+          "title": "KTV Sport Plus",
           "poster": "https://s3.aynaott.com/storage/b54495ee3cdd53ddaa19d1f98120f488",
           "description": "",
           "sources": [
@@ -1805,7 +1765,7 @@
           ]
         },
         {
-          "title": "MIXER | Marquee Sports Network",
+          "title": "Marquee Sports Network",
           "poster": "https://s3.aynaott.com/storage/66bdaa21aba96de6d32a3515715f7502",
           "description": "",
           "sources": [
@@ -1814,7 +1774,7 @@
           ]
         },
         {
-          "title": "MIXER | NBC Sports",
+          "title": "NBC Sports",
           "poster": "https://s3.aynaott.com/storage/0a241a80bf51d2c3b3722531706ce086",
           "description": "",
           "sources": [
@@ -1823,7 +1783,7 @@
           ]
         },
         {
-          "title": "MIXER | Red Bull TV UK",
+          "title": "Red Bull TV UK",
           "poster": "https://www.google.com/s2/favicons?sz=128&domain=redbull.com",
           "description": "",
           "sources": [
@@ -1832,7 +1792,7 @@
           ]
         },
         {
-          "title": "MIXER | Redbull TV",
+          "title": "Redbull TV",
           "poster": "https://openpaddock.net/wp-content/uploads/2014/11/RedbullTV_blue.jpg",
           "description": "",
           "sources": [
@@ -1841,7 +1801,7 @@
           ]
         },
         {
-          "title": "MIXER | Sport 1",
+          "title": "Sport 1",
           "poster": "https://i.imgur.com/X5X3tKC.png",
           "description": "",
           "sources": [
@@ -1850,7 +1810,7 @@
           ]
         },
         {
-          "title": "MIXER | Sport 2",
+          "title": "Sport 2",
           "poster": "https://i.imgur.com/UxflVoU.png",
           "description": "",
           "sources": [
@@ -1859,7 +1819,7 @@
           ]
         },
         {
-          "title": "MIXER | Sports Fishing",
+          "title": "Sports Fishing",
           "poster": "https://media.unreel.me/prod/freelivesports/logo/4f11d7b4-99e6-447e-b517-10dbb827a67c",
           "description": "",
           "sources": [
@@ -1868,7 +1828,7 @@
           ]
         },
         {
-          "title": "MIXER | SportsGrid",
+          "title": "SportsGrid",
           "poster": "https://static.wikia.nocookie.net/logopedia/images/b/bd/SPORTSGRID_LOGO_BLACK_RED_LOGO.svg",
           "description": "",
           "sources": [
@@ -1877,7 +1837,7 @@
           ]
         },
         {
-          "title": "MIXER | Strongman Champions League",
+          "title": "Strongman Champions League",
           "poster": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC90001089_20250107153921SQUARE.png",
           "description": "",
           "sources": [
@@ -1886,7 +1846,7 @@
           ]
         },
         {
-          "title": "MIXER | Trace Sports Stars",
+          "title": "Trace Sports Stars",
           "poster": "https://static.wikia.nocookie.net/logopedia/images/4/4f/Trace_Sport_Stars_%282022%29.svg",
           "description": "",
           "sources": [
@@ -1895,7 +1855,7 @@
           ]
         },
         {
-          "title": "MIXER | Unbeaten Sports Channel",
+          "title": "Unbeaten Sports Channel",
           "poster": "https://i.imgur.com/LmkNt3v.png",
           "description": "",
           "sources": [
@@ -1904,7 +1864,7 @@
           ]
         },
         {
-          "title": "MIXER | WOF 1",
+          "title": "WOF 1",
           "poster": "https://s3.aynaott.com/storage/1a580ee2636a0c4761e623bc131ba7a6",
           "description": "",
           "sources": [
@@ -1913,7 +1873,7 @@
           ]
         },
         {
-          "title": "MIXER | World of Freesports",
+          "title": "World of Freesports",
           "poster": "https://media.unreel.me/prod/sportsplus/logo/ef4c576d-49fb-4997-afe1-55f0b11d7982",
           "description": "",
           "sources": [
@@ -1922,7 +1882,7 @@
           ]
         },
         {
-          "title": "MIXER | Xtrem Sports",
+          "title": "Xtrem Sports",
           "poster": "https://s3.aynaott.com/storage/e1749cf3040f11c63e722c941f213927",
           "description": "",
           "sources": [
@@ -1931,7 +1891,7 @@
           ]
         },
         {
-          "title": "NFL | NFL Network",
+          "title": "NFL Network",
           "poster": "https://s3.aynaott.com/storage/79f1ee920d6931a767ae0030e1c7c12b",
           "description": "",
           "sources": [
@@ -1940,7 +1900,7 @@
           ]
         },
         {
-          "title": "OTHER | BEK TV Sports West",
+          "title": "BEK TV Sports West",
           "poster": "https://appcmsprod.viewlift.com/eae092c0-d256-11ed-9371-6da166a39e0f/images/bek-tv-plus-web-logo-noc-1280X728.png",
           "description": "",
           "sources": [
@@ -1949,7 +1909,7 @@
           ]
         },
         {
-          "title": "OTHER | Cowboy TV",
+          "title": "Cowboy TV",
           "poster": "https://static.wikia.nocookie.net/logopedia/images/e/e6/Cowboy_Channel_logo.png",
           "description": "",
           "sources": [
@@ -1958,7 +1918,7 @@
           ]
         },
         {
-          "title": "POKER | Poker Night In America",
+          "title": "Poker Night In America",
           "poster": "https://media.unreel.me/prod/sportsplus/logo/1d91fc37-a75c-4490-8739-f9c79a8f9432",
           "description": "",
           "sources": [
@@ -1967,7 +1927,7 @@
           ]
         },
         {
-          "title": "POKER | World Poker Tour",
+          "title": "World Poker Tour",
           "poster": "https://media.unreel.me/prod/sportsplus/logo/c4779d42-4a0d-4a4d-a455-df67f3151d8f",
           "description": "",
           "sources": [
@@ -1976,7 +1936,7 @@
           ]
         },
         {
-          "title": "RACING | FloRacing",
+          "title": "FloRacing",
           "poster": "https://media.unreel.me/prod/freelivesports/logo/3ae62aeb-63b4-4f70-966b-16b0c39dd0c2",
           "description": "",
           "sources": [
@@ -1985,7 +1945,7 @@
           ]
         },
         {
-          "title": "RACING | Hagerty",
+          "title": "Hagerty",
           "poster": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD4200011W4_20240709T002126SQUARE.png",
           "description": "",
           "sources": [
@@ -1994,7 +1954,7 @@
           ]
         },
         {
-          "title": "RACING | Motor Vision",
+          "title": "Motor Vision",
           "poster": "https://static.wikia.nocookie.net/logopedia/images/7/70/Motorvision_2023.svg",
           "description": "",
           "sources": [
@@ -2003,7 +1963,7 @@
           ]
         },
         {
-          "title": "RACING | MTRSPT1",
+          "title": "MTRSPT1",
           "poster": "https://a.jsrdn.com/hls/23099/mtrspt1/logo_20250122_232635_70.png",
           "description": "",
           "sources": [
@@ -2012,7 +1972,7 @@
           ]
         },
         {
-          "title": "RACING | RACER International",
+          "title": "RACER International",
           "poster": "https://media.unreel.me/prod/freelivesports/logo/9fc17fec-6c99-4dc0-9fe5-abe85faeab49",
           "description": "",
           "sources": [
@@ -2021,7 +1981,7 @@
           ]
         },
         {
-          "title": "RACING | speed sports 1",
+          "title": "speed sports 1",
           "poster": "https://s3.aynaott.com/storage/06f5b193bfa4d31310ee934eb3c2222e",
           "description": "",
           "sources": [
@@ -2039,7 +1999,7 @@
           ]
         },
         {
-          "title": "TANNIS | Pickle TV",
+          "title": "Pickle TV",
           "poster": "https://media.unreel.me/prod/freelivesports/logo/63fba2fd-ea9b-485f-bc45-44b1eef221a5",
           "description": "",
           "sources": [
