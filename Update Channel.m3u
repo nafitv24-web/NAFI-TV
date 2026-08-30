@@ -1106,7 +1106,7 @@
           "description": "",
           "sources": [
             { "server_name": "Server 1", "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8" },
-            { "server_name": "Server 2", "url": "" }
+            { "server_name": "Server 2", "https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8": "" }
           ]
         },
         {
@@ -1131,7 +1131,7 @@
       "server_name": "Server 2",
       "url": "" }
   ]
-},
+}, 
 
         {
           "title": "A Sports HD",
@@ -1193,7 +1193,7 @@
           "description": "",
           "sources": [
             { "server_name": "Server 1", "url": "https://tvsen3.aynaott.com/Sports1/mono.m3u8" },
-            { "server_name": "Server 2", "url": "" }
+            { "server_name": "Server 2", "url": "https://s3.itcnbd.live/channel/2929059f34d114ca.m3u8" }
           ]
         },
         {
@@ -1342,8 +1342,8 @@
         },
 
 {
-          "title": "---Live(DD Sports)---",
-          "poster": "https://upload.wikimedia.org/wikipedia/commons/6/64/DD_Sports_new_logo.jpg",
+          "title": "DD Sports",
+          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4JGlGQvLLyar5WARzgh87uQNNiJnvXO915T40JnkZqA&s=10",
           "description": "",
           "sources": [
             { "server_name": "Server 1", "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index_3.m3u8" },
@@ -1377,17 +1377,9 @@
             { "server_name": "Server 2", "url": "" }
           ]
         },
+        
         {
-          "title": "---Live(Star Sports 1 HD)---",
-          "poster": "https://static.epg.best/cn/StarSports1.cn.png",
-          "description": "",
-          "sources": [
-            { "server_name": "Server 1", "url": "https://s3.itcnbd.live/channel/2929059f34d114ca.m3u8" },
-            { "server_name": "Server 2", "url": "" }
-          ]
-        },
-        {
-          "title": "---Live(STAR SPORTS SELECT 2 HD)---",
+          "title": "STAR SPORTS SELECT 2 HD",
           "poster": "https://static.epg.best/in/StarSportsSelect1.in.png",
           "description": "",
           "sources": [
@@ -1395,24 +1387,8 @@
             { "server_name": "Server 2", "url": "" }
           ]
         },
-        {
-          "title": "---Live(T Sports HD)---",
-          "poster": "https://static.wikia.nocookie.net/etv-gspn-bangla/images/6/6e/T_Sports_HD_logo_2021.png",
-          "description": "",
-          "sources": [
-            { "server_name": "Server 1", "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8" },
-            { "server_name": "Server 2", "url": "" }
-          ]
-        },
-        {
-          "title": "--Live(A Sports)--",
-          "poster": "https://a-sports.tv/assets/img/logo/A-Sports-Logo-final.webp",
-          "description": "",
-          "sources": [
-            { "server_name": "Server 1", "url": "https://playztv-apps.pages.dev/asports/index.m3u8" },
-            { "server_name": "Server 2", "url": "" }
-          ]
-        },
+        
+        
         {
           "title": "--Live(beIN SPORTS XTRA)--",
           "poster": "https://static.wikia.nocookie.net/logopedia/images/b/b5/XTRA_2.png",
