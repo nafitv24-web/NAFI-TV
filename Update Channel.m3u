@@ -1156,8 +1156,17 @@
           "poster": "https://i.ibb.co.com/fdVvXGM4/Picsart-24-10-27-13-05-15-065.webp",
           "description": "",
           "sources": [
+            { "server_name": "Server 1", "url": "https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+{
+          "title": "Willow by Cricbuzz",
+          "poster": "https://mms.businesswire.com/media/20240530429365/en/2145074/5/logo_transparent_cb_%281%29.jpg?download=1",
+          "description": "",
+          "sources": [
             { "server_name": "Server 1", "url": "https://tvsen5.aynaott.com/willowhd/index.m3u8" },
-            { "server_name": "Server 2", "url": "https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8" }
+            { "server_name": "Server 2", "url": "https://tvsen5.aynaott.com/willowhd/index.m3u8" }
           ]
         },
         {
