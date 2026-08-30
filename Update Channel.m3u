@@ -2612,9 +2612,462 @@
       ]
     },
     {
-      "category_name": "Other",
+      "category_name": "NEWS",
       "movies": [
+       
+{
+          "title": "Aaj Tak HD",
+          "poster": "https://static.wikia.nocookie.net/logopedia/images/9/93/Aaj_Tak_HD_v2.png",
+          "description": "",
+          "sources": [
+            {
+              "server_name": "Server 1",
+              "url": "https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_720p/chunks.m3u8"
+            },
+            {
+              "server_name": "Server 2",
+              "url": ""
+            }
+          ]
+        },
         {
+          "title": "Aap Ki Adalat",
+          "poster": "https://yt3.googleusercontent.com/-LKDkXmG8y-gkKDzES5aUI8SYFtDXR8F7351cCACb8OP0ap9MkI5moxwFLoAWNRjVEXKJmH3pQ=s72-c-k-c0x00ffffff-no-rj",
+          "description": "",
+          "sources": [
+            {
+              "server_name": "Server 1",
+              "url": "https://amg01550-indiatv-indiatv-aapkiadalat-mi-xiaomi-n5tuk.amagi.tv/playlist/amg01550-indiatv-indiatv-aapkiadalat-mi-xiaomi/playlist.m3u8"
+            },
+            {
+              "server_name": "Server 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "title": "ABP News",
+          "poster": "https://static.wikia.nocookie.net/logopedia/images/e/eb/ABP_News.svg",
+          "description": "",
+          "sources": [
+            {
+              "server_name": "Server 1",
+              "url": "https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/abpnews-livetv/master.m3u8"
+            },
+            {
+              "server_name": "Server 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "title": "Amar Ujala",
+          "poster": "https://static.wikia.nocookie.net/logopedia/images/5/5a/Amar_Ujala.jpeg",
+          "description": "",
+          "sources": [
+            {
+              "server_name": "Server 1",
+              "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8"
+            },
+            {
+              "server_name": "Server 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "title": "Awaaz India TV",
+          "poster": "https://i.ytimg.com/vi/8BzmlfZm2xU/hqdefault.jpg",
+          "description": "",
+          "sources": [
+            {
+              "server_name": "Server 1",
+              "url": "http://awaazindia.livebox.co.in/AwaazIndaTVhls/Live.m3u8"
+            },
+            {
+              "server_name": "Server 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "title": "Bharat 24",
+          "poster": "https://a.jsrdn.com/hls/23215/bharat-24/logo_20250611_203139_70.png",
+          "description": "",
+          "sources": [
+            {
+              "server_name": "Server 1",
+              "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2774c390ad884e06a7b0257c8489e23d/index.m3u8"
+            },
+            {
+              "server_name": "Server 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "title": "Bharat Express",
+          "poster": "https://bharatexpress.com/wp-content/themes/newstrackcms/images/bharat-express-new-logo.png",
+          "description": "",
+          "sources": [
+            {
+              "server_name": "Server 1",
+              "url": "https://stream1.livebox.co.in/VCAREhls/live.m3u8"
+            },
+            {
+              "server_name": "Server 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "title": "Bharat Samachar TV",
+          "poster": "https://bharatsamachartv.com/images/logo.png",
+          "description": "",
+          "sources": [
+            {
+              "server_name": "Server 1",
+              "url": "https://idvd.multitvsolution.com/idvo/bharatsamachar.m3u8"
+            },
+            {
+              "server_name": "Server 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "title": "CNBC Awaaz",
+          "poster": "https://static.wikia.nocookie.net/logopedia/images/1/18/CNBC_Awaaz_2025.svg",
+          "description": "",
+          "sources": [
+            {
+              "server_name": "Server 1",
+              "url": "https://n18syndication.akamaized.net/bpk-tv/CNBC_Awaaz_NW18_MOB/output01/index.m3u8"
+            },
+            {
+              "server_name": "Server 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "title": "CNN News18",
+          "poster": "https://static.wikia.nocookie.net/logopedia/images/1/1b/CNN-News_18_logo.jpg",
+          "description": "",
+          "sources": [
+            {
+              "server_name": "Server 1",
+              "url": "https://n18syndication.akamaized.net/bpk-tv/CNN_News18_NW18_MOB/output01/index.m3u8"
+            },
+            {
+              "server_name": "Server 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "title": "DD INDIA",
+          "poster": "https://prodcdn1.wavespb.com/shows/poster_url/543398583DD_INDIA_Mob_384x512.webp",
+          "description": "",
+          "sources": [
+            {
+              "server_name": "Server 1",
+              "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ceda14583477426aa162a65392d8ea07/index.m3u8"
+            },
+            {
+              "server_name": "Server 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "title": "DD News",
+          "poster": "https://static.wikia.nocookie.net/logopedia/images/d/d6/DD_News_new_logo_2024.jpg",
+          "description": "",
+          "sources": [
+            {
+              "server_name": "Server 1",
+              "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0811cd8c37ca4c409d5385a6cd2fa18b/index.m3u8"
+            },
+            {
+              "server_name": "Server 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "title": "IBC 24",
+          "poster": "https://static.wikia.nocookie.net/logopedia/images/4/4b/Ibc24.png",
+          "description": "",
+          "sources": [
+            {
+              "server_name": "Server 1",
+              "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0bfbd0b9de7f4407949202296560c0fe/index.m3u8"
+            },
+            {
+              "server_name": "Server 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "title": "India Today",
+          "poster": "https://static.wikia.nocookie.net/logopedia/images/2/25/India_Today_TV.jpg",
+          "description": "",
+          "sources": [
+            {
+              "server_name": "Server 1",
+              "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/d4435039c7d1433d9b9d0b6cdc9dd4ff/index.m3u8"
+            },
+            {
+              "server_name": "Server 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "title": "India TV",
+          "poster": "https://static.wikia.nocookie.net/logopedia/images/1/10/India_TV_Orange.jpg",
+          "description": "",
+          "sources": [
+            {
+              "server_name": "Server 1",
+              "url": "https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index.m3u8"
+            },
+            {
+              "server_name": "Server 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "title": "India TV Speed News",
+          "poster": "https://static.wikia.nocookie.net/logopedia/images/1/1d/India_TV_Speed_News.png",
+          "description": "",
+          "sources": [
+            {
+              "server_name": "Server 1",
+              "url": "https://amg01550-indiatv-indiatv-speed-mi-xiaomi-zgmaw.amagi.tv/playlist/amg01550-indiatv-indiatv-speed-mi-xiaomi/playlist.m3u8"
+            },
+            {
+              "server_name": "Server 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "title": "K News India",
+          "poster": "https://static.wikia.nocookie.net/logopedia/images/0/02/K_News.jpeg",
+          "description": "",
+          "sources": [
+            {
+              "server_name": "Server 1",
+              "url": "https://legitpro.co.in/knews/index.m3u8"
+            },
+            {
+              "server_name": "Server 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "title": "NDTV English",
+          "poster": "https://yt3.googleusercontent.com/ytc/AIdro_lcj8idHNsaTiTITY2vWQD6gaxZ6ITkpQPaLVskaDMyiml9=s160-c-k-c0x00ffffff-no-rj",
+          "description": "",
+          "sources": [
+            {
+              "server_name": "Server 1",
+              "url": "https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8"
+            },
+            {
+              "server_name": "Server 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "title": "NDTV Hindi",
+          "poster": "https://logodix.com/logo/2131933.jpg",
+          "description": "",
+          "sources": [
+            {
+              "server_name": "Server 1",
+              "url": "https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679-b/ndtvindia/master.m3u8"
+            },
+            {
+              "server_name": "Server 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "title": "News Nation",
+          "poster": "https://yt3.googleusercontent.com/tWgKmMIT4YwdmT0z5S1MN2bIvoFN8_RvIsAWZbLwQVIpq21RO-_Y4sDzVdpj9l6wWRRz8YeUSg=s72-c-k-c0x00ffffff-no-rj",
+          "description": "",
+          "sources": [
+            {
+              "server_name": "Server 1",
+              "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6cd2f649739a45ca9de1daf81cc7d0f2/index.m3u8"
+            },
+            {
+              "server_name": "Server 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "title": "News18 India",
+          "poster": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD1300010WP_20240904T091839SQUARE.png",
+          "description": "",
+          "sources": [
+            {
+              "server_name": "Server 1",
+              "url": "https://amg01448-samsungin-news18india-samsungin-ad-gx.amagi.tv/ts-ap-s1-n1/playlist/amg01448-samsungin-news18india-samsungin/playlist.m3u8"
+            },
+            {
+              "server_name": "Server 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "title": "News24",
+          "poster": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3900001YE_20250430T011913SQUARE.png",
+          "description": "",
+          "sources": [
+            {
+              "server_name": "Server 1",
+              "url": "https://amg13643-amg13643c1-amgplt0016.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg13643-amg13643c1-amgplt0016/playlist.m3u8"
+            },
+            {
+              "server_name": "Server 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "title": "Republic Bharat",
+          "poster": "https://static.wikia.nocookie.net/logopedia/images/8/88/Republic_Bharat_Rashtra_ke_Naam.jpg",
+          "description": "",
+          "sources": [
+            {
+              "server_name": "Server 1",
+              "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/7e8b490d6b9c4013a3e3e874aa352212/index.m3u8"
+            },
+            {
+              "server_name": "Server 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "title": "Republic TV",
+          "poster": "https://static.wikia.nocookie.net/logopedia/images/f/fe/Republic-logo2.svg",
+          "description": "",
+          "sources": [
+            {
+              "server_name": "Server 1",
+              "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2e31d831f08640ff92f65003bdc89991/index.m3u8"
+            },
+            {
+              "server_name": "Server 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "title": "Times Now Navbharat",
+          "poster": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD1300003OW_20240131T032351SQUARE.png_20240131032352.png",
+          "description": "",
+          "sources": [
+            {
+              "server_name": "Server 1",
+              "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/a5ee7c4e7a2a4b15a22a3bcf523b9776/index.m3u8"
+            },
+            {
+              "server_name": "Server 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "title": "TV9 Bharatvarsh",
+          "poster": "https://static.wikia.nocookie.net/logopedia/images/a/ad/TV9_Bharatvarsh.jpeg",
+          "description": "",
+          "sources": [
+            {
+              "server_name": "Server 1",
+              "url": "https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/pub-iotv9hinjzgtpe/live_720p/chunks.m3u8"
+            },
+            {
+              "server_name": "Server 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "title": "ZEE BUSINESS",
+          "poster": "https://static.wikia.nocookie.net/logopedia/images/0/07/Zee_Business_%282025%29.svg",
+          "description": "",
+          "sources": [
+            {
+              "server_name": "Server 1",
+              "url": "https://dwby15d04agvq.cloudfront.net/index_1.m3u8"
+            },
+            {
+              "server_name": "Server 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "title": "Zee Hindustan",
+          "poster": "https://static.wikia.nocookie.net/logopedia/images/0/04/Z_Bharat_English.jpg",
+          "description": "",
+          "sources": [
+            {
+              "server_name": "Server 1",
+              "url": "https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeehindustan/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/96bbab12-582e-4540-af70-510ab6824581/main.m3u8"
+            },
+            {
+              "server_name": "Server 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "title": "ZEE News",
+          "poster": "https://static.wikia.nocookie.net/logopedia/images/c/c4/Zee_News_HD.jpg",
+          "description": "",
+          "sources": [
+            {
+              "server_name": "Server 1",
+              "url": "https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8"
+            },
+            {
+              "server_name": "Server 2",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "title": "22Scope News",
+          "poster": "https://daex9l847wg3n.cloudfront.net/shemoutputimages/22-Scope-News/63abe6c4988cd4258ed46b05/large_16_9_1724913213.jpg",
+          "description": "",
+          "sources": [
+            {
+              "server_name": "Server 1",
+              "url": "https://ott.livelegitpro.in/hls4/22scope/index.m3u8"
+            },
+            {
+              "server_name": "Server 2",
+              "url": ""
+            }
+          ]
+        },
+
+
+{
           "title": "Al Jazeera English HD",
           "poster": "https://emergencyuk.org/wp-content/uploads/2017/03/Aljazeera-logo-English-1024x768.png",
           "description": "",
