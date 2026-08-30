@@ -641,7 +641,7 @@
       "movies": [
        {
           "title": "Jalsha Movie",
-          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0ppIIkUQcN6Cpuz_XZO7U3Z8Ixk88Uv-XSzkXM9H4Xg&s=10",
+          "poster": "https://i.ibb.co.com/SXmSmg7r/Picsart-24-10-25-16-26-31-042.webp",
           "description": "",
           "sources": [
             { "server_name": "Server 1", "url": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/908656.m3u8" },
@@ -651,7 +651,7 @@
 
 {
           "title": "Star Jalsha HD",
-          "poster": "https://i.postimg.cc/0ykfppN3/20240822-231405.png",
+          "poster": "https://i.ibb.co.com/7dcZDC3q/Picsart-24-10-18-15-09-05-722.webp",
           "description": "",
           "sources": [
             { "server_name": "Server 1", "url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8" },
@@ -660,7 +660,7 @@
         },
         {
           "title": "Zee Bangla HD",
-          "poster": "https://i.postimg.cc/5tjSrbLS/20240822-231445.png",
+          "poster": "https://i.ibb.co.com/23dGnxBn/Picsart-24-10-18-15-06-46-163.webp",
           "description": "",
           "sources": [
             { "server_name": "Server 1", "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_bangla/playlist.m3u8" },
@@ -669,7 +669,7 @@
         },
 {
           "title": "Zee Bangla Cinema",
-          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0ppIIkUQcN6Cpuz_XZO7U3Z8Ixk88Uv-XSzkXM9H4Xg&s=10",
+          "poster": "https://i.ibb.co.com/kVpCbFNm/Picsart-24-10-18-15-05-11-855.webp",
           "description": "",
           "sources": [
             { "server_name": "Server 1", "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/master2.m3u8" },
@@ -678,7 +678,7 @@
         },
         {
           "title": "Colors Bangla HD",
-          "poster": "https://i.postimg.cc/3w6F5VZ5/20240822-231514.png",
+          "poster": "https://i.ibb.co.com/DfM16WMd/Picsart-24-10-25-16-01-06-259.webp",
           "description": "",
           "sources": [
             { "server_name": "Server 1", "url": "https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8" },
@@ -687,7 +687,7 @@
         },
         {
           "title": "Enter 10 Bangla",
-          "poster": "https://i.postimg.cc/J0QXn2jh/20240823_020641.png",
+          "poster": "https://i.ibb.co.com/840NTLs6/Picsart-24-10-18-15-11-32-440.webp",
           "description": "",
           "sources": [
             { "server_name": "Server 1", "url": "https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8" },
@@ -696,7 +696,7 @@
         },
         {
           "title": "Sony Aath",
-          "poster": "https://i.postimg.cc/2yNd3WJ0/20240822-231606.png",
+          "poster": "https://i.ibb.co.com/TB4KCwv8/Picsart-24-10-22-04-38-57-770.webp",
           "description": "",
           "sources": [
             { "server_name": "Server 1", "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sonyaath/playlist.m3u8" },
@@ -723,7 +723,7 @@
         },
         {
           "title": "Jalsha Movies HD",
-          "poster": "https://i.postimg.cc/rFcCkS5m/20240822_231714.png",
+          "poster": "https://i.ibb.co.com/SXmSmg7r/Picsart-24-10-25-16-26-31-042.webp",
           "description": "",
           "sources": [
             { "server_name": "Server 1", "url": "" },
