@@ -72,7 +72,8 @@
           "poster": "https://i.ibb.co.com/bRg8Pbp9/Picsart-24-10-18-14-54-54-079.webp",
           "description": "",
           "sources": [
-            { "server_name": "Server 1", "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ekusheytv-8-org.stream/index.m3u8" },
+            { "server_name": "Server 1", "url": "https://tvsen5.aynaott.com/SyQuXz8sC3TB/index.m3u8" },
+           { "server_name": "Server 1", "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ekusheytv-8-org.stream/index.m3u8" },
             { "server_name": "Server 2", "url": "http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8" }
           ]
         },
@@ -135,7 +136,8 @@
           "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjrkJKAyHpD97FHO01JRPLa5qiL0mzI3HDv4rGqc3GCQ&s=10",
           "description": "",
           "sources": [
-            { "server_name": "Server 1", "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/independent_tv/playlist.m3u8" },
+            { "server_name": "Server 1", "url": "http://premiumtvs.space/live/YqXTywueEV/damp2purchase/423.ts" },
+          { "server_name": "Server 1", "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/independent_tv/playlist.m3u8" },
             { "server_name": "Server 2", "url": "https://ag.hridoytvx.workers.dev/live/RDoVR0fKOZnkvhs8o3b7y-jJRlqBPLP_eRzR_yd7EWf3zPM_9es2LthJ7MIGH5dArFbcuhx8uvJtwzi0Sq6mxIVZ4e_bJi0nKbBJlPoR12YEQIEu5eHYG_2Rq5HDXY230NL1CxWo8MCSuDaKi-qlzy20v6fraGnRYbAd9nKmNpAQKRjdgtOL8TMGgKDJNS3_F7sDD88u4zEGIj48hL6thNe6wQTsyYCx-dED0rI9WeLSUvMj7hij5VyWeoj_yx5IASyrUhJL9eD0jn6fHXlJBOEnfjiVhKubum9RV_yj7jWWwS8VKQH1ia_3EX8iU0Yc_4Qqys-yCSAHAeHAVTT3XkSNVb4kVWaBkoNFQ7_GuXOyMMUT6ZruuCvYM98Z2LCyhfYo6qN8O7VqLxlDBhbxEXRrruN8G5_jyI6mkv62yVqFN-4LFx9WrPSC2LefolxtdxiV_Ces8LDFLTSTy3jQyykmxmaSTGB6zIj-JQA14bZvV0Zb-dY6QS6gVUxQWaFP9Ld5L50ZQhxeMxk.m3u8" }
           ]
         },
@@ -198,7 +200,7 @@
           "poster": "https://play-lh.googleusercontent.com/ZzqDOHkm_HsqLbHtFs0pysILAHWX-N-Ng-FQc8UNVovaoYw4vVaeo2p-B8YMfpP49DR9BRLIujDQow04Nd795w",
           "description": "",
           "sources": [
-            { "server_name": "Server 1", "url": "https://live1.entertv.com.bd/entertv/index.fmp4.m3u8" },
+            { "server_name": "Server 1", "url": "https://tvsen6.aynaott.com/EWDrV5QskgarZEUBb3pU/index.m3u8" },
             { "server_name": "Server 2", "url": "https://live1.entertv.com.bd/entertv/tracks-v1a1/mono.m3u8" }
           ]
         },
