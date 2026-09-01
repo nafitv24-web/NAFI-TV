@@ -29,6 +29,14 @@
           ]
         },
 
+{ "title": "Ayna TV",
+          "poster": "https://i.supaimg.com/83afe636-c743-4025-87ea-6f9f3f10d71f/bbfe3687-9aea-4e8f-a649-6cffbfe0acd2.jpg",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ayna.stream/index.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
 { "title": "probashi tv news",
           "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk7jVewyNqm1CHR85rDTydCQIxcYrxZlDexMjBZFpX4Q&s=10",
           "description": "",
