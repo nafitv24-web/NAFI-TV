@@ -217,8 +217,8 @@
           "poster": "https://play-lh.googleusercontent.com/ZzqDOHkm_HsqLbHtFs0pysILAHWX-N-Ng-FQc8UNVovaoYw4vVaeo2p-B8YMfpP49DR9BRLIujDQow04Nd795w",
           "description": "",
           "sources": [
-            { "server_name": "Server 1", "url": "https://tvsen6.aynaott.com/EWDrV5QskgarZEUBb3pU/index.m3u8" },
-            { "server_name": "Server 2", "url": "https://live1.entertv.com.bd/entertv/tracks-v1a1/mono.m3u8" }
+            { "server_name": "Server 1", "url": "https://live1.entertv.com.bd/entertv/tracks-v1a1/mono.m3u8" },
+            { "server_name": "Server 2", "url": "" }
           ]
         },
         {
@@ -231,7 +231,7 @@
           ]
         },
         {
-          "title": "Ekattor HD",
+          "title": "Ekattor",
           "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIjE7f0aJxSS-mAtRUplbznzz2N6ECwgMpxvsyCe-9ig&s=10",
           "description": "",
           "sources": [
@@ -551,7 +551,7 @@
           "description": "",
           "sources": [
             { "server_name": "Server 1", "url": "http://202.70.146.135:8000/play/a05z/index.m3u8" },
-            { "server_name": "Server 2", "url": "" }
+            { "server_name": "Server 2", "https://stream.ottplus.bd/live/discovery_sd_abr/index.m3u8": "" }
           ]
         },
         {
