@@ -20,6 +20,15 @@
             { "server_name": "Server 2", "url": "" }
           ]
         },
+{ "title": "NAFI MOVIE",
+          "poster": "https://cdn.textstudio.com/output/sample/normal/9/2/1/8/nafi-logo-73-28129.png",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://live20.bozztv.com/giatvplayout7/giatv-209627/tracks-v1a1/mono.ts.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+
 { "title": "probashi tv news",
           "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk7jVewyNqm1CHR85rDTydCQIxcYrxZlDexMjBZFpX4Q&s=10",
           "description": "",
