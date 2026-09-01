@@ -982,6 +982,24 @@
           ]
         },
         {
+          "title": "B4u Movie",
+          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEnzxdP8-VmS1m5nxukY7H-EI3TiuHbD7D7I-CZQYGkg&s",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/playlist.m3u8": "" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+      {
+          "title": "B4u kadak",
+          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnTzI_MpMcdO-fRGbGcuKweRXtowdnfjAKTT_jaI47lw&s=10",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "https://amg00877-b4unew-amg00877c4-xiaomi-in-5473.playouts.now.amagi.tv/playlist.m3u8": "" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+        {
           "title": "Sony Max",
           "poster": "https://i.postimg.cc/YS3BdNNW/20240823_022655.png",
           "description": "",
