@@ -2118,10 +2118,21 @@
 
 
 
+
     {
       "category_name": "Kids",
       "movies": [
-        {
+      
+{
+          "title": "Duronto TV",
+          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRju7Cz0yDr0JHmAmse94OCH6Xve6iTv_lgEGig-BQIyw&s=10",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "http://ms.towkai.com/DurontoHD/index.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+       {
           "title": "All Babies Channel",
           "poster": "https://static.wikia.nocookie.net/logopedia/images/3/3c/Baby_TV_2026.svg",
           "description": "",
