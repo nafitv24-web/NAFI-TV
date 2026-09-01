@@ -135,8 +135,9 @@
           "poster": "https://i.ibb.co.com/xqMZqHCk/Picsart-24-10-18-14-50-35-994.webp",
           "description": "",
           "sources": [
-            { "server_name": "Server 1", "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/index.m3u8" },
-            { "server_name": "Server 2", "url": "https://tvsen6.aynaott.com/LeUAm4F1iixYns3s3Non/index.m3u8" }
+            { "server_name": "Server 1", "url": "https://tvsen6.aynaott.com/LeUAm4F1iixYns3s3Non/index.m3u8" },
+         { "server_name": "Server 2", "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/index.m3u8" },
+          { "server_name": "Server 3", "url": "https://playztv-apps.pages.dev/ananda-tv/index.m3u8" }
           ]
         },
         {
@@ -236,7 +237,7 @@
           "description": "",
           "sources": [
             { "server_name": "Server 1", "url": "https://tvsen6.aynaott.com/EWDrV5QskgarZEUBb3pU/index.m3u8" },
-            { "server_name": "Server 2", "url": "" }
+            { "server_name": "Server 2", "url": "https://playztv-apps.pages.dev/ekattor-tv/index.m3u8" }
           ]
         },
         {
@@ -407,7 +408,7 @@
           "description": "",
           "sources": [
             { "server_name": "Server 1", "url": "https://tvsen6.aynaott.com/kajlsd57jnkdf/index.m3u8" },
-            { "server_name": "Server 2", "url": "" }
+            { "server_name": "Server 2", "url": "https://playztv-apps.pages.dev/channel-9/index.m3u8" }
           ]
         },
         {
