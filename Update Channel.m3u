@@ -2410,6 +2410,164 @@
         }
       ]
     },
+
+
+{
+  "categories": [
+    {
+      "category_name": "Music",
+      "movies": [
+        {
+          "title": "Bengali Beats",
+          "poster": "https://i.postimg.cc/jSLNzXgM/Bengali-Beats.png",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://live20.bozztv.com/giatvplayout7/giatv-209587/tracks-v1a1/mono.ts.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+        {
+          "title": "Sangeet Bangla",
+          "poster": "https://i.postimg.cc/pdddb1bs/20250529_120025.png",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://cdn-4.pishow.tv/live/1143/master.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+        {
+          "title": "B4U Music",
+          "poster": "https://i.postimg.cc/0N2VWksB/channels4-profile.jpg",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/b4u_music/playlist.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+        {
+          "title": "PTC Music",
+          "poster": "https://i.postimg.cc/NFKqPkBP/image.png",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/index.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+        {
+          "title": "Epic Music",
+          "poster": "https://i.postimg.cc/t47SV77h/image.png",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://mumt04.tangotv.in/m18aqlK4EPICMUSIC/index.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+        {
+          "title": "9XM",
+          "poster": "https://i.postimg.cc/SRKS6TwR/20240823_022008.png",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://wiselp.wiseplayout.com/9XM/master.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+        {
+          "title": "9X Jalwa",
+          "poster": "https://i.postimg.cc/BnSQC8xm/unnamed.jpg",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://wiselp.wiseplayout.com/9X_Jalwa/master.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+        {
+          "title": "7S Music",
+          "poster": "https://i.postimg.cc/VkxZ8tD2/76-Tamil-channel.webp",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+        {
+          "title": "Jalwa TV pk",
+          "poster": "https://i.postimg.cc/R09JwBBc/HWb5Iat.png",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+        {
+          "title": "8XM",
+          "poster": "https://i.postimg.cc/4ythzNmp/KLrf-KRn.png",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+        {
+          "title": "Music India",
+          "poster": "https://i.postimg.cc/XNHzD5Zg/s143563-ld-h15-aa.png",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://cdn-2.pishow.tv/live/226/master.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+        {
+          "title": "Zoom",
+          "poster": "https://i.postimg.cc/7hz6tG8D/20250529_121941.png",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+        {
+          "title": "yrf Music",
+          "poster": "https://i.postimg.cc/hPFhzrTG/20250529_121624.png",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+        {
+          "title": "Joo Music",
+          "poster": "https://i.postimg.cc/Z54Rj5ft/20250529_121328.png",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+        {
+          "title": "Hindi Hits HD",
+          "poster": "https://i.postimg.cc/ryC1Y2K4/Capture.png",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "http://146.59.253.52:8080/hindihitshd/index.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+        {
+          "title": "Sangeet Bhojpuri",
+          "poster": "https://i.postimg.cc/d1pkfnGy/s143757-ld-h15-aa.png",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://cdn-4.pishow.tv/live/1293/master.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        }
+      ]
+    }
+  ]
+},
+
+
+
     {
       "category_name": "Pakistan",
       "movies": [
