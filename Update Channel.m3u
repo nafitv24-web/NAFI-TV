@@ -2130,7 +2130,7 @@
           "description": "",
           "sources": [
             { "server_name": "Server 1", "url": "http://ms.towkai.com/DurontoHD/index.m3u8" },
-            { "server_name": "Server 2", "url": "" }
+            { "server_name": "Server 2", "url": "https://tvsen6.aynaott.com/6xyZ3N4oHv2KBJdB6W4p/index.m3u8" }
           ]
         },
        {
