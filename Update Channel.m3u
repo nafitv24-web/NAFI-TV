@@ -830,8 +830,9 @@
           "poster": "https://i.postimg.cc/TYCmvBR7/20240823_020800.png",
           "description": "",
           "sources": [
-            { "server_name": "Server 1", "url": "http://103.175.73.12:8080/live/664/664_0.m3u8" },
-            { "server_name": "Server 2", "url": "https://cdn-4.pishow.tv/live/1039/master.m3u8" }
+            { "server_name": "Server 1", "url": "https://cdn-4.pishow.tv/live/1039/master.m3u8" },
+            { "server_name": "Server 2", "url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:rupashibangla.smil/playlist.m3u8" },
+            { "server_name": "Server 3", "url": "http://103.175.73.12:8080/live/664/664_0.m3u8" }
           ]
         },
         {
