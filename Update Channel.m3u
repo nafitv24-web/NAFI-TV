@@ -9,7 +9,7 @@
           "description": "",
           "sources": [
             { "server_name": "Server 1", "url": "https://box.bbaria.net:8083/Nagorik_TV/video.m3u8" },
-            { "server_name": "Server 2", "url": "link" }
+            { "server_name": "Server 2", "url": "http://livetv.akr4m.com:8080/bdtv/restrem/38.m3u8" }
           ]
         },
 { "title": "Star Bangla",
