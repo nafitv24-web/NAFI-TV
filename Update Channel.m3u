@@ -146,7 +146,8 @@
           "description": "",
           "sources": [
             { "server_name": "Server 1", "url": "https://tvsen6.aynaott.com/4XcqdovJzbbC9WdJA9gk/tracks-v1a1/mono.ts.m3u8" },
-            { "server_name": "Server 2", "url": "https://ag.hridoytvx.workers.dev/live/C7GHN1grBfYsGCIH4viUrBgbvZeBomndFvk-_g3OEHZ0fy9o3c5Vx8V4G0hLCGz684rliO7BJQVX7s4ttuCHNtgMgm49_SJKF7WlW4Tmz03ODr13NNRAXS7AFxJqGk-rdZ0Fl-CWTYKweSZNhjGHTVCK0nrFKvhbHSGvxXYEJ91mnhU5v_oUvMjGrcYKdyEkSd6KlQG9HNcptIMbfSDdIk9aP6XowtsHJ40E-cqEdh1nj0tvxTtiJANFCesMwmZtb8dLSE-0pmAc2HiBelO-0FBK_pjQIxARUB3fAf6trHnqDGXYkJtKh4xreVgJfTo1jAy2DEud5AaW1-J43LCkPBrQSDjsKoqOBr1yOrLCmJET0Evbxmdyt7Ml3ooxbQ_rH9NUK-NYpsgU2oCamFgRkNoxuzALAbLyS_ZhG-YMvqUmFiIsYiehdkznm_oPnpWV4rE1BsJdYhp20-fSLIEgIYfBpWJIA2LYfzGP45Yol7VtKD4I5FmTFn5abMkGhf1ai7RNa6UR7X8UixY.m3u8" }
+           { "server_name": "Server 1", "url": "http://103.165.93.31:8095/somoyTv/tracks-v1a1/mono.m3u8" },
+           { "server_name": "Server 2", "url": "https://ag.hridoytvx.workers.dev/live/C7GHN1grBfYsGCIH4viUrBgbvZeBomndFvk-_g3OEHZ0fy9o3c5Vx8V4G0hLCGz684rliO7BJQVX7s4ttuCHNtgMgm49_SJKF7WlW4Tmz03ODr13NNRAXS7AFxJqGk-rdZ0Fl-CWTYKweSZNhjGHTVCK0nrFKvhbHSGvxXYEJ91mnhU5v_oUvMjGrcYKdyEkSd6KlQG9HNcptIMbfSDdIk9aP6XowtsHJ40E-cqEdh1nj0tvxTtiJANFCesMwmZtb8dLSE-0pmAc2HiBelO-0FBK_pjQIxARUB3fAf6trHnqDGXYkJtKh4xreVgJfTo1jAy2DEud5AaW1-J43LCkPBrQSDjsKoqOBr1yOrLCmJET0Evbxmdyt7Ml3ooxbQ_rH9NUK-NYpsgU2oCamFgRkNoxuzALAbLyS_ZhG-YMvqUmFiIsYiehdkznm_oPnpWV4rE1BsJdYhp20-fSLIEgIYfBpWJIA2LYfzGP45Yol7VtKD4I5FmTFn5abMkGhf1ai7RNa6UR7X8UixY.m3u8" }
           ]
         },
         {
@@ -438,12 +439,21 @@
             { "server_name": "Server 2", "url": "" }
           ]
         },
-        {
+     {
           "title": "Jago News 24",
           "poster": "https://i.ibb.co.com/wZVCdh11/Picsart-24-10-22-13-05-19-527.webp",
           "description": "",
           "sources": [
             { "server_name": "Server 1", "url": "https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+        {
+          "title": "TBN 24",
+          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP7YDixSWJm7L32jMiptC0Kpvw_poK4tfrlsm8zqrixA&s=10",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "http://cdn01.palki.tv/live/TBN24-M/index.m3u8" },
             { "server_name": "Server 2", "url": "" }
           ]
         },
@@ -674,6 +684,7 @@
           "poster": "https://i.ibb.co.com/SXmSmg7r/Picsart-24-10-25-16-26-31-042.webp",
           "description": "",
           "sources": [
+          { "server_name": "Server 1", "url": "http://103.165.93.31:8095/jalshaMovies/index.m3u8" },
             { "server_name": "Server 1", "url": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/908656.m3u8" },
             { "server_name": "Server 2", "url": "http://fastshare1.com:80/live/25711345/late8airline/23304.ts" }
           ]
