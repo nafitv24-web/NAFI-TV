@@ -1203,7 +1203,15 @@
             { "server_name": "Server 2", "url": "" }
           ]
         },
-
+       {
+          "title": "M Sports",
+          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa5BgYkSQ5sE_xNdqIcwtIjz-kYo9mEnPKLhVKftdhXgSzOpNOhA0tR6fd&s=10",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "http://27.124.71.27/T-Sports/index.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
         {
           "title": "A Sports HD",
           "poster": "https://i.ibb.co.com/vvzzY3P9/Picsart-24-10-22-04-25-07-130.webp",
