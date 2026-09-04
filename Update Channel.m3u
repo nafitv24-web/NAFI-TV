@@ -1347,42 +1347,7 @@
             { "server_name": "Server 2", "url": "" }
           ]
         },
-        {
-          "title": "Sony Ten 1",
-          "poster": "https://i.ibb.co.com/NnTQrp55/Picsart-24-10-22-04-32-26-280.webp",
-          "description": "",
-          "sources": [
-            { "server_name": "Server 1", "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_1_hd/playlist.m3u8" },
-            { "server_name": "Server 2", "url": "" }
-          ]
-        },
-        {
-          "title": "Sony Ten 2",
-          "poster": "https://i.ibb.co.com/WvnMz3r2/Picsart-24-10-22-04-33-30-595.webp",
-          "description": "",
-          "sources": [
-            { "server_name": "Server 1", "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_2_hd/playlist.m3u8" },
-            { "server_name": "Server 2", "url": "" }
-          ]
-        },
-        {
-          "title": "Sony Ten 3",
-          "poster": "https://i.ibb.co.com/d0LnNgCS/Picsart-24-10-22-04-34-25-029.webp",
-          "description": "",
-          "sources": [
-            { "server_name": "Server 1", "url": "" },
-            { "server_name": "Server 2", "url": "" }
-          ]
-        },
-        {
-          "title": "Sony Ten 5",
-          "poster": "https://i.ibb.co.com/x8Sw7PnH/Picsart-24-10-27-12-56-10-712.webp",
-          "description": "",
-          "sources": [
-            { "server_name": "Server 1", "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_5_hd/playlist.m3u8" },
-            { "server_name": "Server 2", "url": "" }
-          ]
-        },
+        
         {
           "title": "Bein Sports",
           "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhXse2cgIuVSVKEqzxp4g4aEV2GZUO7RIO-oHA1TKMIQ&s=10",
