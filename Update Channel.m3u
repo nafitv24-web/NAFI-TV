@@ -2142,8 +2142,9 @@
           "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRju7Cz0yDr0JHmAmse94OCH6Xve6iTv_lgEGig-BQIyw&s=10",
           "description": "",
           "sources": [
-            { "server_name": "Server 1", "url": "http://ms.towkai.com/DurontoHD/index.m3u8" },
-            { "server_name": "Server 2", "url": "https://tvsen6.aynaott.com/6xyZ3N4oHv2KBJdB6W4p/index.m3u8" }
+           { "server_name": "Server 1", "url": "https://bold-sky-a350.tasinazad234.workers.dev/stream/btv/playlist.m3u8?expires=1791046577&sig=NovOOVwxQXCk1tmPDsho61rEtRBRzOPPdOtnziKooH4" },
+            { "server_name": "Server 2", "url": "http://ms.towkai.com/DurontoHD/index.m3u8" },
+            { "server_name": "Server 3", "url": "https://tvsen6.aynaott.com/6xyZ3N4oHv2KBJdB6W4p/index.m3u8" }
           ]
         },
        {
