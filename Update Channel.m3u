@@ -1206,8 +1206,8 @@
           "poster": "https://i.ibb.co.com/C3Mx2RpT/Picsart-24-10-27-12-59-56-030.webp",
           "description": "",
           "sources": [
-            { "server_name": "Server 1", "url": "https://tvsen7.aynascope.net/zY3hJ7pQ2vM5gD8s/index.m3u8" },
-            { "server_name": "Server 2", "url": "" }
+            { "server_name": "Server 1", "url": "http://103.151.60.188:12345/hls/tab_yqdtaqh/index.m3u8?t=1788564783980" },
+            { "server_name": "Server 2", "url": "https://tvsen7.aynascope.net/zY3hJ7pQ2vM5gD8s/index.m3u8" }
           ]
         },
 {
