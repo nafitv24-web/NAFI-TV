@@ -396,8 +396,8 @@
           "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC56WaiJPnxyGZUYP87mJldQZMhAapKLbs0J2Q0pSLpw&s=10",
           "description": "",
           "sources": [
-            { "server_name": "Server 1", "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/mytv-up-off.stream/index.m3u8" },
-            { "server_name": "Server 2", "url": "" }
+            { "server_name": "Server 1", "url": "https://tvsen6.aynaott.com/XMpHaEf0ANBhv8w6NWR7/tracks-v1a1/mono.ts.m3u8" },
+            { "server_name": "Server 2", "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/mytv-up-off.stream/index.m3u8" }
           ]
         },
         {
