@@ -207,7 +207,7 @@
           "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-dYO8pRf0Bb05AcYpe6e2oOFxQ61gIZzG7aCFaClMkQ&s=10",
           "description": "",
           "sources": [
-            { "server_name": "Server 1", "url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/starnewsbd.stream/playlist.m3u8?wmsAuthSign=|Referer=https://www.jagobd.com/" },
+            { "server_name": "Server 1", "url": "https://bold-sky-a350.tasinazad234.workers.dev/stream/starnews/playlist.m3u8?expires=1790862478&sig=UyhTOxMA9KTKhCNjNRXrr0ilK8VdK8C3yOVhIkT3iHc" },
             { "server_name": "Server 2", "url": "" }
           ]
         },
