@@ -104,6 +104,43 @@
             }
           ]
         },
+{
+          "title": "Thukra Ke Mera Pyaar S02",
+          "language": "Hindi Bangla Dubbed ",
+          "year": "2026",
+          "rating": "7.0",
+          "poster": "https://pub-69b6234af505413bbeac2bbc8039195c.r2.dev/poster_w2kx1781855489.jpg",
+          "description": "অ্যাকশন ও ড্রামা মুভি।",
+          "sources": [
+            {
+              "server_name": "Episode 1-4",
+              "url": "https://fast.movielinkbd.app/a01e898cc71f96468168bbef567a1b9f?token=1788566400-9b87c2a4adefb9ad5edebf9142ebef7edbc704a3"
+            },
+            {
+              "server_name": "Episode 5-8",
+              "url": "https://fast.movielinkbd.app/media/9vsZjve4/main?token=1788566400-b61b413f671a3236487d9db4ceba96609f016087"
+            }
+            
+          ]
+        },
+{
+          "title": "Thukra ke mera pyaar S01",
+          "language": "Bangla Dubbed",
+          "year": "2025",
+          "rating": "7.0",
+          "poster": "https://image.tmdb.org/t/p/original/pcShyioNKqqvgnCSAdni0hQpESu.jpg",
+          "description": "অ্যাকশন ও রোমান্টিক ড্রামা মুভি।",
+          "sources": [
+            {
+              "server_name": "ALL EPISODES",
+              "url": "https://fast.movielinkbd.app/32f2afd758ba98df1d13a0e58dfa1db0?token=1788566400-a256117f165b57bc9d9783ff3a298ca62e6fce01"
+            }
+            
+            
+          ]
+        },
+  
+        
         {
           "title": "Jungle Book Bangla Dubbed",
           "language": "Bangla Dubbed",
@@ -362,41 +399,7 @@
       "movies": [
 
 
-        {
-          "title": "Thukra Ke Mera Pyaar S02",
-          "language": "Hindi",
-          "year": "2026",
-          "rating": "7.0",
-          "poster": "https://pub-69b6234af505413bbeac2bbc8039195c.r2.dev/poster_w2kx1781855489.jpg",
-          "description": "অ্যাকশন ও ড্রামা মুভি।",
-          "sources": [
-            {
-              "server_name": "Episode 1-4",
-              "url": "https://fast.movielinkbd.app/a01e898cc71f96468168bbef567a1b9f?token=1788566400-9b87c2a4adefb9ad5edebf9142ebef7edbc704a3"
-            },
-            {
-              "server_name": "Episode 5-8",
-              "url": "https://fast.movielinkbd.app/media/9vsZjve4/main?token=1788566400-b61b413f671a3236487d9db4ceba96609f016087"
-            }
-            
-          ]
-        },
-{
-          "title": "Thukra ke mera pyaar S01",
-          "language": "Bangla Dubbed",
-          "year": "2025",
-          "rating": "7.0",
-          "poster": "https://image.tmdb.org/t/p/original/pcShyioNKqqvgnCSAdni0hQpESu.jpg",
-          "description": "অ্যাকশন ও রোমান্টিক ড্রামা মুভি।",
-          "sources": [
-            {
-              "server_name": "ALL EPISODES",
-              "url": "https://fast.movielinkbd.app/32f2afd758ba98df1d13a0e58dfa1db0?token=1788566400-a256117f165b57bc9d9783ff3a298ca62e6fce01"
-            }
-            
-            
-          ]
-        },
+        
         
         {
           "title": "Welcome to the Jungle",
