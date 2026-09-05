@@ -31,6 +31,38 @@
             {
               "server_name": "Episodes 7",
               "url": "http://vod.cineplexbd.net:8081/tv-series/Indian%20Bangla/Anondi%20%282024%29/Season%201/Anondi%20-%20Ep.%2007.mp4/tracks-v1a1/mono.m3u8"
+            },
+            {
+              "server_name": "Episodes 8",
+              "url": "http://vod.cineplexbd.net:8081/tv-series/Indian%20Bangla/Anondi%20%282024%29/Season%201/Anondi%20-%20Ep.%2008.mp4/tracks-v1a1/mono.m3u8"
+            },
+            {
+              "server_name": "Episodes 9",
+              "url": "http://vod.cineplexbd.net:8081/tv-series/Indian%20Bangla/Anondi%20%282024%29/Season%201/Anondi%20-%20Ep.%2009.mp4/tracks-v1a1/mono.m3u8"
+            },
+            {
+              "server_name": "Episodes 10",
+              "url": "http://vod.cineplexbd.net:8081/tv-series/Indian%20Bangla/Anondi%20%282024%29/Season%201/Anondi%20-%20Ep.%20010.mp4/tracks-v1a1/mono.m3u8"
+            },
+            {
+              "server_name": "Episodes 11",
+              "url": "http://vod.cineplexbd.net:8081/tv-series/Indian%20Bangla/Anondi%20%282024%29/Season%201/Anondi%20-%20Ep.%20011.mp4/tracks-v1a1/mono.m3u8"
+            },
+            {
+              "server_name": "Episodes 12",
+              "url": "http://vod.cineplexbd.net:8081/tv-series/Indian%20Bangla/Anondi%20%282024%29/Season%201/Anondi%20-%20Ep.%20012.mp4/tracks-v1a1/mono.m3u8"
+            },
+            {
+              "server_name": "Episodes 13",
+              "url": "http://vod.cineplexbd.net:8081/tv-series/Indian%20Bangla/Anondi%20%282024%29/Season%201/Anondi%20-%20Ep.%20013.mp4/tracks-v1a1/mono.m3u8"
+            },
+            {
+              "server_name": "Episodes 14",
+              "url": "http://vod.cineplexbd.net:8081/tv-series/Indian%20Bangla/Anondi%20%282024%29/Season%201/Anondi%20-%20Ep.%20014.mp4/tracks-v1a1/mono.m3u8"
+            },
+            {
+              "server_name": "Episodes 15",
+              "url": "http://vod.cineplexbd.net:8081/tv-series/Indian%20Bangla/Anondi%20%282024%29/Season%201/Anondi%20-%20Ep.%20015.mp4/tracks-v1a1/mono.m3u8"
             }
           ]
         },
