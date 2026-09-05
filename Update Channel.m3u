@@ -1206,7 +1206,7 @@
           "poster": "https://i.ibb.co.com/C3Mx2RpT/Picsart-24-10-27-12-59-56-030.webp",
           "description": "",
           "sources": [
-            { "server_name": "Server 1", "url": "http://103.151.60.188:12345/hls/tab_yqdtaqh/index.m3u8?t=1788564783980" },
+            { "server_name": "Server 1", "url": "http://cdn.naturalbd.com:8083/Feedget/ptv_pk/index.m3u8?token=3d6e9bee7bdf20b49398a90b814d45282bd15436-340ba16ef06d7d47a716db0ef0764d42-1788629994-1788619194" },
             { "server_name": "Server 2", "url": "https://tvsen7.aynascope.net/zY3hJ7pQ2vM5gD8s/index.m3u8" }
           ]
         },
