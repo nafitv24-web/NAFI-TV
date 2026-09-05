@@ -348,7 +348,7 @@
 
 
         {
-          "title": "Thukra ke mera pyaar",
+          "title": "Thukra Ke Mera Pyaar S02",
           "language": "Hindi",
           "year": "2026",
           "rating": "7.0",
@@ -366,6 +366,23 @@
             
           ]
         },
+{
+          "title": "Thukra ke mera pyaar S01",
+          "language": "Hindi",
+          "year": "2025",
+          "rating": "7.0",
+          "poster": "https://image.tmdb.org/t/p/original/pcShyioNKqqvgnCSAdni0hQpESu.jpg",
+          "description": "অ্যাকশন ও রোমান্টিক ড্রামা মুভি।",
+          "sources": [
+            {
+              "server_name": "ALL EPISODES",
+              "url": "https://fast.movielinkbd.app/32f2afd758ba98df1d13a0e58dfa1db0?token=1788566400-a256117f165b57bc9d9783ff3a298ca62e6fce01"
+            }
+            
+            
+          ]
+        },
+        
         {
           "title": "Welcome to the Jungle",
           "language": "Hindi",
