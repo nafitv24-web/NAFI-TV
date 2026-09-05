@@ -195,6 +195,21 @@
           ]
         },
         {
+          "title": "Naqaab Bangla Movie",
+          "language": "Bangla",
+          "year": "2024",
+          "rating": "8.0",
+          "poster": "https://image.tmdb.org/t/p/original/qiTGv1f1rGHk4f6QuAKiYmC0j1p.jpg",
+          "description": " একশন হরর ও ড্রামা/মুভি।",
+          "sources": [
+            {
+              "server_name": "Server 1",
+              "url": "https://fast.movielinkbd.app/5a7b789698b0ad034dbbbe0838aaedde?token=1788566400-b8295db545240a7083bd12a449ab7873b9da9a35"
+            }
+          
+          ]
+        },
+        {
           "title": "Dhumketu Bangla Movie",
           "language": "Bangla",
           "year": "2026",
