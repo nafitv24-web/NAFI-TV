@@ -119,6 +119,54 @@
             {
               "server_name": "Episode 5-8",
               "url": "https://fast.movielinkbd.app/media/9vsZjve4/main?token=1788566400-b61b413f671a3236487d9db4ceba96609f016087"
+            },
+            {
+              "server_name": "Episode 9-12",
+              "url": "https://fast.movielinkbd.app/media/yUWZZyha/main?token=1788609600-a243e0200101a0ffc222bfb10d31046446421028"
+            },
+            {
+              "server_name": "Episode 13-16",
+              "url": "https://fast.movielinkbd.app/media/M6AwvGw9/main?token=1788609600-dec0cd5cf6d9fa187b4190b44bcd143e908dd06c"
+            },
+            {
+              "server_name": "Episode 13-16",
+              "url": "https://fast.movielinkbd.app/media/M6AwvGw9/main?token=1788609600-dec0cd5cf6d9fa187b4190b44bcd143e908dd06c"
+            },
+            {
+              "server_name": "Episode 13-16",
+              "url": "https://fast.movielinkbd.app/media/M6AwvGw9/main?token=1788609600-dec0cd5cf6d9fa187b4190b44bcd143e908dd06c"
+            },
+            {
+              "server_name": "Episode 17-20",
+              "url": "https://fast.movielinkbd.app/media/Rbb5Ldi8/main?token=1788609600-ff1e616916f3ebe193502ac5dd60e2d3fbb88e22"
+            },
+            {
+              "server_name": "Episode 21-25",
+              "url": "https://fast.movielinkbd.app/media/kYZ25SE6/main?token=1788609600-e195e31ae2de4afd113f8ea30555f44eaa31fe85"
+            },
+            {
+              "server_name": "Episode 26-29",
+              "url": "https://fast.movielinkbd.app/media/RTbYPcXe/main?token=1788609600-da7217f3d6c006db4ef838d2b85ef1660331bd22"
+            },
+            {
+              "server_name": "Episode 30-33",
+              "url": "https://fast.movielinkbd.app/media/zxTF3Xrm/main?token=1788609600-bd9c18455ff2925fae7f0e632ded459b6da4bdc3"
+            },
+            {
+              "server_name": "Episode 34-37",
+              "url": "https://fast.movielinkbd.app/media/xLRkWRzf/main?token=1788609600-73274b223cdd3f0728b93722216dee95b1604ef1"
+            },
+            {
+              "server_name": "Episode 38-41",
+              "url": "https://fast.movielinkbd.app/media/zwB4hSAD/main?token=1788609600-32527cd11b67d2e5d02608b32a3f7db32d8d638e"
+            },
+            {
+              "server_name": "Episode 42-41",
+              "url": "https://fast.movielinkbd.app/media/zbLVVHJh/main?token=1788609600-52deccf9f0fbb5dd4d905743e4a97e05220f4158"
+            },
+            {
+              "server_name": "Episode 42-50",
+              "url": "https://fast.movielinkbd.app/media/vzdpRbzD/main?token=1788609600-03cd11aec77e61f47e4ca9a1dc8152849a2c1836"
             }
             
           ]
@@ -140,7 +188,21 @@
           ]
         },
   
-        
+        {
+          "title": "Gunday 2014 Bangla Dubbed",
+          "language": "Bangla Dubbed",
+          "year": "2014",
+          "rating": "8.0",
+          "poster": "https://i.postimg.cc/jj2gTSyp/CL-1754744261766.png",
+          "description": " অ্যাকশন ও ড্রামা সিরিজ/মুভি।",
+          "sources": [
+            {
+              "server_name": "Server 1",
+              "url": "https://fast.movielinkbd.app/f156159d955746730a43ad73a2ad5278?token=1788609600-081158f53317ab32f694d05b1a0e0a2980757541"
+            }
+          
+          ]
+        },
         {
           "title": "Jungle Book Bangla Dubbed",
           "language": "Bangla Dubbed",
