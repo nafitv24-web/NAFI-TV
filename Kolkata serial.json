@@ -36,16 +36,16 @@
         },
         
 {
-      "title": "Movie 3 Title Here",
+      "title": "Video Bouma",
       "language": "Bangla",
-      "year": "2024",
+      "year": "2025",
       "rating": "8.5",
-      "poster": "https://example.com/poster3.png",
-      "description": " বিস্তারিত বর্ণনা এখানে দিন।",
+      "poster": "http://cineplexbd.net/uploads/posters/20260820_223831_53d64754.jpg",
+      "description": " ",
       "sources": [
         {
           "server_name": "Server 1",
-          "url": "https://example.com/movie3-server1.mp4"
+          "url": "http://vod.cineplexbd.net:8081/tv-series/Indian%20Bangla/Video%20Bouma%20%282025%29/Video%20Bouma%20-Full%20Episode%20%20-24%20Aug%202025-%20Bengali%20Serial%20-%20Sun%20Bangla.mp4/tracks-v1a1/mono.m3u8"
         }
       ]
     }
