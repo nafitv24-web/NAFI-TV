@@ -1,1 +1,36 @@
-t
+
+{
+  "categories": [
+    {
+      "category_name": "KOLKATA SERIAL",
+      "movies": [
+        {
+          "title": "Sultan Salahuddin Ayyubi",
+          "language": "Bangla",
+          "year": "2024",
+          "rating": "8.0",
+          "poster": "https://pub-69b6234af505413bbeac2bbc8039195c.r2.dev/poster_54zw1785693996.jpg",
+          "description": "ঐতিহাসিক অ্যাকশন ও ড্রামা সিরিজ/মুভি।",
+          "sources": [
+            {
+              "server_name": "Episodes 1",
+              "url": "https://pub-538edaef4a1246c989cd0c69ae08ce40.r2.dev/media/t5MRZym5/main?token=1787443200-9906035d9763bc7bfcbd75b3769733bf865a4075"
+            },
+            {
+              "server_name": "Episodes 2",
+              "url": "https://pub-538edaef4a1246c989cd0c69ae08ce40.r2.dev/e44ea0cc535d398fdaf8c17b0ee7c8fe?token=1787443200-25b24a948af6bdb2aa3da4d6d0b94a3ed612f2e2"
+            },
+            {
+              "server_name": "Episodes 3",
+              "url": "https://july26.dramalinkbd.tv/media/DtCWUxJW/main?token=1787443200-b8a3437b3591c7e1f990f23386923333b9e5fe5e"
+            },
+            {
+              "server_name": "Episodes 4",
+              "url": "https://fast.movielinkbd.app/media/EaTiDQH8/main?token=1788393600-8c534f638b34a42277d813d4967e8cfdda57237d"
+            },
+            {
+              "server_name": "Episodes 5",
+              "url": "https://fast.movielinkbd.app/media/SzuRpH4v/main?token=1788393600-7ed21c2c6984026464910d71a8d8c588394ab368"
+            }
+          ]
+        },
