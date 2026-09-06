@@ -52,14 +52,7 @@
             { "server_name": "Server 2", "url": "" }
           ]
         },
-{ "title": "Magic Bangla",
-          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT68ZLKbCmCaT_IYXqIyUFX2sOFCiTXCXuK6TkYzPxiMQ&s=10",
-          "description": "",
-          "sources": [
-            { "server_name": "Server 1", "url": "https://jalshabd.com/stream/79/segment?expires=1788700904&path=chunklist_w584469555.m3u8&signature=e81a1aae3741cd7a93b730d06821de0553c1288c6b0b34335a83d7a648aefe8c" },
-            { "server_name": "Server 2", "url": "https://jalshabd.com/stream/79/segment?expires=1788700904&path=chunklist_w1890076261.m3u8&signature=7308d071cc47212f029a4e3eb664c05eda7ef6eea94702161098f0d18bdea768" }
-          ]
-        },
+
 { "title": "Ayna TV",
           "poster": "https://i.supaimg.com/83afe636-c743-4025-87ea-6f9f3f10d71f/bbfe3687-9aea-4e8f-a649-6cffbfe0acd2.jpg",
           "description": "",
@@ -68,30 +61,7 @@
             { "server_name": "Server 2", "url": "" }
           ]
         },
-{ "title": "S Bangla",
-          "poster": "https://i.postimg.cc/FsQqPB1P/In-Shot-20260904-211315320.jpg",
-          "description": "",
-          "sources": [
-            { "server_name": "Server 1", "url": "https://jalshabd.com/stream/125/segment?expires=1788701170&path=chunklist_w1892989412.m3u8&signature=957d751f447099d0bf56b0a3e2fe1cb00ce4a3d26a42f74689238d8b0c133743" },
-            { "server_name": "Server 2", "url": "" }
-          ]
-        },
-{ "title": "Biswa Bangla",
-          "poster": "https://i.ibb.co.com/jjKhkmv/Hridoy-TV-new-bd-channel-1.jpg",
-          "description": "",
-          "sources": [
-            { "server_name": "Server 1", "url": "https://jalshabd.com/stream/105/segment?expires=1788701257&path=chunklist_w212951346.m3u8&signature=67afeb5ba6c41a9b8d94f2dfab7ba68cc861a6b866e399d37a1f6da22b821e1c" },
-            { "server_name": "Server 2", "url": "" }
-          ]
-        },
-{ "title": "America Bangla",
-          "poster": "https://i.ibb.co.com/XxP6LhMk/Hridoy-TV-new-bd-channel-3.jpg",
-          "description": "",
-          "sources": [
-            { "server_name": "Server 1", "url": "https://jalshabd.com/stream/75.m3u8?expires=1788699093&signature=b9fa5526f6dfe100a4e5d825cbe273d34abca46574836312b5247f307f6523ed" },
-            { "server_name": "Server 2", "url": "" }
-          ]
-        },
+
 
 { "title": "probashi tv news",
           "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk7jVewyNqm1CHR85rDTydCQIxcYrxZlDexMjBZFpX4Q&s=10",
