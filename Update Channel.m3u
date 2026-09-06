@@ -56,7 +56,7 @@
           "poster": "http://103.151.60.188:12345/tvlogo/jolsha%20bangla%20bd.PNG",
           "description": "",
           "sources": [
-            { "server_name": "Server 1", "url": "http://103.151.60.188:12345/hls/tab_po79ctf/index.m3u8?t=1788690987800" },
+            { "server_name": "Server 1", "url": "http://103.151.60.188:12345/hls/tab_6h82xau/index.m3u8?t=1788696188228" },
             { "server_name": "Server 2", "url": "" }
           ]
         },
