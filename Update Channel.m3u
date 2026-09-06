@@ -84,6 +84,14 @@
             { "server_name": "Server 2", "url": "" }
           ]
         },
+{ "title": "America Bangla",
+          "poster": "https://i.ibb.co.com/XxP6LhMk/Hridoy-TV-new-bd-channel-3.jpg",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://jalshabd.com/stream/75.m3u8?expires=1788699093&signature=b9fa5526f6dfe100a4e5d825cbe273d34abca46574836312b5247f307f6523ed" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
 
 { "title": "probashi tv news",
           "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk7jVewyNqm1CHR85rDTydCQIxcYrxZlDexMjBZFpX4Q&s=10",
