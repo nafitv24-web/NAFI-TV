@@ -52,7 +52,14 @@
             { "server_name": "Server 2", "url": "" }
           ]
         },
-
+{ "title": "Jolsha Bangla",
+          "poster": "http://103.151.60.188:12345/tvlogo/jolsha%20bangla%20bd.PNG",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "http://103.151.60.188:12345/hls/tab_po79ctf/index.m3u8?t=1788690987800" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
 { "title": "Ayna TV",
           "poster": "https://i.supaimg.com/83afe636-c743-4025-87ea-6f9f3f10d71f/bbfe3687-9aea-4e8f-a649-6cffbfe0acd2.jpg",
           "description": "",
@@ -217,7 +224,7 @@
           "description": "",
           "sources": [
             { "server_name": "Server 1", "url": "https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8" },
-            { "server_name": "Server 2", "url": "" }
+            { "server_name": "Server 2", "url": "http://103.14.151.101:8000/play/a0zz/89234183.m3u8" }
           ]
         },
         {
@@ -1206,7 +1213,7 @@
           "poster": "https://i.ibb.co.com/C3Mx2RpT/Picsart-24-10-27-12-59-56-030.webp",
           "description": "",
           "sources": [
-            { "server_name": "Server 1", "url": "http://cdn.naturalbd.com:8083/Feedget/ptv_pk/index.m3u8?token=3d6e9bee7bdf20b49398a90b814d45282bd15436-340ba16ef06d7d47a716db0ef0764d42-1788629994-1788619194" },
+            { "server_name": "Server 1", "url": "http://103.151.60.162:2122/play/a0f9/65813606.m3u8" },
             { "server_name": "Server 2", "url": "https://tvsen7.aynascope.net/zY3hJ7pQ2vM5gD8s/index.m3u8" }
           ]
         },
