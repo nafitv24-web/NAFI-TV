@@ -559,7 +559,7 @@
           "description": "",
           "sources": [
             { "server_name": "Server 1", "url": "http://str24.l9574.com/503.stream/tracks-v1a1/mono.m3u8" },
-            { "server_name": "Server 2", "url": "" }
+            { "server_name": "Server 2", "url": "https://tvsen6.aynaott.com/channel52/index.m3u8" }
           ]
         },
         {
