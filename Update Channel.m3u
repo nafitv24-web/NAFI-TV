@@ -360,9 +360,18 @@
             { "server_name": "Server 2", "url": "" }
           ]
         },
-        {
+{
           "title": "Nexus",
           "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyweNyHQvLTNxJB-L0JLBGSWR-xOl2Nujco0-weaKgJQ&s=10",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://tvsen6.aynaott.com/Epm7WrFa/index.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+        {
+          "title": "Channel 16",
+          "poster": "https://static.wikia.nocookie.net/etv-gspn-bangla/images/d/d0/Channel_16_Logo.png",
           "description": "",
           "sources": [
             { "server_name": "Server 1", "url": "https://tvsen6.aynaott.com/Epm7WrFa/index.m3u8" },
