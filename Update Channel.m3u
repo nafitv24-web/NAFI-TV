@@ -914,7 +914,34 @@
     {
       "category_name": "Movies",
       "movies": [
-        {
+       {
+          "title": "STAR MOVIE HD",
+          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHAnR8Yix2SW9RqFzcTsBUvvRGBUwy4Mhl1e0PVd4G7g&s=10",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "http://66.102.126.10:8000/play/a021/index.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+     {
+          "title": "STAR MOVIE SELECT HD",
+          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt3Hro_cxEd1jmanWn2EId4IMMMiRX67fh5vu4UGOvMA&s=10",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "http://66.102.126.10:8000/play/a020/index.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+    {
+          "title": "STAR GOLD HD",
+          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg4tFcXA9RLE-xLf2trV2orWJtK7PT2CzU8AeT-drS7A&s=10",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "http://66.102.126.10:8000/play/a00f/index.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+      {
           "title": "Colors HD",
           "poster": "https://i.postimg.cc/F1t6r1gv/20240823_023247.png",
           "description": "",
