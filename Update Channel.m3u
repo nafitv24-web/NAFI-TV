@@ -1259,6 +1259,33 @@
     { "server_name": "Server 2","https://tv.nurmd2006-official.workers.dev/live/ten_cricket_hd_abr/index.m3u8": "" }
   ]
 }, 
+     {
+          "title": "TSN 1",
+          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUwGDF3wvaKUxNm1uMxA9l_2oER3ojxKdp4eOuk7aqKu5FMjMemu5PDrc&s=10",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://tvsen7.aynascope.net/tsn1/index.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+      {
+          "title": "TSN 2",
+          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU-TpG_0D4LSvq4BhpZFE4ty9MK3meVCVcySpQik4NKw&s=10",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://tvsen7.aynascope.net/tsn2/index.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+       {
+          "title": "TSN 3",
+          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrbWVkx6TiJsv4F3a2XhOl303TfLP0RvlzFJlDdXSU-A&s=10",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://tvsen7.aynascope.net/tsn3/index.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
         {
           "title": "PK Sports",
           "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYKfknmR8sUyym6DPoU44gjjCnmJk9Ilv7rcN0pMMlgNyWLr8lRupuREo&s=10",
