@@ -501,7 +501,21 @@
       "category_name": "Bollywood",
       "movies": [
 
-
+{
+          "title": "Jaat Movie",
+          "language": "Hindi",
+          "year": "2024",
+          "rating": "7.0",
+          "poster": "https://m.media-amazon.com/images/M/MV5BOWEzZTQ4NzYtZGY5ZS00M2VmLWI5OWItZjZiM2QyYTRmMTkwXkEyXkFqcGc@._V1_.jpg",
+          "description": "অ্যাকশন ও ড্রামা মুভি।",
+          "sources": [
+            {
+              "server_name": "Server 1",
+              "url": "https://fast.movielinkbd.app/cc72c9ff17446b38e588411b6fb26dc0?token=1788847200-0aba61dd30dd6d11c15e60d6827670292406f5de"
+            }
+            
+          ]
+        },
         
         
         {
