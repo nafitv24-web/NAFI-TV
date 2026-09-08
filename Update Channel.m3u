@@ -920,7 +920,7 @@
           "description": "",
           "sources": [
             { "server_name": "Server 1", "url": "http://66.102.126.10:8000/play/a021/index.m3u8" },
-            { "server_name": "Server 2", "url": "" }
+            { "server_name": "Server 2", "url": "http://202.70.146.135:8000/play/a06r/index.m3u8" }
           ]
         },
      {
