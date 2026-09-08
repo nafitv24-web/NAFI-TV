@@ -501,25 +501,7 @@
       "category_name": "Bollywood",
       "movies": [
 
-{
-          "title": "Jaat Movie",
-          "language": "Hindi",
-          "year": "2024",
-          "rating": "7.0",
-          "poster": "https://m.media-amazon.com/images/M/MV5BOWEzZTQ4NzYtZGY5ZS00M2VmLWI5OWItZjZiM2QyYTRmMTkwXkEyXkFqcGc@._V1_.jpg",
-          "description": "অ্যাকশন ও ড্রামা মুভি।",
-          "sources": [
-            {
-              "server_name": "Hindi ",
-              "url": "https://fast.movielinkbd.app/cc72c9ff17446b38e588411b6fb26dc0?token=1788847200-0aba61dd30dd6d11c15e60d6827670292406f5de"
-            },
-            {
-              "server_name": "Bangla 1",
-              "url": "https://video-downloads.googleusercontent.com/ADGPM2kDcfzfgM1aFDfhR_42l0ocgLW9b-GNsAUUb3h13GZuruowJqjReptbtUUBi4h2DXwGBlVzdwTWTkfOCxwyb1mGWJ0AUjZnJpP_zoSCZR7S3yhxqtPwfj3YZREb_Cdh7QZnpYHb-gAau9tWs9yLyZhYX07z5eZjxGQZDkYZZ4BBodQ567v6Py9TaU43vF9lOpzXQ3YG9uJB19HI1dyYVMw2DcI4mprsZlJcW6DAYkwr1A27uU8PssirV6zQ7lgrlp5SDuwmXlGAZc-pHNRdJT7Xyl1d20eDE8kHYIkeofq5w0r3tD6uK9AZXSV0qIy2hRT9NGZxsgznNozDigX9fG5z-IsSP1P2x9zKqz6swA1yUx8fJguyCwKHgUsCYdZ_-DyMCV4nSetT4QBCpziBlG_bJB7Brfah-jkoazl-7Mi-rlOPdHaO_o3c4Cp-NOSfy-FSPbFcxhTAqbPtwDRK7l4EViyaKI1HedES52wSZuS2Lvp-LYfNc4yGMm_pYcYK1HVdlUXifeO4XLLBlWvyCvc3knbjVbpKDB5dAxCU7mWeeGCthxTDAK04G9wGKPrlFmN2FVTzkIMCO_dFwyiuFS4PF73NpGPqAmlXPDfoa9fyJ5K2PqHE5rDOJk6zdZ-IgvSUP4s4J63bMKTj60u2lwDbqEc3d8eAeNyQDON3sPxrc04piEBbY0OrD7qAhrm1JQDGTfz30_ABsEdV0XxDG7VT3ALh74J_7eXN7neH72bxmV2bNouxyEhZZXhxMlvnMB1Tl0qhHetfCPYUWAZkF19_v3fOCn-s2tVhprlhsVp-AmfqnHt2GiLn1RgEgayXbjtNLXZwSW98QM0AHdoYQAuoO1dBxrxbvh5ZSSVZIN5qVC0cHJADYxNbtAxjxe_zcaKzeYqlMF7o1qDOChA_AQd4fzCT5Zlwz4fpEECI3MQMTQ5VhXELID9o4M39AU4ckq6Nhw75bbnHoQEhApLDEEV10HhYiQ_CRLl8g4CuORvC9eh8epYXd4Bz8T2n2Yhg7mLebplCM9WCYiEOyUf5VAktP_2OZ0x025dBqOx9lZ-I_6CVmX-n21UdTCCgDCT_TR7lReCHw1KTw498QVEeexMUpbng2CM_Z8Xk_6NbtGSRJja0P9Q"
-            }
-            
-          ]
-        },
+
         
         
         {
@@ -583,7 +565,45 @@
     {
       "category_name": "South India Movie",
       "movies": [
-     {
+  {
+          "title": "Jaat Movie",
+          "language": "Hindi",
+          "year": "2024",
+          "rating": "7.0",
+          "poster": "https://m.media-amazon.com/images/M/MV5BOWEzZTQ4NzYtZGY5ZS00M2VmLWI5OWItZjZiM2QyYTRmMTkwXkEyXkFqcGc@._V1_.jpg",
+          "description": "অ্যাকশন ও ড্রামা মুভি।",
+          "sources": [
+            {
+              "server_name": "Hindi ",
+              "url": "https://fast.movielinkbd.app/cc72c9ff17446b38e588411b6fb26dc0?token=1788847200-0aba61dd30dd6d11c15e60d6827670292406f5de"
+            },
+            {
+              "server_name": "Bangla 1",
+              "url": "https://video-downloads.googleusercontent.com/ADGPM2kDcfzfgM1aFDfhR_42l0ocgLW9b-GNsAUUb3h13GZuruowJqjReptbtUUBi4h2DXwGBlVzdwTWTkfOCxwyb1mGWJ0AUjZnJpP_zoSCZR7S3yhxqtPwfj3YZREb_Cdh7QZnpYHb-gAau9tWs9yLyZhYX07z5eZjxGQZDkYZZ4BBodQ567v6Py9TaU43vF9lOpzXQ3YG9uJB19HI1dyYVMw2DcI4mprsZlJcW6DAYkwr1A27uU8PssirV6zQ7lgrlp5SDuwmXlGAZc-pHNRdJT7Xyl1d20eDE8kHYIkeofq5w0r3tD6uK9AZXSV0qIy2hRT9NGZxsgznNozDigX9fG5z-IsSP1P2x9zKqz6swA1yUx8fJguyCwKHgUsCYdZ_-DyMCV4nSetT4QBCpziBlG_bJB7Brfah-jkoazl-7Mi-rlOPdHaO_o3c4Cp-NOSfy-FSPbFcxhTAqbPtwDRK7l4EViyaKI1HedES52wSZuS2Lvp-LYfNc4yGMm_pYcYK1HVdlUXifeO4XLLBlWvyCvc3knbjVbpKDB5dAxCU7mWeeGCthxTDAK04G9wGKPrlFmN2FVTzkIMCO_dFwyiuFS4PF73NpGPqAmlXPDfoa9fyJ5K2PqHE5rDOJk6zdZ-IgvSUP4s4J63bMKTj60u2lwDbqEc3d8eAeNyQDON3sPxrc04piEBbY0OrD7qAhrm1JQDGTfz30_ABsEdV0XxDG7VT3ALh74J_7eXN7neH72bxmV2bNouxyEhZZXhxMlvnMB1Tl0qhHetfCPYUWAZkF19_v3fOCn-s2tVhprlhsVp-AmfqnHt2GiLn1RgEgayXbjtNLXZwSW98QM0AHdoYQAuoO1dBxrxbvh5ZSSVZIN5qVC0cHJADYxNbtAxjxe_zcaKzeYqlMF7o1qDOChA_AQd4fzCT5Zlwz4fpEECI3MQMTQ5VhXELID9o4M39AU4ckq6Nhw75bbnHoQEhApLDEEV10HhYiQ_CRLl8g4CuORvC9eh8epYXd4Bz8T2n2Yhg7mLebplCM9WCYiEOyUf5VAktP_2OZ0x025dBqOx9lZ-I_6CVmX-n21UdTCCgDCT_TR7lReCHw1KTw498QVEeexMUpbng2CM_Z8Xk_6NbtGSRJja0P9Q"
+            }
+            
+          ]
+        },
+        {
+          "title": "Bangarraju Movie",
+          "language": "Hindi",
+          "year": "2024",
+          "rating": "7.0",
+          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS77N_8Vyeuhf1L1xnQbIu3b1g_4vPwPlREr1tG7AubIw&s=10",
+          "description": "অ্যাকশন ও ড্রামা মুভি।",
+          "sources": [
+            {
+              "server_name": "Hindi ",
+              "url": "http://cdn.naturalbd.com:8083/download/tamil/2022/Bangarraju%20%282022%29/Bangarraju%20%282022%29%20WEBRip-1080p.mp4/tracks-v1a1/mono.m3u8"
+            },
+            {
+              "server_name": "Bangla 1",
+              "url": ""
+            }
+            
+          ]
+        },
+        {
           "title": "Toxic Hindi Movie",
           "language": "Hindi",
           "year": "2026",
