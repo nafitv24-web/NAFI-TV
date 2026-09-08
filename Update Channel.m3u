@@ -919,7 +919,7 @@
           "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHAnR8Yix2SW9RqFzcTsBUvvRGBUwy4Mhl1e0PVd4G7g&s=10",
           "description": "",
           "sources": [
-            { "server_name": "Server 1", "url": "http://66.102.126.10:8000/play/a021/index.m3u8" },
+            { "server_name": "Server 1", "url": "" },
             { "server_name": "Server 2", "url": "http://202.70.146.135:8000/play/a06r/index.m3u8" }
           ]
         },
@@ -928,7 +928,7 @@
           "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt3Hro_cxEd1jmanWn2EId4IMMMiRX67fh5vu4UGOvMA&s=10",
           "description": "",
           "sources": [
-            { "server_name": "Server 1", "url": "http://66.102.126.10:8000/play/a020/index.m3u8" },
+            { "server_name": "Server 1", "url": "" },
             { "server_name": "Server 2", "url": "http://202.70.146.135:8000/play/a06q/index.m3u8" }
           ]
         },
