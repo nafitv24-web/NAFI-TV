@@ -565,6 +565,23 @@
     {
       "category_name": "South India Movie",
       "movies": [
+
+        {
+          "title": "Vishwanath & Sons",
+          "language": "Hindi",
+          "year": "2026",
+          "rating": "7.0",
+          "poster": "https://image.tmdb.org/t/p/original/u12uWdDqpN64oLyM7ylcBhzpo1c.jpg",
+          "description": "অ্যাকশন ও ড্রামা মুভি।",
+          "sources": [
+            {
+              "server_name": "Hindi ",
+              "url": "https://fast.movielinkbd.app/media/CehxrdaJ/main?token=1789084800-6e8f615bb28bd815f8d8995867b6e2a616a20b61"
+            }
+            
+            
+          ]
+        },
   {
           "title": "Jaat Movie",
           "language": "Hindi",
