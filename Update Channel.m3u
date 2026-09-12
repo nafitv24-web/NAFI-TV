@@ -740,7 +740,7 @@
           "description": "",
           "sources": [
             { "server_name": "Server 1", "url": "https://bold-sky-a350.tasinazad234.workers.dev/stream/zeebangla/playlist.m3u8?expires=1791443256&sig=k1ugAbCEunCHvClz_-yJiW8UPtGVhF8GfChf_uqowZE" },
-            { "server_name": "Server 2", "url": "http://103.159.180.34:5001/live/625.m3u8" },
+            { "server_name": "Server 2", "url": "https://rangdhonu-proxy.tasinazad2009.workers.dev/stream/zeebangla2/playlist.m3u8?expires=1791612078&sig=8wsA2c94MG6uER34XcVdAy4Putks4RXInYk6-erzk2U" },
             { "server_name": "Server 1", "url": "http://103.165.93.31:8095/zeeBangla/index.m3u8" }
             
           ]
