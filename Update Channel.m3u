@@ -986,6 +986,15 @@
             { "server_name": "Server 2", "url": "" }
           ]
         },
+{
+          "title": "Star Gold 2 HD",
+          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvDpowLX0ySLDEgrjeX9CDw9CsSWFNk5VpWkoSy9JgoQ&s=10",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "http://107.167.16.138/stargold2/index.m3u8?token=test" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
         {
           "title": "Star Gold Selected",
           "poster": "https://i.postimg.cc/bYKYDTmy/20240823_023330.png",
