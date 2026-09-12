@@ -542,7 +542,7 @@
           "poster": "https://i.ibb.co.com/k2R3QmKF/Picsart-24-10-21-19-38-26-976.webp",
           "description": "",
           "sources": [
-            { "server_name": "Server 1", "url": "https://akash-backup.sm-monirul-islam-rs.workers.dev/btv.m3u8" },
+            { "server_name": "Server 1", "url": "https://btv.hridoytv-channel.workers.dev/btv.m3u8" },
             { "server_name": "Server 2", "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1725/output/index.m3u8" }
           ]
         },
@@ -739,7 +739,7 @@
           "poster": "https://i.ibb.co.com/23dGnxBn/Picsart-24-10-18-15-06-46-163.webp",
           "description": "",
           "sources": [
-            { "server_name": "Server 1", "url": "https://live.rangdhonu.live/stream/tanhatv/playlist.m3u8?expires=1790595429&sig=KEobKHs3rymxhvnJLvrEI2FWV9cS8H8aNARGLKJysUo" },
+            { "server_name": "Server 1", "url": "https://bold-sky-a350.tasinazad234.workers.dev/stream/zeebangla/playlist.m3u8?expires=1791443256&sig=k1ugAbCEunCHvClz_-yJiW8UPtGVhF8GfChf_uqowZE" },
             { "server_name": "Server 2", "url": "http://103.159.180.34:5001/live/625.m3u8" },
             { "server_name": "Server 1", "url": "http://103.165.93.31:8095/zeeBangla/index.m3u8" }
             
