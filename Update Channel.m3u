@@ -2204,6 +2204,16 @@
             { "server_name": "Server 3", "url": "https://tvsen6.aynaott.com/6xyZ3N4oHv2KBJdB6W4p/index.m3u8" }
           ]
         },
+
+{
+          "title": "ZB Cartoon",
+          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs88M6qJD7iadSxjKUwQui7iaow9vfFYczeSTP4TRXdA&s",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://server.zillarbarta.com/zbcatun/tracks-v1a1/mono.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
        {
           "title": "All Babies Channel",
           "poster": "https://static.wikia.nocookie.net/logopedia/images/3/3c/Baby_TV_2026.svg",
