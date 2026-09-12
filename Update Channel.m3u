@@ -720,7 +720,7 @@
           "description": "",
           "sources": [
           { "server_name": "Server 1", "url": "http://103.165.93.31:8095/jalshaMovies/index.m3u8" },
-            { "server_name": "Server 1", "url": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/908656.m3u8" },
+            { "server_name": "Server 1", "url": "https://bold-sky-a350.tasinazad234.workers.dev/stream/btv/playlist.m3u8?expires=1791448428&sig=ltITtuOW0aZx4JjzYjnWm2qPnGEdUyFfTK6Q5nKdDTw" },
             { "server_name": "Server 2", "url": "http://fastshare1.com:80/live/25711345/late8airline/23304.ts" }
           ]
         },
