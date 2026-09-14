@@ -967,7 +967,7 @@
           "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHAnR8Yix2SW9RqFzcTsBUvvRGBUwy4Mhl1e0PVd4G7g&s=10",
           "description": "",
           "sources": [
-            { "server_name": "Server 1", "url": "" },
+            { "server_name": "Server 1", "url": "http://103.151.60.162:2122/play/a02k/index.m3u8?hls" },
             { "server_name": "Server 2", "url": "http://202.70.146.135:8000/play/a06r/index.m3u8" }
           ]
         },
