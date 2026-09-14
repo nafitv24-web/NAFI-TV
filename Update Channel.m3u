@@ -953,7 +953,16 @@
     {
       "category_name": "Movies",
       "movies": [
-       {
+      {
+          "title": "HBO MOVIE HD",
+          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQra5BjekSOPB3tB78CqfkJa0W2lpP3Qo38O7qgxGIWKg&s",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "" },
+            { "server_name": "Server 2", "url": "http://103.151.60.162:2122/play/a02g/index.m3u8?hls" }
+          ]
+        },
+{
           "title": "STAR MOVIE HD",
           "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHAnR8Yix2SW9RqFzcTsBUvvRGBUwy4Mhl1e0PVd4G7g&s=10",
           "description": "",
