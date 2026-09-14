@@ -21,7 +21,7 @@
           ]
         },
 { "title": "Bangla Cinema",
-          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT44Z56zKoiEJjAokoaE6XaUIBTdrjejdvmb-RfOxONrA&s=10",
+          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiJNsDnJuFu6w8U9EoW43lik9ylpEOw6FDKklZTgOJYydtGnt9oG5aPQpa&s=10",
           "description": "",
           "sources": [
             { "server_name": "Server 1", "url": "http://103.151.60.162:2122/play/a02m/index.m3u8?hls" },
