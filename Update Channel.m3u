@@ -77,7 +77,7 @@
           ]
         },
 { "title": "SNB Cinema",
-          "poster": "https://i.imgur.com/79g2kMA.png",
+          "poster": "https://i.supaimg.com/83afe636-c743-4025-87ea-6f9f3f10d71f/495ceb82-616a-4158-b8f4-2eba23ccd9eb.png",
           "description": "",
           "sources": [
             { "server_name": "Server 1", "url": "http://103.182.83.246/hls/snbcinema.m3u8" },
