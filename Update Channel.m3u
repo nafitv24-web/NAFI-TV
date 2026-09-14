@@ -52,7 +52,14 @@
             { "server_name": "Server 2", "url": "" }
           ]
         },
-
+{ "title": "SNB Cinema",
+          "poster": "https://i.imgur.com/79g2kMA.png",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "http://103.182.83.246/hls/snbcinema.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
 { "title": "Doyel Tv",
           "poster": "https://i.imgur.com/8pR8Q4J.png",
           "description": "",
