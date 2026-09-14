@@ -28,7 +28,14 @@
             { "server_name": "Server 2", "url": "" }
           ]
         },
-
+{ "title": "Super Hit",
+          "poster": "https://5.imimg.com/data5/IMOB/Default/2024/8/439686858/ZD/CI/DM/135066294/cb-text-png-7-1-1-1722516567640-png-500x500.png",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "http://103.151.60.162:2122/play/a02f/index.m3u8?hls" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
 { "title": "NAFI MOVIE BANGLA",
           "poster": "https://i.supaimg.com/83afe636-c743-4025-87ea-6f9f3f10d71f/a646d340-ac3c-4c4d-8de6-30946abe620d.png",
           "description": "",
