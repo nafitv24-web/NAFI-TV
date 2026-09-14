@@ -20,6 +20,15 @@
             { "server_name": "Server 2", "url": "" }
           ]
         },
+{ "title": "Bangla Cinema",
+          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT44Z56zKoiEJjAokoaE6XaUIBTdrjejdvmb-RfOxONrA&s=10",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "http://103.151.60.162:2122/play/a02m/index.m3u8?hls" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+
 { "title": "NAFI MOVIE BANGLA",
           "poster": "https://i.supaimg.com/83afe636-c743-4025-87ea-6f9f3f10d71f/a646d340-ac3c-4c4d-8de6-30946abe620d.png",
           "description": "",
