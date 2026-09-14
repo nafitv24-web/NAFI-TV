@@ -53,6 +53,22 @@
           ]
         },
 
+{ "title": "Doyel Tv",
+          "poster": "https://i.imgur.com/8pR8Q4J.png",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://3d46w.doyeltv.com/memfs/aa3aa6f7-ec12-41a2-8183-a891e157bbf8.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+{ "title": "DTV USA",
+          "poster": "https://yt3.ggpht.com/b5k6hzCSHAsvrPtt5xJXMMZb3GpciGCZRRWyXb4Xs7roWL1SK62R58XTi5PTx2ShAb3buqTOHfE=s512-c-k-c0x00ffffff-no-rj",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://cdn.dtvusa.com/dtv/index.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
 { "title": "Ayna TV",
           "poster": "https://i.supaimg.com/83afe636-c743-4025-87ea-6f9f3f10d71f/bbfe3687-9aea-4e8f-a649-6cffbfe0acd2.jpg",
           "description": "",
