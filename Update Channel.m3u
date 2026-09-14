@@ -20,6 +20,14 @@
             { "server_name": "Server 2", "url": "" }
           ]
         },
+{ "title": "Jolsha Bangla",
+          "poster": "https://i.supaimg.com/83afe636-c743-4025-87ea-6f9f3f10d71f/f0499487-db0c-431b-b345-cef9d8be7716.png",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "http://103.151.60.162:2122/play/a02x/index.m3u8?hls" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
 { "title": "Bangla Cinema",
           "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiJNsDnJuFu6w8U9EoW43lik9ylpEOw6FDKklZTgOJYydtGnt9oG5aPQpa&s=10",
           "description": "",
@@ -1367,6 +1375,8 @@
           "description": "",
           "sources": [
             { "server_name": "Server 1", "url": "https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8" },
+           { "server_name": "Server 1", "url": "http://103.151.60.162:2122/play/a02z/index.m3u8?hls" },
+         
             { "server_name": "Server 2", "url": "https://playztv-apps.pages.dev/asports/index.m3u8" }
           ]
         },
