@@ -2664,8 +2664,10 @@
           "poster": "https://i.postimg.cc/pdddb1bs/20250529_120025.png",
           "description": "",
           "sources": [
-            { "server_name": "Server 1", "url": "https://cdn-4.pishow.tv/live/1143/master.m3u8" },
-            { "server_name": "Server 2", "url": "https://bold-sky-a350.tasinazad234.workers.dev/stream/sangitbangla/playlist.m3u8?expires=1791109012&sig=oJyfvPJwEvWFTcAmw-Sh_rdlRvuFarWI5dzLAC_4l-U" }
+            { "server_name": "Server 1", "url": "http://premiumtvs.space/live/YqXTywueEV/damp2purchase/405.ts" },
+           { "server_name": "Server 1", "url": "https://cdn-4.pishow.tv/live/1143/master.m3u8" },
+           
+          { "server_name": "Server 2", "url": "https://bold-sky-a350.tasinazad234.workers.dev/stream/sangitbangla/playlist.m3u8?expires=1791109012&sig=oJyfvPJwEvWFTcAmw-Sh_rdlRvuFarWI5dzLAC_4l-U" }
           ]
         },
         {
