@@ -798,7 +798,9 @@
           "description": "",
           "sources": [
             { "server_name": "Server 1", "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/master2.m3u8" },
-            { "server_name": "Server 2", "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8" }
+         { "server_name": "Server 1", "url": "http://premiumtvs.space/live/YqXTywueEV/damp2purchase/410.ts" },
+         
+{ "server_name": "Server 2", "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8" }
           ]
         },
         {
