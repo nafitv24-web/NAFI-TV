@@ -647,8 +647,10 @@
           "poster": "https://static.wikia.nocookie.net/logopedia/images/6/6a/Discovery_HD_2009.png",
           "description": "",
           "sources": [
-            { "server_name": "Server 1", "url": "http://202.70.146.135:8000/play/a05z/index.m3u8" },
-            { "server_name": "Server 2", "https://stream.ottplus.bd/live/discovery_sd_abr/index.m3u8": "" }
+            { "server_name": "Server 1", "url": "http://livetv.akr4m.com:8080/bdtv/restrem/51.m3u8" },
+           { "server_name": "Server 2", "url": "http://202.70.146.135:8000/play/a05z/index.m3u8" },
+           
+            { "server_name": "Server 3", "https://stream.ottplus.bd/live/discovery_sd_abr/index.m3u8": "" }
           ]
         },
         {
@@ -679,15 +681,7 @@
             { "server_name": "Server 2", "url": "" }
           ]
         },
-        {
-          "title": "Khushboo Bangla",
-          "poster": "https://static.wikia.nocookie.net/logopedia/images/e/e1/Khushboo_Bangla_logo_2017.png",
-          "description": "",
-          "sources": [
-            { "server_name": "Server 1", "url": "https://cdn-4.pishow.tv/live/1473/master.m3u8" },
-            { "server_name": "Server 2", "url": "" }
-          ]
-        },
+        
         {
           "title": "NK TV Bangla",
           "poster": "https://www.nktvbangla.com/wp-content/uploads/2023/09/WhatsApp-Image-2023-09-12-at-2.59.18-PM.jpg",
