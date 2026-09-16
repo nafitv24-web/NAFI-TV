@@ -1291,11 +1291,11 @@
       "category_name": "Sports",
       "movies": [
         {
-          "title": "T Sports",
-          "poster": "https://i.ibb.co.com/jN8bp6j/Picsart-24-10-18-13-01-51-903.webp",
+          "title": "ATN Sports",
+          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbZv4CTnyWXXBY-dORvl0q5h4v7S44QGCjEvQ-xg1yuw&s=10",
           "description": "",
           "sources": [
-            { "server_name": "Server 1", "url": "" },
+            { "server_name": "Server 1", "url": "https://d3bq19vx8xhpwy.cloudfront.net/live/myStream/playlist.m3u8" },
             { "server_name": "Server 2", "url": "" }
           ]
         },
@@ -1315,6 +1315,18 @@
           "sources": [
             { "server_name": "Server 1", "url": "http://103.151.60.162:2122/play/a0f9/65813606.m3u8" },
             { "server_name": "Server 2", "url": "https://tvsen7.aynascope.net/zY3hJ7pQ2vM5gD8s/index.m3u8" }
+          ]
+        },
+
+{
+          "title": "A Sports HD",
+          "poster": "https://i.ibb.co.com/vvzzY3P9/Picsart-24-10-22-04-25-07-130.webp",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8" },
+           { "server_name": "Server 1", "url": "http://103.151.60.162:2122/play/a02z/index.m3u8?hls" },
+         
+            { "server_name": "Server 2", "url": "https://playztv-apps.pages.dev/asports/index.m3u8" }
           ]
         },
 {
@@ -1373,17 +1385,7 @@
             { "server_name": "Server 2", "url": "" }
           ]
         },
-        {
-          "title": "A Sports HD",
-          "poster": "https://i.ibb.co.com/vvzzY3P9/Picsart-24-10-22-04-25-07-130.webp",
-          "description": "",
-          "sources": [
-            { "server_name": "Server 1", "url": "https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8" },
-           { "server_name": "Server 1", "url": "http://103.151.60.162:2122/play/a02z/index.m3u8?hls" },
-         
-            { "server_name": "Server 2", "url": "https://playztv-apps.pages.dev/asports/index.m3u8" }
-          ]
-        },
+        
 
          { "title": "Aspor",
           "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW_Obm2YCYXL7H0wLELslfptuhQMzQjjnS2hOraifHCw&s=10",
