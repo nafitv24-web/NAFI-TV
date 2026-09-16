@@ -2288,8 +2288,26 @@
             { "server_name": "Server 3", "url": "https://tvsen6.aynaott.com/6xyZ3N4oHv2KBJdB6W4p/index.m3u8" }
           ]
         },
-
 {
+          "title": "Nick Bangla",
+          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbH1UMQHWygd35VnRYFk2fAi2NLsX7wr7owdA37bEnOw&s=10",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "http://live.balajibroadband.com:3500/live/1341.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+       {
+          "title": "Sonic Bangla",
+          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ0tqPBqxSn6GezRCxRme3pOKZC3MNK0ca8zAFj3RVfg&s=10",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "http://live.balajibroadband.com:3500/live/1345.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+
+    {
           "title": "ZB Cartoon",
           "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs88M6qJD7iadSxjKUwQui7iaow9vfFYczeSTP4TRXdA&s",
           "description": "",
