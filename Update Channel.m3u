@@ -900,8 +900,10 @@
           "poster": "https://i.postimg.cc/cCWYdSgj/20240823_020619.png",
           "description": "",
           "sources": [
-            { "server_name": "Server 1", "url": "http://103.175.73.12:8080/live/375/375_0.m3u8" },
-            { "server_name": "Server 2", "url": "https://cdn-4.pishow.tv/live/1473/master.m3u8" }
+            { "server_name": "Server 1", "url": "http://livetv.akr4m.com:8080/bdtv/restrem/68.m3u8" },
+          { "server_name": "Server 2", "url": "http://103.175.73.12:8080/live/375/375_0.m3u8" },
+          
+         { "server_name": "Server 3", "url": "https://cdn-4.pishow.tv/live/1473/master.m3u8" }
           ]
         },
         {
@@ -2306,7 +2308,7 @@
           "description": "",
           "sources": [
             { "server_name": "Server 1", "url": "http://live.balajibroadband.com:3500/live/1341.m3u8" },
-            { "server_name": "Server 2", "url": "" }
+            { "server_name": "Server 2", "url": "http://livetv.akr4m.com:8080/bdtv/restrem/53.m3u8" }
           ]
         },
        {
