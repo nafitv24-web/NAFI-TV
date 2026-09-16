@@ -1020,6 +1020,15 @@
           ]
         },
         {
+          "title": "Manoranjan Movies",
+          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe4F0egDJr3_rr9pX-e81ooPzgxlDXgjzVqSQMy7tMIA&s=10",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://mumt04.tangotv.in/m18aqlK4MANORANJANMOVIES/tracks-v1a1/mono.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+        {
           "title": "Star Plus HD",
           "poster": "https://i.postimg.cc/8k3QXzvt/20240823_022853.png",
           "description": "",
