@@ -589,7 +589,9 @@
           "poster": "https://i.ibb.co.com/k2R3QmKF/Picsart-24-10-21-19-38-26-976.webp",
           "description": "",
           "sources": [
-            { "server_name": "Server 1", "url": "https://btv.hridoytv-channel.workers.dev/btv.m3u8" },
+            { "server_name": "Server 1", "url": "http://livetv.akr4m.com:8080/bdtv/restrem/12.m3u8" },
+           { "server_name": "Server 1", "url": "https://btv.hridoytv-channel.workers.dev/btv.m3u8" },
+           
             { "server_name": "Server 2", "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1725/output/index.m3u8" }
           ]
         },
