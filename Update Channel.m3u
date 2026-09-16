@@ -969,9 +969,27 @@
     {
       "category_name": "Movies",
       "movies": [
-      {
+     {
           "title": "HBO MOVIE HD",
           "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQra5BjekSOPB3tB78CqfkJa0W2lpP3Qo38O7qgxGIWKg&s",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "http://livetv.akr4m.com:8080/bdtv/restrem/47.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+       {
+          "title": "HBO Hits HD",
+          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-Z_fIYOns36PQ-y9-6M5eXbbVhFh-cn7aYIMLVZkYng&s=10",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "http://livetv.akr4m.com:8080/bdtv/restrem/29.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+        {
+          "title": "HBO ignature",
+          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQijX_J7MDaCK2rv_fxYV8rKXJLg5-3Fva1f4X-DauOyg&s=10",
           "description": "",
           "sources": [
             { "server_name": "Server 1", "url": "" },
