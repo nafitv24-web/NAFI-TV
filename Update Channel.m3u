@@ -1335,7 +1335,7 @@
           "poster": "https://i.ibb.co.com/jN8bp6j/Picsart-24-10-18-13-01-51-903.webp",
           "description": "",
           "sources": [
-            { "server_name": "Server 1", "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8" },
+            { "server_name": "Server 1", "url": "http://103.151.60.162:2122/play/a030/index.m3u8?hls" },
             { "server_name": "Server 2", "https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8": "" }
           ]
         },
