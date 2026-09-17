@@ -1367,12 +1367,16 @@
   "sources": [
     {
       "server_name": "Server 1",
+      "url": "https://drk6xq0vhn.gpcdn.net/live/ten_cricket_hd_abr/live/ten_cricket_hd_720/chunks.m3u8" },
+    {
+      "server_name": "Server 2",
       "url": "https://robitv.com/lps/https://ml-pull-dvc-myco.io:2096/TENSPORTS_HD/mono.m3u8" },
-   {
-      "server_name": "Server 1",
+
+{
+      "server_name": "Server 3",
       "url": "https://stream.ottplus.bd/live/ten_cricket_hd_abr/live/ten_cricket_hd_720/chunks.m3u8" },
    
-      { "server_name": "Server 2","https://tv.nurmd2006-official.workers.dev/live/ten_cricket_hd_abr/index.m3u8": "" }
+      { "server_name": "Server 4","https://tv.nurmd2006-official.workers.dev/live/ten_cricket_hd_abr/index.m3u8": "" }
   ]
 }, 
      {
