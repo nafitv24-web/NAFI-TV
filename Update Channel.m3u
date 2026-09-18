@@ -2428,6 +2428,15 @@
             { "server_name": "Server 2", "url": "https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8" }
           ]
         },
+{
+          "title": "The Jungle Book",
+          "poster": "https://www.cartoonbrew.com/wp-content/uploads/junglebook.jpg",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://cc-4bhi5osabejc9.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/86a6610d-5eef-4d8c-a302-0e31c7e37bc0/3.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
     {
           "title": "ZB Cartoon",
           "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs88M6qJD7iadSxjKUwQui7iaow9vfFYczeSTP4TRXdA&s",
@@ -2533,7 +2542,7 @@
           "description": "",
           "sources": [
             { "server_name": "Server 1", "url": "https://cc-hqignh3tex8xc.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hqignh3tex8xc/OTM/OTM_KidsToonsHindi-SCTE_SAMSUNG/playlist.m3u8" },
-            { "server_name": "Server 2", "url": "" }
+            { "server_name": "Server 2", "url": "https://d37mxw7rri7aso.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-3hxgda5g0dk72/25408fe6-ccdc-498e-baa7-261f2fa79785/1.m3u8" }
           ]
         },
         {
