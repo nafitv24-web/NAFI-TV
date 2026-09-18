@@ -2414,7 +2414,7 @@
           "description": "",
           "sources": [
             { "server_name": "Server 1", "url": "https://tv5.genatuz070.workers.dev/cdn/live/sonyyay/playlist.m3u8?hdnea=exp=1789749072~acl=/*~id=77586620034595063037124894171057~hmac=d9e26e59b4fd226153a12382086295483ace2d2e972f6ae9e79bb844da2d51b8" },
-            { "server_name": "Server 2", "url": "" }
+            { "server_name": "Server 2", "url": "https://stream.ottplus.live/live/sony_yay_abr/live/sony_yay_720/chunks.m3u8" }
           ]
         },
 {
