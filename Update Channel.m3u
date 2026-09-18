@@ -2409,6 +2409,17 @@
           ]
         },
 {
+          "title": "Rongeen tv",
+          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7Q5nB_aVdkVtYMoCiOL4ZmvRlfymGyy67a3PED2Jd_g&s=10",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://mumbai-edge.smartplaytv.in/RongeenTV/index.m3u8" },
+           { "server_name": "Server 1", "url": "https://samitaorigin.tangotv.in/RONGEENTV/SAMITAORIGIN/index.m3u8" },
+           
+            { "server_name": "Server 2", "url": "https://server.thelegitpro.in/rongeentv/rongeentv/index.m3u8" }
+          ]
+        },
+{
           "title": "24/7 Bantul The Great",
           "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmMMKdpWxe_N1rwpxMF6GyZc6DXodZISW_dThUR61Rsg&s=10",
           "description": "",
