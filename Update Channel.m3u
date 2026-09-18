@@ -2408,7 +2408,15 @@
             { "server_name": "Server 2", "url": "" }
           ]
         },
-
+{
+          "title": "24/7 Bantul The Great",
+          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmMMKdpWxe_N1rwpxMF6GyZc6DXodZISW_dThUR61Rsg&s=10",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://live20.bozztv.com/giatvplayout7/giatv-209869/index.m3u8" },
+            { "server_name": "Server 2", "url": "https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8" }
+          ]
+        },
     {
           "title": "ZB Cartoon",
           "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs88M6qJD7iadSxjKUwQui7iaow9vfFYczeSTP4TRXdA&s",
