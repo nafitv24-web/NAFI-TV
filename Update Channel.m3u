@@ -2409,6 +2409,15 @@
           ]
         },
 {
+          "title": "Sony Yay",
+          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjSYbEOyeBByv-7hvV2EkNeS78uCr2KIVBLJWwRMKE0Q&s=10",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://tv5.genatuz070.workers.dev/cdn/live/sonyyay/playlist.m3u8?hdnea=exp=1789749072~acl=/*~id=77586620034595063037124894171057~hmac=d9e26e59b4fd226153a12382086295483ace2d2e972f6ae9e79bb844da2d51b8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+{
           "title": "Rongeen tv",
           "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7Q5nB_aVdkVtYMoCiOL4ZmvRlfymGyy67a3PED2Jd_g&s=10",
           "description": "",
