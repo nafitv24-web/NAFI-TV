@@ -1074,7 +1074,43 @@
             { "server_name": "Server 2", "url": "http://66.102.126.10:8000/play/a00f/index.m3u8" }
           ]
         },
-      {
+{
+          "title": "Gold Mines Movie",
+          "poster": "https://i.postimg.cc/7ZNqRywh/20240823-023440.png",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://cdn-2.pishow.tv/live/1461/master.m3u8" },
+            { "server_name": "Server 2", "url": "https://streams.tangotv.in/GOLDMINEMOVIES/ORIGIN/index.m3u8" }
+          ]
+        },
+        {
+          "title": "Gold Mines Bollywood",
+          "poster": "https://i.postimg.cc/7ZNqRywh/20240823-023440.png",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/index.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+     {
+          "title": "Gold Mines 2",
+          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6baaGaqb59H03VozX4FW1uZ5sIrWOVCoNOTgGRweQeA&s=10",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/index.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+     {
+          "title": "The Movie Club",
+          "poster": "https://bhoomtv.org/wp-content/uploads/2025/10/ChatGPT-Image-Feb-7-2026-09_26_47-AM-1-200x300.png",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-mp2ar4ca425xo.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+{
           "title": "Colors HD",
           "poster": "https://i.postimg.cc/F1t6r1gv/20240823_023247.png",
           "description": "",
@@ -1335,24 +1371,7 @@
             { "server_name": "Server 2", "url": "" }
           ]
         },
-        {
-          "title": "Gold Mines Movie",
-          "poster": "https://i.postimg.cc/7ZNqRywh/20240823-023440.png",
-          "description": "",
-          "sources": [
-            { "server_name": "Server 1", "url": "https://cdn-2.pishow.tv/live/1461/master.m3u8" },
-            { "server_name": "Server 2", "url": "https://streams.tangotv.in/GOLDMINEMOVIES/ORIGIN/index.m3u8" }
-          ]
-        },
-        {
-          "title": "Gold Mines Bollywood",
-          "poster": "https://i.postimg.cc/7ZNqRywh/20240823-023440.png",
-          "description": "",
-          "sources": [
-            { "server_name": "Server 1", "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/index.m3u8" },
-            { "server_name": "Server 2", "url": "" }
-          ]
-        },
+        
         {
           "title": "ZB Cinema",
           "poster": "https://i.postimg.cc/L8xzTtQY/k-Ug6WSk.jpg",
