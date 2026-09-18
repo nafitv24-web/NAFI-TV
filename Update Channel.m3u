@@ -36,7 +36,15 @@
             { "server_name": "Server 2", "url": "" }
           ]
         },
-
+{
+          "title": "Matribhumi Tv",
+          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVS_0Rz5iseyELSeGttGbxixrfh288RZP1LQK_ZJLQvg&s=10",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "http://27.124.71.27/T-Sports/index.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
 { "title": "D24 Digital",
           "poster": "https://bhoomtv.org/wp-content/uploads/2026/02/ChatGPT-Image-May-24-2026-10_47_42-AM-1-200x300.png",
           "description": "",
