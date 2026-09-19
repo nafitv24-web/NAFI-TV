@@ -2470,6 +2470,24 @@
             { "server_name": "Server 2", "url": "" }
           ]
         },
+        {
+          "title": "Discovery Kids",
+          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsNbyoBxUcMQXBjpn_XUApfos6mQJMyMF6G5gkf6XGuQ&s=10",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://tv8.akashgo.workers.dev/cdn/live/slang/discovery_kids_576/discovery_kids_576.m3u8?bitrate=1024000&channel=discovery_kids_576&gp_id=&hdnea=exp=1789775163~acl=/*~id=88914486545038105870898822679476~hmac=3974bb9f2e9d2cd6e6994477f1ffe8085beb595df47ed5f1d906fe3c1974c383" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+        {
+          "title": "POGU TV",
+          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQapMwfZW9uOWW6BjIt_MxVmCNd0r8sfEaHA9D_LrL68w&s=10",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://tv4.udiqipuw544.workers.dev/cdn/live/slang/pogo_sd_576/pogo_sd_576.m3u8?bitrate=1024000&channel=pogo_sd_576&gp_id=&hdnea=exp=1789775163~acl=/*~id=65155408446245217320970854564873~hmac=4f587107bef7f93c56fd10da596e244077a345b1c902bf8d89acf04fb79716bf" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
        {
           "title": "All Babies Channel",
           "poster": "https://static.wikia.nocookie.net/logopedia/images/3/3c/Baby_TV_2026.svg",
