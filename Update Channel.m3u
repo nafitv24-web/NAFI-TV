@@ -686,8 +686,8 @@
           "poster": "https://yt3.googleusercontent.com/ytc/AIdro_nkJKVbw8obzDxMqr3icQerQ6PvZlkDFjbBaYRBfn83Lw=s160-c-k-c0x00ffffff-no-rj",
           "description": "",
           "sources": [
-            { "server_name": "Server 1", "url": "http://str24.l9574.com/503.stream/tracks-v1a1/mono.m3u8" },
-            { "server_name": "Server 2", "url": "https://tvsen6.aynaott.com/channel52/index.m3u8" }
+            { "server_name": "Server 1", "url": "https://tvsen6.aynaott.com/channel52/tracks-v1a1/mono.ts.m3u8" },
+            { "server_name": "Server 2", "url": "http://str24.l9574.com/503.stream/tracks-v1a1/mono.m3u8" }
           ]
         },
         {
