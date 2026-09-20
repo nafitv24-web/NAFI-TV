@@ -438,9 +438,11 @@
           "description": "",
           "sources": [
             { "server_name": "Server 1", "url": "https://tv5.genatuz070.workers.dev/cdn/live/slang/channel_s_tv_576/channel_s_tv_576.m3u8?bitrate=1800000&channel=channel_s_tv_576&gp_id=&hdnea=exp=1789775163~acl=/*~id=24997527701217361759883699099657~hmac=da41ae13dd0df394bbee85db1ee158496b15768c54a00087aeb1fdfdec9b9e8a" },
-           { "server_name": "Server 1", "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/index.m3u8" },
+           { "server_name": "Server 2", "url": "https://app.ncare.live/live-orgin/channels.stream/playlist.m3u8" },
            
-            { "server_name": "Server 2", "url": "https://app.ncare.live/live-orgin/channels.stream/playlist.m3u8" }
+{ "server_name": "Server 3", "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/index.m3u8" },
+           
+            { "server_name": "Server 4", "url": "https://app.ncare.live/live-orgin/channels.stream/playlist.m3u8" }
           ]
         },
         {
