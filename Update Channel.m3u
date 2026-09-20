@@ -911,7 +911,15 @@
             { "server_name": "Server 2", "url": "https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8" }
           ]
         },
-        
+        {
+          "title": "Sun Bangla",
+          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjQKSQpmMZQE97R6oz9jaqk6bzrHCzOENMyZq1pZJpyQ&s=10",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://rangdhonu-proxy.tasinazad2009.workers.dev/stream/sunbangla/playlist.m3u8?expires=1792474461&sig=AuwdVJaZZeoU-dK5yADs_MEH1oVtRYb6ZTvlYUqDyGc" },
+            { "server_name": "Server 2", "url": "https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8" }
+          ]
+        },
         {
           "title": "R Plus Gold",
           "poster": "https://i.postimg.cc/P5GdL9Q7/RPlus-Gold-logo-(2013).webp",
