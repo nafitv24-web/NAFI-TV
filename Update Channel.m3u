@@ -56,7 +56,7 @@
         },
 {
           "title": "Discovery Bangla",
-          "poster": "https://static.wikia.nocookie.net/logopedia/images/6/6a/Discovery_HD_2009.png",
+          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFjycCvDUdwc3KVlGHZKmW7J-NIQUz6zhhOZsTLqnayQ&s=10",
           "description": "",
           "sources": [
             { "server_name": "Server 1", "url": "http://livetv.akr4m.com:8080/bdtv/restrem/51.m3u8" },
