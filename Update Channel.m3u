@@ -1105,8 +1105,9 @@
           "poster": "https://i.postimg.cc/7ZNqRywh/20240823-023440.png",
           "description": "",
           "sources": [
-            { "server_name": "Server 1", "url": "https://cdn-2.pishow.tv/live/1461/master.m3u8" },
-            { "server_name": "Server 2", "url": "https://streams.tangotv.in/GOLDMINEMOVIES/ORIGIN/index.m3u8" }
+               { "server_name": "Server 1", "url": "https://cdn-2.pishow.tv/live/1461/master.m3u8" },
+           
+{ "server_name": "Server 2", "url": "https://streams.tangotv.in/GOLDMINEMOVIES/ORIGIN/index.m3u8" }
           ]
         },
         {
@@ -1267,7 +1268,7 @@
           "poster": "https://i.postimg.cc/XYfRvKzz/20240823_023036.png",
           "description": "",
           "sources": [
-            { "server_name": "Server 1", "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_entertainment/playlist.m3u8" },
+            { "server_name": "Server 1", "url": "https://drk6xq0vhn.gpcdn.net/live/sony_ent_sd_abr/index.m3u8" },
             { "server_name": "Server 2", "url": "" }
           ]
         },
@@ -1276,7 +1277,7 @@
           "poster": "https://i.postimg.cc/XYfRvKzz/20240823_023036.png",
           "description": "",
           "sources": [
-            { "server_name": "Server 1", "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sonyentertainmnt_hd/playlist.m3u8" },
+            { "server_name": "Server 1", "url": "https://drk6xq0vhn.gpcdn.net/live/sony_ent_hd_abr/index.m3u8" },
             { "server_name": "Server 2", "url": "" }
           ]
         },
@@ -1303,7 +1304,7 @@
           "poster": "https://i.postimg.cc/YS3BdNNW/20240823_022655.png",
           "description": "",
           "sources": [
-            { "server_name": "Server 1", "url": "" },
+            { "server_name": "Server 1", "url": "https://drk6xq0vhn.gpcdn.net/live/sony_max_sd_abr/index.m3u8" },
             { "server_name": "Server 2", "url": "" }
           ]
         },
@@ -1312,7 +1313,7 @@
           "poster": "https://i.postimg.cc/YS3BdNNW/20240823_022655.png",
           "description": "",
           "sources": [
-            { "server_name": "Server 1", "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_max_hd/playlist.m3u8" },
+            { "server_name": "Server 1", "url": "https://drk6xq0vhn.gpcdn.net/live/max_hd_abr/index.m3u8" },
             { "server_name": "Server 2", "url": "" }
           ]
         },
@@ -1321,7 +1322,7 @@
           "poster": "https://i.postimg.cc/hP59QSrm/20240825_075205.png",
           "description": "",
           "sources": [
-            { "server_name": "Server 1", "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sonymax_2/playlist.m3u8" },
+            { "server_name": "Server 1", "url": "https://drk6xq0vhn.gpcdn.net/live/max_2_abr/index.m3u8" },
             { "server_name": "Server 2", "url": "" }
           ]
         },
