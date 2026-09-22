@@ -1043,6 +1043,62 @@
         }
       ]
     },
+
+
+
+
+
+
+
+{
+      "category_name": "Adventure",
+      "movies": [
+        {
+          "title": "Animal Planet",
+          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrL9c7dxPuJFHYFDzVRXP77SK5jZ9xlliGmwc-SXhv5g&s=10",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://drk6xq0vhn.gpcdn.net/live/animal_planet_hd/index.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+
+{
+          "title": "National Geographic",
+          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGxIIukW9eT9TeQOKF16V_bx6pmW9Y63oo8yBGMYEgjw&s=10",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "http://rgkkw.live:8080/live/4dfoydR2gZ/clever3still/98874.ts" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+
+        {
+          "title": "National Wild",
+          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAfdMiO7zqoDcnRjkynnZG76eTp4gBy4uZftmm8UK2bw&s=10",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "http://202.70.146.135:8000/play/a05j/index.m3u8" },
+           
+          { "server_name": "Server 2", "url": "" }
+          ]
+        },
+{
+          "title": "BBC Earth",
+          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpt3tb7v-j-NVhOlDZ5vgb-3KrF0jH6jLfJa7Cd1D3IA&s=10",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist540p.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        }
+      ]
+    },
+
+
+
+
+
     {
       "category_name": "Movies",
       "movies": [
