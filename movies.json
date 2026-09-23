@@ -683,12 +683,12 @@
       "category_name": "Hollywood",
       "movies": [
       {
-          "title": "fast and furious 2024e",
+          "title": "fast and furious 2024",
           "language": "English",
           "year": "2024",
-          "rating": "8.2",
+          "rating": "8.1",
           "poster": "https://imusic.b-cdn.net/images/item/original/933/7333018026933.jpg?fast-and-furious-2023-fast-furious-x-dvd&class=scaled&v=1693830085",
-          "description": "একটি হলিউড অ্যাকশন মুভি।",
+          "description": " একটি হলিউড অ্যাকশন মুভি।",
           "sources": [
             {
               "server_name": "Server 1",
@@ -713,6 +713,9 @@
         }
       ]
     },
+
+
+    
     {
   "category_name": "ANIMATION & COMEDY",
   "movies": [
