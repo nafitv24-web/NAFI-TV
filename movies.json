@@ -682,6 +682,23 @@
     {
       "category_name": "Hollywood",
       "movies": [
+      {
+          "title": "fast and furious 2024e",
+          "language": "English",
+          "year": "2024",
+          "rating": "8.2",
+          "poster": "https://imusic.b-cdn.net/images/item/original/933/7333018026933.jpg?fast-and-furious-2023-fast-furious-x-dvd&class=scaled&v=1693830085",
+          "description": "একটি হলিউড অ্যাকশন মুভি।",
+          "sources": [
+            {
+              "server_name": "Server 1",
+              "url": "http://127.0.0.1:44263/https/sbcdn3.hakunaymatata.com/dash/5780102947384317568_0_0_360_h265_932/index.mpd"
+            }
+          ]
+        }
+      ]
+    },
+        
         {
           "title": "Spider-Man Hollywood Movie",
           "language": "English",
