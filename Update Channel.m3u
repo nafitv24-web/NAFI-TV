@@ -1160,6 +1160,16 @@
           ]
         },
 {
+          "title": "Zee Cinema HD",
+          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ2AnZvDZ7JpO6XIemMQwxuPkMujNV_leMoN2n8xu51A&s=10",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://robitv.com/rn/http://103.141.70.136:8080//bdtv/restrem/63.m3u8" },
+            { "server_name": "Server 2", "url": "http://livetv.akr4m.com:8080/bdtv/restrem/63.m3u8" }
+          ]
+        },
+
+{
           "title": "Gold Mines Movie",
           "poster": "https://i.postimg.cc/7ZNqRywh/20240823-023440.png",
           "description": "",
@@ -1295,15 +1305,7 @@
             { "server_name": "Server 2", "url": "" }
           ]
         },
-        {
-          "title": "Zee Cinema HD",
-          "poster": "https://i.postimg.cc/VN1c9Ztw/20240823_022636.png",
-          "description": "",
-          "sources": [
-            { "server_name": "Server 1", "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_cinema_hd/playlist.m3u8" },
-            { "server_name": "Server 2", "url": "" }
-          ]
-        },
+        
         {
           "title": "Zee Bollywood",
           "poster": "https://i.postimg.cc/52SzwQF1/20251222_220548.png",
