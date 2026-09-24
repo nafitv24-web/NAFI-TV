@@ -8,8 +8,10 @@
           "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-kb5MBvGaZ-CVtpYi2vM2Zy0LERvZSRlKNgyT1Zl3zw&s",
           "description": "",
           "sources": [
-            { "server_name": "Server 1", "url": "https://box.bbaria.net:8083/Nagorik_TV/video.m3u8" },
-            { "server_name": "Server 2", "url": "http://livetv.akr4m.com:8080/bdtv/restrem/38.m3u8" }
+            { "server_name": "Server 1", "url": "https://robitv.com/rn/http://103.141.70.136:8080//bdtv/restrem/38.m3u8" },
+           { "server_name": "Server 2", "url": "https://box.bbaria.net:8083/Nagorik_TV/video.m3u8" },
+           
+{ "server_name": "Server 3", "url": "http://livetv.akr4m.com:8080/bdtv/restrem/38.m3u8" }
           ]
         },
 { "title": "Star Bangla",
