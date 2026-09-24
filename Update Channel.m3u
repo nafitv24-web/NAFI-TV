@@ -1147,7 +1147,7 @@
     
 {
           "title": "Sony Max",
-          "poster": "https://i.postimg.cc/YS3BdNNW/20240823_022655.png",
+          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8b2084eDCqL4ALdFimwE5MSO81HUYv36FVr6ejTbmPw&s=10",
           "description": "",
           "sources": [
             { "server_name": "Server 1", "url": "https://drk6xq0vhn.gpcdn.net/live/sony_max_sd_abr/index.m3u8" },
@@ -1156,7 +1156,7 @@
         },
         {
           "title": "Sony Max HD",
-          "poster": "https://i.postimg.cc/YS3BdNNW/20240823_022655.png",
+          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDkLdGKwDViKOs91kKeaxyQkFTKV-NxRsY1WAbordmgQ&s=10",
           "description": "",
           "sources": [
             { "server_name": "Server 1", "url": "https://drk6xq0vhn.gpcdn.net/live/max_hd_abr/index.m3u8" },
@@ -1165,31 +1165,14 @@
         },
         {
           "title": "Sony Max 2",
-          "poster": "https://i.postimg.cc/hP59QSrm/20240825_075205.png",
+          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq7vVgoumvU9iWVQ28pdmXy82EGW0_CifKROyKKLr_Yw&s",
           "description": "",
           "sources": [
             { "server_name": "Server 1", "url": "https://drk6xq0vhn.gpcdn.net/live/max_2_abr/index.m3u8" },
             { "server_name": "Server 2", "url": "" }
           ]
         },
-{
-          "title": "STAR MOVIE HD",
-          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHAnR8Yix2SW9RqFzcTsBUvvRGBUwy4Mhl1e0PVd4G7g&s=10",
-          "description": "",
-          "sources": [
-            { "server_name": "Server 1", "url": "http://103.151.60.162:2122/play/a02k/index.m3u8?hls" },
-            { "server_name": "Server 2", "url": "http://202.70.146.135:8000/play/a06r/index.m3u8" }
-          ]
-        },
-     {
-          "title": "STAR MOVIE SELECT HD",
-          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt3Hro_cxEd1jmanWn2EId4IMMMiRX67fh5vu4UGOvMA&s=10",
-          "description": "",
-          "sources": [
-            { "server_name": "Server 1", "url": "http://103.151.60.162:2122/play/a02l/index.m3u8?hls" },
-            { "server_name": "Server 2", "url": "http://202.70.146.135:8000/play/a06q/index.m3u8" }
-          ]
-        },
+
     {
           "title": "STAR GOLD HD",
           "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg4tFcXA9RLE-xLf2trV2orWJtK7PT2CzU8AeT-drS7A&s=10",
@@ -1208,6 +1191,33 @@
           "sources": [
             { "server_name": "Server 1", "url": "https://robitv.com/rn/http://103.141.70.136:8080//bdtv/restrem/63.m3u8" },
             { "server_name": "Server 2", "url": "http://livetv.akr4m.com:8080/bdtv/restrem/63.m3u8" }
+          ]
+        },
+{
+          "title": "Star Gold HD",
+          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGs_wINnniJ5etD8Ncd3IAse4nrqESqkMbfg_tPp0p2A&s",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "http://66.102.126.10:8000/play/a00f/index.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+{
+          "title": "Star Gold 2 HD",
+          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvDpowLX0ySLDEgrjeX9CDw9CsSWFNk5VpWkoSy9JgoQ&s=10",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "http://107.167.16.138/stargold2/index.m3u8?token=test" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+        {
+          "title": "Star Gold Selected",
+          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS76GE56T_YL1hWsYHBYYGS3PBnV8JxZd0QTcY6lGneH9qrrEK-4cS2qIg&s=10",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "http://66.102.126.10:8000/play/a01s/index.m3u8" },
+            { "server_name": "Server 2", "url": "" }
           ]
         },
 {
@@ -1294,7 +1304,24 @@
           ]
         },
 
-
+{
+          "title": "STAR MOVIE HD",
+          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHAnR8Yix2SW9RqFzcTsBUvvRGBUwy4Mhl1e0PVd4G7g&s=10",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "http://103.151.60.162:2122/play/a02k/index.m3u8?hls" },
+            { "server_name": "Server 2", "url": "http://202.70.146.135:8000/play/a06r/index.m3u8" }
+          ]
+        },
+     {
+          "title": "STAR MOVIE SELECT HD",
+          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt3Hro_cxEd1jmanWn2EId4IMMMiRX67fh5vu4UGOvMA&s=10",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "http://103.151.60.162:2122/play/a02l/index.m3u8?hls" },
+            { "server_name": "Server 2", "url": "http://202.70.146.135:8000/play/a06q/index.m3u8" }
+          ]
+        },
         
         {
           "title": "Manoranjan Movies",
@@ -1323,33 +1350,7 @@
             { "server_name": "Server 2", "url": "" }
           ]
         },
-        {
-          "title": "Star Gold HD",
-          "poster": "https://i.postimg.cc/6pCXvxyz/20240823-022553.png",
-          "description": "",
-          "sources": [
-            { "server_name": "Server 1", "url": "http://66.102.126.10:8000/play/a00f/index.m3u8" },
-            { "server_name": "Server 2", "url": "" }
-          ]
-        },
-{
-          "title": "Star Gold 2 HD",
-          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvDpowLX0ySLDEgrjeX9CDw9CsSWFNk5VpWkoSy9JgoQ&s=10",
-          "description": "",
-          "sources": [
-            { "server_name": "Server 1", "url": "http://107.167.16.138/stargold2/index.m3u8?token=test" },
-            { "server_name": "Server 2", "url": "" }
-          ]
-        },
-        {
-          "title": "Star Gold Selected",
-          "poster": "https://i.postimg.cc/bYKYDTmy/20240823_023330.png",
-          "description": "",
-          "sources": [
-            { "server_name": "Server 1", "url": "http://66.102.126.10:8000/play/a01s/index.m3u8" },
-            { "server_name": "Server 2", "url": "" }
-          ]
-        },
+        
         {
           "title": "& Tv",
           "poster": "https://i.postimg.cc/JhR9HDw4/20240823_023056.png",
