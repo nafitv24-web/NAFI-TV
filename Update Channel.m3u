@@ -14,67 +14,9 @@
 { "server_name": "Server 3", "url": "http://livetv.akr4m.com:8080/bdtv/restrem/38.m3u8" }
           ]
         },
-{ "title": "CBN TV",
-          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZt_-KJ03ru3dZ4aJQAbvYnrqvDz4uu_aoD3oHKzTwag&s=10",
-          "description": "",
-          "sources": [
-            { "server_name": "Server 1", "url": "https://live.cbntvusa.net/hls/cbntv/index.m3u8" },
-            { "server_name": "Server 2", "url": "" }
-          ]
-        },
 
-{ "title": "Star Bangla",
-          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT44Z56zKoiEJjAokoaE6XaUIBTdrjejdvmb-RfOxONrA&s=10",
-          "description": "",
-          "sources": [
-            { "server_name": "Server 1", "url": "http://103.151.60.162:2122/play/a0f5/index.m3u8" },
-            { "server_name": "Server 2", "url": "" }
-          ]
-        },
-{ "title": "Rana Cable Music",
-          "poster": "https://bhoomtv.org/wp-content/uploads/2026/04/ChatGPT-Image-Apr-21-2026-09_09_07-AM-1-200x300.png",
-          "description": "",
-          "sources": [
-            { "server_name": "Server 1", "url": "https://ranacable.duckdns.org/RanaCableMusic/playlist.m3u8" },
-            { "server_name": "Server 2", "url": "" }
-          ]
-        },
-{ "title": "Rana Cable Tv",
-          "poster": "https://bhoomtv.org/wp-content/uploads/2026/04/ChatGPT-Image-Apr-21-2026-09_09_07-AM-1-200x300.png",
-          "description": "",
-          "sources": [
-            { "server_name": "Server 1", "url": "https://ranacable.duckdns.org/RanaCableTV/index.m3u8" },
-            { "server_name": "Server 2", "url": "" }
-          ]
-        },
 
-{ "title": "B Prime Bangla",
-          "poster": "https://bhoomtv.org/wp-content/uploads/2026/06/ChatGPT-Image-Jun-26-2026-07_44_34-PM-1-200x300.png",
-          "description": "",
-          "sources": [
-            { "server_name": "Server 1", "url": "https://ranacable.duckdns.org/Bprimebangla/index.m3u8" },
-            { "server_name": "Server 2", "url": "" }
-          ]
-        },
 
-{ "title": "Rana Movie Cable",
-          "poster": "https://bhoomtv.org/wp-content/uploads/2026/07/ChatGPT-Image-Jul-18-2026-10_45_51-AM-1-200x300.png",
-          "description": "",
-          "sources": [
-            { "server_name": "Server 1", "url": "https://ranacable.duckdns.org/RanaMovie/index.m3u8" },
-            { "server_name": "Server 2", "url": "" }
-          ]
-        },
-
-        {
-          "title": "BHI Channel",
-          "poster": "https://play-lh.googleusercontent.com/PcAXvs0OZyme6dsppfqDZ9yHDsU-hkMBzWBxvpXekx8-bT_XWoW0qCB4QfktUZXwBQqQ5NqddeYHD_jJBQb0Yg=w240-h480",
-          "description": "",
-          "sources": [
-            { "server_name": "Server 1", "url": "https://server.livelegitpro.in/bhichannel/bhichannel/index.m3u8" },
-            { "server_name": "Server 2", "url": "" }
-          ]
-        },
 {
           "title": "BTV News",
           "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGFVQX3hXUtTTgwmRcWrehYFkfjeSiyHSSn1OCbWR6Yg&s",
@@ -84,132 +26,8 @@
             { "server_name": "Server 2", "url": "http://livetv.akr4m.com:8080/bdtv/restrem/11.m3u8" }
           ]
         },
-{ "title": "Jolsha Bangla",
-          "poster": "https://i.supaimg.com/83afe636-c743-4025-87ea-6f9f3f10d71f/f0499487-db0c-431b-b345-cef9d8be7716.png",
-          "description": "",
-          "sources": [
-            { "server_name": "Server 1", "url": "http://103.151.60.162:2122/play/a02x/index.m3u8?hls" },
-            { "server_name": "Server 2", "url": "" }
-          ]
-        },
-{ "title": "Bangla Cinema",
-          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiJNsDnJuFu6w8U9EoW43lik9ylpEOw6FDKklZTgOJYydtGnt9oG5aPQpa&s=10",
-          "description": "",
-          "sources": [
-            { "server_name": "Server 1", "url": "http://103.151.60.162:2122/play/a02m/index.m3u8?hls" },
-            { "server_name": "Server 2", "url": "" }
-          ]
-        },
-{
-          "title": "Matribhumi Tv",
-          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVS_0Rz5iseyELSeGttGbxixrfh288RZP1LQK_ZJLQvg&s=10",
-          "description": "",
-          "sources": [
-            { "server_name": "Server 1", "url": "http://27.124.71.27/T-Sports/index.m3u8" },
-            { "server_name": "Server 2", "url": "" }
-          ]
-        },
-{ "title": "D24 Digital",
-          "poster": "https://bhoomtv.org/wp-content/uploads/2026/02/ChatGPT-Image-May-24-2026-10_47_42-AM-1-200x300.png",
-          "description": "",
-          "sources": [
-            { "server_name": "Server 1", "url": "https://uttar-purbanewsmedia.cloud/hls/d24/d24live/index.m3u8" },
-            { "server_name": "Server 2", "url": "" }
-          ]
-        },
-
-{ "title": "SONAR BANGLA",
-          "poster": "https://bhoomtv.org/wp-content/uploads/2026/01/ChatGPT-Image-Jan-23-2026-06_08_19-PM-1-200x300.png",
-          "description": "",
-          "sources": [
-            { "server_name": "Server 1", "url": "https://samitaorigin.tangotv.in/SONARBANGLA/SAMITAORIGIN/tracks-v1a1/mono.m3u8" },
-            { "server_name": "Server 2", "url": "" }
-          ]
-        },
 
 
-{ "title": "Super Hit",
-          "poster": "https://5.imimg.com/data5/IMOB/Default/2024/8/439686858/ZD/CI/DM/135066294/cb-text-png-7-1-1-1722516567640-png-500x500.png",
-          "description": "",
-          "sources": [
-            { "server_name": "Server 1", "url": "http://103.151.60.162:2122/play/a02f/index.m3u8?hls" },
-            { "server_name": "Server 2", "url": "" }
-          ]
-        },
-{ "title": "NAFI MOVIE BANGLA",
-          "poster": "https://i.supaimg.com/83afe636-c743-4025-87ea-6f9f3f10d71f/a646d340-ac3c-4c4d-8de6-30946abe620d.png",
-          "description": "",
-          "sources": [
-            { "server_name": "Server 1", "url": "https://live20.bozztv.com/giatvplayout7/giatv-209627/tracks-v1a1/mono.ts.m3u8" },
-            { "server_name": "Server 2", "url": "" }
-          ]
-        },
-{ "title": "NAFI MOVIE HINDI",
-          "poster": "https://i.supaimg.com/83afe636-c743-4025-87ea-6f9f3f10d71f/56da930b-8a72-464c-bfcd-803fc32e1e9d.png",
-          "description": "",
-          "sources": [
-            { "server_name": "Server 1", "url": "https://vods2.aynaott.com/hindimovies/index.m3u8" },
-            { "server_name": "Server 2", "url": "http://103.151.60.188:12345/hls/tab_po79ctf/index.m3u8?t=1788690987800" }
-          ]
-        },
-{ "title": "NAFI MOVIE SOUTH",
-          "poster": "https://i.supaimg.com/83afe636-c743-4025-87ea-6f9f3f10d71f/17a7999f-0a24-4fc7-878f-6d1dee5929c4.png",
-          "description": "",
-          "sources": [
-            { "server_name": "Server 1", "url": "https://live20.bozztv.com/giatvplayout7/giatv-209593/tracks-v1a1/mono.ts.m3u8" },
-            { "server_name": "Server 2", "url": "http://103.151.60.188:12345/hls/tab_po79ctf/index.m3u8?t=1788691286428" }
-          ]
-        },
-{ "title": "Bloy filx",
-          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTgpBnnlF5T9P2mbnXexU--KGw0x5nVHdXHFlAnY0iRw&s",
-          "description": "",
-          "sources": [
-            { "server_name": "Server 1", "url": "https://cc-r5hupcym5oehh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r5hupcym5oehh/SBUM/RunnTV/BollyFlix_IN/BollyFlix_IN.m3u8" },
-            { "server_name": "Server 2", "url": "" }
-          ]
-        },
-{ "title": "SNB Cinema",
-          "poster": "https://i.supaimg.com/83afe636-c743-4025-87ea-6f9f3f10d71f/495ceb82-616a-4158-b8f4-2eba23ccd9eb.png",
-          "description": "",
-          "sources": [
-            { "server_name": "Server 1", "url": "http://103.182.83.246/hls/snbcinema.m3u8" },
-            { "server_name": "Server 2", "url": "" }
-          ]
-        },
-{ "title": "Doyel Tv",
-          "poster": "https://i.imgur.com/8pR8Q4J.png",
-          "description": "",
-          "sources": [
-            { "server_name": "Server 1", "url": "https://3d46w.doyeltv.com/memfs/aa3aa6f7-ec12-41a2-8183-a891e157bbf8.m3u8" },
-            { "server_name": "Server 2", "url": "" }
-          ]
-        },
-{ "title": "DTV USA",
-          "poster": "https://yt3.ggpht.com/b5k6hzCSHAsvrPtt5xJXMMZb3GpciGCZRRWyXb4Xs7roWL1SK62R58XTi5PTx2ShAb3buqTOHfE=s512-c-k-c0x00ffffff-no-rj",
-          "description": "",
-          "sources": [
-            { "server_name": "Server 1", "url": "https://cdn.dtvusa.com/dtv/index.m3u8" },
-            { "server_name": "Server 2", "url": "" }
-          ]
-        },
-{ "title": "Ayna TV",
-          "poster": "https://i.supaimg.com/83afe636-c743-4025-87ea-6f9f3f10d71f/bbfe3687-9aea-4e8f-a649-6cffbfe0acd2.jpg",
-          "description": "",
-          "sources": [
-            { "server_name": "Server 1", "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ayna.stream/index.m3u8" },
-            { "server_name": "Server 2", "url": "" }
-          ]
-        },
-
-
-{ "title": "probashi tv news",
-          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk7jVewyNqm1CHR85rDTydCQIxcYrxZlDexMjBZFpX4Q&s=10",
-          "description": "",
-          "sources": [
-            { "server_name": "Server 1", "url": "http://158.69.24.53:8080/probashi_tv/tracks-v1a1/mono.m3u8" },
-            { "server_name": "Server 2", "url": "" }
-          ]
-        },
 
        
         
@@ -756,7 +574,143 @@
     {
       "category_name": "NF IPTV",
       "movies": [
+
+{ "title": "NAFI MOVIE BANGLA",
+          "poster": "https://i.supaimg.com/83afe636-c743-4025-87ea-6f9f3f10d71f/a646d340-ac3c-4c4d-8de6-30946abe620d.png",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://live20.bozztv.com/giatvplayout7/giatv-209627/tracks-v1a1/mono.ts.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+{ "title": "NAFI MOVIE HINDI",
+          "poster": "https://i.supaimg.com/83afe636-c743-4025-87ea-6f9f3f10d71f/56da930b-8a72-464c-bfcd-803fc32e1e9d.png",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://vods2.aynaott.com/hindimovies/index.m3u8" },
+            { "server_name": "Server 2", "url": "http://103.151.60.188:12345/hls/tab_po79ctf/index.m3u8?t=1788690987800" }
+          ]
+        },
+{ "title": "NAFI MOVIE SOUTH",
+          "poster": "https://i.supaimg.com/83afe636-c743-4025-87ea-6f9f3f10d71f/17a7999f-0a24-4fc7-878f-6d1dee5929c4.png",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://live20.bozztv.com/giatvplayout7/giatv-209593/tracks-v1a1/mono.ts.m3u8" },
+            { "server_name": "Server 2", "url": "http://103.151.60.188:12345/hls/tab_po79ctf/index.m3u8?t=1788691286428" }
+          ]
+        },
+{ "title": "CBN TV",
+          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZt_-KJ03ru3dZ4aJQAbvYnrqvDz4uu_aoD3oHKzTwag&s=10",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://live.cbntvusa.net/hls/cbntv/index.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+{ "title": "Bloy filx",
+          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTgpBnnlF5T9P2mbnXexU--KGw0x5nVHdXHFlAnY0iRw&s",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://cc-r5hupcym5oehh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r5hupcym5oehh/SBUM/RunnTV/BollyFlix_IN/BollyFlix_IN.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+{ "title": "SNB Cinema",
+          "poster": "https://i.supaimg.com/83afe636-c743-4025-87ea-6f9f3f10d71f/495ceb82-616a-4158-b8f4-2eba23ccd9eb.png",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "http://103.182.83.246/hls/snbcinema.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+{ "title": "Doyel Tv",
+          "poster": "https://i.imgur.com/8pR8Q4J.png",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://3d46w.doyeltv.com/memfs/aa3aa6f7-ec12-41a2-8183-a891e157bbf8.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+{ "title": "DTV USA",
+          "poster": "https://yt3.ggpht.com/b5k6hzCSHAsvrPtt5xJXMMZb3GpciGCZRRWyXb4Xs7roWL1SK62R58XTi5PTx2ShAb3buqTOHfE=s512-c-k-c0x00ffffff-no-rj",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://cdn.dtvusa.com/dtv/index.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+{ "title": "Ayna TV",
+          "poster": "https://i.supaimg.com/83afe636-c743-4025-87ea-6f9f3f10d71f/bbfe3687-9aea-4e8f-a649-6cffbfe0acd2.jpg",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ayna.stream/index.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+
+
+{ "title": "probashi tv news",
+          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk7jVewyNqm1CHR85rDTydCQIxcYrxZlDexMjBZFpX4Q&s=10",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "http://158.69.24.53:8080/probashi_tv/tracks-v1a1/mono.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+
+{ "title": "Star Bangla",
+          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT44Z56zKoiEJjAokoaE6XaUIBTdrjejdvmb-RfOxONrA&s=10",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "http://103.151.60.162:2122/play/a0f5/index.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+{ "title": "Rana Cable Music",
+          "poster": "https://bhoomtv.org/wp-content/uploads/2026/04/ChatGPT-Image-Apr-21-2026-09_09_07-AM-1-200x300.png",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://ranacable.duckdns.org/RanaCableMusic/playlist.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+{ "title": "Rana Cable Tv",
+          "poster": "https://bhoomtv.org/wp-content/uploads/2026/04/ChatGPT-Image-Apr-21-2026-09_09_07-AM-1-200x300.png",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://ranacable.duckdns.org/RanaCableTV/index.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+
+{ "title": "B Prime Bangla",
+          "poster": "https://bhoomtv.org/wp-content/uploads/2026/06/ChatGPT-Image-Jun-26-2026-07_44_34-PM-1-200x300.png",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://ranacable.duckdns.org/Bprimebangla/index.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+
+{ "title": "Rana Movie Cable",
+          "poster": "https://bhoomtv.org/wp-content/uploads/2026/07/ChatGPT-Image-Jul-18-2026-10_45_51-AM-1-200x300.png",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://ranacable.duckdns.org/RanaMovie/index.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+
         {
+          "title": "BHI Channel",
+          "poster": "https://play-lh.googleusercontent.com/PcAXvs0OZyme6dsppfqDZ9yHDsU-hkMBzWBxvpXekx8-bT_XWoW0qCB4QfktUZXwBQqQ5NqddeYHD_jJBQb0Yg=w240-h480",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://server.livelegitpro.in/bhichannel/bhichannel/index.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+{
           "title": "iON TV",
           "poster": "https://static.wikitide.net/avidwiki/2/22/Ion5.png",
           "description": "",
@@ -765,15 +719,7 @@
             { "server_name": "Server 2", "url": "" }
           ]
         },
-{
-          "title": "Orange Bangla TV",
-          "poster": "https://static.wikia.nocookie.net/etv-gspn-bangla/images/e/e5/Orange_Bangla_logo_%282018%29.png",
-          "description": "",
-          "sources": [
-            { "server_name": "Server 1", "url": "https://cdn-4.pishow.tv/live/1499/master.m3u8" },
-            { "server_name": "Server 2", "url": "" }
-          ]
-        },
+
 {
           "title": "NRB HD TV",
           "poster": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeX0fMKpc_lRfrT6qTXG0iK7ltwilygRaZ61fPX_7T7RHkjdwTIaYDHWSMRVFez2eBnGGnAM3logWZ9f7r7uJGEZQQZfjb3hydOkm9Q2FEULaQHhxJkJqUrOA8xCxdnHEYTNhNoUSXONX48zDINAFHI80edoaKzFHO2TQg4N9ojnbp-Ae3eCX_XuQ-ZOE/s1600/NRBLogoDesignwithColorAccents_copy_900x900.png",
@@ -810,6 +756,58 @@
             { "server_name": "Server 2", "url": "" }
           ]
         },
+{ "title": "Jolsha Bangla",
+          "poster": "https://i.supaimg.com/83afe636-c743-4025-87ea-6f9f3f10d71f/f0499487-db0c-431b-b345-cef9d8be7716.png",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "http://103.151.60.162:2122/play/a02x/index.m3u8?hls" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+{ "title": "Bangla Cinema",
+          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiJNsDnJuFu6w8U9EoW43lik9ylpEOw6FDKklZTgOJYydtGnt9oG5aPQpa&s=10",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "http://103.151.60.162:2122/play/a02m/index.m3u8?hls" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+{
+          "title": "Matribhumi Tv",
+          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVS_0Rz5iseyELSeGttGbxixrfh288RZP1LQK_ZJLQvg&s=10",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "http://27.124.71.27/T-Sports/index.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+{ "title": "D24 Digital",
+          "poster": "https://bhoomtv.org/wp-content/uploads/2026/02/ChatGPT-Image-May-24-2026-10_47_42-AM-1-200x300.png",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://uttar-purbanewsmedia.cloud/hls/d24/d24live/index.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+
+{ "title": "SONAR BANGLA",
+          "poster": "https://bhoomtv.org/wp-content/uploads/2026/01/ChatGPT-Image-Jan-23-2026-06_08_19-PM-1-200x300.png",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://samitaorigin.tangotv.in/SONARBANGLA/SAMITAORIGIN/tracks-v1a1/mono.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+
+
+{ "title": "Super Hit",
+          "poster": "https://5.imimg.com/data5/IMOB/Default/2024/8/439686858/ZD/CI/DM/135066294/cb-text-png-7-1-1-1722516567640-png-500x500.png",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "http://103.151.60.162:2122/play/a02f/index.m3u8?hls" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
 {
           "title": "Jankhar TV",
           "poster": "https://www.jagobd.com/wp-content/uploads/2019/05/Jhankartv.jpg",
@@ -826,6 +824,15 @@
           "description": "",
           "sources": [
             { "server_name": "Server 1", "url": "https://nktv.smartstream.video/smartstream-us/nkbangla/nkbangla/playlist.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+{
+          "title": "Orange Bangla TV",
+          "poster": "https://static.wikia.nocookie.net/etv-gspn-bangla/images/e/e5/Orange_Bangla_logo_%282018%29.png",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://cdn-4.pishow.tv/live/1499/master.m3u8" },
             { "server_name": "Server 2", "url": "" }
           ]
         },
