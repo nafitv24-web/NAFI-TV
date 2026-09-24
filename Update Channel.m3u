@@ -575,6 +575,52 @@
       "category_name": "NF IPTV",
       "movies": [
 
+{
+          "title": "Matribhumi Tv",
+          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVS_0Rz5iseyELSeGttGbxixrfh288RZP1LQK_ZJLQvg&s=10",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "http://27.124.71.27/T-Sports/index.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+
+{ "title": "SNB Cinema",
+          "poster": "https://i.supaimg.com/83afe636-c743-4025-87ea-6f9f3f10d71f/495ceb82-616a-4158-b8f4-2eba23ccd9eb.png",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "http://103.182.83.246/hls/snbcinema.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+{
+          "title": "BHI Channel",
+          "poster": "https://play-lh.googleusercontent.com/PcAXvs0OZyme6dsppfqDZ9yHDsU-hkMBzWBxvpXekx8-bT_XWoW0qCB4QfktUZXwBQqQ5NqddeYHD_jJBQb0Yg=w240-h480",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://server.livelegitpro.in/bhichannel/bhichannel/index.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+{
+          "title": "iON TV",
+          "poster": "https://static.wikitide.net/avidwiki/2/22/Ion5.png",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://app.ncare.live/live-orgin/iontvuk.stream/playlist.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+
+{
+          "title": "NRB HD TV",
+          "poster": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeX0fMKpc_lRfrT6qTXG0iK7ltwilygRaZ61fPX_7T7RHkjdwTIaYDHWSMRVFez2eBnGGnAM3logWZ9f7r7uJGEZQQZfjb3hydOkm9Q2FEULaQHhxJkJqUrOA8xCxdnHEYTNhNoUSXONX48zDINAFHI80edoaKzFHO2TQg4N9ojnbp-Ae3eCX_XuQ-ZOE/s1600/NRBLogoDesignwithColorAccents_copy_900x900.png",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://app.ncare.live/live-orgin/nrb-eu.stream/playlist.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
 { "title": "NAFI MOVIE BANGLA",
           "poster": "https://i.supaimg.com/83afe636-c743-4025-87ea-6f9f3f10d71f/a646d340-ac3c-4c4d-8de6-30946abe620d.png",
           "description": "",
@@ -615,14 +661,35 @@
             { "server_name": "Server 2", "url": "" }
           ]
         },
-{ "title": "SNB Cinema",
-          "poster": "https://i.supaimg.com/83afe636-c743-4025-87ea-6f9f3f10d71f/495ceb82-616a-4158-b8f4-2eba23ccd9eb.png",
+
+        {
+          "title": "PROBASHI TV",
+          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNt8NRaowEx1PfpxdbYC6GEnS2BGjPClHRTeziRS321g&s=10",
           "description": "",
           "sources": [
-            { "server_name": "Server 1", "url": "http://103.182.83.246/hls/snbcinema.m3u8" },
+            { "server_name": "Server 1", "url": "http://158.69.24.53:8080/probashi_tv/tracks-v1a1/mono.m3u8" },
             { "server_name": "Server 2", "url": "" }
           ]
         },
+        {
+          "title": "Thikana",
+          "poster": "https://imglink.cc/cdn/rw8iAU9ZcB.jpg",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://5dd3981940faa.streamlock.net:443/thikanatv/thikanatv/playlist.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+        {
+          "title": "Time Televis HD",
+          "poster": "https://static.wikia.nocookie.net/logopedia/images/d/de/News_Time_2.jpg",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://app.ncare.live/live-orgin/timetvusa.stream/playlist.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+
 { "title": "Doyel Tv",
           "poster": "https://i.imgur.com/8pR8Q4J.png",
           "description": "",
@@ -700,62 +767,16 @@
             { "server_name": "Server 2", "url": "" }
           ]
         },
-
-        {
-          "title": "BHI Channel",
-          "poster": "https://play-lh.googleusercontent.com/PcAXvs0OZyme6dsppfqDZ9yHDsU-hkMBzWBxvpXekx8-bT_XWoW0qCB4QfktUZXwBQqQ5NqddeYHD_jJBQb0Yg=w240-h480",
-          "description": "",
-          "sources": [
-            { "server_name": "Server 1", "url": "https://server.livelegitpro.in/bhichannel/bhichannel/index.m3u8" },
-            { "server_name": "Server 2", "url": "" }
-          ]
-        },
 {
-          "title": "iON TV",
-          "poster": "https://static.wikitide.net/avidwiki/2/22/Ion5.png",
+          "title": "NK TV Bangla",
+          "poster": "https://www.nktvbangla.com/wp-content/uploads/2023/09/WhatsApp-Image-2023-09-12-at-2.59.18-PM.jpg",
           "description": "",
           "sources": [
-            { "server_name": "Server 1", "url": "https://app.ncare.live/live-orgin/iontvuk.stream/playlist.m3u8" },
+            { "server_name": "Server 1", "url": "https://nktv.smartstream.video/smartstream-us/nkbangla/nkbangla/playlist.m3u8" },
             { "server_name": "Server 2", "url": "" }
           ]
         },
-
-{
-          "title": "NRB HD TV",
-          "poster": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeX0fMKpc_lRfrT6qTXG0iK7ltwilygRaZ61fPX_7T7RHkjdwTIaYDHWSMRVFez2eBnGGnAM3logWZ9f7r7uJGEZQQZfjb3hydOkm9Q2FEULaQHhxJkJqUrOA8xCxdnHEYTNhNoUSXONX48zDINAFHI80edoaKzFHO2TQg4N9ojnbp-Ae3eCX_XuQ-ZOE/s1600/NRBLogoDesignwithColorAccents_copy_900x900.png",
-          "description": "",
-          "sources": [
-            { "server_name": "Server 1", "url": "https://app.ncare.live/live-orgin/nrb-eu.stream/playlist.m3u8" },
-            { "server_name": "Server 2", "url": "" }
-          ]
-        },
-        {
-          "title": "PROBASHI TV",
-          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNt8NRaowEx1PfpxdbYC6GEnS2BGjPClHRTeziRS321g&s=10",
-          "description": "",
-          "sources": [
-            { "server_name": "Server 1", "url": "http://158.69.24.53:8080/probashi_tv/tracks-v1a1/mono.m3u8" },
-            { "server_name": "Server 2", "url": "" }
-          ]
-        },
-        {
-          "title": "Thikana",
-          "poster": "https://imglink.cc/cdn/rw8iAU9ZcB.jpg",
-          "description": "",
-          "sources": [
-            { "server_name": "Server 1", "url": "https://5dd3981940faa.streamlock.net:443/thikanatv/thikanatv/playlist.m3u8" },
-            { "server_name": "Server 2", "url": "" }
-          ]
-        },
-        {
-          "title": "Time Televis HD",
-          "poster": "https://static.wikia.nocookie.net/logopedia/images/d/de/News_Time_2.jpg",
-          "description": "",
-          "sources": [
-            { "server_name": "Server 1", "url": "https://app.ncare.live/live-orgin/timetvusa.stream/playlist.m3u8" },
-            { "server_name": "Server 2", "url": "" }
-          ]
-        },
+        
 { "title": "Jolsha Bangla",
           "poster": "https://i.supaimg.com/83afe636-c743-4025-87ea-6f9f3f10d71f/f0499487-db0c-431b-b345-cef9d8be7716.png",
           "description": "",
@@ -772,15 +793,7 @@
             { "server_name": "Server 2", "url": "" }
           ]
         },
-{
-          "title": "Matribhumi Tv",
-          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVS_0Rz5iseyELSeGttGbxixrfh288RZP1LQK_ZJLQvg&s=10",
-          "description": "",
-          "sources": [
-            { "server_name": "Server 1", "url": "http://27.124.71.27/T-Sports/index.m3u8" },
-            { "server_name": "Server 2", "url": "" }
-          ]
-        },
+
 { "title": "D24 Digital",
           "poster": "https://bhoomtv.org/wp-content/uploads/2026/02/ChatGPT-Image-May-24-2026-10_47_42-AM-1-200x300.png",
           "description": "",
@@ -818,15 +831,7 @@
           ]
         },
         
-        {
-          "title": "NK TV Bangla",
-          "poster": "https://www.nktvbangla.com/wp-content/uploads/2023/09/WhatsApp-Image-2023-09-12-at-2.59.18-PM.jpg",
-          "description": "",
-          "sources": [
-            { "server_name": "Server 1", "url": "https://nktv.smartstream.video/smartstream-us/nkbangla/nkbangla/playlist.m3u8" },
-            { "server_name": "Server 2", "url": "" }
-          ]
-        },
+        
 {
           "title": "Orange Bangla TV",
           "poster": "https://static.wikia.nocookie.net/etv-gspn-bangla/images/e/e5/Orange_Bangla_logo_%282018%29.png",
