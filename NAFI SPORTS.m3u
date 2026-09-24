@@ -5,11 +5,26 @@
       "movies": [
         
 {
-          "title": "ATN Sports",
-          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbZv4CTnyWXXBY-dORvl0q5h4v7S44QGCjEvQ-xg1yuw&s=10",
+          "title": "NAFI FOOTBALL ⚽",
+          "poster": "https://i.supaimg.com/83afe636-c743-4025-87ea-6f9f3f10d71f/91012331-e0b1-42fb-87c0-23c1137f9d0d.png",
           "description": "",
           "sources": [
-            { "server_name": "Server 1", "url": "https://d3bq19vx8xhpwy.cloudfront.net/live/myStream/playlist.m3u8" },
-            { "server_name": "Server 2", "url": "" }
+            { "server_name": "Server 1", "url": "https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001790281481-0-0-a8faf85089ecb818d75538a050cbdc5d" },
+           { "server_name": "Server 1", "url": "https://live2.domaincdn.cc/livecdn/channel-15.m3u8?auth_key=3000001790281544-0-0-30898442a5730415e94bf461430feb63" },
+            
+            { "server_name": "Server 2", "url": "https://live2.zundrixmediapipeline.com/live/channel5.m3u8" }
           ]
         },
+{
+          "title": "NAFI CRICKET 🏏",
+          "poster": "https://i.supaimg.com/83afe636-c743-4025-87ea-6f9f3f10d71f/70b1375b-c791-4474-891c-9da5f657a440.png",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8" },
+            { "server_name": "Server 2", "url": "https://digitalotthub.com/tv/dd/live.php/598.m3u8" }
+          ]
+        }
+      ]
+    }
+  ]
+}
