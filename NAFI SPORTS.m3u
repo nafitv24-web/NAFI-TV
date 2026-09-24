@@ -13,15 +13,15 @@
           "sources": [
             {
               "server_name": "Server 1",
-              "url": "https://live2.zundrixmediapipeline.com/live/channel5.m3u8"
+              "url": "https://live1.quickscoreboardz.com/live/channel5/playlist.m3u8?wsSecret=1fc5759dcb999417ff83422f1c262e40&wsABSTime=1790328263"
             },
             {
               "server_name": "Server 2",
-              "url": "https://live1.quickscoreboardz.com/live/channel3/playlist.m3u8?wsSecret=825a72951200a684ac604a79c2bb31dd&wsABSTime=1790326565"
+              "url": "https://live1.quickscoreboardz.com/live/channel6/playlist.m3u8?wsSecret=08a37144107c414146717c08f8c3f6db&wsABSTime=1790328284"
             },
             {
               "server_name": "Server 3",
-              "url": "https://live2.zundrixmediapipeline.com/live/channel5.m3u8"
+              "url": "https://live2.zundrixmediapipeline.com/live/channel4.m3u8"
             }
           ]
         },
