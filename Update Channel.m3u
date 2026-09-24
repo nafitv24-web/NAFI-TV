@@ -1111,7 +1111,7 @@
           "description": "",
           "sources": [
             { "server_name": "Server 1", "url": "http://livetv.akr4m.com:8080/bdtv/restrem/47.m3u8" },
-            { "server_name": "Server 2", "url": "" }
+            { "server_name": "Server 2", "url": "https://robitv.com/rn/http://103.141.70.136:8080//bdtv/restrem/47.m3u8" }
           ]
         },
        {
@@ -1120,7 +1120,7 @@
           "description": "",
           "sources": [
             { "server_name": "Server 1", "url": "http://livetv.akr4m.com:8080/bdtv/restrem/29.m3u8" },
-            { "server_name": "Server 2", "url": "" }
+            { "server_name": "Server 2", "url": "https://robitv.com/rn/http://103.141.70.136:8080//bdtv/restrem/29.m3u8" }
           ]
         },
         {
@@ -1156,7 +1156,9 @@
           "description": "",
           "sources": [
             { "server_name": "Server 1", "url": "http://livetv.akr4m.com:8080/bdtv/restrem/45.m3u8" },
-            { "server_name": "Server 2", "url": "http://66.102.126.10:8000/play/a00f/index.m3u8" }
+            { "server_name": "Server 2", "url": "https://robitv.com/rn/http://103.141.70.136:8080//bdtv/restrem/45.m3u8" },
+            
+{ "server_name": "Server 3", "url": "http://66.102.126.10:8000/play/a00f/index.m3u8" }
           ]
         },
 {
@@ -3026,6 +3028,24 @@
           "sources": [
             { "server_name": "Server 1", "url": "https://live20.bozztv.com/giatvplayout7/giatv-209587/tracks-v1a1/mono.ts.m3u8" },
             { "server_name": "Server 2", "url": "" }
+          ]
+        },
+        {
+          "title": "ATN Music",
+          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzIuiV8nk-qHZdiPBI-t_0lhaD8lHCHP_yOjuL65tUzA&s=10",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8" },
+             { "server_name": "Server 2", "url": "" }
+          ]
+        },
+        {
+          "title": "Channel 16",
+          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0YkuQeu3f_Rl9InM9MXrrtpglP0GLoDtmkc96tcKj5w&s=10",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel16bd.stream/tracks-v1a1/mono.m3u8" },
+             { "server_name": "Server 2", "url": "" }
           ]
         },
         {
