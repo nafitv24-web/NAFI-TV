@@ -14,6 +14,14 @@
 { "server_name": "Server 3", "url": "http://livetv.akr4m.com:8080/bdtv/restrem/38.m3u8" }
           ]
         },
+{ "title": "CBN TV",
+          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZt_-KJ03ru3dZ4aJQAbvYnrqvDz4uu_aoD3oHKzTwag&s=10",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://live.cbntvusa.net/hls/cbntv/index.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
 { "title": "Star Bangla",
           "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT44Z56zKoiEJjAokoaE6XaUIBTdrjejdvmb-RfOxONrA&s=10",
           "description": "",
