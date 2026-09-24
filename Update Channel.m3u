@@ -734,6 +734,29 @@
           ]
         },
         
+        
+        {
+          "title": "NTV TV UK",
+          "poster": "https://static.wikia.nocookie.net/logopedia/images/c/c7/NTV_logo_with_slogan_%28Bangladesh%29.png",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/playlist.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        }
+      ]
+    },
+
+        
+        
+
+
+
+{
+  "categories": [
+    {
+      "category_name": "NF IPTV",
+      "movies": [
         {
           "title": "iON TV",
           "poster": "https://static.wikitide.net/avidwiki/2/22/Ion5.png",
@@ -743,49 +766,21 @@
             { "server_name": "Server 2", "url": "" }
           ]
         },
-        {
-          "title": "Jankhar TV",
-          "poster": "https://www.jagobd.com/wp-content/uploads/2019/05/Jhankartv.jpg",
-          "description": "",
-          "sources": [
-            { "server_name": "Server 1", "url": "https://dbcanada.sonarbanglatv.com/jhankartv/jtv/index.m3u8" },
-            { "server_name": "Server 2", "url": "" }
-          ]
-        },
-        
-        {
-          "title": "NK TV Bangla",
-          "poster": "https://www.nktvbangla.com/wp-content/uploads/2023/09/WhatsApp-Image-2023-09-12-at-2.59.18-PM.jpg",
-          "description": "",
-          "sources": [
-            { "server_name": "Server 1", "url": "https://nktv.smartstream.video/smartstream-us/nkbangla/nkbangla/playlist.m3u8" },
-            { "server_name": "Server 2", "url": "" }
-          ]
-        },
-        {
-          "title": "NRB HD TV",
-          "poster": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeX0fMKpc_lRfrT6qTXG0iK7ltwilygRaZ61fPX_7T7RHkjdwTIaYDHWSMRVFez2eBnGGnAM3logWZ9f7r7uJGEZQQZfjb3hydOkm9Q2FEULaQHhxJkJqUrOA8xCxdnHEYTNhNoUSXONX48zDINAFHI80edoaKzFHO2TQg4N9ojnbp-Ae3eCX_XuQ-ZOE/s1600/NRBLogoDesignwithColorAccents_copy_900x900.png",
-          "description": "",
-          "sources": [
-            { "server_name": "Server 1", "url": "https://app.ncare.live/live-orgin/nrb-eu.stream/playlist.m3u8" },
-            { "server_name": "Server 2", "url": "" }
-          ]
-        },
-        {
-          "title": "NTV TV UK",
-          "poster": "https://static.wikia.nocookie.net/logopedia/images/c/c7/NTV_logo_with_slogan_%28Bangladesh%29.png",
-          "description": "",
-          "sources": [
-            { "server_name": "Server 1", "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/playlist.m3u8" },
-            { "server_name": "Server 2", "url": "" }
-          ]
-        },
-        {
+{
           "title": "Orange Bangla TV",
           "poster": "https://static.wikia.nocookie.net/etv-gspn-bangla/images/e/e5/Orange_Bangla_logo_%282018%29.png",
           "description": "",
           "sources": [
             { "server_name": "Server 1", "url": "https://cdn-4.pishow.tv/live/1499/master.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+{
+          "title": "NRB HD TV",
+          "poster": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeX0fMKpc_lRfrT6qTXG0iK7ltwilygRaZ61fPX_7T7RHkjdwTIaYDHWSMRVFez2eBnGGnAM3logWZ9f7r7uJGEZQQZfjb3hydOkm9Q2FEULaQHhxJkJqUrOA8xCxdnHEYTNhNoUSXONX48zDINAFHI80edoaKzFHO2TQg4N9ojnbp-Ae3eCX_XuQ-ZOE/s1600/NRBLogoDesignwithColorAccents_copy_900x900.png",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://app.ncare.live/live-orgin/nrb-eu.stream/playlist.m3u8" },
             { "server_name": "Server 2", "url": "" }
           ]
         },
@@ -816,7 +811,26 @@
             { "server_name": "Server 2", "url": "" }
           ]
         },
+{
+          "title": "Jankhar TV",
+          "poster": "https://www.jagobd.com/wp-content/uploads/2019/05/Jhankartv.jpg",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://dbcanada.sonarbanglatv.com/jhankartv/jtv/index.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+        
         {
+          "title": "NK TV Bangla",
+          "poster": "https://www.nktvbangla.com/wp-content/uploads/2023/09/WhatsApp-Image-2023-09-12-at-2.59.18-PM.jpg",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://nktv.smartstream.video/smartstream-us/nkbangla/nkbangla/playlist.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+{
           "title": "US-BD Journal 24 TV",
           "poster": "https://usbdjournal24.com/wp-content/uploads/2026/07/150-Photoroom-e1783372793281.png",
           "description": "",
@@ -827,6 +841,10 @@
         }
       ]
     },
+
+
+
+
     {
       "category_name": "Entertainment",
       "movies": [
