@@ -27,9 +27,92 @@
           ]
         },
 
-
-
+{
+          "title": "Somoy Tv",
+          "poster": "https://i.ibb.co.com/JDkcwPP/Picsart-24-10-22-13-58-43-282.webp",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://tvsen6.aynaott.com/4XcqdovJzbbC9WdJA9gk/tracks-v1a1/mono.ts.m3u8" },
+           { "server_name": "Server 2", "url": "http://103.165.93.31:8095/somoyTv/tracks-v1a1/mono.m3u8" },
+           { "server_name": "Server 3", "url": "https://ag.hridoytvx.workers.dev/live/C7GHN1grBfYsGCIH4viUrBgbvZeBomndFvk-_g3OEHZ0fy9o3c5Vx8V4G0hLCGz684rliO7BJQVX7s4ttuCHNtgMgm49_SJKF7WlW4Tmz03ODr13NNRAXS7AFxJqGk-rdZ0Fl-CWTYKweSZNhjGHTVCK0nrFKvhbHSGvxXYEJ91mnhU5v_oUvMjGrcYKdyEkSd6KlQG9HNcptIMbfSDdIk9aP6XowtsHJ40E-cqEdh1nj0tvxTtiJANFCesMwmZtb8dLSE-0pmAc2HiBelO-0FBK_pjQIxARUB3fAf6trHnqDGXYkJtKh4xreVgJfTo1jAy2DEud5AaW1-J43LCkPBrQSDjsKoqOBr1yOrLCmJET0Evbxmdyt7Ml3ooxbQ_rH9NUK-NYpsgU2oCamFgRkNoxuzALAbLyS_ZhG-YMvqUmFiIsYiehdkznm_oPnpWV4rE1BsJdYhp20-fSLIEgIYfBpWJIA2LYfzGP45Yol7VtKD4I5FmTFn5abMkGhf1ai7RNa6UR7X8UixY.m3u8" }
+          ]
+        },
+{
+          "title": "Channel 24",
+          "poster": "https://i.postimg.cc/0ys4hMyd/20240822-230446.png",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+        {
+          "title": "Ekattor",
+          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIjE7f0aJxSS-mAtRUplbznzz2N6ECwgMpxvsyCe-9ig&s=10",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://tvsen6.aynaott.com/EWDrV5QskgarZEUBb3pU/index.m3u8" },
+            { "server_name": "Server 2", "url": "https://playztv-apps.pages.dev/ekattor-tv/index.m3u8" }
+          ]
+        },
+        {
+          "title": "DBC News",
+          "poster": "https://i.ibb.co.com/n88NXrTz/Picsart-24-10-18-14-57-35-170.webp",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://tvsen6.aynaott.com/pF66Tkz0qFwP2aMMqHyt/index.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+        {
+          "title": "Independent",
+          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjrkJKAyHpD97FHO01JRPLa5qiL0mzI3HDv4rGqc3GCQ&s=10",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://drk6xq0vhn.gpcdn.net/live/independent_tv_abr/live/independent_tv_720/chunks.m3u8" },
+            { "server_name": "Server 2", "url": "http://premiumtvs.space/live/YqXTywueEV/damp2purchase/423.ts" },
        
+           { "server_name": "Server 3", "url": "http://livetv.akr4m.com:8080/bdtv/restrem/23.m3u8" },
+            { "server_name": "Server 4", "url": "https://ag.hridoytvx.workers.dev/live/RDoVR0fKOZnkvhs8o3b7y-jJRlqBPLP_eRzR_yd7EWf3zPM_9es2LthJ7MIGH5dArFbcuhx8uvJtwzi0Sq6mxIVZ4e_bJi0nKbBJlPoR12YEQIEu5eHYG_2Rq5HDXY230NL1CxWo8MCSuDaKi-qlzy20v6fraGnRYbAd9nKmNpAQKRjdgtOL8TMGgKDJNS3_F7sDD88u4zEGIj48hL6thNe6wQTsyYCx-dED0rI9WeLSUvMj7hij5VyWeoj_yx5IASyrUhJL9eD0jn6fHXlJBOEnfjiVhKubum9RV_yj7jWWwS8VKQH1ia_3EX8iU0Yc_4Qqys-yCSAHAeHAVTT3XkSNVb4kVWaBkoNFQ7_GuXOyMMUT6ZruuCvYM98Z2LCyhfYo6qN8O7VqLxlDBhbxEXRrruN8G5_jyI6mkv62yVqFN-4LFx9WrPSC2LefolxtdxiV_Ces8LDFLTSTy3jQyykmxmaSTGB6zIj-JQA14bZvV0Zb-dY6QS6gVUxQWaFP9Ld5L50ZQhxeMxk.m3u8" }
+          ]
+        },
+        {
+          "title": "Jamuna",
+          "poster": "https://i.ibb.co.com/Q53pd8Y/Picsart-24-10-18-14-34-53-452.webp",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://tvsen6.aynaott.com/KGdZEdA7qQ43dmPkgk1j/index.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+
+       {
+          "title": "Jago News 24",
+          "poster": "https://i.ibb.co.com/wZVCdh11/Picsart-24-10-22-13-05-19-527.webp",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+{
+          "title": "News 24",
+          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpK4mqm72tmdh9tzERY-AqJMXChBzn5r--DhbrrSFTAA&s",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://tvsen6.aynaott.com/cdgr3tw6WoG7JyRnLbi0/index.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+        {
+          "title": "TBN 24",
+          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP7YDixSWJm7L32jMiptC0Kpvw_poK4tfrlsm8zqrixA&s=10",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "http://cdn01.palki.tv/live/TBN24-M/index.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
         
         {
           "title": "Bangla 1",
@@ -123,37 +206,7 @@
           { "server_name": "Server 3", "url": "https://playztv-apps.pages.dev/ananda-tv/index.m3u8" }
           ]
         },
-        {
-          "title": "Somoy Tv",
-          "poster": "https://i.ibb.co.com/JDkcwPP/Picsart-24-10-22-13-58-43-282.webp",
-          "description": "",
-          "sources": [
-            { "server_name": "Server 1", "url": "https://tvsen6.aynaott.com/4XcqdovJzbbC9WdJA9gk/tracks-v1a1/mono.ts.m3u8" },
-           { "server_name": "Server 2", "url": "http://103.165.93.31:8095/somoyTv/tracks-v1a1/mono.m3u8" },
-           { "server_name": "Server 3", "url": "https://ag.hridoytvx.workers.dev/live/C7GHN1grBfYsGCIH4viUrBgbvZeBomndFvk-_g3OEHZ0fy9o3c5Vx8V4G0hLCGz684rliO7BJQVX7s4ttuCHNtgMgm49_SJKF7WlW4Tmz03ODr13NNRAXS7AFxJqGk-rdZ0Fl-CWTYKweSZNhjGHTVCK0nrFKvhbHSGvxXYEJ91mnhU5v_oUvMjGrcYKdyEkSd6KlQG9HNcptIMbfSDdIk9aP6XowtsHJ40E-cqEdh1nj0tvxTtiJANFCesMwmZtb8dLSE-0pmAc2HiBelO-0FBK_pjQIxARUB3fAf6trHnqDGXYkJtKh4xreVgJfTo1jAy2DEud5AaW1-J43LCkPBrQSDjsKoqOBr1yOrLCmJET0Evbxmdyt7Ml3ooxbQ_rH9NUK-NYpsgU2oCamFgRkNoxuzALAbLyS_ZhG-YMvqUmFiIsYiehdkznm_oPnpWV4rE1BsJdYhp20-fSLIEgIYfBpWJIA2LYfzGP45Yol7VtKD4I5FmTFn5abMkGhf1ai7RNa6UR7X8UixY.m3u8" }
-          ]
-        },
-        {
-          "title": "Independent",
-          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjrkJKAyHpD97FHO01JRPLa5qiL0mzI3HDv4rGqc3GCQ&s=10",
-          "description": "",
-          "sources": [
-            { "server_name": "Server 1", "url": "https://drk6xq0vhn.gpcdn.net/live/independent_tv_abr/live/independent_tv_720/chunks.m3u8" },
-            { "server_name": "Server 2", "url": "http://premiumtvs.space/live/YqXTywueEV/damp2purchase/423.ts" },
-       
-           { "server_name": "Server 3", "url": "http://livetv.akr4m.com:8080/bdtv/restrem/23.m3u8" },
-            { "server_name": "Server 4", "url": "https://ag.hridoytvx.workers.dev/live/RDoVR0fKOZnkvhs8o3b7y-jJRlqBPLP_eRzR_yd7EWf3zPM_9es2LthJ7MIGH5dArFbcuhx8uvJtwzi0Sq6mxIVZ4e_bJi0nKbBJlPoR12YEQIEu5eHYG_2Rq5HDXY230NL1CxWo8MCSuDaKi-qlzy20v6fraGnRYbAd9nKmNpAQKRjdgtOL8TMGgKDJNS3_F7sDD88u4zEGIj48hL6thNe6wQTsyYCx-dED0rI9WeLSUvMj7hij5VyWeoj_yx5IASyrUhJL9eD0jn6fHXlJBOEnfjiVhKubum9RV_yj7jWWwS8VKQH1ia_3EX8iU0Yc_4Qqys-yCSAHAeHAVTT3XkSNVb4kVWaBkoNFQ7_GuXOyMMUT6ZruuCvYM98Z2LCyhfYo6qN8O7VqLxlDBhbxEXRrruN8G5_jyI6mkv62yVqFN-4LFx9WrPSC2LefolxtdxiV_Ces8LDFLTSTy3jQyykmxmaSTGB6zIj-JQA14bZvV0Zb-dY6QS6gVUxQWaFP9Ld5L50ZQhxeMxk.m3u8" }
-          ]
-        },
-        {
-          "title": "Jamuna",
-          "poster": "https://i.ibb.co.com/Q53pd8Y/Picsart-24-10-18-14-34-53-452.webp",
-          "description": "",
-          "sources": [
-            { "server_name": "Server 1", "url": "https://tvsen6.aynaott.com/KGdZEdA7qQ43dmPkgk1j/index.m3u8" },
-            { "server_name": "Server 2", "url": "" }
-          ]
-        },
+        
         {
           "title": "Channel 1",
           "poster": "https://i.ibb.co.com/wFyZ7nnD/Picsart-25-11-17-13-42-58-759.webp",
@@ -208,33 +261,7 @@
             { "server_name": "Server 2", "url": "" }
           ]
         },
-        {
-          "title": "Channel 24",
-          "poster": "https://i.postimg.cc/0ys4hMyd/20240822-230446.png",
-          "description": "",
-          "sources": [
-            { "server_name": "Server 1", "url": "" },
-            { "server_name": "Server 2", "url": "" }
-          ]
-        },
-        {
-          "title": "Ekattor",
-          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIjE7f0aJxSS-mAtRUplbznzz2N6ECwgMpxvsyCe-9ig&s=10",
-          "description": "",
-          "sources": [
-            { "server_name": "Server 1", "url": "https://tvsen6.aynaott.com/EWDrV5QskgarZEUBb3pU/index.m3u8" },
-            { "server_name": "Server 2", "url": "https://playztv-apps.pages.dev/ekattor-tv/index.m3u8" }
-          ]
-        },
-        {
-          "title": "DBC News",
-          "poster": "https://i.ibb.co.com/n88NXrTz/Picsart-24-10-18-14-57-35-170.webp",
-          "description": "",
-          "sources": [
-            { "server_name": "Server 1", "url": "https://tvsen6.aynaott.com/pF66Tkz0qFwP2aMMqHyt/index.m3u8" },
-            { "server_name": "Server 2", "url": "" }
-          ]
-        },
+        
         {
           "title": "Desh TV",
           "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdtWbQSUZ65Ajb8YPY77g-JJQOGk18MK1qj6Z39PVUmQ&s=10",
@@ -253,15 +280,7 @@
             { "server_name": "Server 2", "url": "" }
           ]
         },
-        {
-          "title": "News 24",
-          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpK4mqm72tmdh9tzERY-AqJMXChBzn5r--DhbrrSFTAA&s",
-          "description": "",
-          "sources": [
-            { "server_name": "Server 1", "url": "https://tvsen6.aynaott.com/cdgr3tw6WoG7JyRnLbi0/index.m3u8" },
-            { "server_name": "Server 2", "url": "" }
-          ]
-        },
+        
         {
           "title": "Deepto",
           "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJsPttAQrRl0mE2Z9bTyIy4684cJTfjITJyrPR_0JCgA&s=10",
@@ -442,24 +461,7 @@
             { "server_name": "Server 2", "url": "" }
           ]
         },
-     {
-          "title": "Jago News 24",
-          "poster": "https://i.ibb.co.com/wZVCdh11/Picsart-24-10-22-13-05-19-527.webp",
-          "description": "",
-          "sources": [
-            { "server_name": "Server 1", "url": "https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8" },
-            { "server_name": "Server 2", "url": "" }
-          ]
-        },
-        {
-          "title": "TBN 24",
-          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP7YDixSWJm7L32jMiptC0Kpvw_poK4tfrlsm8zqrixA&s=10",
-          "description": "",
-          "sources": [
-            { "server_name": "Server 1", "url": "http://cdn01.palki.tv/live/TBN24-M/index.m3u8" },
-            { "server_name": "Server 2", "url": "" }
-          ]
-        },
+     
         {
           "title": "Amar Bangla",
           "poster": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUeFLEldQakv_lXMHuwGSISSQbLWebNFciMBsxHQlSG7gkETGmf-tvJP3cGLsxfOIHBMFF8j1N3u8fKpgQx_t0yXBieelUvNHdE4VPoyPkDtnV2-TRJQBPDNnuAELlGNKZFo60jUONWBUx-W3Uq0HkXVqOsal3yVjkOkZ67y25QHVYLxSXIn84L9Sos70q/s2048/Picsart_24-10-22_19-33-49-063.png",
