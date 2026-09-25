@@ -211,8 +211,10 @@
           "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR95co-7n55t4sxRVFwqk1RMboYrnHKFFthJS_RPra0RA&s",
           "description": "",
           "sources": [
-            { "server_name": "Server 1", "url": "https://tvsen5.aynaott.com/tgUzpPc9r6xw/index.m3u8" },
-            { "server_name": "Server 2", "url": "https://tvsen5.aynaott.com/banglavision/index.m3u8" }
+            { "server_name": "Server 1", "url": "https://robitv.com/rn/http://103.141.70.136:8080//bdtv/restrem/7.m3u8" },
+           { "server_name": "Server 2", "url": "https://tvsen5.aynaott.com/tgUzpPc9r6xw/index.m3u8" },
+           
+            { "server_name": "Server 3", "url": "https://tvsen5.aynaott.com/banglavision/index.m3u8" }
           ]
         },
         {
