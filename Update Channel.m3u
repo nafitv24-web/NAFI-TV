@@ -61,8 +61,8 @@
           "poster": "https://i.postimg.cc/0ys4hMyd/20240822-230446.png",
           "description": "",
           "sources": [
-            { "server_name": "Server 1", "url": "" },
-            { "server_name": "Server 2", "url": "" }
+            { "server_name": "Server 1", "url": "https://tvsen6.aynaott.com/YrVDF8gujkdh/tracks-v1a1/mono.ts.m3u8" },
+            { "server_name": "Server 2", "url": "https://robitv.com/rn/http://103.141.70.136:8080//bdtv/restrem/14.m3u8" }
           ]
         },
         {
