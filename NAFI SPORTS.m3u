@@ -13,7 +13,7 @@
           "sources": [
          {
               "server_name": "BD Vs MA",
-              "url": "https://robitv.com/rn/http://103.141.70.136:8080//bdtv/restrem/2.m3u8"
+              "url": "http://103.151.60.162:2122/play/a030/index.m3u8?hls"
             },
           {
               "server_name": "BD Vs MA",
