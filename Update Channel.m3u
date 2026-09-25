@@ -31,7 +31,7 @@
           "description": "",
           "sources": [
             { "server_name": "Server 1", "url": "https://tvsen6.aynaott.com/TjGR1GcxKetHNVcMVxbq/index.m3u8" },
-            { "server_name": "Server 2", "url": "" }
+            { "server_name": "Server 2", "url": "https://robitv.com/rn/http://103.141.70.136:8080//bdtv/restrem/11.m3u8" }
           ]
         },
 
@@ -40,8 +40,8 @@
           "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGFVQX3hXUtTTgwmRcWrehYFkfjeSiyHSSn1OCbWR6Yg&s",
           "description": "",
           "sources": [
-            { "server_name": "Server 1", "url": "https://btv.hridoytv-channel.workers.dev/news.m3u8" },
-            { "server_name": "Server 2", "url": "" }
+            { "server_name": "Server 1", "url": "https://robitv.com/rn/http://103.141.70.136:8080//bdtv/restrem/13.m3u8" },
+            { "server_name": "Server 2", "url": "https://btv.hridoytv-channel.workers.dev/news.m3u8" }
           ]
         },
 
