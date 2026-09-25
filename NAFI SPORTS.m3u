@@ -17,6 +17,10 @@
             },
             {
               "server_name": "BD Vs MA",
+              "url": "https://robitv.com/rn/http://103.141.70.136:8080//bdtv/restrem/2.m3u8"
+            },
+            {
+              "server_name": "BD Vs MA",
               "url": "https://live05.miekgo.app/live/82054853_tsc.m3u8"
             },
 
