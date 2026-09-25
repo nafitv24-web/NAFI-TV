@@ -1568,7 +1568,20 @@
       "movies": [
        
 
-{
+
+
+    {
+          "title": "ATN Sports",
+          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbZv4CTnyWXXBY-dORvl0q5h4v7S44QGCjEvQ-xg1yuw&s=10",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://d3bq19vx8xhpwy.cloudfront.net/live/myStream/playlist.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+
+
+       {
           "title": "T Sports",
           "poster": "https://i.ibb.co.com/jN8bp6j/Picsart-24-10-18-13-01-51-903.webp",
           "description": "",
@@ -1582,21 +1595,8 @@
           ]
         },
 
-{
-          "title": "ATN Sports",
-          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbZv4CTnyWXXBY-dORvl0q5h4v7S44QGCjEvQ-xg1yuw&s=10",
-          "description": "",
-          "sources": [
-            { "server_name": "Server 1", "url": "https://d3bq19vx8xhpwy.cloudfront.net/live/myStream/playlist.m3u8" },
-            { "server_name": "Server 2", "url": "" }
-          ]
-        },
-
-
-
-
         
-        },
+      
         {
           "title": "PTV",
           "poster": "https://i.ibb.co.com/C3Mx2RpT/Picsart-24-10-27-12-59-56-030.webp",
