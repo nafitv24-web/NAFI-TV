@@ -1120,7 +1120,7 @@
             { "server_name": "Server 1", "url": "http://livetv.akr4m.com:8080/bdtv/restrem/51.m3u8" },
            { "server_name": "Server 2", "url": "http://202.70.146.135:8000/play/a05z/index.m3u8" },
            
-            { "server_name": "Server 3", "https://stream.ottplus.bd/live/discovery_sd_abr/index.m3u8": "" }
+            { "server_name": "Server 3", "url": "https://stream.ottplus.bd/live/discovery_sd_abr/index.m3u8": "" }
           ]
         },
 {
@@ -1583,7 +1583,7 @@
             { "server_name": "Server 2", "url": "https://robitv.com/rn/http://103.141.70.136:8080//bdtv/restrem/2.m3u8" },
             { "server_name": "Server 3", "url": "https://playztv-apps.pages.dev/ptv-sports/index.m3u8" },
            { "server_name": "Server 4", "url": "https://mycoffeetime.net/play/tSDRdsaoGGQ2qYgRPDEe9q-qMIzoahbJArH3W3vOiEaB97nXMpWmLb0Ts759Tjsp/m3u8" },
-            { "server_name": "Server 5", "https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8" }
+          { "server_name": "Server 5", "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8" }
           ]
         },
         {
@@ -1621,8 +1621,7 @@
       "url": "https://robitv.com/lps/https://ml-pull-dvc-myco.io:2096/TENSPORTS_HD/mono.m3u8" },
 
 {
-      "server_name": "Server 3",
-      "url": "https://stream.ottplus.bd/live/ten_cricket_hd_abr/live/ten_cricket_hd_720/chunks.m3u8" },
+      "server_name": "Server 3","url": "https://stream.ottplus.bd/live/ten_cricket_hd_abr/live/ten_cricket_hd_720/chunks.m3u8" },
    
       { "server_name": "Server 4","https://tv.nurmd2006-official.workers.dev/live/ten_cricket_hd_abr/index.m3u8" }
   ]
