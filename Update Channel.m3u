@@ -603,6 +603,14 @@
             { "server_name": "Server 2", "url": "" }
           ]
         },
+{ "title": "CBN TV",
+          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZt_-KJ03ru3dZ4aJQAbvYnrqvDz4uu_aoD3oHKzTwag&s=10",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://live.cbntvusa.net/hls/cbntv/index.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
 {
           "title": "BHI Channel",
           "poster": "https://play-lh.googleusercontent.com/PcAXvs0OZyme6dsppfqDZ9yHDsU-hkMBzWBxvpXekx8-bT_XWoW0qCB4QfktUZXwBQqQ5NqddeYHD_jJBQb0Yg=w240-h480",
@@ -655,14 +663,7 @@
             { "server_name": "Server 2", "url": "http://103.151.60.188:12345/hls/tab_po79ctf/index.m3u8?t=1788691286428" }
           ]
         },
-{ "title": "CBN TV",
-          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZt_-KJ03ru3dZ4aJQAbvYnrqvDz4uu_aoD3oHKzTwag&s=10",
-          "description": "",
-          "sources": [
-            { "server_name": "Server 1", "url": "https://live.cbntvusa.net/hls/cbntv/index.m3u8" },
-            { "server_name": "Server 2", "url": "" }
-          ]
-        },
+
 { "title": "Bloy filx",
           "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTgpBnnlF5T9P2mbnXexU--KGw0x5nVHdXHFlAnY0iRw&s",
           "description": "",
