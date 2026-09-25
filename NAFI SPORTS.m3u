@@ -11,14 +11,15 @@
           "time": "04:30 PM",
           "date": "2026-09-25",
           "sources": [
+         {
+              "server_name": "BD Vs MA",
+              "url": "https://robitv.com/rn/http://103.141.70.136:8080//bdtv/restrem/2.m3u8"
+            },
           {
               "server_name": "BD Vs MA",
               "url": "https://tvsen7.aynascope.net/zY3hJ7pQ2vM5gD8s/tracks-v1/mono.ts.m3u8"
             },
-            {
-              "server_name": "BD Vs MA",
-              "url": "https://robitv.com/rn/http://103.141.70.136:8080//bdtv/restrem/2.m3u8"
-            },
+            
             {
               "server_name": "BD Vs MA",
               "url": "https://live05.miekgo.app/live/82054853_tsc.m3u8"
