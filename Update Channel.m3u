@@ -1566,7 +1566,23 @@
     {
       "category_name": "Sports",
       "movies": [
-        {
+       
+
+{
+          "title": "T Sports",
+          "poster": "https://i.ibb.co.com/jN8bp6j/Picsart-24-10-18-13-01-51-903.webp",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "http://103.151.60.162:2122/play/a030/index.m3u8?hls" },
+           { "server_name": "Server 2", "url": "https://robitv.com/rn/http://103.141.70.136:8080//bdtv/restrem/2.m3u8" },
+           { "server_name": "Server 3", "url": "https://playztv-apps.pages.dev/ptv-sports/index.m3u8" },
+           { "server_name": "Server 4", "url": "https://d3bq19vx8xhpwy.cloudfront.net/live/myStream/playlist.m3u8" },
+          { "server_name": "Server 5", "url": "https://d3bq19vx8xhpwy.cloudfront.net/live/myStream/playlist.m3u8" },
+           { "server_name": "Server 6", "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8" }
+          ]
+        },
+
+{
           "title": "ATN Sports",
           "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbZv4CTnyWXXBY-dORvl0q5h4v7S44QGCjEvQ-xg1yuw&s=10",
           "description": "",
@@ -1575,17 +1591,11 @@
             { "server_name": "Server 2", "url": "" }
           ]
         },
-        {
-          "title": "T Sports",
-          "poster": "https://i.ibb.co.com/jN8bp6j/Picsart-24-10-18-13-01-51-903.webp",
-          "description": "",
-          "sources": [
-            { "server_name": "Server 1", "url": "http://103.151.60.162:2122/play/a030/index.m3u8?hls" },
-            { "server_name": "Server 2", "url": "https://robitv.com/rn/http://103.141.70.136:8080//bdtv/restrem/2.m3u8" },
-            { "server_name": "Server 3", "url": "https://playztv-apps.pages.dev/ptv-sports/index.m3u8" },
-           { "server_name": "Server 4", "url": "https://mycoffeetime.net/play/tSDRdsaoGGQ2qYgRPDEe9q-qMIzoahbJArH3W3vOiEaB97nXMpWmLb0Ts759Tjsp/m3u8" },
-          { "server_name": "Server 5", "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8" }
-          ]
+
+
+
+
+        
         },
         {
           "title": "PTV",
