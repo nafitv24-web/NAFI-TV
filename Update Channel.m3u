@@ -2637,8 +2637,9 @@
           "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbH1UMQHWygd35VnRYFk2fAi2NLsX7wr7owdA37bEnOw&s=10",
           "description": "",
           "sources": [
-            { "server_name": "Server 1", "url": "http://live.balajibroadband.com:3500/live/1341.m3u8" },
-            { "server_name": "Server 2", "url": "http://livetv.akr4m.com:8080/bdtv/restrem/53.m3u8" }
+            { "server_name": "Server 1", "url": "http://198.195.239.50:8095/nick/index.m3u8" },
+             { "server_name": "Server 2", "url": "http://livetv.akr4m.com:8080/bdtv/restrem/53.m3u8" },
+            { "server_name": "Server 3", "url": "http://live.balajibroadband.com:3500/live/1341.m3u8" }
           ]
         },
        {
@@ -2646,8 +2647,8 @@
           "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ0tqPBqxSn6GezRCxRme3pOKZC3MNK0ca8zAFj3RVfg&s=10",
           "description": "",
           "sources": [
-            { "server_name": "Server 1", "url": "http://live.balajibroadband.com:3500/live/1345.m3u8" },
-            { "server_name": "Server 2", "url": "" }
+            { "server_name": "Bangla 1", "url": "http://198.195.239.50:8095/sonic/index.m3u8" },
+            { "server_name": "Hindi 2", "url": "http://live.balajibroadband.com:3500/live/1345.m3u8" }
           ]
         },
 {
