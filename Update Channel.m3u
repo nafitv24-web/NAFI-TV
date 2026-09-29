@@ -588,7 +588,31 @@
       "category_name": "NF IPTV",
       "movies": [
 
-{
+{ "title": "Jolsha Bangla",
+          "poster": "https://i.supaimg.com/83afe636-c743-4025-87ea-6f9f3f10d71f/f0499487-db0c-431b-b345-cef9d8be7716.png",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "http://103.151.60.162:2122/play/a02x/index.m3u8?hls" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+{ "title": "Star Bangla",
+          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT44Z56zKoiEJjAokoaE6XaUIBTdrjejdvmb-RfOxONrA&s=10",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "http://103.151.60.162:2122/play/a0f5/index.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+{ "title": "Ja Tv",
+          "poster": "https://i.postimg.cc/dQyBRGZR/eptv-large-1784915389231-9f42f1b48d424c8c.webp",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://dish.porosh.com.bd/hls/jtvnews.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+     {
           "title": "Matribhumi Tv",
           "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVS_0Rz5iseyELSeGttGbxixrfh288RZP1LQK_ZJLQvg&s=10",
           "description": "",
@@ -739,14 +763,7 @@
           ]
         },
 
-{ "title": "Star Bangla",
-          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT44Z56zKoiEJjAokoaE6XaUIBTdrjejdvmb-RfOxONrA&s=10",
-          "description": "",
-          "sources": [
-            { "server_name": "Server 1", "url": "http://103.151.60.162:2122/play/a0f5/index.m3u8" },
-            { "server_name": "Server 2", "url": "" }
-          ]
-        },
+
 { "title": "Rana Cable Music",
           "poster": "https://bhoomtv.org/wp-content/uploads/2026/04/ChatGPT-Image-Apr-21-2026-09_09_07-AM-1-200x300.png",
           "description": "",
@@ -791,14 +808,7 @@
           ]
         },
         
-{ "title": "Jolsha Bangla",
-          "poster": "https://i.supaimg.com/83afe636-c743-4025-87ea-6f9f3f10d71f/f0499487-db0c-431b-b345-cef9d8be7716.png",
-          "description": "",
-          "sources": [
-            { "server_name": "Server 1", "url": "http://103.151.60.162:2122/play/a02x/index.m3u8?hls" },
-            { "server_name": "Server 2", "url": "" }
-          ]
-        },
+
 { "title": "Bangla Cinema",
           "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiJNsDnJuFu6w8U9EoW43lik9ylpEOw6FDKklZTgOJYydtGnt9oG5aPQpa&s=10",
           "description": "",
