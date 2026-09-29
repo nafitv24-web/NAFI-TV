@@ -605,10 +605,18 @@
           ]
         },
 { "title": "Ja Tv",
-          "poster": "https://i.postimg.cc/dQyBRGZR/eptv-large-1784915389231-9f42f1b48d424c8c.webp",
+          "poster": "https://i.postimg.cc/NGkpvww2/jatv.png",
           "description": "",
           "sources": [
             { "server_name": "Server 1", "url": "https://dish.porosh.com.bd/hls/jtvnews.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+{ "title": "Bangla Cinema",
+          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiJNsDnJuFu6w8U9EoW43lik9ylpEOw6FDKklZTgOJYydtGnt9oG5aPQpa&s=10",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "http://103.151.60.162:2122/play/a02m/index.m3u8?hls" },
             { "server_name": "Server 2", "url": "" }
           ]
         },
@@ -809,14 +817,7 @@
         },
         
 
-{ "title": "Bangla Cinema",
-          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiJNsDnJuFu6w8U9EoW43lik9ylpEOw6FDKklZTgOJYydtGnt9oG5aPQpa&s=10",
-          "description": "",
-          "sources": [
-            { "server_name": "Server 1", "url": "http://103.151.60.162:2122/play/a02m/index.m3u8?hls" },
-            { "server_name": "Server 2", "url": "" }
-          ]
-        },
+
 
 { "title": "D24 Digital",
           "poster": "https://bhoomtv.org/wp-content/uploads/2026/02/ChatGPT-Image-May-24-2026-10_47_42-AM-1-200x300.png",
