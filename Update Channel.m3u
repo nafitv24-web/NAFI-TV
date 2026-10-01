@@ -1180,8 +1180,8 @@
           "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8b2084eDCqL4ALdFimwE5MSO81HUYv36FVr6ejTbmPw&s=10",
           "description": "",
           "sources": [
-            { "server_name": "Server 1", "url": "https://drk6xq0vhn.gpcdn.net/live/sony_max_sd_abr/index.m3u8" },
-            { "server_name": "Server 2", "url": "" }
+            { "server_name": "Server 1", "url": "http://1598364.3259760803.favermeto.com/live/4dfoydR2gZ/clever3still/98857.ts?token=ShJcU0BbQQNHWgIABwcDDw5TUQgCVFdVA1oHDlIGBQFXAAILBAoAWwEbGBpEF0dcWF1vWQIXXlgJWlcASUZGQVRCa1tXEVkbVAwNAARVARsVEkRZC1BGWwBVWwddVQYCBAMYEENaBxtfGwUBAVMCDA4SHBIDTRAEQwwDWzoAVkRYU1EQCV0WVQkVFldZPFFcVFFeVEQPRlETTkBeFhQRCBNjX0tFWgZORXZaVF4NUBsVElJZEkcFFVRAWBVWUwYCExwWUVxGDU0XQBYCFSFxGxUSVUgSUAoSWA0MFV9GR0ETHBZbQGwRXBZNRl1WDlBLGwoSAEQZRgxQGj1UCgpdV1JEXV1dQEEDRwgWFBUOWldQRF9COUUNBRNYQAZRUgEGExwWR0ZaBxtfGwJaD1oMXFwJA1EHBFwEAQBWBwcHUAQIUwFTAAQAAVwMFkU=" },
+            { "server_name": "Server 2", "url": "https://drk6xq0vhn.gpcdn.net/live/sony_max_sd_abr/index.m3u8" }
           ]
         },
         {
