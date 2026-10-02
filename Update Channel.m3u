@@ -674,6 +674,33 @@
             { "server_name": "Server 2", "url": "" }
           ]
         },
+{
+          "title": "Upohar Bangla",
+          "poster": "https://bhoomtv.org/wp-content/uploads/2026/05/ChatGPT-Image-May-23-2026-07_35_26-AM-1-200x300.png",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://ranacable.duckdns.org/UpoharBangla/video.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+{
+          "title": "Alo Tv Bangla",
+          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNtVUOcWr4uRgKtQMA_64GWHUfRtLcP0zy4zsjCd4Okg&s=10",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://ranacable.duckdns.org/AloTv/video.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+{
+          "title": "U Bangla TV",
+          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7j-wcHek_1xMzULxJp91qwA1gOkHyHJXQg2rG-lg85g&s=10",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://stream.ottlive.co.in/ubangla/index.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
 { "title": "NAFI MOVIE BANGLA",
           "poster": "https://i.supaimg.com/83afe636-c743-4025-87ea-6f9f3f10d71f/a646d340-ac3c-4c4d-8de6-30946abe620d.png",
           "description": "",
