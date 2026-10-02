@@ -2660,15 +2660,7 @@
             { "server_name": "Server 2", "url": "" }
           ]
         },
-{
-          "title": "Tom & Jerry",
-          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQDS-WiJhqa-Es28qh3bRreNyXQ8-nVt9qN7OXXVQPgg&s=10",
-          "description": "",
-          "sources": [
-            { "server_name": "Server 1", "url": "https://live20.bozztv.com/giatvplayout7/giatv-208314/tracks-v1a1/mono.ts.m3u8" },
-            { "server_name": "Server 2", "url": "" }
-          ]
-        },
+
 
     {
           "title": "Nick Bangla",
@@ -2701,12 +2693,23 @@
           ]
         },
 {
+          "title": "DISNEY NFT",
+          "poster": "https://www.giantfreakinrobot.com/wp-content/uploads/2023/07/disney-channel.jpg",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "http://my-king.net:7070/live/160145116653133/aO1ltsOFDzkWxPN/154864.ts" },
+            { "server_name": "Server 2", "url": "http://my-king.net:7070/live/160145116653133/aO1ltsOFDzkWxPN/154863.ts" },
+            { "server_name": "Server 3", "url": "http://my-king.net:7070/live/160145116653133/aO1ltsOFDzkWxPN/154862.ts" },
+            { "server_name": "Server 4", "url": "http://my-king.net:7070/live/160145116653133/aO1ltsOFDzkWxPN/154860.ts" }
+          ]
+        },
+{
           "title": "Disnep HD",
           "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReRgtOeVV9Os5Mrxp62lw1QI1dH2oSUvnq6nApNVJ9rA&s=10",
           "description": "",
           "sources": [
-            { "server_name": "Server 1", "url": "http://88.212.15.19/live/disney_channel_hun/index.m3u8" },
-            { "server_name": "Server 2", "url": "" }
+            { "server_name": "Server 1", "url": "http://185.227.34.179:8080/disney-channel-hd/index.m3u8" },
+            { "server_name": "Server 2", "url": "http://88.212.15.19/live/disney_channel_hun/index.m3u8" }
           ]
         },
 {
@@ -2747,6 +2750,15 @@
             { "server_name": "Server 2", "url": "" }
           ]
         },
+{
+          "title": "Tom & Jerry",
+          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQDS-WiJhqa-Es28qh3bRreNyXQ8-nVt9qN7OXXVQPgg&s=10",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://live20.bozztv.com/giatvplayout7/giatv-208314/tracks-v1a1/mono.ts.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
     {
           "title": "ZB Cartoon",
           "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs88M6qJD7iadSxjKUwQui7iaow9vfFYczeSTP4TRXdA&s",
@@ -2765,6 +2777,7 @@
             { "server_name": "Server 2", "url": "" }
           ]
         },
+
         {
           "title": "POGU TV",
           "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQapMwfZW9uOWW6BjIt_MxVmCNd0r8sfEaHA9D_LrL68w&s=10",
