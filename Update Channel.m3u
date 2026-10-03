@@ -2873,8 +2873,8 @@
           "poster": "https://static.wikia.nocookie.net/logopedia/images/f/f0/DISNEYCHANNEL-2025.svg",
           "description": "",
           "sources": [
-            { "server_name": "Server 1", "url": "http://15.204.246.24:8080/DisneyHD/index.m3u8" },
-            { "server_name": "Server 2", "url": "" }
+            { "server_name": "Server 1", "url": "http://my-king.net:7070/live/160145116653133/aO1ltsOFDzkWxPN/154858.ts" },
+            { "server_name": "Server 2", "url": "http://15.204.246.24:8080/DisneyHD/index.m3u8" }
           ]
         },
         {
