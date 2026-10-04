@@ -1171,6 +1171,15 @@
           ]
         },
 {
+          "title": "Discovery Science",
+          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8rWlVE-vr93GP2Y0_oJQQHxd5tszyAGkQtNxL_I-O9w&s=10",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "http://103.151.60.162:2122/play/a01j/index.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+{
           "title": "National Geographic",
           "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGxIIukW9eT9TeQOKF16V_bx6pmW9Y63oo8yBGMYEgjw&s=10",
           "description": "",
