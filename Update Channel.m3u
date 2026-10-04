@@ -54,8 +54,9 @@
           "description": "",
           "sources": [
             { "server_name": "Server 1", "url": "https://tvsen5.aynascope.net/somoytv/mono.m3u8" },
-           { "server_name": "Server 2", "url": "http://1598364.3259760751.musical69.space/live/4dfoydR2gZ/clever3still/422.ts?token=ShJcU0BbQQNHDgcOAlsACQ0BB1JfBQZUBgcAUwBTUgEIAlYBUgBVWwEbGBpEF0dcWF1vWQIXXlUDUE4VEBdWQG5ZUBAJEVIMXAEHDgNBGRtNWV1VRA9VVghSWgZRUQcEHRJEW1cRWRtRCAwPDlUHGxUSVUgSUBYPUA49UwASWlFUEg5cRl8PFUdWWmdTBlhYV1QSCkQFRk0TCxFHR14RYVpJQltWREN2C1VdVlJBGRtbWURCB0EBQwtAVg9RXREeE1NbR11HEUBHAxZ6c0EZG1xIRFUIRg0OX0BYFREXER4TWUdtQVYQTRdcVVVSERcDGwASHERYBRluAQ1ZCwFQRlhfWkERCUEIRxUWVVgNXE1WQm9AD1FGWxNaWwBURh8QREVdVhEJQQgDAA0OUgYDCVtUB1NTUVxTBlJRVVxWBFEIBQJWAwRXGxg=" },
-           { "server_name": "Server 3", "url": "http://103.165.93.31:8095/somoyTv/tracks-v1a1/mono.m3u8" }
+            { "server_name": "Server 2", "url": "https://bold-sky-a350.tasinazad234.workers.dev/stream/somoytv/playlist.m3u8?expires=1793318933&sig=3Za8XO2VfqBQgP2Ok-UzspkwzjzhyLcvUVn5j9K5plg" },
+           { "server_name": "Server 3", "url": "http://rgkkw.live/live/4dfoydR2gZ/clever3still/422.ts" },
+           { "server_name": "Server 4", "url": "http://103.165.93.31:8095/somoyTv/tracks-v1a1/mono.m3u8" }
           ]
         },
 {
@@ -65,8 +66,8 @@
           "sources": [
             { "server_name": "Server 1", "url": "http://livetv.akr4m.com:8080/bdtv/restrem/14.m3u8" },
            { "server_name": "Server 2", "url": "https://stream.ottplus.live/live/channel_24_abr/index.m3u8" },
-           { "server_name": "Server 2", "url": "https://tvsen6.aynaott.com/YrVDF8gujkdh/tracks-v1a1/mono.ts.m3u8" },
-          { "server_name": "Server 3", "url": "https://robitv.com/rn/http://103.141.70.136:8080//bdtv/restrem/14.m3u8" }
+           { "server_name": "Server 3", "url": "https://tvsen6.aynaott.com/YrVDF8gujkdh/tracks-v1a1/mono.ts.m3u8" },
+          { "server_name": "Server 4", "url": "https://robitv.com/rn/http://103.141.70.136:8080//bdtv/restrem/14.m3u8" }
           ]
         },
         {
