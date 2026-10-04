@@ -1186,8 +1186,8 @@
           "description": "",
           "sources": [
             { "server_name": "Server 1", "url": "http://51.75.127.199:3141/natgeowild/index.m3u8" },
-           
-          { "server_name": "Server 2", "url": "http://202.70.146.135:8000/play/a05j/index.m3u8" }
+           { "server_name": "Server 2", "url": "http://103.151.60.162:2122/play/a01f/index.m3u8" },
+          { "server_name": "Server 3", "url": "http://202.70.146.135:8000/play/a05j/index.m3u8" }
           ]
         },
 {
