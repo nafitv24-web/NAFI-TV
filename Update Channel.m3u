@@ -1171,8 +1171,8 @@
           "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGxIIukW9eT9TeQOKF16V_bx6pmW9Y63oo8yBGMYEgjw&s=10",
           "description": "",
           "sources": [
-            { "server_name": "Server 1", "url": "http://rgkkw.live:8080/live/4dfoydR2gZ/clever3still/98874.ts" },
-            { "server_name": "Server 2", "url": "" }
+            { "server_name": "Server 1", "url": "http://51.75.127.199:3141/natgeo/tracks-v1a1/mono.m3u8" },
+            { "server_name": "Server 2", "url": "http://rgkkw.live:8080/live/4dfoydR2gZ/clever3still/98874.ts" }
           ]
         },
 
@@ -1181,9 +1181,9 @@
           "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAfdMiO7zqoDcnRjkynnZG76eTp4gBy4uZftmm8UK2bw&s=10",
           "description": "",
           "sources": [
-            { "server_name": "Server 1", "url": "http://202.70.146.135:8000/play/a05j/index.m3u8" },
+            { "server_name": "Server 1", "url": "http://51.75.127.199:3141/natgeowild/index.m3u8" },
            
-          { "server_name": "Server 2", "url": "" }
+          { "server_name": "Server 2", "url": "http://202.70.146.135:8000/play/a05j/index.m3u8" }
           ]
         },
 {
