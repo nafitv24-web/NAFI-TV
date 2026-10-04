@@ -54,6 +54,7 @@
           "description": "",
           "sources": [
             { "server_name": "Server 1", "url": "https://tvsen5.aynascope.net/somoytv/mono.m3u8" },
+            { "server_name": "Server 1", "url": "http://198.195.239.50:8095/somoyTv/tracks-v1a1/mono.m3u8" },
             { "server_name": "Server 2", "url": "https://cdn.devm3u.top/server5/somoy.m3u8" },
            { "server_name": "Server 3", "url": "http://rgkkw.live/live/4dfoydR2gZ/clever3still/422.ts" },
            { "server_name": "Server 4", "url": "http://103.165.93.31:8095/somoyTv/tracks-v1a1/mono.m3u8" }
