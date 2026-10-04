@@ -943,13 +943,15 @@
           "poster": "https://i.ibb.co.com/23dGnxBn/Picsart-24-10-18-15-06-46-163.webp",
           "description": "",
           "sources": [
-            { "server_name": "Server 1", "url": "http://livetv.akr4m.com:8080/bdtv/restrem/35.m3u8" },
-            { "server_name": "Server 2", "url": "https://bold-sky-a350.tasinazad234.workers.dev/stream/zeebangla/playlist.m3u8?expires=1791443256&sig=k1ugAbCEunCHvClz_-yJiW8UPtGVhF8GfChf_uqowZE" },
-        { "server_name": "Server 3", "url": "https://drk6xq0vhn.gpcdn.net/live/zee_bangla_720/index.m3u8" },
-      { "server_name": "Server 4", "url": "https://yupptvcatchupire.yuppcdn.net/preview/zeebangla/2500.m3u8" },
+            { "server_name": "Server 1", "url": "https://da86m1sqpm3o0.cloudfront.net/260723/smil:zeebangla.smil/index.m3u8" },
+            { "server_name": "Server 2", "url": "http://livetv.akr4m.com:8080/bdtv/restrem/35.m3u8" },
+            
+            { "server_name": "Server 3", "url": "https://bold-sky-a350.tasinazad234.workers.dev/stream/zeebangla/playlist.m3u8?expires=1791443256&sig=k1ugAbCEunCHvClz_-yJiW8UPtGVhF8GfChf_uqowZE" },
+        { "server_name": "Server 4", "url": "https://drk6xq0vhn.gpcdn.net/live/zee_bangla_720/index.m3u8" },
+      { "server_name": "Server 5", "url": "https://yupptvcatchupire.yuppcdn.net/preview/zeebangla/2500.m3u8" },
           
-           { "server_name": "Server 5", "url": "https://rangdhonu-proxy.tasinazad2009.workers.dev/stream/zeebangla2/playlist.m3u8?expires=1791612078&sig=8wsA2c94MG6uER34XcVdAy4Putks4RXInYk6-erzk2U" },
-            { "server_name": "Server 6", "url": "http://103.165.93.31:8095/zeeBangla/index.m3u8" }
+           { "server_name": "Server 6", "url": "https://rangdhonu-proxy.tasinazad2009.workers.dev/stream/zeebangla2/playlist.m3u8?expires=1791612078&sig=8wsA2c94MG6uER34XcVdAy4Putks4RXInYk6-erzk2U" },
+            { "server_name": "Server 7", "url": "http://103.165.93.31:8095/zeeBangla/index.m3u8" }
             
           ]
         },
