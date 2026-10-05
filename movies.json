@@ -660,6 +660,24 @@
           ]
         },
         {
+          "title": "Hanu-Man - Hanuman Hindi Movie",
+          "language": "Hindi",
+          "year": "2026",
+          "rating": "8.0",
+          "poster": "https://resizing.flixster.com/yl4Z6PxNXzHmqcvrfa0OFUPoJCk=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzNiMGE5M2M0LWQ0ZGItNDgzOS05Nzc5LWVhMTA4MjY0ZmE2YS5qcGc=",
+          "description": "রোমান্টিক ড্রামা মুভি।",
+          "sources": [
+            {
+              "server_name": "Server 1 720p",
+              "url": "https://fast.movielinkbd.app/media/Q5BkvB8g/main?token=1791201600-870b97c4c8310a47c25effdbfd7afcd81882ece6"
+            },
+            {
+              "server_name": "Server 2 1080p",
+              "url": "https://fast.movielinkbd.app/06e4b7ddb47dd1d4478e4e45ee64e5cc?token=1791201600-e704009a2ade468f6b15c7d949cf581cf071a84c"
+            }
+          ]
+        },
+        {
           "title": "Ek Din",
           "language": "Hindi",
           "year": "2026",
