@@ -698,9 +698,27 @@
       ]
     },
     {
-      "category_name": "Hollywood",
+      "category_name": "Hollywood China",
       "movies": [
-      {
+     {
+          "title": "Kung Fu Soccer HD 2026",
+          "language": "English",
+          "year": "2026",
+          "rating": "8.1",
+          "poster": "https://m.media-amazon.com/images/M/MV5BZGMyY2E3YzEtNmY2OC00ZTAyLTg3ZGMtMjU0OWZiMGYyMDQ4XkEyXkFqcGc@._V1_.jpg",
+          "description": " একটি হলিউড অ্যাকশন মুভি।",
+          "sources": [
+            {
+              "server_name": "Server 1 720p",
+              "url": "https://fast.movielinkbd.app/media/odcpG8AZ/main?token=1791201600-eece194890276f3eae1143f4992b02b729dbecff"
+            },
+            {
+              "server_name": "Server 1 1080p",
+              "url": "https://fast.movielinkbd.app/media/gHXY8Heo/main?token=1791201600-bb0e71625a135abe3a8fdc41a12143dc37a655bd"
+            }
+          ]
+        },
+        {
           "title": "fast and furious 2024",
           "language": "English",
           "year": "2024",
