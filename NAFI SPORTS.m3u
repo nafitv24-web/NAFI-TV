@@ -41,14 +41,14 @@
         },
         {
           "title": "NAFI CRICKET 🏏",
-          "poster": "https://i.supaimg.com/83afe636-c743-4025-87ea-6f9f3f10d71f/70b1375b-c791-4474-891c-9da5f657a440.png",
+          "poster": "https://i.supaimg.com/83afe636-c743-4025-87ea-6f9f3f10d71f/fd09dcfc-fdf3-42eb-803e-e12aca91f403.jpg",
           "description": "",
           "time": "07:00 PM",
           "date": "2026-09-25",
           "sources": [
             {
               "server_name": "Server 1",
-              "url": "https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8"
+              "url": "https://saseries.akamaized.net/hls/live/2110097/28593jkiL-tapmad/level_1.m3u8"
             },
             {
               "server_name": "Server 2",
