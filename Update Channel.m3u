@@ -230,8 +230,8 @@
           "poster": "https://i.ibb.co.com/wFyZ7nnD/Picsart-25-11-17-13-42-58-759.webp",
           "description": "",
           "sources": [
-            { "server_name": "Server 1", "url": "https://ag.hridoytvx.workers.dev/live/cpglCJm1jmCXJur48gYftL-nughCSrp3n1EJqtuE04KWCFdq7AqYylOE9JQMlfdqe-RivEeRrh92pv413Ik5U_Wj8e11qojzPkjVmPPh5QlJA8zrIfS82XhACFkk6H8uA6hLuJR3792xeNbaiGxQkvqtGU8tJJIadOyt-JuwOATJk5XbMRCDbLPStDdpyr6mPlaE3aEdXGbIMRsi2TobGdJmbFCEmfemxecq2ENXh1oMz4sQMLegFW-9e2AIgZdg21O8Ya035TsGb2rv6z6_eWQBI7gOB6uTQ43JpElDYR7sHR6lqPskw1j6Oq6oh6YvcG2gGC0TbsqJMkEDynEnIk4bvC5IwF2N3hXWe6Z2D4c0Jmv67pHtFPH8WDFSJTXwmairL8cCusJyULWInStiX4j_tfkFllfLFczoWqJpTeptEDAQMTolGW6atczYb2jrpgt2MuLKiZgEzbBS2XtpQFsGN8Ttyw.m3u8" },
-            { "server_name": "Server 2", "url": "https://stream.ottplus.live/live/channel_1_hd_abr/index.m3u8" }
+            { "server_name": "Server 1", "url": "https://stream.ottplus.live/live/channel_1_hd_abr/index.m3u8" },
+            { "server_name": "Server 2", "url": "" }
           ]
         },
         {
