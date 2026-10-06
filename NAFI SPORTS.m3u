@@ -5,7 +5,7 @@
       "movies": [
         
         {
-          "title": "NAFI FOOTBALL ⚽",
+          "title": "All NAFI FOOTBALL ⚽",
           "poster": "https://i.supaimg.com/83afe636-c743-4025-87ea-6f9f3f10d71f/91012331-e0b1-42fb-87c0-23c1137f9d0d.png",
           "description": "",
           "time": "04:30 PM",
@@ -17,12 +17,12 @@
             },
           {
               "server_name": "BD Vs MA",
-              "url": "https://tvsen7.aynascope.net/zY3hJ7pQ2vM5gD8s/tracks-v1/mono.ts.m3u8"
+              "url": "https://live2.zundrixmediapipeline.com/live/channel14.m3u8"
             },
             
             {
               "server_name": "BD Vs MA",
-              "url": "https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8"
+              "url": "https://live1.quickscoreboardz.com/live/channel21/playlist.m3u8?wsSecret=44a54bb41c144240fb6096bdfc4adb15&wsABSTime=1791314964"
             },
 
             {
@@ -40,7 +40,7 @@
           ]
         },
         {
-          "title": "NAFI CRICKET 🏏",
+          "title": "ALL NAFI CRICKET 🏏",
           "poster": "https://i.supaimg.com/83afe636-c743-4025-87ea-6f9f3f10d71f/fd09dcfc-fdf3-42eb-803e-e12aca91f403.jpg",
           "description": "",
           "time": "07:00 PM",
