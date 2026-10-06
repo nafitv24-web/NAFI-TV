@@ -47,15 +47,19 @@
           "date": "2026-09-25",
           "sources": [
             {
-              "server_name": "Server 1",
+              "server_name": "Sports 1",
               "url": "https://saseries.akamaized.net/hls/live/2110097/28593jkiL-tapmad/level_1.m3u8"
             },
           {
-              "server_name": "Server 2",
+              "server_name": "Sports 2",
+              "url": "https://seriealeague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8"
+            },
+          {
+              "server_name": "Sports 3",
               "url": "https://seriealeague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8"
             },
             {
-              "server_name": "Server 3",
+              "server_name": "Sports 4",
               "url": "https://drk6xq0vhn.gpcdn.net/live/ten_cricket_hd_abr/live/ten_cricket_hd_720/chunks.m3u8"
             }
           ]
