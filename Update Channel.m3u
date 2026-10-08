@@ -661,16 +661,16 @@
           ]
         },
 
+
 {
-          "title": "A TV",
-          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnzW99hGTbgd14OG7RgYSjnNQ42EAyjvc8uUpeFRJVnIk6VC_0LAbALs90&s=10",
+          "title": "Cineজমজমাট TV",
+          "poster": "https://i.supaimg.com/83afe636-c743-4025-87ea-6f9f3f10d71f/0522ed4e-38d5-43ad-9d77-65673a3d6829.jpg",
           "description": "",
           "sources": [
-            { "server_name": "Server 1", "url": "http://live.dataplayer.in:8080/live/amarbangla.m3u8" },
+            { "server_name": "Server 1", "url": "http://live.balajibroadband.com:3500/live/3518.m3u8" },
             { "server_name": "Server 2", "url": "" }
           ]
         },
-
 {
           "title": "R TV Bangla",
           "poster": "https://i.supaimg.com/83afe636-c743-4025-87ea-6f9f3f10d71f/122ad7ce-00d5-4dbd-ac83-9721cc1f5852.jpg",
@@ -708,7 +708,15 @@
             { "server_name": "Server 2", "url": "" }
           ]
         },
-
+{
+          "title": "A TV",
+          "poster": "https://i.supaimg.com/83afe636-c743-4025-87ea-6f9f3f10d71f/9b8c1600-4c7f-42fe-89a1-e5a42259ef39.jpg",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "http://live.dataplayer.in:8080/live/amarbangla.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
 {
           "title": "NRB HD TV",
           "poster": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeX0fMKpc_lRfrT6qTXG0iK7ltwilygRaZ61fPX_7T7RHkjdwTIaYDHWSMRVFez2eBnGGnAM3logWZ9f7r7uJGEZQQZfjb3hydOkm9Q2FEULaQHhxJkJqUrOA8xCxdnHEYTNhNoUSXONX48zDINAFHI80edoaKzFHO2TQg4N9ojnbp-Ae3eCX_XuQ-ZOE/s1600/NRBLogoDesignwithColorAccents_copy_900x900.png",
