@@ -660,7 +660,28 @@
             { "server_name": "Server 2", "url": "" }
           ]
         },
+
 {
+          "title": "A TV",
+          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnzW99hGTbgd14OG7RgYSjnNQ42EAyjvc8uUpeFRJVnIk6VC_0LAbALs90&s=10",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "http://live.dataplayer.in:8080/live/amarbangla.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+
+{
+          "title": "R TV Bangla",
+          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp3aqI5h_Ivud4xAnArBrOcW6QjWS4mKpjjbWR2C3fsA&s=10",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "http://150.129.178.198:8086/0.ts" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+
+     {
           "title": "iON TV",
           "poster": "https://static.wikitide.net/avidwiki/2/22/Ion5.png",
           "description": "",
