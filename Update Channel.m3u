@@ -673,10 +673,28 @@
 
 {
           "title": "R TV Bangla",
-          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp3aqI5h_Ivud4xAnArBrOcW6QjWS4mKpjjbWR2C3fsA&s=10",
+          "poster": "https://i.supaimg.com/83afe636-c743-4025-87ea-6f9f3f10d71f/122ad7ce-00d5-4dbd-ac83-9721cc1f5852.jpg",
           "description": "",
           "sources": [
             { "server_name": "Server 1", "url": "http://150.129.178.198:8086/0.ts" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+{
+          "title": "JTV Colours",
+          "poster": "https://i.supaimg.com/83afe636-c743-4025-87ea-6f9f3f10d71f/1cb7581a-8d28-45e6-ba8e-6316ba996304.jpg",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "http://103.67.97.46/0.ts" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+{
+          "title": "JTV Bangla",
+          "poster": "https://i.supaimg.com/83afe636-c743-4025-87ea-6f9f3f10d71f/1cb7581a-8d28-45e6-ba8e-6316ba996304.jpg",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "http://103.67.97.45:81/0.ts" },
             { "server_name": "Server 2", "url": "" }
           ]
         },
