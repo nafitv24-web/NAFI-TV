@@ -1061,8 +1061,8 @@
           "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjQKSQpmMZQE97R6oz9jaqk6bzrHCzOENMyZq1pZJpyQ&s=10",
           "description": "",
           "sources": [
-            { "server_name": "Server 1", "url": "http://rgkkw.live/live/4dfoydR2gZ/clever3still/3753.ts" },
-           { "server_name": "Server 2", "url": "http://103.151.60.162:2122/play/a01p/index.m3u8?hls" },
+            { "server_name": "Server 1", "url": "http://103.151.60.162:2122/play/a01p/index.m3u8?hls" },
+           { "server_name": "Server 2", "url": "http://rgkkw.live/live/4dfoydR2gZ/clever3still/3753.ts" },
             { "server_name": "Server 3", "url": "https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8" }
           ]
         },
