@@ -12,11 +12,11 @@
           "date": "2026-09-25",
           "sources": [
          {
-              "server_name": "BD Vs MA",
+              "server_name": "T Sports",
               "url": "http://103.151.60.162:2122/play/a030/index.m3u8?hls"
             },
           {
-              "server_name": "BD Vs MA",
+              "server_name": "T Sports 2",
               "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLmjkl/tracks-v1a1/mono.ts.m3u8"
             },
             
