@@ -2905,7 +2905,7 @@
           "description": "",
           "sources": [
             { "server_name": "Server 1", "url": "https://tv8.akashgo.workers.dev/cdn/live/slang/discovery_kids_576/discovery_kids_576.m3u8?bitrate=1024000&channel=discovery_kids_576&gp_id=&hdnea=exp=1789775163~acl=/*~id=88914486545038105870898822679476~hmac=3974bb9f2e9d2cd6e6994477f1ffe8085beb595df47ed5f1d906fe3c1974c383" },
-            { "server_name": "Server 2", "url": "" }
+            { "server_name": "Server 2", "url": "http://1598364.2734260009.growthtry.com/live/4dfoydR2gZ/clever3still/66164.ts?token=ShJcU0BbQQNHCg1eBlJXWFgEB1FeBgYAB1BWVV1dClFUVQJXCwsHXVAbGBpEF0dcWF1vWQIXXlcHU1QDSUZGQVRCa1tXEVkbVAwNAARVARsVEkRZC1BGWwBVWwRVVwULAQQYEENaBxtfGwcABlsECwESHBIDTRAEQwwDWzoAVkRYU1EQCV0WVQkVFldZPFFcVFFeVEQPRlETTkBeFhQRCBNjX0tFWgZORXZaVF4NUBsVElJZEkcFFVRAWBVUVQQCExwWUVxGDU0XQBYCFSFxGxUSVUgSUAoSWA0MFV9GR0ETHBZbQGwRXBZNRl1WDlBLGwoSAEQZRgxQGj1UCgpdV1JEXV1dQEEDRwgWFBUOWldQRF9COUUNBRNYQAZTUwoDAQYWHhFGFlABGw4aUVMGWwEABQJfVFYABVUADgNVVQEFU1UFVgVXWF0LAFoVHg==" }
           ]
         },
 
