@@ -1301,7 +1301,7 @@
           "description": "",
           "sources": [
             { "server_name": "Server 1", "url": "http://1598364.1567738636.growthtry.com/live/4dfoydR2gZ/clever3still/773735.ts?token=ShJcU0BbQQNHDlIPBwUNAFhSVAICVl0AVVUBAFMBVgpVBFFQBwBQWlAbGBpEF0dcWF1vWQIXXlYGUVUEUEgRR0JVRm1aV0EDRwgBAQ9QAw0bHBJED1gBQwtTVQ5WVgoCCQQBHhFDCl1HAxYBB1oACAASHBIDTRAEQwwDWzoAVkRYU1EQCV0WVQkVFldZPFFcVFFeVEQPRlETTkBeFhQRCBNjX0tFWgZORXZaVF4NUBsVElJZEkcFFVRAWBVUUwQKExwWUVxGDU0XQBYCFSFxGxUSVUgSUAoSWA0MFV9GR0ETHBZbQGwRXBZNRl1WDlBLGwoSAEQZRgxQGj1UCgpdV1JEXV1dQEEDRwgWFBUOWldQRF9COUUNBRNYQARSUgcFBRIYEEZGCl1HAxZcUQUMCwlSAAMABAYFVwRaUwRRCgoBBVcDBQYGWlJdVRpK" },
-            { "server_name": "Server 2", "url": "https://robitv.com/rn/http://103.141.70.136:8080//bdtv/restrem/45.m3u8" },
+            { "server_name": "Server 2", "url": "http://line.tivi-one.net/play/live.php?mac=A0:BB:3E:75:52:64&stream=373005&extension=m3u8" },
             
 { "server_name": "Server 3", "url": "http://66.102.126.10:8000/play/a00f/index.m3u8" }
           ]
