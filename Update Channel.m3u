@@ -1036,6 +1036,16 @@
             { "server_name": "Server 3", "url": "https://bold-sky-a350.tasinazad234.workers.dev/stream/colorsbanglaceanama_copy_kore_lav_nai/playlist.m3u8?expires=1791046482&sig=hKDOpvxMcBc5HPBsyYwo0VzmqVhWN4-p_Qu94eCiJgk" }
           ]
         },
+
+       {
+          "title": "Tara Tv",
+          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGCob5R-7cD-P8H84bbnjsSSsmpSJ2YnsG8oK61pfT2Q&s=10",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://legitpro.co.in/taratv/taratv/tracks-v1a1/mono.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
         {
           "title": "Enter 10 Bangla",
           "poster": "https://i.ibb.co.com/840NTLs6/Picsart-24-10-18-15-11-32-440.webp",
