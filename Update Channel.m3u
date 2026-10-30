@@ -482,24 +482,7 @@
           ]
         },
      
-        {
-          "title": "Amar Bangla",
-          "poster": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUeFLEldQakv_lXMHuwGSISSQbLWebNFciMBsxHQlSG7gkETGmf-tvJP3cGLsxfOIHBMFF8j1N3u8fKpgQx_t0yXBieelUvNHdE4VPoyPkDtnV2-TRJQBPDNnuAELlGNKZFo60jUONWBUx-W3Uq0HkXVqOsal3yVjkOkZ67y25QHVYLxSXIn84L9Sos70q/s2048/Picsart_24-10-22_19-33-49-063.png",
-          "description": "",
-          "sources": [
-            { "server_name": "Server 1", "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8" },
-            { "server_name": "Server 2", "url": "" }
-          ]
-        },
-        {
-          "title": "Amar Digital TV",
-          "poster": "https://th.bing.com/th/id/OIP.ZSBINjQw_TEmElNoECErVQHaDL?rs=1&pid=ImgDetMain",
-          "description": "",
-          "sources": [
-            { "server_name": "Server 1", "url": "http://115.187.41.216:8080/hls/amardigital/index.m3u8" },
-            { "server_name": "Server 2", "url": "" }
-          ]
-        },
+        
         {
           "title": "Bangla+ HD",
           "poster": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEir8DIISD_3Ay4E2H__HTS4VFP7VXskYcIgkufU45epPzAFDKObL2D_p6mOal9B0RJpyaiA3feJuyaL8yvd0x-2nykRjc1pZPwT_aAGwmwFb4bEJf8oVDgty5NF30gzWlwHvh2P2c49pP2P8383ili_yboK1uSyqELcZygHTpSwru1VeK0mMwceugT5QLw/s1600/NadimRazaTVLogoDesign%282%29_copy_900x900_1.png",
@@ -640,6 +623,33 @@
           "description": "",
           "sources": [
             { "server_name": "Server 1", "url": "http://103.182.83.246/hls/snbcinema.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+{
+          "title": "Mon Bangla",
+          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbChFM1aiY8hfFDMovWZynuEg60KXekPvXXOYFljiOeg&s=10",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "http://115.187.41.216:8080/hls/montvbangla/index.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+{
+          "title": "Amar Bangla",
+          "poster": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUeFLEldQakv_lXMHuwGSISSQbLWebNFciMBsxHQlSG7gkETGmf-tvJP3cGLsxfOIHBMFF8j1N3u8fKpgQx_t0yXBieelUvNHdE4VPoyPkDtnV2-TRJQBPDNnuAELlGNKZFo60jUONWBUx-W3Uq0HkXVqOsal3yVjkOkZ67y25QHVYLxSXIn84L9Sos70q/s2048/Picsart_24-10-22_19-33-49-063.png",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+        {
+          "title": "Amar Digital TV",
+          "poster": "https://th.bing.com/th/id/OIP.ZSBINjQw_TEmElNoECErVQHaDL?rs=1&pid=ImgDetMain",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "http://115.187.41.216:8080/hls/amardigital/index.m3u8" },
             { "server_name": "Server 2", "url": "" }
           ]
         },
