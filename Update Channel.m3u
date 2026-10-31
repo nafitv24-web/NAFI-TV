@@ -1502,8 +1502,9 @@
           "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt3Hro_cxEd1jmanWn2EId4IMMMiRX67fh5vu4UGOvMA&s=10",
           "description": "",
           "sources": [
-            { "server_name": "Server 1", "url": "http://103.151.60.162:2122/play/a02l/index.m3u8?hls" },
-            { "server_name": "Server 2", "url": "http://202.70.146.135:8000/play/a06q/index.m3u8" }
+            { "server_name": "Server 1", "url": "http://103.135.253.32:8080/STAR-MOVIES-SEL/index.m3u8" },
+            { "server_name": "Server 2", "url": "http://103.151.60.162:2122/play/a02l/index.m3u8?hls" },
+            { "server_name": "Server 3", "url": "http://202.70.146.135:8000/play/a06q/index.m3u8" }
           ]
         },
         
@@ -1540,7 +1541,7 @@
           "poster": "https://i.postimg.cc/JhR9HDw4/20240823_023056.png",
           "description": "",
           "sources": [
-            { "server_name": "Server 1", "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/and_tv_hd/playlist.m3u8" },
+            { "server_name": "Server 1", "url": "http://103.135.253.32:8080/PICTURE-HD/index.m3u8" },
             { "server_name": "Server 2", "url": "" }
           ]
         },
@@ -1549,7 +1550,7 @@
           "poster": "https://i.postimg.cc/XJ1SbVzN/20240823_022738.png",
           "description": "",
           "sources": [
-            { "server_name": "Server 1", "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/andpicture_hd/playlist.m3u8" },
+            { "server_name": "Server 1", "url": "http://103.135.253.32:8080/PICTURE-HD/index.m3u8" },
             { "server_name": "Server 2", "url": "" }
           ]
         },
