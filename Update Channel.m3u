@@ -626,6 +626,15 @@
             { "server_name": "Server 2", "url": "" }
           ]
         },
+      {
+          "title": "SGCN Music",
+          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs1o63AtWvCv5l6J3aFPvVXpI7bU1_GfNUgaw52CfNVg&s",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://ethersoftwaresolution.com/live/sgcnmusic/index.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
 {
           "title": "Mon Bangla",
           "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbChFM1aiY8hfFDMovWZynuEg60KXekPvXXOYFljiOeg&s=10",
