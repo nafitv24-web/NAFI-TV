@@ -990,10 +990,10 @@
           "sources": [
           { "server_name": "Server 1", "url": "https://box.bbaria.net:8083/Jalsha_Movie/tracks-v1a1/mono.m3u8" },
            { "server_name": "Server 2", "url": "https://Liveftp.zibobdixserver.top/Jalsha_Movie/index.m3u8" },
-           { "server_name": "Server 3", "url": "http://103.151.60.162:2122/play/a00x/index.m3u8" },
-           
-        { "server_name": "Server 4", "url": "https://bold-sky-a350.tasinazad234.workers.dev/stream/btv/playlist.m3u8?expires=1791448428&sig=ltITtuOW0aZx4JjzYjnWm2qPnGEdUyFfTK6Q5nKdDTw" },
-            { "server_name": "Server 5", "url": "http://fastshare1.com:80/live/25711345/late8airline/23304.ts" }
+           { "server_name": "Server 3", "url": "http://103.135.253.32:8080/Jalsha_movies-HD/index.m3u8" },
+           { "server_name": "Server 4", "url": "http://103.151.60.162:2122/play/a00x/index.m3u8" },
+           { "server_name": "Server 5", "url": "https://bold-sky-a350.tasinazad234.workers.dev/stream/btv/playlist.m3u8?expires=1791448428&sig=ltITtuOW0aZx4JjzYjnWm2qPnGEdUyFfTK6Q5nKdDTw" },
+            { "server_name": "Server 6", "url": "http://fastshare1.com:80/live/25711345/late8airline/23304.ts" }
           ]
         },
 
@@ -1080,9 +1080,9 @@
           "description": "",
           "sources": [
             { "server_name": "Server 1", "url": "https://stream.ottplus.live/live/sony_aath_abr/index.m3u8" },
-           { "server_name": "Server 2", "url": "https://digitalotthub.com/tv/toffee-by-maruf/live.php?id=sonyaath&e=.m3u8" },
-           
-          { "server_name": "Server 3", "url": "https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8" }
+           { "server_name": "Server 2", "url": "http://103.135.253.32:8080/SONY_AATH/index.m3u8" },
+           { "server_name": "Server 3", "url": "https://digitalotthub.com/tv/toffee-by-maruf/live.php?id=sonyaath&e=.m3u8" },
+          { "server_name": "Server 4", "url": "https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8" }
           ]
         },
         {
