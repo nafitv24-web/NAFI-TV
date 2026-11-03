@@ -1333,7 +1333,7 @@
             { "server_name": "Server 1", "url": "http://192.142.27.104/hls/4580a056d7ed48674a99eec9181855f5/373005_1169.ts" },
             { "server_name": "Server 2", "url": "http://line.tivi-one.net/play/live.php?mac=A0:BB:3E:75:52:64&stream=373005&extension=m3u8" },
             
-{ "server_name": "Server 3", "url": "http://66.102.126.10:8000/play/a00f/index.m3u8" }
+{ "server_name": "Server 3", "url": "http://line.tivi-one.net/play/live.php?mac=A0:BB:3E:75:52:64&stream=373005&extension=m3u8" }
           ]
         },
     {
