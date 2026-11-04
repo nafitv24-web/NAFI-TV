@@ -1013,7 +1013,7 @@
           "poster": "https://i.ibb.co.com/23dGnxBn/Picsart-24-10-18-15-06-46-163.webp",
           "description": "",
           "sources": [
-            { "server_name": "Server 1", "url": "http://27.124.71.27/Zee_Bangla/tracks-v1a1/mono.m3u8" },
+            { "server_name": "Server 1", "url": "http://103.135.253.32:8080/ZEE-BANGLA-HD/tracks-v1a1/mono.m3u8" },
             { "server_name": "Server 2", "url": "https://da86m1sqpm3o0.cloudfront.net/260723/smil:zeebangla.smil/index.m3u8" },
             
             { "server_name": "Server 3", "url": "https://bold-sky-a350.tasinazad234.workers.dev/stream/zeebangla/playlist.m3u8?expires=1791443256&sig=k1ugAbCEunCHvClz_-yJiW8UPtGVhF8GfChf_uqowZE" },
