@@ -19,10 +19,10 @@
           "poster": "https://i.ibb.co.com/k2R3QmKF/Picsart-24-10-21-19-38-26-976.webp",
           "description": "",
           "sources": [
-            { "server_name": "Server 1", "url": "http://103.135.253.32:8080/BTV/tracks-v1a1/mono.m3u8" },
-           { "server_name": "Server 2", "url": "https://btv.hridoytv-channel.workers.dev/btv.m3u8" },
-           
-            { "server_name": "Server 3", "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1725/output/index.m3u8" }
+            { "server_name": "S1", "url": "https://nkafmbewiff.gpcdn.net/tile_2/master.m3u8" },
+            { "server_name": "S2", "url": "http://103.135.253.32:8080/BTV/tracks-v1a1/mono.m3u8" },
+           { "server_name": "S3", "url": "https://btv.hridoytv-channel.workers.dev/btv.m3u8" },
+           { "server_name": "S4", "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1725/output/index.m3u8" }
           ]
         },
         {
