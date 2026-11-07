@@ -3501,6 +3501,15 @@
             { "server_name": "Server 2", "url": "" }
           ]
         },
+{
+          "title": "sangeet Marathi",
+          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRrZxV1UyrWdeJw-jmuTUdzOxW57lJTSgX-i6DRouFzw&s=10",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://cdn.pishow.tv/ott/live/1229/master.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
         {
           "title": "Sangeet Bhojpuri",
           "poster": "https://i.postimg.cc/d1pkfnGy/s143757-ld-h15-aa.png",
