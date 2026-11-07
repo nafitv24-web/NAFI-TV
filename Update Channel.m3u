@@ -3506,8 +3506,8 @@
           "poster": "https://i.postimg.cc/d1pkfnGy/s143757-ld-h15-aa.png",
           "description": "",
           "sources": [
-            { "server_name": "Server 1", "url": "https://mumt01.tangotv.in/O5aw8Zn3SANGEETBHOJPURI/index.m3u8" },
-            { "server_name": "Server 2", "url": "https://cdn.pishow.tv/ott/live/1293/master.m3u8" }
+            { "server_name": "S1", "url": "https://mumt01.tangotv.in/O5aw8Zn3SANGEETBHOJPURI/index.m3u8" },
+            { "server_name": "S2", "url": "https://cdn.pishow.tv/ott/live/1293/master.m3u8" }
           ]
         }
       ]
