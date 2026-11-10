@@ -3546,6 +3546,532 @@
             { "server_name": "Server 2", "url": "" }
           ]
         },
+
+  {
+    "title": "7S Music",
+    "poster": "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/7s-music.png",
+    "description": "",
+    "sources": [
+      { "server_name": "Server 1", "url": "https://cdn.pishow.tv/ott/live/1257/master.m3u8" },
+      { "server_name": "Server 2", "url": "" }
+    ]
+  },
+  {
+    "title": "7X Punjabi",
+    "poster": "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/7x-punjabi.png",
+    "description": "",
+    "sources": [
+      { "server_name": "Server 1", "url": "https://cdn2.in/7xPunjabihls/live.m3u8" },
+      { "server_name": "Server 2", "url": "" }
+    ]
+  },
+  {
+    "title": "9X Jalwa",
+    "poster": "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/jalwa.png",
+    "description": "",
+    "sources": [
+      { "server_name": "Server 1", "url": "https://wiselp.wiseplayout.com/9X_Jalwa/master.m3u8" },
+      { "server_name": "Server 2", "url": "" }
+    ]
+  },
+  {
+    "title": "9X Jhakaas",
+    "poster": "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/9x-jhakaas.png",
+    "description": "",
+    "sources": [
+      { "server_name": "Server 1", "url": "https://wiselp.wiseplayout.com/9X_Jhakaas/master.m3u8" },
+      { "server_name": "Server 2", "url": "" }
+    ]
+  },
+  {
+    "title": "9X Tashan",
+    "poster": "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/9x-tashan.png",
+    "description": "",
+    "sources": [
+      { "server_name": "Server 1", "url": "https://wiselp.wiseplayout.com/9X_Tashan/master.m3u8" },
+      { "server_name": "Server 2", "url": "" }
+    ]
+  },
+  {
+    "title": "9XM",
+    "poster": "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/9xm.png",
+    "description": "",
+    "sources": [
+      { "server_name": "Server 1", "url": "https://cc-706183qeo55ez.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-706183qeo55ez/DIYC/PMSL/9X/9XMusic_IN/9XMusic_IN.m3u8" },
+      { "server_name": "Server 2", "url": "" }
+    ]
+  },
+  {
+    "title": "Andy Haryana",
+    "poster": "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/andy-haryana.png",
+    "description": "",
+    "sources": [
+      { "server_name": "Server 1", "url": "https://mumt03.tangotv.in/Dsly5z3HANDYHARYANA/index.m3u8" },
+      { "server_name": "Server 2", "url": "" }
+    ]
+  },
+  {
+    "title": "B4U Music",
+    "poster": "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/b4u-music.png",
+    "description": "",
+    "sources": [
+      { "server_name": "Server 1", "url": "https://streams.tangotv.in/B4UMUSIC/ORIGIN/index.m3u8" },
+      { "server_name": "Server 2", "url": "" }
+    ]
+  },
+  {
+    "title": "Balle Balle",
+    "poster": "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/balle-balle.png",
+    "description": "",
+    "sources": [
+      { "server_name": "Server 1", "url": "https://mcncdndigital.com/balleballetv/index.m3u8" },
+      { "server_name": "Server 2", "url": "" }
+    ]
+  },
+  {
+    "title": "Boogle Bollywood",
+    "poster": "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/boogle-bollywood.png",
+    "description": "",
+    "sources": [
+      { "server_name": "Server 1", "url": "https://yuppnimrestreammum.akamaized.net/181224/smil:bogglebollywood.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b" },
+      { "server_name": "Server 2", "url": "" }
+    ]
+  },
+  {
+    "title": "Dhool TV",
+    "poster": "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/dhool-tv.png",
+    "description": "",
+    "sources": [
+      { "server_name": "Server 1", "url": "https://d1msejlow1t3l4.cloudfront.net/fta/subhartitv/playlist.m3u8" },
+      { "server_name": "Server 2", "url": "" }
+    ]
+  },
+  {
+    "title": "E24",
+    "poster": "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/e24.png",
+    "description": "",
+    "sources": [
+      { "server_name": "Server 1", "url": "https://amg13643-amg13643c2-amgplt0016.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg13643-amg13643c2-amgplt0016/playlist.m3u8" },
+      { "server_name": "Server 2", "url": "" }
+    ]
+  },
+  {
+    "title": "Ekamra Musiq",
+    "poster": "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/ekamra-musiq.png",
+    "description": "",
+    "sources": [
+      { "server_name": "Server 1", "url": "https://live.ekamraott.com/musiq/musiq/index.m3u8" },
+      { "server_name": "Server 2", "url": "" }
+    ]
+  },
+  {
+    "title": "Epic Music",
+    "poster": "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/epic-music.png",
+    "description": "",
+    "sources": [
+      { "server_name": "Server 1", "url": "https://mumt04.tangotv.in/m18aqlK4EPICMUSIC/index.m3u8" },
+      { "server_name": "Server 2", "url": "" }
+    ]
+  },
+  {
+    "title": "ETV Beats",
+    "poster": "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/etv-beats-1080p-aa1d38c3fd.png",
+    "description": "",
+    "sources": [
+      { "server_name": "Server 1", "url": "https://jmp2.uk/stvp-IN4900002RV" },
+      { "server_name": "Server 2", "url": "" }
+    ]
+  },
+  {
+    "title": "ETV Music",
+    "poster": "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/etv-music.png",
+    "description": "",
+    "sources": [
+      { "server_name": "Server 1", "url": "https://cc-szivnms4rlah6.akamaized.net/WWBI/Amagi/ETV_Music_IN/playlist.m3u8" },
+      { "server_name": "Server 2", "url": "" }
+    ]
+  },
+  {
+    "title": "Gangaur TV",
+    "poster": "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/gangaur-tv.png",
+    "description": "",
+    "sources": [
+      { "server_name": "Server 1", "url": "https://pbgangaur.wiseplayout.com/Gangaur/master.m3u8" },
+      { "server_name": "Server 2", "url": "" }
+    ]
+  },
+  {
+    "title": "Hindi Hits",
+    "poster": "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/hindi-hits.png",
+    "description": "",
+    "sources": [
+      { "server_name": "Server 1", "url": "https://samitaorigin.tangotv.in/HINDIHITS/SAMITAORIGIN/index.m3u8" },
+      { "server_name": "Server 2", "url": "" }
+    ]
+  },
+  {
+    "title": "Insync",
+    "poster": "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/insync.png",
+    "description": "",
+    "sources": [
+      { "server_name": "Server 1", "url": "https://mumt04.tangotv.in/m18aqlK4INSYNC/index.m3u8" },
+      { "server_name": "Server 2", "url": "" }
+    ]
+  },
+  {
+    "title": "Isai Aruvi",
+    "poster": "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/isai-aruvi.png",
+    "description": "",
+    "sources": [
+      { "server_name": "Server 1", "url": "https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8" },
+      { "server_name": "Server 2", "url": "" }
+    ]
+  },
+  {
+    "title": "Kappa TV (Music)",
+    "poster": "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/kappa-tv.png",
+    "description": "",
+    "sources": [
+      { "server_name": "Server 1", "url": "https://cdn.pishow.tv/ott/live/1123/master.m3u8" },
+      { "server_name": "Server 2", "url": "" }
+    ]
+  },
+  {
+    "title": "Mahua Play",
+    "poster": "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/mahua-play.png",
+    "description": "",
+    "sources": [
+      { "server_name": "Server 1", "url": "https://cdn.ottlive.co.in/mahuaplay/index.m3u8" },
+      { "server_name": "Server 2", "url": "" }
+    ]
+  },
+  {
+    "title": "Mastiii",
+    "poster": "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/mastiii.png",
+    "description": "",
+    "sources": [
+      { "server_name": "Server 1", "url": "https://mumbai-edge.smartplaytv.in/MastiMusic/index.m3u8" },
+      { "server_name": "Server 2", "url": "" }
+    ]
+  },
+  {
+    "title": "MH One",
+    "poster": "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/mh-one.png",
+    "description": "",
+    "sources": [
+      { "server_name": "Server 1", "url": "https://fta.ektv.in/live/353/master.m3u8" },
+      { "server_name": "Server 2", "url": "" }
+    ]
+  },
+  {
+    "title": "MH One Dil Se",
+    "poster": "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/mh-one-dil-se.png",
+    "description": "",
+    "sources": [
+      { "server_name": "Server 1", "url": "https://fta.ektv.in/live/351/master.m3u8" },
+      { "server_name": "Server 2", "url": "" }
+    ]
+  },
+  {
+    "title": "MH One Music",
+    "poster": "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/mh-1-music.png",
+    "description": "",
+    "sources": [
+      { "server_name": "Server 1", "url": "https://livestream.jswk.online/playlisttest/live/playlist.m3u8" },
+      { "server_name": "Server 2", "url": "" }
+    ]
+  },
+  {
+    "title": "MTV India",
+    "poster": "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/mtv-india-hd-720p.png",
+    "description": "",
+    "sources": [
+      { "server_name": "Server 1", "url": "https://yupp-music.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/index.m3u8" },
+      { "server_name": "Server 2", "url": "" }
+    ]
+  },
+  {
+    "title": "Music India",
+    "poster": "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/music-india.png",
+    "description": "",
+    "sources": [
+      { "server_name": "Server 1", "url": "https://streams.tangotv.in/MUSICINDIA/ORIGIN/index.m3u8" },
+      { "server_name": "Server 2", "url": "" }
+    ]
+  },
+  {
+    "title": "NH BollyRaga",
+    "poster": "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/nh-bollyraga.png",
+    "description": "",
+    "sources": [
+      { "server_name": "Server 1", "url": "https://cc-up9j649x4thrj.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-up9j649x4thrj/SBUM/RunnTV/BollyRaga_IN/BollyRaga_IN.m3u8" },
+      { "server_name": "Server 2", "url": "" }
+    ]
+  },
+  {
+    "title": "Only Music",
+    "poster": "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/only-music.png",
+    "description": "",
+    "sources": [
+      { "server_name": "Server 1", "url": "https://mumbai-edge.smartplaytv.in/OnlyMusic/index.m3u8" },
+      { "server_name": "Server 2", "url": "" }
+    ]
+  },
+  {
+    "title": "PTC Chakde",
+    "poster": "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/ptc-chakde.png",
+    "description": "",
+    "sources": [
+      { "server_name": "Server 1", "url": "https://cdn.pishow.tv/ott/live/449/master.m3u8" },
+      { "server_name": "Server 2", "url": "" }
+    ]
+  },
+  {
+    "title": "PTC Music",
+    "poster": "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/ptc-music.png",
+    "description": "",
+    "sources": [
+      { "server_name": "Server 1", "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/index.m3u8" },
+      { "server_name": "Server 2", "url": "" }
+    ]
+  },
+  {
+    "title": "Public Music",
+    "poster": "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/public-music.png",
+    "description": "",
+    "sources": [
+      { "server_name": "Server 1", "url": "https://mumt04.tangotv.in/m18aqlK4PUBLICMUSIC/index.m3u8" },
+      { "server_name": "Server 2", "url": "" }
+    ]
+  },
+  {
+    "title": "Punjabi Hits",
+    "poster": "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/punjabi-hits.png",
+    "description": "",
+    "sources": [
+      { "server_name": "Server 1", "url": "https://stream.ottlive.co.in/punjabihits/index.m3u8" },
+      { "server_name": "Server 2", "url": "" }
+    ]
+  },
+  {
+    "title": "Punjabi Music",
+    "poster": "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/punjabi-music-43b14c7be7.png",
+    "description": "",
+    "sources": [
+      { "server_name": "Server 1", "url": "https://samitaorigin.tangotv.in/PUNJABIMUSICHD/SAMITAORIGIN/index.m3u8" },
+      { "server_name": "Server 2", "url": "" }
+    ]
+  },
+  {
+    "title": "Raj Music Telugu",
+    "poster": "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/raj-music-telugu.png",
+    "description": "",
+    "sources": [
+      { "server_name": "Server 1", "url": "https://mumt07.tangotv.in/zHjX9OFlRAJMUSIXTELUGU/index.m3u8" },
+      { "server_name": "Server 2", "url": "" }
+    ]
+  },
+  {
+    "title": "Raj Musix Kannada",
+    "poster": "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/raj-musix-kannada.png",
+    "description": "",
+    "sources": [
+      { "server_name": "Server 1", "url": "https://mumt01.tangotv.in/O5aw8Zn3RAJMUSIXKANDA/index.m3u8" },
+      { "server_name": "Server 2", "url": "" }
+    ]
+  },
+  {
+    "title": "Raj Musix Malayalam",
+    "poster": "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/raj-musix-malayalam-64c7d5ce.png",
+    "description": "",
+    "sources": [
+      { "server_name": "Server 1", "url": "https://cdn.pishow.tv/ott/live/1073/master.m3u8" },
+      { "server_name": "Server 2", "url": "" }
+    ]
+  },
+  {
+    "title": "Raj Musix Telugu",
+    "poster": "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/raj-musix-telugu-720p-e8fd0fb178.png",
+    "description": "",
+    "sources": [
+      { "server_name": "Server 1", "url": "https://cdn.pishow.tv/ott/live/1213/master.m3u8" },
+      { "server_name": "Server 2", "url": "" }
+    ]
+  },
+  {
+    "title": "Ramdhenu",
+    "poster": "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/ramdhenu.png",
+    "description": "",
+    "sources": [
+      { "server_name": "Server 1", "url": "https://mumt01.tangotv.in/O5aw8Zn3RAMDHENU/mpegts" },
+      { "server_name": "Server 2", "url": "" }
+    ]
+  },
+  {
+    "title": "Rang Rangoli",
+    "poster": "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/rang-rangoli-custom.png",
+    "description": "",
+    "sources": [
+      { "server_name": "Server 1", "url": "https://live.ekamraott.com/rr/rr/video.m3u8" },
+      { "server_name": "Server 2", "url": "" }
+    ]
+  },
+  {
+    "title": "Saga Music",
+    "poster": "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/saga-music.png",
+    "description": "",
+    "sources": [
+      { "server_name": "Server 1", "url": "https://amg01412-xiaomiasia-sagamusic-xiaomi-h54ye.amagi.tv/playlist/amg01412-xiaomiasia-sagamusic-xiaomi/playlist.m3u8" },
+      { "server_name": "Server 2", "url": "" }
+    ]
+  },
+  {
+    "title": "Saga Music Haryanvi",
+    "poster": "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/saga-music-haryanvi.png",
+    "description": "",
+    "sources": [
+      { "server_name": "Server 1", "url": "https://amg01412-xiaomiasia-sagamusicharyanvi-xiaomi-0v34j.amagi.tv/playlist/amg01412-xiaomiasia-sagamusicharyanvi-xiaomi/playlist.m3u8" },
+      { "server_name": "Server 2", "url": "" }
+    ]
+  },
+  {
+    "title": "Sana Plus",
+    "poster": "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/sana-plus.png",
+    "description": "",
+    "sources": [
+      { "server_name": "Server 1", "url": "https://mumbai-edge.smartplaytv.in/SanaPlusHD/index.m3u8" },
+      { "server_name": "Server 2", "url": "" }
+    ]
+  },
+  {
+    "title": "Sangeet Bhojpuri",
+    "poster": "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/sangeet-bhojpuri.png",
+    "description": "",
+    "sources": [
+      { "server_name": "Server 1", "url": "https://fta.ektv.in/live/349/master.m3u8" },
+      { "server_name": "Server 2", "url": "" }
+    ]
+  },
+  {
+    "title": "Sangeet Marathi",
+    "poster": "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/sangeet-marathi.png",
+    "description": "",
+    "sources": [
+      { "server_name": "Server 1", "url": "https://cdn.pishow.tv/ott/live/1229/master.m3u8" },
+      { "server_name": "Server 2", "url": "" }
+    ]
+  },
+  {
+    "title": "Songdew TV",
+    "poster": "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/songdew-tv.png",
+    "description": "",
+    "sources": [
+      { "server_name": "Server 1", "url": "https://yuppnimrestreammum.akamaized.net/181224/smil:songdewtv.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b" },
+      { "server_name": "Server 2", "url": "" }
+    ]
+  },
+  {
+    "title": "Steelbird Music",
+    "poster": "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/steelbird-music.png",
+    "description": "",
+    "sources": [
+      { "server_name": "Server 1", "url": "https://cdn2.in/SteelbirdMusicTVhls/live.m3u8" },
+      { "server_name": "Server 2", "url": "" }
+    ]
+  },
+  {
+    "title": "Sun Music",
+    "poster": "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/sun-music.png",
+    "description": "",
+    "sources": [
+      { "server_name": "Server 1", "url": "https://hls.sunmusic.live/hls/stream.m3u8" },
+      { "server_name": "Server 2", "url": "" }
+    ]
+  },
+  {
+    "title": "Tabbar Hits",
+    "poster": "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/tabbar-hits.png",
+    "description": "",
+    "sources": [
+      { "server_name": "Server 1", "url": "https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e11b0319-52e8-4190-ab03-3931cc68eac9/index.m3u8" },
+      { "server_name": "Server 2", "url": "" }
+    ]
+  },
+  {
+    "title": "Tarang Music",
+    "poster": "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/tarang-music.png",
+    "description": "",
+    "sources": [
+      { "server_name": "Server 1", "url": "https://livetv.tarangplus.in/tarangmusic-origin/live/playlist.m3u8" },
+      { "server_name": "Server 2", "url": "" }
+    ]
+  },
+  {
+    "title": "Tunes 6",
+    "poster": "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/tunes-6-86e66d6033.png",
+    "description": "",
+    "sources": [
+      { "server_name": "Server 1", "url": "https://stream.d6-pro.com/tunes6music/live/video.m3u8" },
+      { "server_name": "Server 2", "url": "" }
+    ]
+  },
+  {
+    "title": "Ultimate TV",
+    "poster": "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/ultimate-tv.png",
+    "description": "",
+    "sources": [
+      { "server_name": "Server 1", "url": "https://stream.ottlive.co.in/utvtamil/index.m3u8" },
+      { "server_name": "Server 2", "url": "" }
+    ]
+  },
+  {
+    "title": "Vision Beats",
+    "poster": "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/vision-beats.png",
+    "description": "",
+    "sources": [
+      { "server_name": "Server 1", "url": "http://a-edge.bliscdn.com/Visionbeats/index.m3u8" },
+      { "server_name": "Server 2", "url": "" }
+    ]
+  },
+  {
+    "title": "Wah Punjabi",
+    "poster": "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/wah-punjabi.png",
+    "description": "",
+    "sources": [
+      { "server_name": "Server 1", "url": "https://yuppnimrestreammum.akamaized.net/181224/smil:wahpunjabi.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b" },
+      { "server_name": "Server 2", "url": "" }
+    ]
+  },
+  {
+    "title": "YRF Music",
+    "poster": "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/yrf-music.png",
+    "description": "",
+    "sources": [
+      { "server_name": "Server 1", "url": "https://amg01412-xiaomiasia-yrfmusic-xiaomi-1rmk2.amagi.tv/playlist/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8" },
+      { "server_name": "Server 2", "url": "" }
+    ]
+  },
+  {
+    "title": "YRF Music Nepal",
+    "poster": "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/yrf-music-nepal.png",
+    "description": "",
+    "sources": [
+      { "server_name": "Server 1", "url": "https://vidaa.kableone.com/hls/live/2111218/YrfMusic/1.m3u8" },
+      { "server_name": "Server 2", "url": "" }
+    ]
+  },
+  {
+    "title": "Zoom",
+    "poster": "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/zoom-tv.png",
+    "description": "",
+    "sources": [
+      { "server_name": "Server 1", "url": "https://d2esfk1pb9cdob.cloudfront.net/master.m3u8" },
+      { "server_name": "Server 2", "url": "" }
+    ]
+  },
+
+
+
 {
           "title": "sangeet Marathi",
           "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRrZxV1UyrWdeJw-jmuTUdzOxW57lJTSgX-i6DRouFzw&s=10",
