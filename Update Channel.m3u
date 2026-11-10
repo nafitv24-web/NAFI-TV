@@ -599,6 +599,14 @@
             { "server_name": "Server 2", "url": "https://dish.porosh.com.bd/hls/jalshabangla.m3u8" }
           ]
         },
+{ "title": "PTV BANGLA",
+          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6XTvzfjzZaBJ4NUFcMM0dtTmveRDx5T0mPjAYy04EfA&s=10",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "http://103.121.61.218/tmp_hls/1ecfb463472ec9115b10c292ef8bc986/index.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
 { "title": "SAMI TV",
           "poster": "https://i.supaimg.com/83afe636-c743-4025-87ea-6f9f3f10d71f/2c43b63e-5d84-4699-bd7c-112bb7b2b7db.jpg",
           "description": "",
