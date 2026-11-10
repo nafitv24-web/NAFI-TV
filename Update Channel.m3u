@@ -1739,8 +1739,602 @@
             { "server_name": "Server 2", "url": "" }
           ]
         },
-        
-        {
+  {
+    "title": "All Time Movies",
+    "poster": "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/all-time-movies.png",
+    "description": "",
+    "sources": [
+      { "server_name": "Server 1", "url": "https://fta.ektv.in/live/54/54_0.m3u8" },
+      { "server_name": "Server 2", "url": "" }
+    ]
+  },
+  {
+    "title": "Asianet Movies",
+    "poster": "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/asianet-movies.png",
+    "description": "",
+    "sources": [
+      { "server_name": "Server 1", "url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:asianetmovies.smil/chunklist_b1928000.m3u8" },
+      { "server_name": "Server 2", "url": "" }
+    ]
+  },
+  {
+    "title": "B4U Bhojpuri Plus",
+    "poster": "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/b4u-bhojpuri-plus.png",
+    "description": "",
+    "sources": [
+      { "server_name": "Server 1", "url": "https://cc-t2mudtkmuz4wb.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-t2mudtkmuz4wb/B4U_Bhojpuri/master.m3u8" },
+      { "server_name": "Server 2", "url": "" }
+    ]
+  },
+  {
+    "title": "B4U Kadak",
+    "poster": "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/b4u-kadak.png",
+    "description": "",
+    "sources": [
+      { "server_name": "Server 1", "url": "https://amg00877-b4unew-amg00877c4-xiaomi-in-5473.playouts.now.amagi.tv/playlist.m3u8" },
+      { "server_name": "Server 2", "url": "" }
+    ]
+  },
+  {
+    "title": "B4U Movies",
+    "poster": "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/b4u-movies.png",
+    "description": "",
+    "sources": [
+      { "server_name": "Server 1", "url": "https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/playlist.m3u8" },
+      { "server_name": "Server 2", "url": "" }
+    ]
+  },
+  {
+    "title": "Bhojpuri Cinema",
+    "poster": "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/bhojpuri-cinema.png",
+    "description": "",
+    "sources": [
+      { "server_name": "Server 1", "url": "https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8" },
+      { "server_name": "Server 2", "url": "" }
+    ]
+  },
+  {
+    "title": "Bollygold",
+    "poster": "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/nh-bollygold-dbedeff9.png",
+    "description": "",
+    "sources": [
+      { "server_name": "Server 1", "url": "https://jmp2.uk/stvp-IN4000600Q" },
+      { "server_name": "Server 2", "url": "" }
+    ]
+  },
+  {
+    "title": "Bollywood",
+    "poster": "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/bollywood-hd-576p.png",
+    "description": "",
+    "sources": [
+      { "server_name": "Server 1", "url": "http://176.118.197.101/Bollywood_HD/index.m3u8" },
+      { "server_name": "Server 2", "url": "" }
+    ]
+  },
+  {
+    "title": "Chhaya Chitram Telugu",
+    "poster": "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/chhaya-chitram-telugu-7e1e93e465.png",
+    "description": "",
+    "sources": [
+      { "server_name": "Server 1", "url": "https://samitaorigin.tangotv.in/CHHAYACHITRAMTELUGU/SAMITAORIGIN/index.m3u8" },
+      { "server_name": "Server 2", "url": "" }
+    ]
+  },
+  {
+    "title": "Chithiram",
+    "poster": "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/chithiram.png",
+    "description": "",
+    "sources": [
+      { "server_name": "Server 1", "url": "https://cdn.pishow.tv/ott/live/1243/master.m3u8" },
+      { "server_name": "Server 2", "url": "" }
+    ]
+  },
+  {
+    "title": "Colors Cineplex [UK]",
+    "poster": "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/colors-cineplex-uk.png",
+    "description": "",
+    "sources": [
+      { "server_name": "Server 1", "url": "https://d1rc86nwwc9fag.cloudfront.net/260723/smil:rishteycineplexukdev.smil/chunklist_b1928000.m3u8" },
+      { "server_name": "Server 2", "url": "" }
+    ]
+  },
+  {
+    "title": "Colors Cineplex Bollywood",
+    "poster": "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/colors-cineplex-bollywood.png",
+    "description": "",
+    "sources": [
+      { "server_name": "Server 1", "url": "http://163.61.226.31:9981/stream/channelid/1709941389?profile=pass" },
+      { "server_name": "Server 2", "url": "" }
+    ]
+  },
+  {
+    "title": "Colors Cineplex Superhits",
+    "poster": "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/colors-cineplex-superhits-576p.png",
+    "description": "",
+    "sources": [
+      { "server_name": "Server 1", "url": "http://163.61.226.31:9981/stream/channelid/2039746374?profile=pass" },
+      { "server_name": "Server 2", "url": "" }
+    ]
+  },
+  {
+    "title": "Ekamra Cinema",
+    "poster": "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/ekamra-cinema.png",
+    "description": "",
+    "sources": [
+      { "server_name": "Server 1", "url": "https://live.ekamraott.com/cynema/cynema/index.m3u8" },
+      { "server_name": "Server 2", "url": "" }
+    ]
+  },
+  {
+    "title": "Epic Bhojpuri",
+    "poster": "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/epic-bhojpuri.png",
+    "description": "",
+    "sources": [
+      { "server_name": "Server 1", "url": "https://mumt01.tangotv.in/O5aw8Zn3EPICBHOJPURI/index.m3u8" },
+      { "server_name": "Server 2", "url": "" }
+    ]
+  },
+  {
+    "title": "Epic Bhojpuri Digital",
+    "poster": "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/epic-bhojpuri-digital.png",
+    "description": "",
+    "sources": [
+      { "server_name": "Server 1", "url": "https://cc-8hy4a26pz2uos.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8hy4a26pz2uos/playlist.m3u8" },
+      { "server_name": "Server 2", "url": "" }
+    ]
+  },
+  {
+    "title": "ETV Cinema",
+    "poster": "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/etv-cinema-360p-14e6148301.png",
+    "description": "",
+    "sources": [
+      { "server_name": "Server 1", "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b" },
+      { "server_name": "Server 2", "url": "" }
+    ]
+  },
+  {
+    "title": "Goldmines",
+    "poster": "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/goldmines.png",
+    "description": "",
+    "sources": [
+      { "server_name": "Server 1", "url": "https://streams.tangotv.in/GOLDMINES/ORIGIN/index.m3u8" },
+      { "server_name": "Server 2", "url": "" }
+    ]
+  },
+  {
+    "title": "Goldmines 2",
+    "poster": "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/goldmines.png",
+    "description": "",
+    "sources": [
+      { "server_name": "Server 1", "url": "https://fta.ektv.in/live/46/46_0.m3u8" },
+      { "server_name": "Server 2", "url": "" }
+    ]
+  },
+  {
+    "title": "Goldmines Action",
+    "poster": "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/goldmines-action.png",
+    "description": "",
+    "sources": [
+      { "server_name": "Server 1", "url": "https://fta.ektv.in/live/584/master.m3u8" },
+      { "server_name": "Server 2", "url": "" }
+    ]
+  },
+  {
+    "title": "Goldmines Bollywood",
+    "poster": "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/goldmines-bollywood.png",
+    "description": "",
+    "sources": [
+      { "server_name": "Server 1", "url": "https://streams.tangotv.in/GOLDMINESBOLLYWOOD/ORIGIN/index.m3u8" },
+      { "server_name": "Server 2", "url": "" }
+    ]
+  },
+  {
+    "title": "Goldmines Movies",
+    "poster": "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/goldmines-movies.png",
+    "description": "",
+    "sources": [
+      { "server_name": "Server 1", "url": "https://streams.tangotv.in/GOLDMINEMOVIES/ORIGIN/index.m3u8" },
+      { "server_name": "Server 2", "url": "" }
+    ]
+  },
+  {
+    "title": "Hindi Movie Classic 24",
+    "poster": "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/hindi-movie-classic-24.png",
+    "description": "",
+    "sources": [
+      { "server_name": "Server 1", "url": "https://vods2.aynaott.com/hindimovies/index.m3u8" },
+      { "server_name": "Server 2", "url": "" }
+    ]
+  },
+  {
+    "title": "India Talkies",
+    "poster": "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/india-talkies.png",
+    "description": "",
+    "sources": [
+      { "server_name": "Server 1", "url": "https://samitaorigin.tangotv.in/INDIATALKIES/SAMITAORIGIN/index.m3u8" },
+      { "server_name": "Server 2", "url": "" }
+    ]
+  },
+  {
+    "title": "Indywood TV",
+    "poster": "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/indywood-tv.png",
+    "description": "",
+    "sources": [
+      { "server_name": "Server 1", "url": "https://43wrzjnpqoxe-hls-live.wmncdn.net/indywood/indywoodtv/index.m3u8" },
+      { "server_name": "Server 2", "url": "" }
+    ]
+  },
+  {
+    "title": "Jalsha Movies",
+    "poster": "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/jalsha-movies.png",
+    "description": "",
+    "sources": [
+      { "server_name": "Server 1", "url": "https://box.bbaria.net:8083/Jalsha_Movie/tracks-v1a1/mono.m3u8" },
+      { "server_name": "Server 2", "url": "" }
+    ]
+  },
+  {
+    "title": "K Cine",
+    "poster": "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/k-cine.png",
+    "description": "",
+    "sources": [
+      { "server_name": "Server 1", "url": "https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8" },
+      { "server_name": "Server 2", "url": "" }
+    ]
+  },
+  {
+    "title": "Kairali We",
+    "poster": "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/kairali-we.png",
+    "description": "",
+    "sources": [
+      { "server_name": "Server 1", "url": "https://streams.tangotv.in/WETV/ORIGIN/index.m3u8" },
+      { "server_name": "Server 2", "url": "" }
+    ]
+  },
+  {
+    "title": "Maha Movie",
+    "poster": "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/maha-movie.png",
+    "description": "",
+    "sources": [
+      { "server_name": "Server 1", "url": "https://cdn.pishow.tv/ott/live/10007/master.m3u8" },
+      { "server_name": "Server 2", "url": "" }
+    ]
+  },
+  {
+    "title": "Mango",
+    "poster": "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/mango.png",
+    "description": "",
+    "sources": [
+      { "server_name": "Server 1", "url": "https://stmv6.voxtvhd.com.br/cinehindi/cinehindi/playlist.m3u8" },
+      { "server_name": "Server 2", "url": "" }
+    ]
+  },
+  {
+    "title": "Manoranjan Movies",
+    "poster": "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/manoranjan-movies-576p-96091e62b1.png",
+    "description": "",
+    "sources": [
+      { "server_name": "Server 1", "url": "https://mumt04.tangotv.in/m18aqlK4MANORANJANMOVIES/index.m3u8" },
+      { "server_name": "Server 2", "url": "" }
+    ]
+  },
+  {
+    "title": "MBC Bollywood",
+    "poster": "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/mbc-bollywood.png",
+    "description": "",
+    "sources": [
+      { "server_name": "Server 1", "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8" },
+      { "server_name": "Server 2", "url": "" }
+    ]
+  },
+  {
+    "title": "MH One Movies",
+    "poster": "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/mh-one-movies.png",
+    "description": "",
+    "sources": [
+      { "server_name": "Server 1", "url": "https://fta.ektv.in/live/639/master.m3u8" },
+      { "server_name": "Server 2", "url": "" }
+    ]
+  },
+  {
+    "title": "Movie Punjab",
+    "poster": "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/international/movie-punjab-720p.png",
+    "description": "",
+    "sources": [
+      { "server_name": "Server 1", "url": "https://samitaorigin.tangotv.in/MOVIEPUNJAB/SAMITAORIGIN/index.m3u8" },
+      { "server_name": "Server 2", "url": "" }
+    ]
+  },
+  {
+    "title": "Namma Bangalore",
+    "poster": "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/namma-bangalore.png",
+    "description": "",
+    "sources": [
+      { "server_name": "Server 1", "url": "https://stream.ottlive.co.in/nammatv/index.m3u8" },
+      { "server_name": "Server 2", "url": "" }
+    ]
+  },
+  {
+    "title": "NH BollyFlix",
+    "poster": "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/nh-bollyflix.png",
+    "description": "",
+    "sources": [
+      { "server_name": "Server 1", "url": "https://cc-r5hupcym5oehh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r5hupcym5oehh/SBUM/RunnTV/BollyFlix_IN/BollyFlix_IN.m3u8" },
+      { "server_name": "Server 2", "url": "" }
+    ]
+  },
+  {
+    "title": "NH Tamil Gold",
+    "poster": "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/nh-tamil-gold.png",
+    "description": "",
+    "sources": [
+      { "server_name": "Server 1", "url": "https://d3arbp6l7f096k.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-gv6wgpbb4mgwk/playlist.m3u8?ads.ads_cdn=cf&ads.app_domain=APP_DOMAIN&ads.cdn=cf" },
+      { "server_name": "Server 2", "url": "" }
+    ]
+  },
+  {
+    "title": "Oscar Movies Bhojpuri",
+    "poster": "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/oscar-movies-bhojpuri.png",
+    "description": "",
+    "sources": [
+      { "server_name": "Server 1", "url": "https://cdn.pishow.tv/ott/live/233/master.m3u8" },
+      { "server_name": "Server 2", "url": "" }
+    ]
+  },
+  {
+    "title": "Pitaara Comedy",
+    "poster": "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/pitaara-comedy.png",
+    "description": "",
+    "sources": [
+      { "server_name": "Server 1", "url": "https://vglivessai.akamaized.net/ptnr-lgtv/title-Pitaara_Comedy_LG/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/5a5410c0-1b79-4adc-9243-0139b249798b/playlist.m3u8" },
+      { "server_name": "Server 2", "url": "" }
+    ]
+  },
+  {
+    "title": "Pitaara TV",
+    "poster": "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/pitaara-tv.png",
+    "description": "",
+    "sources": [
+      { "server_name": "Server 1", "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/500a6b45f5ae41dda445d912b59eaa09/index.m3u8" },
+      { "server_name": "Server 2", "url": "" }
+    ]
+  },
+  {
+    "title": "Pocket Films",
+    "poster": "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/pocket-films.png",
+    "description": "",
+    "sources": [
+      { "server_name": "Server 1", "url": "https://vglivessai.akamaized.net/sg/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/b8ada260-bb81-472b-b7c1-3a79213a84b8/e02a0ce5-6c42-4cca-bb53-e5cfecff74a9/0.m3u8" },
+      { "server_name": "Server 2", "url": "" }
+    ]
+  },
+  {
+    "title": "Pravasi Channel",
+    "poster": "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/pravasi-channel.png",
+    "description": "",
+    "sources": [
+      { "server_name": "Server 1", "url": "https://m6gdavepdn93-hls-live.5centscdn.com/pravasi/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8" },
+      { "server_name": "Server 2", "url": "" }
+    ]
+  },
+  {
+    "title": "Public Movies",
+    "poster": "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/public-movies.png",
+    "description": "",
+    "sources": [
+      { "server_name": "Server 1", "url": "https://mumt04.tangotv.in/m18aqlK4PUBLICMOVIES/index.m3u8" },
+      { "server_name": "Server 2", "url": "" }
+    ]
+  },
+  {
+    "title": "Raj Digital Plus",
+    "poster": "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/raj-digital-plus.png",
+    "description": "",
+    "sources": [
+      { "server_name": "Server 1", "url": "https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/RajTV_Digital_plus/master_1.m3u8" },
+      { "server_name": "Server 2", "url": "" }
+    ]
+  },
+  {
+    "title": "Roja Movies",
+    "poster": "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/roja-movies.png",
+    "description": "",
+    "sources": [
+      { "server_name": "Server 1", "url": "https://stream.rojatv.cloud/rojatv/rojatv/index.m3u8" },
+      { "server_name": "Server 2", "url": "" }
+    ]
+  },
+  {
+    "title": "Shemaroo Bollywood",
+    "poster": "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/shemaroo-bollywood.png",
+    "description": "",
+    "sources": [
+      { "server_name": "Server 1", "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8" },
+      { "server_name": "Server 2", "url": "" }
+    ]
+  },
+  {
+    "title": "Shemaroo Josh",
+    "poster": "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/shemaroo-josh.png",
+    "description": "",
+    "sources": [
+      { "server_name": "Server 1", "url": "https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/playlist.m3u8" },
+      { "server_name": "Server 2", "url": "" }
+    ]
+  },
+  {
+    "title": "Shemaroo Marathi Bana",
+    "poster": "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/shemaroo-marathi-bana.png",
+    "description": "",
+    "sources": [
+      { "server_name": "Server 1", "url": "https://airtelapp.shemaroo.com/marathibana/smil:marathibanaadp.smil/playlist.m3u8" },
+      { "server_name": "Server 2", "url": "" }
+    ]
+  },
+  {
+    "title": "Shubh Cinema TV",
+    "poster": "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/shubh-cinema-tv.png",
+    "description": "",
+    "sources": [
+      { "server_name": "Server 1", "url": "https://d393sxaxig6bax.cloudfront.net/out/v1/589cf2cf44bf42bb941e817a2240d62e/index.m3u8" },
+      { "server_name": "Server 2", "url": "" }
+    ]
+  },
+  {
+    "title": "Soneri Cinema",
+    "poster": "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/international/soneri-cinema-360p.png",
+    "description": "",
+    "sources": [
+      { "server_name": "Server 1", "url": "https://samitaorigin.tangotv.in/SONERICINEMA/SAMITAORIGIN/index.m3u8" },
+      { "server_name": "Server 2", "url": "" }
+    ]
+  },
+  {
+    "title": "Sony Movies",
+    "poster": "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/sony-movies-563051ab.png",
+    "description": "",
+    "sources": [
+      { "server_name": "Server 1", "url": "https://a-cdn.klowdtv.com/live1/smc_720p/chunks.m3u8" },
+      { "server_name": "Server 2", "url": "" }
+    ]
+  },
+  {
+    "title": "Sony Wah",
+    "poster": "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/sony-wah.png",
+    "description": "",
+    "sources": [
+      { "server_name": "Server 1", "url": "http://163.61.226.31:9981/stream/channelid/1743466790?profile=pass" },
+      { "server_name": "Server 2", "url": "" }
+    ]
+  },
+  {
+    "title": "South Station",
+    "poster": "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/south-station.png",
+    "description": "",
+    "sources": [
+      { "server_name": "Server 1", "url": "https://cc-yw7ztecy8do3q.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yw7ztecy8do3q/SS_IN.m3u8" },
+      { "server_name": "Server 2", "url": "" }
+    ]
+  },
+  {
+    "title": "Star Gold",
+    "poster": "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/repaired-star-gold-de06c8e974.png",
+    "description": "",
+    "sources": [
+      { "server_name": "Server 1", "url": "http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_h88Vwd-RYjQbJ-cqkeqI9-8" },
+      { "server_name": "Server 2", "url": "" }
+    ]
+  },
+  {
+    "title": "Star Maa Movies",
+    "poster": "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/star-maa-movies.png",
+    "description": "",
+    "sources": [
+      { "server_name": "Server 1", "url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:maamovies.smil/chunklist_b2628000.m3u8" },
+      { "server_name": "Server 2", "url": "" }
+    ]
+  },
+  {
+    "title": "Star Utsav Movies",
+    "poster": "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/star-utsav-movies.png",
+    "description": "",
+    "sources": [
+      { "server_name": "Server 1", "url": "http://163.61.226.31:9981/stream/channelid/1225596390?profile=pass" },
+      { "server_name": "Server 2", "url": "" }
+    ]
+  },
+  {
+    "title": "Studio One +",
+    "poster": "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/studio-one.png",
+    "description": "",
+    "sources": [
+      { "server_name": "Server 1", "url": "https://cdn.pishow.tv/ott/live/276/master.m3u8" },
+      { "server_name": "Server 2", "url": "" }
+    ]
+  },
+  {
+    "title": "Sun Gemini",
+    "poster": "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/sun-gemini-1a4fc59fb6.png",
+    "description": "",
+    "sources": [
+      { "server_name": "Server 1", "url": "http://ptuf.ridsys.in/riptv/live/GEMINI_TV/index.m3u8" },
+      { "server_name": "Server 2", "url": "" }
+    ]
+  },
+  {
+    "title": "Thalaa TV",
+    "poster": "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/thalaa-tv.png",
+    "description": "",
+    "sources": [
+      { "server_name": "Server 1", "url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2069c593-3c07-4d62-9d44-746be5c3a5d6/manifest.m3u8" },
+      { "server_name": "Server 2", "url": "" }
+    ]
+  },
+  {
+    "title": "The Movie Club",
+    "poster": "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/the-movie-club.png",
+    "description": "",
+    "sources": [
+      { "server_name": "Server 1", "url": "https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-mp2ar4ca425xo.m3u8" },
+      { "server_name": "Server 2", "url": "" }
+    ]
+  },
+  {
+    "title": "The Movie Club +2",
+    "poster": "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/the-movie-club-2.png",
+    "description": "",
+    "sources": [
+      { "server_name": "Server 1", "url": "https://d3gnyty2vddhsg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-ytipwjqub3kf8/TMC2_IN.m3u8?ads.ads_cdn=cf&ads.cdn=cf" },
+      { "server_name": "Server 2", "url": "" }
+    ]
+  },
+  {
+    "title": "Tolly TV",
+    "poster": "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/tolly-tv.png",
+    "description": "",
+    "sources": [
+      { "server_name": "Server 1", "url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/13b5735d-52c3-4be0-853d-e0ec0127e708/manifest.m3u8" },
+      { "server_name": "Server 2", "url": "" }
+    ]
+  },
+  {
+    "title": "Vision (India)",
+    "poster": "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/vision-india.png",
+    "description": "",
+    "sources": [
+      { "server_name": "Server 1", "url": "http://103.85.204.205:1935/VISIONMEDIA/live/playlist.m3u8" },
+      { "server_name": "Server 2", "url": "" }
+    ]
+  },
+  {
+    "title": "Zee Bangla Cinema",
+    "poster": "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/zee-bangla-cinema.png",
+    "description": "",
+    "sources": [
+      { "server_name": "Server 1", "url": "https://drk6xq0vhn.gpcdn.net/live/zee_bangla_cinema_abr/index.m3u8" },
+      { "server_name": "Server 2", "url": "" }
+    ]
+  },
+  {
+    "title": "Zee Bollywood",
+    "poster": "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/zee-bollywood.png",
+    "description": "",
+    "sources": [
+      { "server_name": "Server 1", "url": "https://drk6xq0vhn.gpcdn.net/live/zee_bollywood_abr/index.m3u8" },
+      { "server_name": "Server 2", "url": "" }
+    ]
+  },
+  {
+    "title": "Zee Cinema",
+    "poster": "https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/zee-cinema.png",
+    "description": "",
+    "sources": [
+      { "server_name": "Server 1", "url": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeCinemaAPAC.m3u8" },
+      { "server_name": "Server 2", "url": "" }
+    ]
+  },
+
+  {
           "title": "ZB Cinema",
           "poster": "https://i.postimg.cc/L8xzTtQY/k-Ug6WSk.jpg",
           "description": "",
