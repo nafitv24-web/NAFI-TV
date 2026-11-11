@@ -76,9 +76,9 @@
           "description": "",
           "sources": [
             { "server_name": "S1", "url": "https://tvsen6.aynaott.com/YrVDF8gujkdh/tracks-a1/mono.ts.m3u8" },
-            { "server_name": "S2", "url": "https://drk6xq0vhn.gpcdn.net/live/channel_24_abr/index.m3u8" },
+            { "server_name": "S2", "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel24-sg-e8e.stream/tracks-v1a1/mono.m3u8" },
            { "server_name": "S3", "url": "https://stream.ottplus.live/live/channel_24_abr/index.m3u8" },
-           { "server_name": "S4", "url": "https://tvsen6.aynaott.com/YrVDF8gujkdh/tracks-v1a1/mono.ts.m3u8" },
+           { "server_name": "S4", "url": "https://drk6xq0vhn.gpcdn.net/live/channel_24_abr/index.m3u8" },
           { "server_name": "S5", "url": "https://robitv.com/rn/http://103.141.70.136:8080//bdtv/restrem/14.m3u8" }
           ]
         },
