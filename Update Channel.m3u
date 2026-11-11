@@ -86,8 +86,11 @@
           "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIjE7f0aJxSS-mAtRUplbznzz2N6ECwgMpxvsyCe-9ig&s=10",
           "description": "",
           "sources": [
-            { "server_name": "S1", "url": "https://tvsen6.aynaott.com/fbgZV3X17hwWcyfZ4pdb/tracks-v1a1/mono.ts.m3u8 " },
-            { "server_name": "S2", "url": "https://playztv-apps.pages.dev/ekattor-tv/index.m3u8" }
+            { "server_name": "S1", "url": "https://tvsen6.aynaott.com/EWDrV5QskgarZEUBb3pU/index.m3u8" },
+            { "server_name": "S2", "url": "https://ireentv.pages.dev/Ekattor_TV_Server_2.m3u8" },
+            { "server_name": "S3", "url": "https://nkafmbewiff.gpcdn.net/tile_1/1080p.m3u8" },
+            { "server_name": "S4", "url": "https://tvsen6.aynaott.com/fbgZV3X17hwWcyfZ4pdb/tracks-v1a1/mono.ts.m3u8 " },
+            { "server_name": "S5", "url": "https://playztv-apps.pages.dev/ekattor-tv/index.m3u8" }
           ]
         },
         {
