@@ -4927,9 +4927,9 @@
           "poster": "https://www.giantfreakinrobot.com/wp-content/uploads/2023/07/disney-channel.jpg",
           "description": "",
           "sources": [
-            { "server_name": "Server 1", "url": "http://my-king.net:7070/live/160145116653133/aO1ltsOFDzkWxPN/154864.ts" },
-            { "server_name": "Server 2", "url": "http://my-king.net:7070/live/160145116653133/aO1ltsOFDzkWxPN/154859.ts" },
-            { "server_name": "Server 3", "url": "http://my-king.net:7070/live/160145116653133/aO1ltsOFDzkWxPN/154858.ts" },
+            { "server_name": "Server 1", "url": "http://fortv.cc:8080/live/yd6H5yb2kK/nrkVd2ex3X/2206.ts" },
+            { "server_name": "Server 2", "url": "http://185.227.34.179:8080/disney-xd/index.m3u8" },
+            { "server_name": "Server 3", "url": "http://185.227.34.179:8080/disney-xd/tracks-v1a1/mono.m3u8" },
             { "server_name": "Server 4", "url": "http://my-king.net:7070/live/160145116653133/aO1ltsOFDzkWxPN/154860.ts" }
           ]
         },
@@ -4940,6 +4940,15 @@
           "sources": [
             { "server_name": "Server 1", "url": "http://185.227.34.179:8080/disney-channel-hd/index.m3u8" },
             { "server_name": "Server 2", "url": "http://88.212.15.19/live/disney_channel_hun/index.m3u8" }
+          ]
+        },
+{
+          "title": "Disney Jr.",
+          "poster": "https://static.wikia.nocookie.net/logopedia/images/4/48/DisneyJr3Dver.png",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "http://181.119.215.61:8000/play/a0g1/index.m3u8" },
+            { "server_name": "Server 2", "url": "http://190.93.224.42/DISNEY-JR/index.m3u8" }
           ]
         },
 {
@@ -5118,15 +5127,7 @@
           ]
         },
         
-        {
-          "title": "Disney Jr.",
-          "poster": "https://static.wikia.nocookie.net/logopedia/images/4/48/DisneyJr3Dver.png",
-          "description": "",
-          "sources": [
-            { "server_name": "Server 1", "url": "http://190.93.224.42/DISNEY-JR/index.m3u8" },
-            { "server_name": "Server 2", "url": "" }
-          ]
-        },
+        
         {
           "title": "Doraemon",
           "poster": "https://static.wikia.nocookie.net/logopedia/images/e/e4/Doraemon2005.svg",
