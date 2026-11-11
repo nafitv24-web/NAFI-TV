@@ -127,8 +127,8 @@
           "poster": "https://i.ibb.co.com/wZVCdh11/Picsart-24-10-22-13-05-19-527.webp",
           "description": "",
           "sources": [
-            { "server_name": "Server 1", "url": "https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8" },
-            { "server_name": "Server 2", "url": "" }
+            { "server_name": "Server 1", "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/jagonews24.stream/playlist.m3u8" },
+            { "server_name": "Server 2", "url": "https://app.ncare.live/live-orgin/jagonews24.stream/live-orgin/jagonews24.stream/chunks.m3u8" }
           ]
         },
 {
