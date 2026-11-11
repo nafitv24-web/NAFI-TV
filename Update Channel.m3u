@@ -608,7 +608,7 @@
           ]
         },
 { "title": "IBTV US",
-          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6XTvzfjzZaBJ4NUFcMM0dtTmveRDx5T0mPjAYy04EfA&s=10",
+          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrbTWpWJeliwvD0dfuBRK8yT97HK5NCoQ923XlyyXWJnXwfvUCmQYQ4SY&s=10",
           "description": "",
           "sources": [
             { "server_name": "Server 1", "url": "https://cdn.livestreambd.com/IBTV/index.m3u8" },
@@ -636,6 +636,14 @@
           "description": "",
           "sources": [
             { "server_name": "Server 1", "url": "https://stream.channeleuropetvboxlondon.co.uk/live/nextplanet/playlist.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+{ "title": "ABC NEWS",
+          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_qEM1XGmmv7pJp0k78Ia_8dgfx5xHd_BeCfAlRBiPGg&s",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://stream.channeleuropetvboxlondon.co.uk/live/abcnews/playlist.m3u8" },
             { "server_name": "Server 2", "url": "" }
           ]
         },
