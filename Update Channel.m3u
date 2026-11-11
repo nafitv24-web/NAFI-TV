@@ -2975,9 +2975,10 @@
           "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHAnR8Yix2SW9RqFzcTsBUvvRGBUwy4Mhl1e0PVd4G7g&s=10",
           "description": "",
           "sources": [
-            { "server_name": "Server 1", "url": "http://172.19.17.139:8090/hls/StarMoviesHD.m3u8" },
-            { "server_name": "Server 1", "url": "http://103.151.60.162:2122/play/a02k/index.m3u8?hls" },
-            { "server_name": "Server 2", "url": "http://202.70.146.135:8000/play/a06r/index.m3u8" }
+            { "server_name": "S1", "url": "https://livetv.shamon-cable.net:8443/Star-Movies/index.m3u8" },
+            { "server_name": "S2", "url": "http://172.19.17.139:8090/hls/StarMoviesHD.m3u8" },
+            { "server_name": "S3", "url": "http://103.151.60.162:2122/play/a02k/index.m3u8?hls" },
+            { "server_name": "S4", "url": "http://202.70.146.135:8000/play/a06r/index.m3u8" }
           ]
         },
      {
@@ -2985,9 +2986,10 @@
           "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt3Hro_cxEd1jmanWn2EId4IMMMiRX67fh5vu4UGOvMA&s=10",
           "description": "",
           "sources": [
-            { "server_name": "Server 1", "url": "http://103.135.253.32:8080/STAR-MOVIES-SEL/index.m3u8" },
-            { "server_name": "Server 2", "url": "http://103.151.60.162:2122/play/a02l/index.m3u8?hls" },
-            { "server_name": "Server 3", "url": "http://202.70.146.135:8000/play/a06q/index.m3u8" }
+            { "server_name": "S1", "url": "https://livetv.shamon-cable.net:8443/Star-movies-select/index.m3u8" },
+           { "server_name": "S2", "url": "http://103.135.253.32:8080/STAR-MOVIES-SEL/index.m3u8" },
+            { "server_name": "S3", "url": "http://103.151.60.162:2122/play/a02l/index.m3u8?hls" },
+            { "server_name": "S4", "url": "http://202.70.146.135:8000/play/a06q/index.m3u8" }
           ]
         },
         
@@ -3867,10 +3869,10 @@
           "poster": "https://exchange4media.gumlet.io/news-photo/155155-Z1.jpg",
           "description": "",
           "sources": [
-            { "server_name": "Server 1", "url": "http://rgkkw.live/live/4dfoydR2gZ/clever3still/741567.ts" },
-           { "server_name": "Server 2", "url": "link" },
+            { "server_name": "Server 1", "url": "https://livetv.shamon-cable.net:8443/Unite8-sports-1/tracks-v1a1/mono.m3u8" },
+           { "server_name": "Server 2", "url": "" },
            
-            { "server_name": "Server 3", "url": "link" }
+            { "server_name": "Server 3", "url": "http://rgkkw.live/live/4dfoydR2gZ/clever3still/741567.ts" }
           ]
         },
 
