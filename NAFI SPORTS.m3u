@@ -15,6 +15,10 @@
               "server_name": "BTV",
               "url": "https://nkafmbewiff.gpcdn.net/tile_2/master.m3u8"
             },
+         {
+              "server_name": "BS 2",
+              "url": "https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1794412387-0-0-03c3003d3636cc60020a18235cd5b75f"
+            },
           {
               "server_name": "T Sports 2",
               "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8"
