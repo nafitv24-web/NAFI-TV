@@ -5095,7 +5095,7 @@
           "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWhb5NcwC7tY614RzvC2yahgG1BR50ntKM6DFRYzkcbg&s=10",
           "description": "",
           "sources": [
-            { "server_name": "Server 1", "url": "https://tv4.udiqipuw544.workers.dev/cdn/live/slang/cartoon_network_hd_320/cartoon_network_hd_320.m3u8?bitrate=1300000&channel=cartoon_network_hd_320&gp_id=&hdnea=exp=1789775163~acl=/*~id=26143412139338467611568365481974~hmac=ae519a2d93b673d787a2cdc8753186b299adacaa0348118a13f42ddecf7db803" },
+            { "server_name": "Server 1", "url": "https://livetv.shamon-cable.net/proxy/proxy.php?id=13769a5295d4173705bb1f0887b3fa7ca66b" },
             { "server_name": "Server 2", "url": "https://live20.bozztv.com/giatvplayout7/giatv-209624/tracks-v1a1/mono.ts.m3u8" }
           ]
         },
