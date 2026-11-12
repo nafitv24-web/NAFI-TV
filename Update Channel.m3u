@@ -189,7 +189,8 @@
           "sources": [
             { "server_name": "S1", "url": "https://tvsen5.aynaott.com/SyQuXz8sC3TB/index.m3u8" },
            { "server_name": "S2", "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ekusheytv-8-org.stream/index.m3u8" },
-            { "server_name": "S3", "url": "http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8" }
+          { "server_name": "S3", "url": "https://tvplus.unosottor.workers.dev/ekusheytv.m3u8" },
+           { "server_name": "S4", "url": "http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8" }
           ]
         },
         {
