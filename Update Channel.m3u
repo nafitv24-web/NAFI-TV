@@ -3811,12 +3811,12 @@
           "poster": "https://i.ibb.co.com/jN8bp6j/Picsart-24-10-18-13-01-51-903.webp",
           "description": "",
           "sources": [
-            { "server_name": "Server 1", "url": "http://103.135.253.32:8080/T-SPORTS-FULL-HD/tracks-v1a1/mono.m3u8" },
-           { "server_name": "Server 2", "url": "https://tvsen7.aynascope.net/zY3hJ7pQ2vM5gD8s/tracks-v1a1/mono.ts.m3u8" },
-           { "server_name": "Server 3", "url": "https://tvsen6.aynaott.com/cdgr3tw6WoG7JyRnLbi0/tracks-v1a1/mono.ts.m3u8" },
-           { "server_name": "Server 4", "url": "https://d3bq19vx8xhpwy.cloudfront.net/live/myStream/playlist.m3u8" },
-          { "server_name": "Server 5", "url": "https://d3bq19vx8xhpwy.cloudfront.net/live/myStream/playlist.m3u8" },
-           { "server_name": "Server 6", "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8" }
+            { "server_name": "S1", "url": "https://livetv.shamon-cable.net:8443/T-Sports-FHD/tracks-v1a1/mono.m3u8" },
+           { "server_name": "S2", "url": "https://tvsen7.aynascope.net/zY3hJ7pQ2vM5gD8s/tracks-v1a1/mono.ts.m3u8" },
+           { "server_name": "S3", "url": "https://tvsen6.aynaott.com/cdgr3tw6WoG7JyRnLbi0/tracks-v1a1/mono.ts.m3u8" },
+           { "server_name": "S4", "url": "https://app-zibo-play40.tvhunter.top/newr/T-SPORTS-HD.m3u8" },
+          { "server_name": "S5", "url": "https://d3bq19vx8xhpwy.cloudfront.net/live/myStream/playlist.m3u8" },
+           { "server_name": "S6", "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8" }
           ]
         },
 
