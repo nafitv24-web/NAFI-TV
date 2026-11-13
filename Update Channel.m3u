@@ -282,24 +282,7 @@
             { "server_name": "S2", "url": "http://103.14.151.101:8000/play/a0zz/89234183.m3u8" }
           ]
         },
-        {
-          "title": "EP TV",
-          "poster": "https://i.postimg.cc/dQyBRGZR/eptv-large-1784915389231-9f42f1b48d424c8c.webp",
-          "description": "",
-          "sources": [
-            { "server_name": "Server 1", "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/eptv.stream/playlist.m3u8" },
-            { "server_name": "Server 2", "url": "" }
-          ]
-        },
-        {
-          "title": "News 21 Bangla TV",
-          "poster": "https://i.postimg.cc/8knh34Z5/iju-Jfmd.png",
-          "description": "",
-          "sources": [
-            { "server_name": "Server 1", "url": "http://103.190.133.68:1935/news21live/live/playlist.m3u8" },
-            { "server_name": "Server 2", "url": "" }
-          ]
-        },
+        
         {
           "title": "Enter TV",
           "poster": "https://play-lh.googleusercontent.com/ZzqDOHkm_HsqLbHtFs0pysILAHWX-N-Ng-FQc8UNVovaoYw4vVaeo2p-B8YMfpP49DR9BRLIujDQow04Nd795w",
@@ -572,7 +555,24 @@
           ]
         },
 
-
+{
+          "title": "EP TV",
+          "poster": "https://i.postimg.cc/dQyBRGZR/eptv-large-1784915389231-9f42f1b48d424c8c.webp",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/eptv.stream/playlist.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+        {
+          "title": "News 21 Bangla TV",
+          "poster": "https://i.postimg.cc/8knh34Z5/iju-Jfmd.png",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "http://103.190.133.68:1935/news21live/live/playlist.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
         {
           "title": "TBN 24",
           "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP7YDixSWJm7L32jMiptC0Kpvw_poK4tfrlsm8zqrixA&s=10",
