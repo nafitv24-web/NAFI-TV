@@ -211,6 +211,15 @@
             { "server_name": "S2", "url": "https://tvsen5.aynaott.com/JHPxHAWonztVucyc4GzF/index.m3u8" }
           ]
         },
+{
+          "title": "NTV TV UK",
+          "poster": "https://static.wikia.nocookie.net/logopedia/images/c/c7/NTV_logo_with_slogan_%28Bangladesh%29.png",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/playlist.m3u8" },
+            { "server_name": "Server 2", "url": "https://ireentv.pages.dev/NTV_UK_Server_1.m3u8" }
+       ]
+        },
         {
           "title": "RTV",
           "poster": "https://i.ibb.co.com/fVQD2F6G/Picsart-24-10-18-15-01-52-492.webp",
@@ -562,6 +571,8 @@
             { "server_name": "Server 2", "url": "https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8" }
           ]
         },
+
+
         {
           "title": "TBN 24",
           "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP7YDixSWJm7L32jMiptC0Kpvw_poK4tfrlsm8zqrixA&s=10",
@@ -569,16 +580,7 @@
           "sources": [
             { "server_name": "Server 1", "url": "http://cdn01.palki.tv/live/TBN24-M/index.m3u8" },
             { "server_name": "Server 2", "url": "http://cdn01.palki.tv/live/TBN24-M/index.m3u8" }
-          ]
-        },
-        
-        {
-          "title": "NTV TV UK",
-          "poster": "https://static.wikia.nocookie.net/logopedia/images/c/c7/NTV_logo_with_slogan_%28Bangladesh%29.png",
-          "description": "",
-          "sources": [
-            { "server_name": "Server 1", "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/playlist.m3u8" },
-            { "server_name": "Server 2", "url": "" }
+          
           ]
         }
       ]
