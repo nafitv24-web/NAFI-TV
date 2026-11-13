@@ -1150,8 +1150,8 @@
           "description": "",
           "sources": [
             { "server_name": "S1", "url": "https://stream.ottplus.live/live/sony_aath_abr/index.m3u8" },
-            { "server_name": "S2", "url": "http://app-zibo-play40.tvhunter.top/newr/SONY.AAT.m3u8" },
-           { "server_name": "S3", "url": "http://103.135.253.32:8080/SONY_AATH/index.m3u8" },
+            { "server_name": "S2", "url": "http://27.124.71.27/Sony_Aath/tracks-v1a1/mono.m3u8" },
+           { "server_name": "S3", "url": "http://app-zibo-play40.tvhunter.top/newr/SONY.AAT.m3u8" },
            { "server_name": "S4", "url": "https://digitalotthub.com/tv/toffee-by-maruf/live.php?id=sonyaath&e=.m3u8" },
           { "server_name": "S5", "url": "https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8" }
           ]
