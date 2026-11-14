@@ -25,7 +25,7 @@
               "url": "https://live05.wecile.app/live/87547578.m3u8"
             },
           {
-              "server_name": "T Sports 2",
+              "server_name": "T Sports 1",
               "url": "https://livetv.shamon-cable.net:8443/T-Sports-FHD/tracks-v1a1/mono.m3u8"
             },
             
@@ -35,16 +35,16 @@
             },
 
             {
-              "server_name": "S1",
-              "url": "https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8"
+              "server_name": "T Sports 2",
+              "url": "http://103.114.11.37:8081/T-Sports-FHD/index.m3u8?token=sboxcast"
             },
             {
-              "server_name": "S2",
-              "url": "https://live1.quickscoreboardz.com/live/channel6/playlist.m3u8?wsSecret=08a37144107c414146717c08f8c3f6db&wsABSTime=1790328284"
+              "server_name": "T Sports 3",
+              "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8"
             },
             {
-              "server_name": "S3",
-              "url": "https://live2.jorvakstreamcache.com/live/channel14.m3u8"
+              "server_name": "T Sports 4",
+              "url": "https://ireentv.pages.dev/T_Sports_HD_Server_7.m3u8"
             }
           ]
         },
