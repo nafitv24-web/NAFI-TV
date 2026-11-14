@@ -3814,8 +3814,8 @@
           "poster": "https://i.ibb.co.com/jN8bp6j/Picsart-24-10-18-13-01-51-903.webp",
           "description": "",
           "sources": [
-            { "server_name": "S1", "url": "https://livetv.shamon-cable.net:8443/T-Sports-FHD/tracks-v1a1/mono.m3u8" },
-           { "server_name": "S2", "url": "https://tvsen7.aynascope.net/zY3hJ7pQ2vM5gD8s/tracks-v1a1/mono.ts.m3u8" },
+            { "server_name": "S1", "url": "http://103.114.11.37:8081/T-Sports-FHD/index.m3u8?token=sboxcast" },
+           { "server_name": "S2", "url": "http://103.209.196.22:84/feed1001/tracks-v1a1/mono.m3u8" },
            { "server_name": "S3", "url": "https://tvsen6.aynaott.com/cdgr3tw6WoG7JyRnLbi0/tracks-v1a1/mono.ts.m3u8" },
            { "server_name": "S4", "url": "https://app-zibo-play40.tvhunter.top/newr/T-SPORTS-HD.m3u8" },
           { "server_name": "S5", "url": "https://d3bq19vx8xhpwy.cloudfront.net/live/myStream/playlist.m3u8" },
