@@ -3816,7 +3816,7 @@
           "sources": [
             { "server_name": "S1", "url": "http://103.114.11.37:8081/T-Sports-FHD/index.m3u8?token=sboxcast" },
            { "server_name": "S2", "url": "http://103.209.196.22:84/feed1001/tracks-v1a1/mono.m3u8" },
-           { "server_name": "S3", "url": "https://tvsen6.aynaott.com/cdgr3tw6WoG7JyRnLbi0/tracks-v1a1/mono.ts.m3u8" },
+           { "server_name": "S3", "url": "https://server1.ziboplay.co/T-SPORRTS-HD/index.m3u8?token=AKASH" },
            { "server_name": "S4", "url": "https://app-zibo-play40.tvhunter.top/newr/T-SPORTS-HD.m3u8" },
           { "server_name": "S5", "url": "https://d3bq19vx8xhpwy.cloudfront.net/live/myStream/playlist.m3u8" },
            { "server_name": "S6", "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8" }
