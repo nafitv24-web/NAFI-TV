@@ -28,13 +28,7 @@
               "server_name": "T Sports 1",
               "url": "https://livetv.shamon-cable.net:8443/T-Sports-FHD/tracks-v1a1/mono.m3u8"
             },
-            
-            {
-              "server_name": "NAFI",
-              "url": "https://pull.niues.live/live/stream-623653_lhd.m3u8?auth_key=1794651488-0-0-1c20400c2c9c26fe1c465c4717cbfa8e"
-            },
-
-            {
+           {
               "server_name": "T Sports 2",
               "url": "http://103.114.11.37:8081/T-Sports-FHD/index.m3u8?token=sboxcast"
             },
@@ -45,7 +39,14 @@
             {
               "server_name": "T Sports 4",
               "url": "https://ireentv.pages.dev/T_Sports_HD_Server_7.m3u8"
+            },
+            
+            {
+              "server_name": "NAFI",
+              "url": "https://pull.niues.live/live/stream-623653_lhd.m3u8?auth_key=1794651488-0-0-1c20400c2c9c26fe1c465c4717cbfa8e"
             }
+
+            
           ]
         },
       {
