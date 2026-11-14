@@ -36,8 +36,12 @@
               "server_name": "T Sports 3",
               "url": "http://103.209.196.22:84/feed1001/tracks-v1a1/mono.m3u8"
             },
-            {
+         {
               "server_name": "T Sports 4",
+              "url": "https://server1.ziboplay.co/T-SPORRTS-HD/index.m3u8?token=AKASH"
+            },
+            {
+              "server_name": "T Sports 5",
               "url": "https://ireentv.pages.dev/T_Sports_HD_Server_7.m3u8"
             },
             
