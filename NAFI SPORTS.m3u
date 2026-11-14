@@ -4,7 +4,51 @@
       "category_name": "BANGLADESH",
       "movies": [
         
+    
         {
+          "title": "BANGLADESH VS PAKISTAN",
+          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa5WhEMexHufC7I6PyD45SGIFd677EHL8uHvBwakJab5tMa_lz0v4v3yjY&s=10",
+          "description": "",
+          "time": "04:30 PM",
+          "date": "2026-09-25",
+          "sources": [
+         {
+              "server_name": "BTV",
+              "url": "https://nkafmbewiff.gpcdn.net/tile_2/master.m3u8"
+            },
+         {
+              "server_name": "BS 2",
+              "url": "https://pull.niues.live/live/stream-9912128_lhd.m3u8?auth_key=1794413047-0-0-33f5aeaae41b5f63e29c0e37d6b5d697"
+            },
+      {
+              "server_name": "BS 3",
+              "url": "https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1794412507-0-0-da479159bf074c4a7d49e5fe1118f1dd"
+            },
+          {
+              "server_name": "T Sports 2",
+              "url": "https://livetv.shamon-cable.net:8443/T-Sports-FHD/tracks-v1a1/mono.m3u8"
+            },
+            
+            {
+              "server_name": "NAFI",
+              "url": "https://tv.kbhub.online/Live-Event-Sports/PTV.m3u8"
+            },
+
+            {
+              "server_name": "S1",
+              "url": "https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8"
+            },
+            {
+              "server_name": "S2",
+              "url": "https://live1.quickscoreboardz.com/live/channel6/playlist.m3u8?wsSecret=08a37144107c414146717c08f8c3f6db&wsABSTime=1790328284"
+            },
+            {
+              "server_name": "S3",
+              "url": "https://live2.jorvakstreamcache.com/live/channel14.m3u8"
+            }
+          ]
+        },
+      {
           "title": "All NAFI FOOTBALL ⚽",
           "poster": "https://i.supaimg.com/83afe636-c743-4025-87ea-6f9f3f10d71f/91012331-e0b1-42fb-87c0-23c1137f9d0d.png",
           "description": "",
