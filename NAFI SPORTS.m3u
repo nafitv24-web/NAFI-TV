@@ -18,11 +18,11 @@
             },
          {
               "server_name": "BS 2",
-              "url": "https://pull.niues.live/live/stream-9912128_lhd.m3u8?auth_key=1794413047-0-0-33f5aeaae41b5f63e29c0e37d6b5d697"
+              "url": "https://live2.jorvakstreamcache.com/live/channel7.m3u8"
             },
       {
               "server_name": "BS 3",
-              "url": "https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1794412507-0-0-da479159bf074c4a7d49e5fe1118f1dd"
+              "url": "https://live05.wecile.app/live/87547578.m3u8"
             },
           {
               "server_name": "T Sports 2",
@@ -31,7 +31,7 @@
             
             {
               "server_name": "NAFI",
-              "url": "https://tv.kbhub.online/Live-Event-Sports/PTV.m3u8"
+              "url": "https://pull.niues.live/live/stream-623653_lhd.m3u8?auth_key=1794651488-0-0-1c20400c2c9c26fe1c465c4717cbfa8e"
             },
 
             {
