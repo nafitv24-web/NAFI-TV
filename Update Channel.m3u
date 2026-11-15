@@ -2951,7 +2951,7 @@
           "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQra5BjekSOPB3tB78CqfkJa0W2lpP3Qo38O7qgxGIWKg&s",
           "description": "",
           "sources": [
-            { "server_name": "Server 1", "url": "http://livetv.akr4m.com:8080/bdtv/restrem/47.m3u8" },
+            { "server_name": "Server 1", "url": "http://38.199.5.160:8000/play/a09o/64172004.m3u8" },
             { "server_name": "Server 2", "url": "https://robitv.com/rn/http://103.141.70.136:8080//bdtv/restrem/47.m3u8" }
           ]
         },
@@ -3012,7 +3012,7 @@
           "description": "",
           "sources": [
             { "server_name": "Server 1", "url": "http://202.70.146.135:8000/play/a009/index.m3u8" },
-            { "server_name": "Server 2", "url": "http://103.135.253.32:8080/STAR-PLUS/tracks-v1a1/mono.m3u8" }
+            { "server_name": "Server 2", "url": "https://d1rc86nwwc9fag.cloudfront.net/260723/starplusuk_2500/chunklist.m3u8" }
           ]
         },
         {
