@@ -2729,7 +2729,7 @@
           "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFjycCvDUdwc3KVlGHZKmW7J-NIQUz6zhhOZsTLqnayQ&s=10",
           "description": "",
           "sources": [
-            { "server_name": "Server 1", "url": "http://livetv.akr4m.com:8080/bdtv/restrem/51.m3u8" },
+            { "server_name": "Server 1", "url": "http://9176014.j01m.cc/live/KS3PZD49/XQT4RR4X/171483.ts?token=ShoJV0NcEgMVXlcFVARVCAQEA1ZTAlRcBQYGBQ4DUAYDCFIHVAxVXw8aSUEXREVVBwg6DFUXC1UEBAReCxlAEEJdE2lZUBIDFQFUVFIABgRESUcRWFhURgkEB18MDFJWAQ1YGhJEWV0VAkdSUQkEB19UR0kTUEkQVkdeB1RqBgBHUQJTEg5eTFtUSUELXmhUAwgEC1UXC0YCFxxEUUYSRwtWFFpcGBJbXkwXAhBVFQpEV1FXABcdRlBaRQhMRxtHCxojchIYElxPTAANF1lYXkRfRxFCFx1GWkZvFF1GFhdUWQxTQhYKGwcaSUEJUU9vBQoLC1RWRQ1cW0NEAhdTRx0aDFleXURWRWcVCgASDRJXUFZXAgMBRk4=" },
            { "server_name": "Server 2", "url": "http://103.135.253.32:8080/DISCOVERY/tracks-v1a1/mono.m3u8" },
            { "server_name": "Server 3", "url": "http://202.70.146.135:8000/play/a05z/index.m3u8" },
             { "server_name": "Server 4", "url": "https://stream.ottplus.bd/live/discovery_sd_abr/index.m3u8" }
