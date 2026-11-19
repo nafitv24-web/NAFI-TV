@@ -512,7 +512,7 @@
           "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcOmF5-fIzc2IrwXLYSsmUegufJp7YPE-Cv2LAcjgFoQ&s=10",
           "description": "",
           "sources": [
-            { "server_name": "Server 1", "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_drama/playlist.m3u8" },
+            { "server_name": "Server 1", "url": "https://toffee.aliflaila.live/channel/6.m3u8" },
             { "server_name": "Server 2", "url": "" }
           ]
         },
