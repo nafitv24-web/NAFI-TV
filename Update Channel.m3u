@@ -36,7 +36,7 @@
           ]
         },
         {
-          "title": "BTV Chittagong",
+          "title": "BTV Chattogram",
           "poster": "https://i.ibb.co.com/k2R3QmKF/Picsart-24-10-21-19-38-26-976.webp",
           "description": "",
           "sources": [
@@ -103,7 +103,7 @@
           ]
         },
         {
-          "title": "Independent",
+          "title": "Independent TV",
           "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjrkJKAyHpD97FHO01JRPLa5qiL0mzI3HDv4rGqc3GCQ&s=10",
           "description": "",
           "sources": [
@@ -115,7 +115,7 @@
           ]
         },
         {
-          "title": "Jamuna",
+          "title": "Jamuna TV",
           "poster": "https://i.ibb.co.com/Q53pd8Y/Picsart-24-10-18-14-34-53-452.webp",
           "description": "",
           "sources": [
@@ -174,7 +174,7 @@
           ]
         },
         {
-          "title": "Boishakhi",
+          "title": "Boishakhi TV",
           "poster": "https://i.ibb.co.com/RGKb7KqL/Picsart-24-10-22-17-24-17-694.webp",
           "description": "",
           "sources": [
@@ -230,7 +230,7 @@
           ]
         },
         {
-          "title": "Banglavision",
+          "title": "Bangla Vision",
           "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR95co-7n55t4sxRVFwqk1RMboYrnHKFFthJS_RPra0RA&s",
           "description": "",
           "sources": [
@@ -313,7 +313,7 @@
         },
         
         {
-          "title": "Deepto",
+          "title": "Deepto TV",
           "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJsPttAQrRl0mE2Z9bTyIy4684cJTfjITJyrPR_0JCgA&s=10",
           "description": "",
           "sources": [
@@ -322,7 +322,7 @@
           ]
         },
         {
-          "title": "Maasranga",
+          "title": "Maasranga TV",
           "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8kTOl8Km81-CLBeJPhT6IV7qzcevpagYV0J23MEE8qA&s=10",
           "description": "",
           "sources": [
@@ -331,7 +331,7 @@
           ]
         },
         {
-          "title": "Ekhon",
+          "title": "Ekhon TV",
           "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhkJZDMej0M1uEKqjgiJku-Iu4EZI4DVTZErRSP4w8dw&s=10",
           "description": "",
           "sources": [
@@ -340,7 +340,7 @@
           ]
         },
 {
-          "title": "Nexus",
+          "title": "Nexus TV",
           "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyweNyHQvLTNxJB-L0JLBGSWR-xOl2Nujco0-weaKgJQ&s=10",
           "description": "",
           "sources": [
@@ -445,7 +445,7 @@
           ]
         },
         {
-          "title": "Asian",
+          "title": "Asian TV",
           "poster": "https://i.postimg.cc/xdj4TwHX/20240822-230629.png",
           "description": "",
           "sources": [
@@ -3852,9 +3852,7 @@
   "poster": "https://i.ibb.co.com/Zpm4jBCW/Picsart-24-10-27-12-58-33-972.webp",
   "description": "",
   "sources": [
-    {
-      "server_name": "Server 1",
-      "url": "https://drk6xq0vhn.gpcdn.net/live/ten_cricket_hd_abr/live/ten_cricket_hd_720/chunks.m3u8" },
+    { "server_name": "Server 1", "url": "https://drk6xq0vhn.gpcdn.net/live/ten_cricket_hd_abr/live/ten_cricket_hd_720/chunks.m3u8" },
   {
       "server_name": "Server 2",
       "url": "http://103.151.60.162:2122/play/a0fj/index.m3u8" },
