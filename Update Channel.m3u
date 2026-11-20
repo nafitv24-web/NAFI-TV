@@ -1072,7 +1072,7 @@
           "description": "",
           "sources": [
             { "server_name": "S1", "url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8" },
-           { "server_name": "S2", "url": "http://dvltv.cc/live/IPTV%20PROVIDER/IPTV.PROVIDER/449" }
+           { "server_name": "S2", "url": "http://dvltv.cc/live/IPTV%20PROVIDER/IPTV.PROVIDER/449" },
             { "server_name": "S3", "url": "https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8" }
           ]
         },
