@@ -20,8 +20,9 @@
           "description": "",
           "sources": [
             { "server_name": "S1", "url": "https://box.bbaria.net:8083/Nagorik_TV/video.m3u8" },
-           { "server_name": "S2", "url": "http://livetv.akr4m.com:8080/bdtv/restrem/38.m3u8" },
-           { "server_name": "S3", "url": "https://robitv.com/rn/http://103.141.70.136:8080//bdtv/restrem/38.m3u8" }
+           { "server_name": "S2", "url": "http://dvltv.cc/live/IPTV%20PROVIDER/IPTV.PROVIDER/955" },
+           { "server_name": "S3", "url": "http://livetv.akr4m.com:8080/bdtv/restrem/38.m3u8" },
+           { "server_name": "S4", "url": "https://robitv.com/rn/http://103.141.70.136:8080//bdtv/restrem/38.m3u8" }
           ]
         },
 
