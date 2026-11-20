@@ -1057,12 +1057,12 @@
           "poster": "https://i.ibb.co.com/SXmSmg7r/Picsart-24-10-25-16-26-31-042.webp",
           "description": "",
           "sources": [
-          { "server_name": "Server 1", "url": "https://box.bbaria.net:8083/Jalsha_Movie/tracks-v1a1/mono.m3u8" },
-           { "server_name": "Server 2", "url": "https://Liveftp.zibobdixserver.top/Jalsha_Movie/index.m3u8" },
-           { "server_name": "Server 3", "url": "http://103.135.253.32:8080/Jalsha_movies-HD/index.m3u8" },
-           { "server_name": "Server 4", "url": "http://103.151.60.162:2122/play/a00x/index.m3u8" },
-           { "server_name": "Server 5", "url": "https://bold-sky-a350.tasinazad234.workers.dev/stream/btv/playlist.m3u8?expires=1791448428&sig=ltITtuOW0aZx4JjzYjnWm2qPnGEdUyFfTK6Q5nKdDTw" },
-            { "server_name": "Server 6", "url": "http://fastshare1.com:80/live/25711345/late8airline/23304.ts" }
+          { "server_name": "S1", "url": "https://box.bbaria.net:8083/Jalsha_Movie/tracks-v1a1/mono.m3u8" },
+           { "server_name": "S2", "url": "http://dvltv.cc/live/IPTV%20PROVIDER/IPTV.PROVIDER/450" },
+           { "server_name": "S3", "url": "http://103.135.253.32:8080/Jalsha_movies-HD/index.m3u8" },
+           { "server_name": "S4", "url": "http://103.151.60.162:2122/play/a00x/index.m3u8" },
+           { "server_name": "S5", "url": "https://bold-sky-a350.tasinazad234.workers.dev/stream/btv/playlist.m3u8?expires=1791448428&sig=ltITtuOW0aZx4JjzYjnWm2qPnGEdUyFfTK6Q5nKdDTw" },
+            { "server_name": "S6", "url": "http://fastshare1.com:80/live/25711345/late8airline/23304.ts" }
           ]
         },
 
@@ -1071,8 +1071,9 @@
           "poster": "https://i.ibb.co.com/7dcZDC3q/Picsart-24-10-18-15-09-05-722.webp",
           "description": "",
           "sources": [
-            { "server_name": "Server 1", "url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8" },
-            { "server_name": "Server 2", "url": "https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8" }
+            { "server_name": "S1", "url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8" },
+           { "server_name": "S2", "url": "http://dvltv.cc/live/IPTV%20PROVIDER/IPTV.PROVIDER/449" }
+            { "server_name": "S3", "url": "https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8" }
           ]
         },
         {
@@ -1097,7 +1098,7 @@
           "poster": "https://i.ibb.co.com/kVpCbFNm/Picsart-24-10-18-15-05-11-855.webp",
           "description": "",
           "sources": [
-            { "server_name": "Server 1", "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/master2.m3u8" },
+            { "server_name": "Server 1", "url": "http://dvltv.cc/live/IPTV%20PROVIDER/IPTV.PROVIDER/18982" },
          { "server_name": "Server 2", "url": "http://rgkkw.live/live/4dfoydR2gZ/clever3still/410.ts" },
          { "server_name": "Server 3", "url": "http://premiumtvs.space/live/YqXTywueEV/damp2purchase/410.ts" },
 { "server_name": "Server 4", "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8" }
@@ -1108,7 +1109,7 @@
           "poster": "https://i.ibb.co.com/DfM16WMd/Picsart-24-10-25-16-01-06-259.webp",
           "description": "",
           "sources": [
-            { "server_name": "Server 1", "url": "http://mag.diamondtv.one/live/unur/rtdVDBNG2z/25088.m3u8" },
+            { "server_name": "Server 1", "url": "http://dvltv.cc/live/IPTV%20PROVIDER/IPTV.PROVIDER/453" },
             { "server_name": "Server 2", "url": "http://103.151.60.162:2122/play/a02o/index.m3u8?hls" },
             { "server_name": "Server 3", "url": "http://103.151.60.162:2122/play/a02o/index.m3u8?hls" },
             { "server_name": "Server 4", "url": "https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8" },
@@ -1120,7 +1121,7 @@
           "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9cjM-A9HtqERwjXTnA7tbv4DJo1C0rKjML4cKIaOpsA&s=10",
           "description": "",
           "sources": [
-            { "server_name": "Server 1", "url": "http://103.135.253.32:8080/COLORS-BANGLA-CINEMA/index.m3u8" },
+            { "server_name": "Server 1", "url": "http://dvltv.cc/live/IPTV%20PROVIDER/IPTV.PROVIDER/454" },
              { "server_name": "Server 2", "url": "http://live.balajibroadband.com:3500/live/1657.m3u8" },
             { "server_name": "Server 3", "url": "https://bold-sky-a350.tasinazad234.workers.dev/stream/colorsbanglaceanama_copy_kore_lav_nai/playlist.m3u8?expires=1791046482&sig=hKDOpvxMcBc5HPBsyYwo0VzmqVhWN4-p_Qu94eCiJgk" }
           ]
@@ -1149,7 +1150,7 @@
           "poster": "https://i.ibb.co.com/TB4KCwv8/Picsart-24-10-22-04-38-57-770.webp",
           "description": "",
           "sources": [
-            { "server_name": "S1", "url": "https://stream.ottplus.live/live/sony_aath_abr/index.m3u8" },
+            { "server_name": "S1", "url": "http://dvltv.cc/live/IPTV%20PROVIDER/IPTV.PROVIDER/161685" },
             { "server_name": "S2", "url": "http://27.124.71.27/Sony_Aath/tracks-v1a1/mono.m3u8" },
            { "server_name": "S3", "url": "http://app-zibo-play40.tvhunter.top/newr/SONY.AAT.m3u8" },
            { "server_name": "S4", "url": "https://digitalotthub.com/tv/toffee-by-maruf/live.php?id=sonyaath&e=.m3u8" },
@@ -2789,7 +2790,7 @@
           "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8b2084eDCqL4ALdFimwE5MSO81HUYv36FVr6ejTbmPw&s=10",
           "description": "",
           "sources": [
-            { "server_name": "Server 1", "url": "http://1598364.3259760803.favermeto.com/live/4dfoydR2gZ/clever3still/98857.ts?token=ShJcU0BbQQNHWgIABwcDDw5TUQgCVFdVA1oHDlIGBQFXAAILBAoAWwEbGBpEF0dcWF1vWQIXXlgJWlcASUZGQVRCa1tXEVkbVAwNAARVARsVEkRZC1BGWwBVWwddVQYCBAMYEENaBxtfGwUBAVMCDA4SHBIDTRAEQwwDWzoAVkRYU1EQCV0WVQkVFldZPFFcVFFeVEQPRlETTkBeFhQRCBNjX0tFWgZORXZaVF4NUBsVElJZEkcFFVRAWBVWUwYCExwWUVxGDU0XQBYCFSFxGxUSVUgSUAoSWA0MFV9GR0ETHBZbQGwRXBZNRl1WDlBLGwoSAEQZRgxQGj1UCgpdV1JEXV1dQEEDRwgWFBUOWldQRF9COUUNBRNYQAZRUgEGExwWR0ZaBxtfGwJaD1oMXFwJA1EHBFwEAQBWBwcHUAQIUwFTAAQAAVwMFkU=" },
+            { "server_name": "Server 1", "url": "http://dvltv.cc/live/IPTV%20PROVIDER/IPTV.PROVIDER/18826" },
             { "server_name": "Server 2", "url": "https://drk6xq0vhn.gpcdn.net/live/sony_max_sd_abr/index.m3u8" }
           ]
         },
@@ -2816,7 +2817,7 @@
           "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9aCOiCY7QfWqNRfC4JNrmg0vHw4iCbDIDZEu29qL15w&s=10",
           "description": "",
           "sources": [
-            { "server_name": "Server 1", "url": "http://192.142.27.104/hls/4580a056d7ed48674a99eec9181855f5/373005_1169.ts" },
+            { "server_name": "Server 1", "url": "http://dvltv.cc/live/IPTV%20PROVIDER/IPTV.PROVIDER/498" },
             { "server_name": "Server 2", "url": "http://line.tivi-one.net/play/live.php?mac=A0:BB:3E:75:52:64&stream=373005&extension=m3u8" },
             
 { "server_name": "Server 3", "url": "http://line.tivi-one.net/play/live.php?mac=A0:BB:3E:75:52:64&stream=373005&extension=m3u8" }
@@ -2827,10 +2828,10 @@
           "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg4tFcXA9RLE-xLf2trV2orWJtK7PT2CzU8AeT-drS7A&s=10",
           "description": "",
           "sources": [
-            { "server_name": "Server 1", "url": "http://103.135.253.32:8080/STAR-GOLD-HD/index.m3u8" },
+            { "server_name": "Server 1", "url": "http://dvltv.cc/live/IPTV%20PROVIDER/IPTV.PROVIDER/495" },
             { "server_name": "Server 2", "url": "http://livetv.akr4m.com:8080/bdtv/restrem/45.m3u8" },
             { "server_name": "Server 3", "url": "https://robitv.com/rn/http://103.141.70.136:8080//bdtv/restrem/45.m3u8" },
-            { "server_name": "Server 4", "url": "http://66.102.126.10:8000/play/a00f/index.m3u8" }
+            { "server_name": "Server 4", "url": "http://dvltv.cc/live/IPTV%20PROVIDER/IPTV.PROVIDER/2172" }
           ]
         },
 {
@@ -2864,11 +2865,11 @@
           ]
         },
 {
-          "title": "Star Gold HD",
-          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGs_wINnniJ5etD8Ncd3IAse4nrqESqkMbfg_tPp0p2A&s",
+          "title": "Colors Cineplex Supuerhit",
+          "poster": "https://jiotvimages.cdn.jio.com/dare_images/images/channel/b8e05b669b9b1df9df2399fa5a22e6d0.png",
           "description": "",
           "sources": [
-            { "server_name": "Server 1", "url": "http://66.102.126.10:8000/play/a00f/index.m3u8" },
+            { "server_name": "Server 1", "url": "http://dvltv.cc/live/IPTV%20PROVIDER/IPTV.PROVIDER/1703" },
             { "server_name": "Server 2", "url": "" }
           ]
         },
