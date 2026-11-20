@@ -108,7 +108,7 @@
           "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjrkJKAyHpD97FHO01JRPLa5qiL0mzI3HDv4rGqc3GCQ&s=10",
           "description": "",
           "sources": [
-            { "server_name": "S1", "url": "https://drk6xq0vhn.gpcdn.net/live/independent_tv_abr/live/independent_tv_720/chunks.m3u8" },
+            { "server_name": "S1", "url": "http://dvltv.cc/live/IPTV%20PROVIDER/IPTV.PROVIDER/105506" },
             { "server_name": "S2", "url": "https://tvsen6.aynaott.com/Wef2Vj67njeYGDqQNFB9/tracks-v1a1/mono.ts.m3u8" },
            { "server_name": "S3", "url": "http://premiumtvs.space/live/YqXTywueEV/damp2purchase/423.ts" },
            { "server_name": "S4", "url": "http://livetv.akr4m.com:8080/bdtv/restrem/23.m3u8" },
@@ -4923,7 +4923,7 @@
           "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgOC7DhvC2jDoJfUJT0duarqa1MXLmPz9E8RMnM0x3RQ&s=10",
           "description": "",
           "sources": [
-            { "server_name": "Server 1", "url": "http://flowutc.com:80/live/3AC142C32F9164D/DVHkSD3WVm/117791.ts" },
+            { "server_name": "Server 1", "url": "http://dvltv.cc/live/IPTV%20PROVIDER/IPTV.PROVIDER/133840" },
            { "server_name": "Server 1", "url": "http://my-king.net:7070/live/160145116653133/aO1ltsOFDzkWxPN/154858.ts" },
             { "server_name": "Server 2", "url": "http://15.204.246.24:8080/DisneyHD/index.m3u8" }
           ]
