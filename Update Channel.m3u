@@ -2864,15 +2864,7 @@
             { "server_name": "Server 2", "url": "https://stream.ottplus.live/live/zee_action_abr/index.m3u8" }
           ]
         },
-{
-          "title": "Colors Cineplex Supuerhit",
-          "poster": "https://jiotvimages.cdn.jio.com/dare_images/images/channel/b8e05b669b9b1df9df2399fa5a22e6d0.png",
-          "description": "",
-          "sources": [
-            { "server_name": "Server 1", "url": "http://markethelp1.com/live/sree1602/9196sree/98908.ts" },
-            { "server_name": "Server 2", "url": "http://163.61.226.31:9981/stream/channelid/2039746374" }
-          ]
-        },
+
 {
           "title": "Star Gold 2 HD",
           "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvDpowLX0ySLDEgrjeX9CDw9CsSWFNk5VpWkoSy9JgoQ&s=10",
@@ -2892,6 +2884,16 @@
           ]
         },
 {
+          "title": "Colors Cineplex Supuerhit",
+          "poster": "https://jiotvimages.cdn.jio.com/dare_images/images/channel/b8e05b669b9b1df9df2399fa5a22e6d0.png",
+          "description": "",
+          "sources": [
+            { "server_name": "S1", "url": "http://live.balajibroadband.com:3500/live/1450.m3u8" },
+            { "server_name": "S2", "url": "http://markethelp1.com/live/sree1602/9196sree/98908.ts" },
+            { "server_name": "S3", "url": "http://163.61.226.31:9981/stream/channelid/2039746374" }
+          ]
+        },
+{
           "title": "Colors HD",
           "poster": "https://i.postimg.cc/F1t6r1gv/20240823_023247.png",
           "description": "",
@@ -2901,12 +2903,13 @@
           ]
         },
         {
-          "title": "Colors Cineplex",
-          "poster": "https://i.postimg.cc/Tw3MFyQH/20240823_022713.png",
+          "title": "Colors Bollywood",
+          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYsjubqryAT_uBb-18BsBQjVhLj0p-W3bKxcsfuf7iCOPl5eylv5fqEChF&s=10",
           "description": "",
           "sources": [
-            { "server_name": "Server 1", "url": "http://66.102.126.10:8000/play/a076/index.m3u8" },
-            { "server_name": "Server 2", "url": "http://markethelp1.com/live/sree1602/9196sree/98908.ts" }
+            { "server_name": "S1", "url": "http://live.balajibroadband.com:3500/live/1763.m3u8" },
+            { "server_name": "S2", "url": "http://66.102.126.10:8000/play/a076/index.m3u8" },
+            { "server_name": "S3", "url": "http://markethelp1.com/live/sree1602/9196sree/98908.ts" }
           ]
        },
 
