@@ -51,9 +51,9 @@
           "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGFVQX3hXUtTTgwmRcWrehYFkfjeSiyHSSn1OCbWR6Yg&s",
           "description": "",
           "sources": [
-           { "server_name": "S1", "url": "https://btv.hridoytv-channel.workers.dev/news.m3u8" },
+           { "server_name": "S1", "url": "https://bd-tv.sm-monirul-islam-rs.workers.dev/btv_shangshad/index.m3u8" },
            { "server_name": "S2", "url": "https://robitv.com/rn/http://103.141.70.136:8080//bdtv/restrem/13.m3u8" },
-            { "server_name": "S3", "url": "https://bd-tv.sm-monirul-islam-rs.workers.dev/btv_shangshad/index.m3u8" }
+            { "server_name": "S3", "url": "https://btv.hridoytv-channel.workers.dev/news.m3u8" }
           ]
         },
 
@@ -63,7 +63,7 @@
           "poster": "https://i.ibb.co.com/JDkcwPP/Picsart-24-10-22-13-58-43-282.webp",
           "description": "",
           "sources": [
-            { "server_name": "S1", "url": "http://dvltv.cc/live/IPTV%20PROVIDER/IPTV.PROVIDER/365" },
+            { "server_name": "S1", "url": "" },
             { "server_name": "S2", "url": "https://tvsen6.aynaott.com/4XcqdovJzbbC9WdJA9gk/index.m3u8" },
             { "server_name": "S3", "url": "https://cdn.devm3u.top/server5/somoy.m3u8" },
            { "server_name": "S4", "url": "http://rgkkw.live/live/4dfoydR2gZ/clever3still/422.ts" },
