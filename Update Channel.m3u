@@ -2828,10 +2828,28 @@
           "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg4tFcXA9RLE-xLf2trV2orWJtK7PT2CzU8AeT-drS7A&s=10",
           "description": "",
           "sources": [
-            { "server_name": "Server 1", "url": "http://dvltv.cc/live/IPTV%20PROVIDER/IPTV.PROVIDER/495" },
+            { "server_name": "Server 1", "url": "https://walatv.pages.dev/star-gold.m3u8" },
             { "server_name": "Server 2", "url": "http://livetv.akr4m.com:8080/bdtv/restrem/45.m3u8" },
             { "server_name": "Server 3", "url": "https://robitv.com/rn/http://103.141.70.136:8080//bdtv/restrem/45.m3u8" },
             { "server_name": "Server 4", "url": "http://dvltv.cc/live/IPTV%20PROVIDER/IPTV.PROVIDER/2172" }
+          ]
+        },
+{
+          "title": "Star Gold 2 HD",
+          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvDpowLX0ySLDEgrjeX9CDw9CsSWFNk5VpWkoSy9JgoQ&s=10",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://sm-monirul.top/ultra/live.php?id=star_gold_2&sm=.m3u8" },
+            { "server_name": "Server 2", "url": "http://107.167.16.138/stargold2/index.m3u8?token=test" }
+          ]
+        },
+        {
+          "title": "Star Gold Selected",
+          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS76GE56T_YL1hWsYHBYYGS3PBnV8JxZd0QTcY6lGneH9qrrEK-4cS2qIg&s=10",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "http://66.102.126.10:8000/play/a01s/index.m3u8" },
+            { "server_name": "Server 2", "url": "" }
           ]
         },
 {
@@ -2865,24 +2883,7 @@
           ]
         },
 
-{
-          "title": "Star Gold 2 HD",
-          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvDpowLX0ySLDEgrjeX9CDw9CsSWFNk5VpWkoSy9JgoQ&s=10",
-          "description": "",
-          "sources": [
-            { "server_name": "Server 1", "url": "http://107.167.16.138/stargold2/index.m3u8?token=test" },
-            { "server_name": "Server 2", "url": "" }
-          ]
-        },
-        {
-          "title": "Star Gold Selected",
-          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS76GE56T_YL1hWsYHBYYGS3PBnV8JxZd0QTcY6lGneH9qrrEK-4cS2qIg&s=10",
-          "description": "",
-          "sources": [
-            { "server_name": "Server 1", "url": "http://66.102.126.10:8000/play/a01s/index.m3u8" },
-            { "server_name": "Server 2", "url": "" }
-          ]
-        },
+
 {
           "title": "Colors Cineplex Supuerhit",
           "poster": "https://jiotvimages.cdn.jio.com/dare_images/images/channel/b8e05b669b9b1df9df2399fa5a22e6d0.png",
