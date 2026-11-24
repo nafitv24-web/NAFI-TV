@@ -3948,6 +3948,17 @@
           ]
         },
 
+{
+          "title": "Sky Sports Cricket",
+          "poster": "https://static.wikia.nocookie.net/logopedia/images/4/4b/Sky_Sports_Cricket_2020_DOG.png/revision/latest/scale-to-width-down/250?cb=20210407130931",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "http://192.142.25.161/hls/1bdac79a49b95766fc7cdc6ed9cb049f/394545_2325.ts" },
+           { "server_name": "Server 1", "url": "http://main.light-ott.net/play/live.php?mac=00:1A:79:1D:12:35&stream=394545&extension=m3u8" },
+           { "server_name": "Server 2", "url": "" }
+          ]
+        },
+
 { "title": "UNITES PORTS 🏏",
           "poster": "https://exchange4media.gumlet.io/news-photo/155155-Z1.jpg",
           "description": "",
