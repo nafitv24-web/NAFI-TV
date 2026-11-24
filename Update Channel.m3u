@@ -3063,7 +3063,7 @@
         },
         
         {
-          "title": "& Tv",
+          "title": "&TV HD",
           "poster": "https://i.postimg.cc/JhR9HDw4/20240823_023056.png",
           "description": "",
           "sources": [
@@ -3072,7 +3072,7 @@
           ]
         },
         {
-          "title": "& Picture",
+          "title": "& Pictures HD",
           "poster": "https://i.postimg.cc/XJ1SbVzN/20240823_022738.png",
           "description": "",
           "sources": [
@@ -3833,10 +3833,8 @@
       "movies": [
        
 
-
-
-    {
-          "title": "ATN Sports",
+ {
+          "title": "Sony Ten Sports 1 HD",
           "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbZv4CTnyWXXBY-dORvl0q5h4v7S44QGCjEvQ-xg1yuw&s=10",
           "description": "",
           "sources": [
@@ -3845,6 +3843,44 @@
           ]
         },
 
+ {
+          "title": "Sony Ten Sports 2 HD",
+          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbZv4CTnyWXXBY-dORvl0q5h4v7S44QGCjEvQ-xg1yuw&s=10",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://d3bq19vx8xhpwy.cloudfront.net/live/myStream/playlist.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+ {
+          "title": "Sony Ten Sports 5 HD",
+          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbZv4CTnyWXXBY-dORvl0q5h4v7S44QGCjEvQ-xg1yuw&s=10",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://d3bq19vx8xhpwy.cloudfront.net/live/myStream/playlist.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+ 
+    {
+          "title": "Sony Ten Cricket",
+          "poster": "https://i.ibb.co.com/Zpm4jBCW/Picsart-24-10-27-12-58-33-972.webp",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://drk6xq0vhn.gpcdn.net/live/ten_cricket_hd_abr/live/ten_cricket_hd_720/chunks.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+
+{
+          "title": "ATN Sports",
+          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbZv4CTnyWXXBY-dORvl0q5h4v7S44QGCjEvQ-xg1yuw&s=10",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://d3bq19vx8xhpwy.cloudfront.net/live/myStream/playlist.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
 
        {
           "title": "T Sports NF",
@@ -3884,26 +3920,7 @@
             { "server_name": "Server 2", "url": "https://playztv-apps.pages.dev/asports/index.m3u8" }
           ]
         },
-{
-  "title": "Ten Cricket",
-  "poster": "https://i.ibb.co.com/Zpm4jBCW/Picsart-24-10-27-12-58-33-972.webp",
-  "description": "",
-  "sources": [
-    { "server_name": "Server 1", "url": "https://drk6xq0vhn.gpcdn.net/live/ten_cricket_hd_abr/live/ten_cricket_hd_720/chunks.m3u8" },
-  {
-      "server_name": "Server 2",
-      "url": "http://103.151.60.162:2122/play/a0fj/index.m3u8" },
 
-{
-      "server_name": "Server 3",
-      "url": "https://robitv.com/lps/https://ml-pull-dvc-myco.io:2096/TENSPORTS_HD/mono.m3u8" },
-
-{
-      "server_name": "Server 4","url": "https://stream.ottplus.bd/live/ten_cricket_hd_abr/live/ten_cricket_hd_720/chunks.m3u8" },
-   
-      { "server_name": "Server 5","url":"https://tv.nurmd2006-official.workers.dev/live/ten_cricket_hd_abr/index.m3u8" }
-  ]
-}, 
 { "title": "UNITES PORTS 🏏",
           "poster": "https://exchange4media.gumlet.io/news-photo/155155-Z1.jpg",
           "description": "",
