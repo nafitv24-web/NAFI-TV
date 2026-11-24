@@ -2751,12 +2751,30 @@
           ]
         },
 {
+          "title": "Discovery HD",
+          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-5m1eS77EuFhHCYiG_5E9Nf0Pk29dYeEFvbLWbNjXtA&s",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "link" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+{
+          "title": "History Tv18 HD",
+          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnjAOzsQgiCm9FIxrIQoLOoYQtEjy01fnx_fsGZ3Fl0w&s=10",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://n18syndication.akamaized.net/bpk-tv/History_TV18_Hindi_NW18_MOB/output01/master.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+{
           "title": "Discovery Science",
           "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8rWlVE-vr93GP2Y0_oJQQHxd5tszyAGkQtNxL_I-O9w&s=10",
           "description": "",
           "sources": [
-            { "server_name": "Server 1", "url": "http://103.151.60.162:2122/play/a01j/index.m3u8" },
-            { "server_name": "Server 2", "url": "" }
+            { "server_name": "Server 1", "url": "https://tvsen3.aynaott.com/Zht5VqBb/index.m3u8" },
+            { "server_name": "Server 2", "url": "http://103.151.60.162:2122/play/a01j/index.m3u8" }
           ]
         },
 {
