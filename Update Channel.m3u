@@ -3835,29 +3835,29 @@
 
  {
           "title": "Sony Ten Sports 1 HD",
-          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbZv4CTnyWXXBY-dORvl0q5h4v7S44QGCjEvQ-xg1yuw&s=10",
+          "poster": "https://jiotvimages.cdn.jio.com/dare_images/images/channel/d775ae813cdc8095ee6b82b227a986cd.png",
           "description": "",
           "sources": [
-            { "server_name": "Server 1", "url": "https://d3bq19vx8xhpwy.cloudfront.net/live/myStream/playlist.m3u8" },
+            { "server_name": "Server 1", "url": "Link" },
             { "server_name": "Server 2", "url": "" }
           ]
         },
 
  {
           "title": "Sony Ten Sports 2 HD",
-          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbZv4CTnyWXXBY-dORvl0q5h4v7S44QGCjEvQ-xg1yuw&s=10",
+          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVUd7FtsNeEkHFFGKZlNTfM29Di5XqhYsFxzCu_6Q6VA&s=10",
           "description": "",
           "sources": [
-            { "server_name": "Server 1", "url": "https://d3bq19vx8xhpwy.cloudfront.net/live/myStream/playlist.m3u8" },
+            { "server_name": "Server 1", "url": "link" },
             { "server_name": "Server 2", "url": "" }
           ]
         },
  {
           "title": "Sony Ten Sports 5 HD",
-          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbZv4CTnyWXXBY-dORvl0q5h4v7S44QGCjEvQ-xg1yuw&s=10",
+          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ7wn-Q95RSslDZZ14_fYs4oaphAKzRkYE8r6hSrrYng&s",
           "description": "",
           "sources": [
-            { "server_name": "Server 1", "url": "https://d3bq19vx8xhpwy.cloudfront.net/live/myStream/playlist.m3u8" },
+            { "server_name": "Server 1", "url": "link" },
             { "server_name": "Server 2", "url": "" }
           ]
         },
@@ -3867,7 +3867,7 @@
           "poster": "https://i.ibb.co.com/Zpm4jBCW/Picsart-24-10-27-12-58-33-972.webp",
           "description": "",
           "sources": [
-            { "server_name": "Server 1", "url": "https://drk6xq0vhn.gpcdn.net/live/ten_cricket_hd_abr/live/ten_cricket_hd_720/chunks.m3u8" },
+            { "server_name": "Server 1", "url": "link" },
             { "server_name": "Server 2", "url": "" }
           ]
         },
