@@ -512,7 +512,7 @@
           "poster": "https://assets-prod.services.toffeelive.com/b60Ss5UBrjBfS2_RJPb8/posters/c68ede73-0be0-41b7-9130-9628a16f2feb.png",
           "description": "",
           "sources": [
-            { "server_name": "Server 1", "url": "" },
+            { "server_name": "Server 1", "url": "link" },
             { "server_name": "Server 2", "url": "
 " }
           ]
@@ -523,7 +523,7 @@
           "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcOmF5-fIzc2IrwXLYSsmUegufJp7YPE-Cv2LAcjgFoQ&s=10",
           "description": "",
           "sources": [
-            { "server_name": "Server 1", "url": "" },
+            { "server_name": "Server 1", "url": "link" },
             { "server_name": "Server 2", "url": "
 " }
           ]
