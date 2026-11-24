@@ -2769,6 +2769,15 @@
           ]
         },
 {
+          "title": "MTV HD",
+          "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj349bwnQTvF4kfDJJz09To8gquXZwfb-gMKHUsmGz2w&s=10",
+          "description": "",
+          "sources": [
+            { "server_name": "Server 1", "url": "https://tvsen6.aynaott.com/mtv/index.m3u8" },
+            { "server_name": "Server 2", "url": "" }
+          ]
+        },
+{
           "title": "Discovery Science",
           "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8rWlVE-vr93GP2Y0_oJQQHxd5tszyAGkQtNxL_I-O9w&s=10",
           "description": "",
@@ -2782,7 +2791,7 @@
           "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGxIIukW9eT9TeQOKF16V_bx6pmW9Y63oo8yBGMYEgjw&s=10",
           "description": "",
           "sources": [
-            { "server_name": "Server 1", "url": "http://51.75.127.199:3141/natgeo/tracks-v1a1/mono.m3u8" },
+            { "server_name": "Server 1", "url": "https://tvsen3.aynaott.com/7mm4pwCy/index.m3u8" },
             { "server_name": "Server 2", "url": "http://rgkkw.live:8080/live/4dfoydR2gZ/clever3still/98874.ts" }
           ]
         },
@@ -2802,7 +2811,7 @@
           "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpt3tb7v-j-NVhOlDZ5vgb-3KrF0jH6jLfJa7Cd1D3IA&s=10",
           "description": "",
           "sources": [
-            { "server_name": "Server 1", "url": "https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist540p.m3u8" },
+            { "server_name": "Server 1", "url": "https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8" },
             { "server_name": "Server 2", "url": "" }
           ]
         }
