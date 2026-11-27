@@ -77,5 +77,7 @@ window.NAFI_VOUCHERS = [
   { phone: "01321909462", voucher: "1994", expiry: "2026-12-31", active: true },
   { phone: "01737873746", voucher: "7374", expiry: "2026-12-31", active: true },
   { phone: "01953454852", voucher: "4548", expiry: "2026-12-31", active: true },
-  { phone: "01610600723", voucher: "6023", expiry: "2026-12-31", active: true }
+  { phone: "01610600723", voucher: "6023", expiry: "2026-12-31", active: true },
+  { phone: "8017551213", voucher: "1713", expiry: "2026-12-31", active: true },
+  { phone: "2222", voucher: "2222", expiry: "2026-12-31", active: true }
 ];
