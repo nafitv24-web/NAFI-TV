@@ -1176,7 +1176,7 @@
           "description": "",
           "sources": [
             { "server_name": "Server 1", "url": "http://27.124.71.27/Sun_Bangla/tracks-v1a1/mono.m3u8" },
-           { "server_name": "Server 2", "url": "http://live.balajibroadband.com:3500/render.m3u8?auth=CEc7fSEH-_CyutW_PF3XfRs2_Iv_WRoSAFEWlGUMH6VAdiETku2P14H4Iz0a-QXehtH3ZqE1Rt0NwQXik-SRai9rmvmbkmKmA3_m2aD_tUV6u6x0CnAoeTQMs1e663pTFqHzSTFP1uxjqD8C2HOfMKi82jpMUNN_nxhPzxBTkLxe28t5efAsa_JjoKTucFbnp7z75l9gYZoapzbK6AgUN5q0VycDA6v2J7fI4QSBKfead6rSIDR5A2qoz51ahQ5WPdA_AaQTGK9jvfUGXhj6CE3YRs0lXA7F33f-JMNArlCPeeCvp5gll5Cm3NK6bcwPi_syHbpYSUX0AvFEyfVU-ErpBrefvi1Lf2Qun0SWncQc5NFXSGwSqJeOky4MiXgtH1f8RnwZV7idGRXOaDwLd-oNm66e2g==&channel_key_id=1669&q=auto" },
+           { "server_name": "Server 2", "url": "http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/3753.ts" },
             { "server_name": "Server 3", "url": "https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8" }
           ]
         },
