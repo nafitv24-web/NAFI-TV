@@ -3044,7 +3044,7 @@
           "description": "",
           "sources": [
             { "server_name": "S1", "url": "https://livetv.shamon-cable.net:8443/Star-Movies/index.m3u8" },
-            { "server_name": "S2", "url": "http://172.19.17.139:8090/hls/StarMoviesHD.m3u8" },
+            { "server_name": "S2", "url": "http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/98842.ts" },
             { "server_name": "S3", "url": "http://103.151.60.162:2122/play/a02k/index.m3u8?hls" },
             { "server_name": "S4", "url": "http://202.70.146.135:8000/play/a06r/index.m3u8" }
           ]
@@ -3055,7 +3055,7 @@
           "description": "",
           "sources": [
             { "server_name": "S1", "url": "https://livetv.shamon-cable.net:8443/Star-movies-select/index.m3u8" },
-           { "server_name": "S2", "url": "http://103.135.253.32:8080/STAR-MOVIES-SEL/index.m3u8" },
+           { "server_name": "S2", "url": "http://rgkkw.live:8080/live/4dfoydR2gZ/clever3still/23270.ts" },
             { "server_name": "S3", "url": "http://103.151.60.162:2122/play/a02l/index.m3u8?hls" },
             { "server_name": "S4", "url": "http://202.70.146.135:8000/play/a06q/index.m3u8" }
           ]
